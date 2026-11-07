@@ -1,0 +1,28 @@
+---
+type: npc
+mundo: Naurien
+papel: o Intendente da Coroa; quem dá os contratos
+importancia: secundária importante
+escada: nível 3 em parte (sabe que a Coroa paga os Retornados; não sabe o porquê)
+aliases: [Mosse, o Intendente]
+updated: 2026-11-07
+---
+
+# Intendente Rurik Mosse
+
+**Oficial de suprimentos da Coroa no Fortim de Orla.** Barriga de quem já foi soldado, uniforme remendado com cuidado, óculos de aro de latão.
+
+| Campo | |
+|---|---|
+| **Desejo** | manter a fronteira de pé com o mínimo de soldados mortos. "Cada Jurado do Berço que morre no meu lugar é um rapaz meu que volta para casa." |
+| **Segredo** | recebe ordens lacradas para "usar os Jurados do Berço" e **reportar as baixas**. Não sabe de onde eles vêm. Desconfia que a Coroa sabe |
+| **Voz** | formal, burocrático, chama os PJs de "Jurados". Nunca diz "obrigado"; diz "registrado" |
+| **Gesto/objeto** | **pesa as moedas duas vezes** na balança de latão antes de pagar. Lacra cada contrato com cera vermelha |
+| **Lente** | custos: quanto custa cada coisa, cada pessoa, cada dia |
+| **Alavanca** | os relatórios que ele manda (onde mente para proteger os próprios homens); pode dar contratos melhores para quem ele confia |
+| **Se ninguém interferir…** | emite o **Contrato Final** ("Purificar o Moinho") com a ordem de queimar |
+| **Sliders** | competência 7 · iniciativa 6 · simpatia 4 |
+
+**O detalhe das moedas:** ele paga os Retornados com **moedas diferentes**: mais leves, sem a efígie, só um losango riscado. "Moeda de Jurado. Vale aqui, no Fortim e na vila. Não tente gastar na capital." *(O losango é parecido com o logo da Halden. Não comente. Se um jogador notar, sorria.)*
+
+> **Por que ele não é vilão:** ele escolhe queimar o moinho pelo mesmo motivo que os jogadores escolheriam pelos pontos: é mais barato e mais seguro **para os dele**. Se os PJs mostrarem outra solução **com provas**, ele aceita, e registra.
