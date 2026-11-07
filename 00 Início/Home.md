@@ -22,7 +22,7 @@ updated: 2026-11-07
 | **06 Sessões** | [[Sessão 0 - Criação]], [[Episódio 1 - A Cerimônia e o Rio]] |
 | **07 Pistas e Segredos** | [[Pistas - Arco 1]], [[Escada de Revelações]] |
 | **08 Relógios** | [[Facções]] (as 12 facções + as metas dos jogadores), [[Relógios - Arco 1]] |
-| **09 Handouts** | o que os jogadores podem ler |
+| **09 Handouts** | o que os jogadores podem ler · **[[Guia do Calouro (jogadores)]]** (mandar antes da Sessão 0) |
 | **10 Diário** | [[Diário de Sessões]], [[Teorias dos Jogadores]] |
 | **_Templates** | NPC, Sessão, Local |
 
