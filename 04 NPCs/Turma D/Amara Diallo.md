@@ -21,7 +21,7 @@ updated: 2026-11-07
 | **Classe do avatar** | Sacerdote |
 | **Palavra-chave (*Masks*)** | idealista |
 | **Função na história** | aliada (Coletivo Lanterna) |
-| **Aparência** | tranças longas com contas de madeira, caderno de capa de couro sempre aberto |
+| **Aparência** | cabelo preto, liso e longo, franja reta, olhos cor de mel, brincos de ouro; caderno de capa de couro sempre aberto |
 | **Voz e gesto** | faz perguntas aos NPCs como quem entrevista; anota tudo |
 | **Desejo** | registrar a "cultura procedural" dos NPCs |
 | **Segredo** | percebe que os NPCs **lembram** entre sessões. Escreve num caderno que ninguém leva a sério, **ainda** |
