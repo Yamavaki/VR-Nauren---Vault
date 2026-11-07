@@ -7,7 +7,7 @@ updated: 2026-11-07
 
 # Episódio 1 · Cola do Mestre (narrar rápido)
 
-> Versão curta do [[Episódio 1 - A Cerimônia e o Rio]]. Uma página para ter aberta na mesa. Textos longos (discurso do Strand, aula do Thorne, falas do Sétimo) ficam nas notas dos NPCs.
+> Versão curta do [[Episódio 1 - A Cerimônia e o Rio]]. Roteiro com todas as falas: [[Episódio 1 - Roteiro de Narração]]. Uma página para ter aberta na mesa. Textos longos (discurso do Strand, aula do Thorne, falas do Sétimo) ficam nas notas dos NPCs.
 
 ## A linha do episódio (~4 h)
 | # | Cena | Min | O essencial | Termina quando… |

@@ -35,10 +35,10 @@ A **primeira aula de toda a Turma D** é dele, antes do primeiro mergulho. É cu
 > *(Ele entra sem cumprimentar. Coloca um frasco de cinza azul e verde sobre a mesa.)*
 > *"Isto era um aluno do ano passado. Ele está bem. Está no refeitório agora, provavelmente reclamando da comida. Isto é o que ele deixou para trás na primeira vez que morreu.*
 > *Prestem atenção, porque eu só vou dizer uma vez.*
-> *Quando vocês morrerem lá dentro, e vão morrer, vocês acordam no berço. Voltam a mergulhar. Renascem no círculo de pedras mais próximo. Simples.*
+> *Quando vocês morrerem lá dentro, e vão morrer, vocês acordam no berço. Esperam a recalibração. Voltam a mergulhar. Renascem no círculo de pedras mais próximo. Simples.*
 > *Mas cada morte **dessincroniza** vocês. Vocês voltam **um nível abaixo**. Tudo o que conquistaram naquele nível… fica no chão, com o corpo.*
 > *E o corpo fica. Vira isto.* (bate no frasco) *Os itens que vocês carregavam ficam onde vocês caíram.*
-> *Hoje é o primeiro dia de vocês. Hoje, morrer é de graça: vocês são nível um, não têm nada a perder. Aproveitem. Amanhã, não vai ser.*
+> *No nível um, morrer é de graça: vocês não têm nada a perder. Aproveitem. Assim que subirem, não vai ser.*
 > *Uma última coisa. Contem. Cada vez que morrerem, contem. Um dia, o número vai importar."*
 >
 > *(Alguém pergunta: "importar como?" Ele já está saindo da sala.)*
