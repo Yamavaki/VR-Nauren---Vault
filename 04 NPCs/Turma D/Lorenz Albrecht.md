@@ -12,9 +12,13 @@ updated: 2026-11-07
 
 # Lorenz Albrecht
 
+![[Lorenz Albrecht.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 *Alemanha (Munique) · Gestão · **D-1 Kaiser (líder)** · Guerreiro · palavra-chave: ambicioso. Ver [[Turma D]].*
 
-**Calouro, herdeiro de um patrocinador da liga.** Bonito, educado, roupa simples e caríssima. O esquadrão dele é forte demais.
+**Calouro, herdeiro de um patrocinador da liga.** Cabelo **branco e longo**, sempre desalinhado de um jeito que parece proposital; educado; roupa simples e caríssima. O esquadrão dele é forte demais.
 
 | Campo | |
 |---|---|

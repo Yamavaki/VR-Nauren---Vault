@@ -17,7 +17,7 @@ updated: 2026-11-07
 | **01 Referência** | [[Campaign Brief - The Simulation]], [[RPG Campaign Guide]], [[Style Guide - Sanderson & Rothfuss]], [[Character Guide]] |
 | **02 Regras da Casa** | [[Fichas - Humano e Avatar]], [[Sincronia e Nós]], [[Morte e Retorno]] |
 | **03 Mundo** | [[Terra - Meridia e a Universidade]], [[Amarant - A Marca de Vael]], [[Ostrel e Vharen]], 🔒 [[O Hóspede e os Inquilinos]] |
-| **04 NPCs** | **Professores:** [[Equipe da Aster]] · **Turma D:** [[Turma D]], [[Outras turmas]], 🔒 [[Os Transmigrados]] · **Terra:** Varga, Tomás, Nadia · **Amarant:** [[Sétimo]], [[Madre Ilvane]], [[Tilde]] e outros |
+| **04 NPCs** | **Professores:** [[Equipe da Aster]] · **Turma D:** [[Turma D]], [[Turma D - Cola Rápida]], [[Outras turmas]], 🔒 [[Os Transmigrados]] · **Terra:** Varga, Tomás, Nadia · **Amarant:** [[Sétimo]], [[Madre Ilvane]], [[Tilde]] e outros |
 | **05 Arcos** | [[O Semestre e a Expedição]] (top 3), [[Arco 1 - Hóspedes]], [[Bestiário - Arco 1]] |
 | **06 Sessões** | [[Sessão 0 - Criação]], [[Episódio 1 - A Cerimônia e o Rio]] |
 | **07 Pistas e Segredos** | [[Pistas - Arco 1]], [[Escada de Revelações]] |

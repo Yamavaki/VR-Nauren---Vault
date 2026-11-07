@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Valentina Ríos
 
+![[Valentina Ríos.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Colômbia · Direito |

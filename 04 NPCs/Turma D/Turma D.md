@@ -11,6 +11,8 @@ updated: 2026-11-07
 20 alunos: os **jogadores** (esquadrão **D-4**) e mais **15 NPCs** em quatro esquadrões montados pela universidade a partir do Exame.
 **Tutor:** [[Prof. Silas Merrow]]. **Zona de Iniciação:** 04, ao longo do rio Lenta, com uma vila com Berço por esquadrão.
 
+> **Na mesa:** use a [[Turma D - Cola Rápida]] (fotos, família, como age, assunto para puxar).
+
 > **Dica proativa:** não apresente os 15 de uma vez. No Episódio 1, os PJs interagem com **3 ou 4**. Os outros aparecem quando as **metas** dos jogadores cruzarem com eles.
 
 ## 🟥 D-1 · "Kaiser" — 5 membros · vila: **Ponte-Velha**

@@ -36,7 +36,7 @@ Um experimento **ultrassecreto** da Halden com o Estado, chamado **"Ponte Invers
 - Postura perfeita; etiqueta estranha: nunca apoia os cotovelos, parte o pão com as mãos.
 - No avatar, diz sem querer "**pela luz do farol**", o juramento de Ostrel.
 - A nota impossível no Exame: a "sincronia natural" é ela **voltando para casa**.
-- **Físico:** uma **mecha branca** no cabelo loiro, que ela pinta e que sempre volta.
+- **Físico:** cabelo **branco**, "natural, desde sempre". 🔒 A Lady Isolde era loira; o cabelo ficou branco **na noite em que ela morreu**. Se alguém em Ostrel comentar que "no velório, o cabelo dela estava branco"…
 
 **Inês (a cartógrafa):**
 - Desenha mapas de lugares de TESSERA **que ainda não visitou**, e acerta.

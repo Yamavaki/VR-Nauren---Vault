@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Inês Carvalho
 
+![[Inês Carvalho.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Portugal · Arquitetura |
@@ -17,7 +21,7 @@ updated: 2026-11-07
 | **Classe do avatar** | Caçadora |
 | **Palavra-chave (*Masks*)** | quieta |
 | **Função na história** | a cartógrafa (Cartógrafos) |
-| **Aparência** | baixa, cabelo preso com um lápis, **canhota**, com um **calo de pena** no dedo médio |
+| **Aparência** | cabelo escuro, ondulado e despenteado, olheiras, camisa social; **canhota**, com um **calo de pena** no dedo médio |
 | **Voz e gesto** | fala baixo; desenha enquanto escuta |
 | **Desejo** | desenhar o **mapa completo** de TESSERA |
 | **Segredo** | o mapa dela **cresce além dos limites do servidor**, e acerta lugares que ela nunca visitou. O Merrow pediu uma cópia. 🔒 É uma **Transmigrada**: era uma cartógrafa da Vigília em **Pedra-Alta**, a cidade que virou Casca (ver [[Os Transmigrados]]). **Candidata a nunca ser revelada** |

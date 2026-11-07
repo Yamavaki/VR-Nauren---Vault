@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Freya Lindqvist
 
+![[Freya Lindqvist.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Suécia · Neurociência |
@@ -17,7 +21,7 @@ updated: 2026-11-07
 | **Classe do avatar** | Maga |
 | **Palavra-chave (*Masks*)** | orgulhosa |
 | **Função na história** | rival-espelho dos PJs |
-| **Aparência** | loira, postura perfeita, uma **mecha branca** no cabelo que ela pinta e que sempre volta |
+| **Aparência** | cabelo **branco** e longo, "natural, desde sempre"; olhos claros; postura perfeita |
 | **Voz e gesto** | fala pouco e com precisão; nunca apoia os cotovelos na mesa; parte o pão com as mãos |
 | **Desejo** | provar que mereceu o **1º lugar no Exame** |
 | **Segredo** | tirou uma nota **impossível**: tem "sincronia natural". 🔒 É uma **Transmigrada**: era **Lady Isolde de Ostrel**, a noiva assassinada que começou a guerra (ver [[Os Transmigrados]]) |

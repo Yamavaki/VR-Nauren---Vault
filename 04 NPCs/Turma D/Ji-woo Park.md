@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Ji-woo Park
 
+![[Ji-woo Park.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Coreia do Sul · Comunicação |
@@ -17,7 +21,7 @@ updated: 2026-11-07
 | **Classe do avatar** | Ladina |
 | **Palavra-chave (*Masks*)** | impulsiva |
 | **Função na história** | agente do caos |
-| **Aparência** | cabelo pintado de rosa, sempre com o celular na mão, adesivos de streamer |
+| **Aparência** | cabelo **metade branco, metade preto**, brincos longos, sempre com o celular na mão |
 | **Voz e gesto** | narra a própria vida como se estivesse ao vivo ("chat, olha isso") |
 | **Desejo** | transmitir TESSERA para os **2 milhões de seguidores** (proibido pelo NDA) |
 | **Segredo** | **vai fazer isso.** Um vídeo vaza no Arco 1, com o rosto do Sétimo |

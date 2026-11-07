@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Amara Diallo
 
+![[Amara Diallo.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Senegal (Dakar) · Antropologia |

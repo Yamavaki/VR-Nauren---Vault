@@ -9,6 +9,10 @@ updated: 2026-11-07
 ---
 
 # Benji Okoro
+
+![[Benji Okoro.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
 *Nigéria (Lagos) · Engenharia Elétrica · bolsista · **D-3 Os Três de Remanso (líder relutante)** · Inventor · palavra-chave: jovial. Colega de quarto (ou vizinho) de um PJ no Bloco C. Ver [[Turma D]].*
 - **Desejo:** mandar dinheiro para a avó; ser engraçado.
 - **Voz e gesto:** faz piadas ruins e ri antes do fim. Cola post-its em tudo ("não esquecer: existir").

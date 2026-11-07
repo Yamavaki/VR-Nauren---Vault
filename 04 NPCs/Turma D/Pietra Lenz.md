@@ -9,6 +9,10 @@ updated: 2026-11-07
 ---
 
 # Pietra Lenz
+
+![[Pietra Lenz.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
 *Inspirada na "Pietra" do romance. Brasil (Curitiba) · Design · **D-5 Mapa em Branco (líder)** · Mística · palavra-chave: curiosa. Ver [[Turma D]].*
 - **Desejo:** virar pro, contra a vontade dos pais; entender **por que** o jogo é tão bom.
 - **Voz e gesto:** faz perguntas demais; desenha os NPCs num caderno de esboços **de memória**, com detalhes que ninguém mais notou.

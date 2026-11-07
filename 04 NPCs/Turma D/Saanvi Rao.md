@@ -10,6 +10,10 @@ updated: 2026-11-07
 
 # Saanvi Rao
 
+![[Saanvi Rao.jpg|250]]
+
+> Consulta rápida: [[Turma D - Cola Rápida]].
+
 | Campo | |
 |---|---|
 | **País · curso** | Índia (Bangalore) · Ciência da Computação |
@@ -17,7 +21,7 @@ updated: 2026-11-07
 | **Classe do avatar** | Ladina |
 | **Palavra-chave (*Masks*)** | brilhante |
 | **Função na história** | aliada técnica (Atelier) |
-| **Aparência** | óculos de armação grossa, moletom do Atelier, adesivos no notebook |
+| **Aparência** | cabelo preto curto e ondulado; roupas elegantes em vermelho e dourado; o notebook sempre por perto |
 | **Voz e gesto** | fala rápido, em siglas; ri sozinha quando acha um erro no código dos outros |
 | **Desejo** | provar que TESSERA é **só código** |
 | **Segredo** | mediu o tráfego de rede dos berços e descobriu que é **pequeno demais** para o que se vê lá dentro. Isso a assusta, e ela não contou a ninguém |
