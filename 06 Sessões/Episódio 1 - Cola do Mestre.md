@@ -48,7 +48,7 @@ updated: 2026-11-07
 | **O vau** (Lisel, Ottmar + 4 aldeões; Brask segura) | agarrados | na cintura | no peito | levados |
 
 - **Sino tocando 2 rodadas seguidas → Cascas recuam.**
-- **Morreu:** renasce **na hora** no Berço (Calibração) + **2 rodadas** correndo colina abaixo. No combate 1 (nível 1), não perde nível. **No combate 2 (nível 2), volta ao nível 1 e zera a XP**: provavelmente um PJ morre ali.
+- **Morreu:** **sai da luta para calibrar** (acorda na Terra; não volta para esta luta). No combate 1 (nível 1), não perde nível; as Cascas agarram, quase não matam. **No combate 2 (nível 2), volta ao nível 1 e zera a XP**: provavelmente um PJ morre ali.
 - **Cascas:** ~2 por PJ (2 na torre, o resto no vau). O Ganso é fogo, não combate.
 - Ensine jogando: Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (soltar agarrado).
 
@@ -67,17 +67,8 @@ Escolha o PJ: 1) golpe mais forte nele · 2) se pôs entre ele e um nativo · 3)
 
 ---
 
-## Mapas para fazer
-> Descrições completas e prompts para o gerador: [[Mapas - Episódio 1]].
-
-| # | Mapa | Precisa? | O que tem que ter |
-|---|---|---|---|
-| 1 | **Vau-Cinzento (o mapa do ataque)** | **obrigatório**, em grid | o **rio** e o **vau** (água rasa = terreno difícil) · a **praça** com a **torre do sino** · **O Ganso Torto** · a barraca do sino · o caminho da **colina do Berço** (fora do mapa ou na borda; 2 rodadas de corrida) · as 3 frentes **longe o bastante** para não dar para estar em duas ao mesmo tempo · juncos rio acima (por onde chegam as Cascas e o Sétimo) |
-| 2 | **O Berço** (círculo de 7 pedras com espirais, na colina) | opcional | pode ser só uma imagem para a Cena 6; serve de novo em todas as mortes |
-| 3 | **Vista do vale** (rio Lenta, a vila, a Costura no céu) | opcional | uma imagem de ambientação para a Cena 6; não precisa de grid |
-| — | Terra (Auditório, sala do Thorne, Salão dos Berços) | **não** | teatro da mente; no máximo uma imagem por cena |
-
-> Para o Ep1 basta **um mapa de verdade**: Vau-Cinzento. Use o mesmo mapa depois, no Ep5 (Noite Sem Lua).
+## Mapa
+**Um só: Vau-Cinzento**, com o recorte da torre do sino no canto. Os dois combates acontecem nele. Descrição completa (áreas, distâncias, onde cada um começa): [[Mapas - Episódio 1]].
 
 ## Personagens com quem eles interagem com certeza
 **Terra**

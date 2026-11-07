@@ -41,6 +41,6 @@ updated: 2026-11-07
 
 ## Propostas aguardando aprovação
 - [ ] Níveis travados (**Nós**) em 5, 9, 13, 17 e 20 ([[Sincronia e Nós]]).
-- [ ] Detalhes de [[Morte e Retorno]] (renascimento imediato na Calibração; XP zerada ao cair de nível; os Nós não se perdem).
+- [ ] Detalhes de [[Morte e Retorno]] (XP zerada ao cair de nível; os Nós não se perdem). *(Renascimento imediato: rejeitado; quem morre sai para calibrar.)*
 - [ ] Os outros nomes (Halden, Ostrel, Vharen, a Vigília, Vau-Cinzento…). *(Vharen, Inquilinos e Cascas já aprovados.)*
 - [ ] A **Madre Ilvane** como colaboradora cinza (não mais a vilã principal).

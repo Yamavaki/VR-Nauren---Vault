@@ -23,9 +23,9 @@ No Nauren, 0 PV é o fim da jornada. Para o **avatar**, não: ele renasce. Mas a
 
 > **Por que deixar o corpo e os itens:** é a melhor pista do arco. "Gráficos" não deixam cadáver. E o item perdido cria uma missão natural (voltar para buscar), além de colocar o item na mão de um NPC (a [[Tilde]] guarda tudo).
 
-## Exceção: o período de Calibração
-Nas **primeiras 24 horas** de cada calouro no TESSERA, o renascimento é **imediato** (sem a hora de espera), no Berço mais próximo. A Halden chama de "período de aprendizado".
-> **Por que:** o Ep1 tem um ataque grande e PJs de 3–5 PV (nível 1, então a morte não tira nível). Com renascimento imediato, morrer vira **tática** (descer a colina correndo e voltar à luta), e os aldeões **veem** isso acontecer. É o primeiro momento em que os nativos olham para os jogadores com medo.
+## Sem exceção: quem morre sai para calibrar ✅
+*(decisão do mestre)* Não há renascimento imediato, nem no primeiro dia. **Quem morre sai da luta**: desconecta, acorda no berço da Terra e só volta depois da recalibração. Não dá para voltar para a mesma luta.
+> **Na mesa:** o jogador que morreu pode jogar uma cena curta na Terra (a [[Nadia Kovač]] abre o casulo; o Placar no celular; alguém da Ala de Calibração anota o nome dele) enquanto o resto termina a luta.
 
 ## Estresse
 - O Estresse funciona como no Nauren dentro do jogo.

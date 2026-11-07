@@ -17,7 +17,7 @@ updated: 2026-11-07
 
 ## Antes da sessão
 - [ ] Reler as **metas** dos PJs ([[Facções#As metas dos jogadores (preencher na Sessão 0)]]) e escolher **2–3 alunos da [[Turma D]]** que cruzam com elas.
-- [ ] Desenhar o **mapa do ataque**: a praça com a **torre do sino**, a **estalagem** e o **vau**, com o rio de um lado e a colina do **Berço** do outro (2 rodadas de corrida até lá).
+- [ ] Fazer o **mapa de Vau-Cinzento** com o recorte da torre do sino ([[Mapas - Episódio 1]]).
 - [ ] Imprimir: [[Handout - Termo de Imersão]], [[Handout - Regras de Conduta no TESSERA]], [[Handout - Contrato da Coroa]].
 - [ ] Ter à mão: [[Sétimo]], [[Bestiário - Arco 1]], [[Morte e Retorno]].
 
@@ -101,7 +101,7 @@ As **Cascas** saem do rio e começam a **agarrar e arrastar** pessoas para a ág
 | **O vau** | a Lisel, o Ottmar e mais quatro aldeões sendo arrastados para o rio; o Brask segura com dois soldados | 1 agarrados · 2 na cintura · 3 no peito · 4 levados | a Lisel é levada |
 
 - **É impossível salvar tudo** com 4–5 PJs de nível 1. É de propósito.
-- **Morrer:** renascimento **imediato** no Berço (período de Calibração) e **2 rodadas** correndo colina abaixo. No nível 1, **não perdem nível**. *(Os aldeões veem os Retornados morrerem e voltarem correndo. Alguns recuam com medo.)*
+- **Morrer:** o PJ **sai da luta para calibrar** (acorda no berço da Terra; não volta para esta luta). No nível 1, **não perde nível**. As Cascas **agarram e arrastam, quase não matam**: no combate 1, morrer deve ser raro. *(Os aldeões veem o corpo do Retornado virar cinza colorida. Alguns recuam com medo.)*
 - **Ensine as regras jogando:** Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (para soltar alguém agarrado).
 - **Quantas Cascas:** ~2 por PJ, divididas entre a torre (2) e o vau (o resto). O Ganso é um perigo (fogo), não um combate. A Irmã Vela só canta (a Canção pode Atordoar).
 - **Termina quando:** o sino tocar 2 rodadas seguidas (as Cascas recuam para a água), **ou** as 4 rodadas dos relógios acabarem.
@@ -121,7 +121,7 @@ Logo depois do interlúdio, ele chega pela água, atrás da Vela, com as Cascas 
 - Ele olha os PJs, inclina a cabeça, e entende o que eles são: *"Ah. Vocês são como eu. Só que com **coleira**."*
 - **A luta:** ficha e regras em [[Sétimo]]. Difícil de verdade: Curiosidade, Sentir Tudo (+PdA a cada dano), Desalojar (o PJ é jogado para fora e acorda com o **nariz sangrando**), a mão que treme.
 - **Vencer = fazê-lo recuar:** reduzi-lo a 10 PV, o sino tocar 2 rodadas (as Cascas dele recuam e ele vai junto), ou resistir 5 rodadas.
-- **A morte agora custa:** os PJs estão no **nível 2**. Quem morrer renasce na hora no Berço (Calibração), mas **volta ao nível 1** e zera a XP, como o Thorne ensinou. Provavelmente **um PJ morre** aqui. É a lição da aula ficando real: deixe a perda pesar ("contem").
+- **A morte agora custa:** os PJs estão no **nível 2**. Quem morrer **sai da luta para calibrar** e **volta ao nível 1** com a XP zerada, como o Thorne ensinou. Provavelmente **um PJ morre** aqui. É a lição da aula ficando real: deixe a perda pesar ("contem").
 - **O dilema:** o corpo é do Sor Aldric. O Brask grita: "Não o matem!"
 
 ### Cena 11 — A pergunta · 5 min (o gancho)

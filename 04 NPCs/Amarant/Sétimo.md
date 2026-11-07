@@ -29,7 +29,7 @@ Um **Inquilino** do Hóspede ([[O Hóspede e os Inquilinos]]). Ele não tem nome
 | **Limite** | não mata Retornados "à toa": quer **estudá-los**. Mata nativos sem pensar |
 
 ## A luta do Episódio 1 (difícil de verdade)
-É o **segundo combate** do episódio: os PJs já subiram para o **nível 2** (6–10 PV) depois de lutar contra as Cascas. Difícil de verdade: **provavelmente um PJ morre** e volta ao nível 1 ([[Morte e Retorno]]). O **renascimento imediato da Calibração** deixa quem morreu voltar correndo para a luta.
+É o **segundo combate** do episódio: os PJs já subiram para o **nível 2** (6–10 PV) depois de lutar contra as Cascas. Difícil de verdade: **provavelmente um PJ morre** e volta ao nível 1 ([[Morte e Retorno]]). Quem morre **sai da luta** para calibrar e não volta para ela.
 
 | PV | Defesa | Agi | Estamina/rodada | PdA |
 |---|---|---|---|---|
