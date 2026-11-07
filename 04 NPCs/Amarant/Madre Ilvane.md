@@ -22,6 +22,7 @@ updated: 2026-11-07
 - **Passado:** há 20 anos, uma febre matou metade da fronteira; ela cuidou dos doentes até não ter mais o que fazer. Rezou por qualquer coisa que tirasse a dor deles. **Alguma coisa respondeu.**
 - **Segredo:** ela **convidou** o Hóspede. Ele mora nela, mas, diferente dos Ocos, **deixou a mente dela inteira**: ela é **a Voz** dele.
 - **Frase:** "A dor é uma porta aberta, meu bem. Eu só fecho a porta."
+- **A palavra dela para os jogadores:** nunca "Retornados". Sempre **"meus hospedeiros"**, com carinho.
 
 ## Ficha completa (Character Guide 1–12)
 | Campo | |

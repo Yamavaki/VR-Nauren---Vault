@@ -11,7 +11,7 @@ updated: 2026-11-07
 |---|---|---|
 | 2026-11-07 | **Sistema: Nauren RPG** (v0.6.1) | só as **regras**. Repositório `Yamavaki/Nauren-RPG` |
 | 2026-11-07 | **O outro mundo NÃO é Naurien** | é um **mundo novo**: **Amarant** |
-| 2026-11-07 | **Nomes:** mundo = **Amarant**; cidade da universidade = **Meridia**; o jogo = **TESSERA**; os jogadores são os **Retornados** | ver [[Nomes (propostas)]] |
+| 2026-11-07 | **Nomes:** mundo = **Amarant**; cidade da universidade = **Meridia**; o jogo = **TESSERA**; os jogadores são os **Retornados**; a entidade é **o Hóspede**; às vezes os Retornados são chamados de **"Hospedeiros"**, quase como uma confusão | ver [[Nomes (propostas)]] |
 | 2026-11-07 | **Duas fichas por jogador** | **humano** (Terra) e **avatar** (o "jogo"). Ver [[Fichas - Humano e Avatar]] |
 | 2026-11-07 | **Sincronia = nível do avatar** | quanto mais perto do 20, maior a sincronia. Alguns níveis só sobem depois de **eventos**. Ver [[Sincronia e Nós]] |
 | 2026-11-07 | **4 a 5 jogadores** | |
