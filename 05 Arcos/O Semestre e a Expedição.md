@@ -21,7 +21,7 @@ O Placar no Átrio corre o **semestre inteiro** (uns 4 meses, 3 arcos). Os três
 - Um vídeo de divulgação passa no Placar toda semana: pros sorrindo, um castelo branco num penhasco, um céu com a Costura brilhando. **Um dos pros do vídeo é o irmão de um PJ** (se alguém pegou o gancho de origem 1).
 
 ## O que a Expedição é de verdade (segredo)
-Uma **campanha militar real** da Coroa de Ostrel contra o Oco, no **Vale de Ostrel**, a frente leste. Os Retornados de elite (os pros) são a ponta de lança. Os calouros do top 3 são **reforço**. *(Nível 3. Só aparece de verdade no fim da Parte 1.)*
+Uma **campanha militar real** da Coroa de Ostrel contra o Oco, no **Vale de Ostrel**, a frente leste. Os Hospedeiros de elite (os pros) são a ponta de lança. Os calouros do top 3 são **reforço**. *(Nível 3. Só aparece de verdade no fim da Parte 1.)*
 - O **Ansel**, irmão da [[Tilde]], está lá.
 - O colega do [[Tomás Arrieta]] morreu "na Terra" depois de uma Expedição.
 

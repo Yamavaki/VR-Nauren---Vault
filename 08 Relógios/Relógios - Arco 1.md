@@ -15,7 +15,7 @@ updated: 2026-11-07
 - [ ] 2. **A oferta:** a Madre chega à vila, cura feridos de verdade, oferece o Repouso.
 - [ ] 3. **Os primeiros Repousados** em Vau-Cinzento: sorriem, dormem bem, **param de tocar o sino da porta**.
 - [ ] 4. **A vila se divide:** uma briga na praça; alguém tenta incendiar a carroça das Irmãs.
-- [ ] 5. **O Lorenz aceita o Repouso** para curar o avatar (ou outro Retornado, se o Lorenz já foi salvo de si mesmo).
+- [ ] 5. **O Lorenz aceita o Repouso** para curar o avatar (ou outro Hospedeiro, se o Lorenz já foi salvo de si mesmo).
 - [ ] 6. **A Noite Sem Lua:** o Grande Repouso no Berço. *(Prazo fixo: dia 14.)*
 **Para / muda:** destruir o sino sem badalo dela antes da Noite Sem Lua **enfraquece** o Grande Repouso (ver o bestiário). Expor a ela a verdade sobre a febre de 20 anos atrás (ver [[Pistas - Arco 1]]) faz **uma Irmã** desertar e contar o plano.
 
@@ -30,9 +30,9 @@ updated: 2026-11-07
 **Muda:** se o PJ confrontá-la com algo concreto, ela pula para a etapa 5.
 
 ## 3. Irmão Caetano
-- [ ] 1. Chega a Vau-Cinzento no dia seguinte ao festival. Prega: "os Hóspedes chegaram na lua cheia, e o rio trouxe os Quietos. Não é coincidência."
+- [ ] 1. Chega a Vau-Cinzento no dia seguinte ao festival. Prega: "os Hospedeiros chegaram na lua cheia, e o rio trouxe os Quietos. Não é coincidência."
 - [ ] 2. Pendura sinos novos em todas as portas. Dá à [[Tilde]] uma fita branca.
-- [ ] 3. Testemunha um Retornado renascer no Berço. Fica parado na chuva, rezando.
+- [ ] 3. Testemunha um Hospedeiro renascer no Berço. Fica parado na chuva, rezando.
 - [ ] 4. Vai sozinho à Casa do Repouso falar com a Madre. Volta **calado e com uma mão enfaixada**.
 - [ ] 5. **Marca o Berço** com sal e cinza: por 3 dias, quem morre renasce no **Fortim**.
 - [ ] 6. Na Noite Sem Lua, tenta **selar o Berço** de vez.

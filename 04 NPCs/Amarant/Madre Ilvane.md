@@ -3,7 +3,7 @@ type: npc
 mundo: Amarant
 papel: VILÃ do Arco 1 (visível no fim)
 importancia: secundária importante (antagonista principal)
-escada: Hospedeira — vive o nível 4 por dentro, sem entender
+escada: a Voz do Hóspede — vive o nível 4 por dentro, sem entender
 aliases: [Ilvane, a Madre, a Abadessa, a Madre do Repouso]
 updated: 2026-11-07
 ---
@@ -20,7 +20,7 @@ updated: 2026-11-07
 - **Personalidade:** paciente, calorosa, absolutamente convicta. Nunca mente quando não precisa.
 - **Motivação:** acabar com o sofrimento de Amarant. Todo ele.
 - **Passado:** há 20 anos, uma febre matou metade da fronteira; ela cuidou dos doentes até não ter mais o que fazer. Rezou por qualquer coisa que tirasse a dor deles. **Alguma coisa respondeu.**
-- **Segredo:** ela **convidou** o Hóspede. Ele mora nela, mas, diferente dos Ocos, **deixou a mente dela inteira**: ela é uma **Hospedeira**, a voz dele.
+- **Segredo:** ela **convidou** o Hóspede. Ele mora nela, mas, diferente dos Ocos, **deixou a mente dela inteira**: ela é **a Voz** dele.
 - **Frase:** "A dor é uma porta aberta, meu bem. Eu só fecho a porta."
 
 ## Ficha completa (Character Guide 1–12)
@@ -34,7 +34,7 @@ updated: 2026-11-07
 | **Contradição** | cura de verdade **e** apaga quem cura |
 | **Sliders** | competência 9 · iniciativa 8 · simpatia 7 *(alta de propósito)* |
 | **Limite** | **nunca machuca ninguém com as próprias mãos.** Manda os Quietos, ou espera. O momento em que ela cruza esse limite é o clímax do arco |
-| **Segredo** | Hospedeira; sabe o que os Retornados são ("almas que entram em corpos, como Ele") e por isso os quer |
+| **Segredo** | a Voz do Hóspede; sabe o que os Hospedeiros são ("almas que entram em corpos, como Ele") e por isso os quer |
 | **Voz e lente** | nota primeiro **onde dói**: a perna que manca, o ombro tenso, o luto no olhar |
 | **Gesto/objeto** | o **sino sem badalo** no cinto. "Sinos são para quem tem medo do que entra. Eu não tenho." |
 | **Alavanca** | os doentes que ela realmente cura; a Irmã Vela (a primeira que ela "salvou"); a verdade sobre a febre de 20 anos atrás |
@@ -46,12 +46,12 @@ Ver [[Relógios - Arco 1#1. A Madre (o Repouso)]].
 2. **A oferta:** ela vem **pessoalmente** à vila, ajuda a cuidar dos feridos do ataque, **cura de verdade**, e oferece o Repouso a quem sofre.
 3. **Os levados não querem voltar:** quem foi levado está em paz, sem dor. A Lisel diz: "não dói mais, pai."
 4. **A vila se divide:** metade quer o Repouso; metade quer queimar a Casa.
-5. **A Noite Sem Lua:** ela vai ao Berço com os Quietos e os Repousados de Vau-Cinzento, para o **Grande Repouso**: tomar os Retornados que estiverem lá e "abrir a porta".
+5. **A Noite Sem Lua:** ela vai ao Berço com os Quietos e os Repousados de Vau-Cinzento, para o **Grande Repouso**: tomar os Hospedeiros que estiverem lá e "abrir a porta".
 
 ## Como lutar contra ela (o clímax)
 - Ela **não luta** até cruzar o limite. Quando cruza (ver o arco), a **sombra dela tem mãos demais**: o Hóspede aparece. Ficha em [[Bestiário - Arco 1]].
 - **Se ela morrer:** todos os Repousados **voltam a sentir de uma vez**. Alguns gritam. Alguns, cujas doenças eram mortais, **morrem nas horas seguintes**. A Lisel sobrevive, se os PJs tiverem cuidado dela antes. *(Este é o custo de matar a vilã: os jogadores salvam a vila e pagam com vidas que ela estava sustentando.)*
-- **Se for capturada:** a Coroa quer enforcá-la; a Vigília quer queimá-la; ela pede para falar com "o Retornado que sonha com o céu". *(Gancho para o Arco 2.)*
+- **Se for capturada:** a Coroa quer enforcá-la; a Vigília quer queimá-la; ela pede para falar com "o Hospedeiro que sonha com o céu". *(Gancho para o Arco 2.)*
 - **Se fugir:** ela volta no Arco 3, mais forte, com mais vilas.
 
 ## Primeira aparição (2 pistas inocentes, Sessão 2)

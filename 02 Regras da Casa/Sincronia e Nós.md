@@ -12,7 +12,7 @@ updated: 2026-11-07
 - **Alguns níveis são travados**: só sobem depois que o personagem atravessa um **evento**.
 
 ## Proposta: os cinco níveis travados (os Nós)
-A Halden chama de **Marcos de Sincronia**. Os nativos chamam de **Nós**: a cada Nó, o Retornado fica mais **amarrado** a Amarant. "Ele deu o primeiro nó" quer dizer: agora ele pertence um pouco a este lugar. *(A Vigília vê isso de outro jeito: o Hóspede se amarrando no corpo.)*
+A Halden chama de **Marcos de Sincronia**. Os nativos chamam de **Nós**: a cada Nó, o Hospedeiro fica mais **amarrado** a Amarant. "Ele deu o primeiro nó" quer dizer: agora ele pertence um pouco a este lugar. *(A Vigília vê isso de outro jeito: o Hóspede se amarrando no corpo.)*
 
 | Nó | Trava a passagem | Por que nesse nível |
 |---|---|---|
@@ -28,7 +28,7 @@ A Halden chama de **Marcos de Sincronia**. Os nativos chamam de **Nós**: a cada
 ### O que é o "evento"? (o jogo nunca anuncia)
 Nunca é uma quest com nome. É algo que o personagem **atravessa** e **sente**. Ideias para o 1º Nó (decidir antes do fim do Arco 1):
 1. **Morrer com dor de verdade.** Pela primeira vez o filtro somático falha por um segundo. Ao renascer no Berço, ele está "mais pesado".
-2. **Ser nomeado por um nativo.** Uma criança dá ao Retornado um nome de Amarant e ele *atende* sem pensar. (Liga com a [[Tilde]].)
+2. **Ser nomeado por um nativo.** Uma criança dá ao Hospedeiro um nome de Amarant e ele *atende* sem pensar. (Liga com a [[Tilde]].)
 3. **Voltar a um lugar onde morreu** e encontrar o próprio corpo antigo virando cinza colorida.
 4. **Salvar ou deixar morrer alguém que não renasce.** A escolha difícil marca.
 > Pode ser diferente para cada PJ. O Nó é pessoal, como um rito de passagem.

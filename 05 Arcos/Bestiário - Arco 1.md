@@ -26,7 +26,7 @@ updated: 2026-11-07
 | PV | Defesa | Agi | Est/rodada | PdA | PdM |
 |---|---|---|---|---|---|
 | 14 | 12 | 4 | 3 | 2 | 3 |
-- **Canção do Repouso** (2 Est, **Ação Anunciada**, área 6 m): quem ouvir faz teste de Destino (1d20 + Destino, 12). Falha: fica **Atordoado** até o fim do turno; o corpo quer parar e ouvir. *(Retornados com Sincronia baixa têm **facilidade**: ainda não estão "amarrados" o bastante para o Hóspede pegá-los. Pista.)*
+- **Canção do Repouso** (2 Est, **Ação Anunciada**, área 6 m): quem ouvir faz teste de Destino (1d20 + Destino, 12). Falha: fica **Atordoado** até o fim do turno; o corpo quer parar e ouvir. *(Hospedeiros com Sincronia baixa têm **facilidade**: ainda não estão "amarrados" o bastante para o Hóspede pegá-los. Pista.)*
 - **A lanterna** (1 Est, 6 m): uma luz fria; 1d6 + 3 de dano; o alvo fica **Cego** até o fim do turno.
 - **Andar pela água:** ignora terreno de rio.
 - **Fraqueza:** se a **Hanne** cantar a parte dela da canção (ou um PJ que aprendeu com ela), a Vela **perde o turno**.

@@ -11,6 +11,7 @@ updated: 2026-11-07
 |---|---|---|
 | 2026-11-07 | **Sistema: Nauren RPG** (v0.6.1) | só as **regras**. Repositório `Yamavaki/Nauren-RPG` |
 | 2026-11-07 | **O outro mundo NÃO é Naurien** | é um **mundo novo**, com nome a inventar. Nome provisório: ver [[Nomes (propostas)]] |
+| 2026-11-07 | **Nomes:** mundo = **Amarant**; cidade da universidade = **Meridia**; o jogo = **TESSERA**; os jogadores são os **Hospedeiros** | ver [[Nomes (propostas)]] |
 | 2026-11-07 | **Duas fichas por jogador** | **humano** (Terra) e **avatar** (o "jogo"). Ver [[Fichas - Humano e Avatar]] |
 | 2026-11-07 | **Sincronia = nível do avatar** | quanto mais perto do 20, maior a sincronia. Alguns níveis só sobem depois de **eventos**. Ver [[Sincronia e Nós]] |
 | 2026-11-07 | **4 a 5 jogadores** | |
@@ -23,11 +24,11 @@ updated: 2026-11-07
 | 2026-11-07 | **O esporte fica para depois** | não entra no Arco 1 |
 
 ## Propostas aguardando aprovação
-- [ ] **Nome do mundo:** Amarant, Orvália, Ystrel ou Cendra ([[Nomes (propostas)]]).
 - [ ] **A entidade é o Hóspede**, que torna as coisas **Ocas** (parecem NPCs em loop). Ver [[Amarant - A Marca de Vael]].
 - [ ] **A Expedição Aurora** como prêmio do top 3 ([[O Semestre e a Expedição]]).
 - [ ] **Vilã do Arco 1: [[Madre Ilvane]]**, a abadessa que tira a dor (espelho da Halden).
 - [ ] O **Festival das Lanternas** como Sessão 1 ([[Sessão 1 - O Festival das Lanternas]]).
 - [ ] Níveis travados (**Nós**) em 5, 9, 13, 17 e 20 ([[Sincronia e Nós]]).
 - [ ] Regras de [[Morte e Retorno]] (incluindo o renascimento imediato na Calibração).
-- [ ] Os outros nomes (Meridia, Aster, Halden, TESSERA, Coroa de Ostrel, a Vigília…).
+- [ ] Os outros nomes (Aster, Halden, Coroa de Ostrel, a Vigília…).
+- [ ] **Título da campanha** (capa): ver [[Nomes (propostas)]].
