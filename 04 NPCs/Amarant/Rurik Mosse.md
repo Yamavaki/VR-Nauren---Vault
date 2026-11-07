@@ -3,7 +3,7 @@ type: npc
 mundo: Amarant
 papel: o Intendente da Coroa; quem dá os contratos
 importancia: secundária importante
-escada: nível 3 em parte (sabe que a Coroa paga os Hospedeiros; não sabe o porquê)
+escada: nível 3 em parte (sabe que a Coroa paga os Retornados; não sabe o porquê)
 aliases: [Mosse, o Intendente]
 updated: 2026-11-07
 ---
@@ -24,6 +24,6 @@ updated: 2026-11-07
 | **Se ninguém interferir…** | emite o contrato **"Purificação: Lagoa-Mansa"** (queimar a aldeia oca) e, depois, pede aos Jurados que defendam o Berço na Noite Sem Lua |
 | **Sliders** | competência 7 · iniciativa 6 · simpatia 4 |
 
-**O detalhe das moedas:** ele paga os Hospedeiros com **moedas diferentes**: mais leves, sem a efígie, só um losango riscado. "Moeda de Jurado. Vale aqui, no Fortim e na vila. Não tente gastar na capital." *(O losango é parecido com o logo da Halden. Não comente. Se um jogador notar, sorria.)*
+**O detalhe das moedas:** ele paga os Retornados com **moedas diferentes**: mais leves, sem a efígie, só um losango riscado. "Moeda de Jurado. Vale aqui, no Fortim e na vila. Não tente gastar na capital." *(O losango é parecido com o logo da Halden. Não comente. Se um jogador notar, sorria.)*
 
 > **Por que ele não é vilão:** ele manda queimar Lagoa-Mansa pelo mesmo motivo que os jogadores escolheriam pelos pontos: é mais barato e mais seguro **para os dele**. Se os PJs mostrarem outra solução **com provas**, ele aceita, e registra.

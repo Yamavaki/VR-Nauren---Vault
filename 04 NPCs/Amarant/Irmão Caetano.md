@@ -17,10 +17,10 @@ updated: 2026-11-07
 | **Desejo (agora)** | descobrir por que os Hospedeiros chegaram junto com os Quietos |
 | **Desejo (grande)** | fechar **todas** as portas por onde algo entra em Amarant: a Casa do Repouso **e** o Berço |
 | **Ferida → mentira** | a cidade dele, **Pedra-Alta**, ficou Oca numa única noite, há 15 anos. Ele estava fora, numa vigília → *"fui poupado para fechar as portas; quem hesita deixa entrar"* |
-| **Contradição** | gentil com cada pessoa da vila **e** fala dos Hospedeiros como coisas |
-| **Segredo** | estudou com a **Madre Ilvane** na Vigília, há 30 anos. Era apaixonado por ela. Foi o único que ela **não convenceu**. Sente o Hóspede nos Hospedeiros como um zumbido nos dentes. **Não está errado:** a ponte deles é a porta (nível 4). Está errado sobre quem os jogadores são |
+| **Contradição** | gentil com cada pessoa da vila **e** fala dos Retornados como coisas |
+| **Segredo** | estudou com a **Madre Ilvane** na Vigília, há 30 anos. Era apaixonado por ela. Foi o único que ela **não convenceu**. Sente o Hóspede nos Retornados como um zumbido nos dentes. **Não está errado:** a ponte deles é a porta (nível 4). Está errado sobre quem os jogadores são |
 | **Voz** | calmo, fala devagar, parábolas de casa ("a casa não cai pela tempestade; cai pela porta que ninguém trancou") |
-| **Gesto/objeto** | toca os **sininhos** do cinto antes de falar com um Hospedeiro, para ver se ele recua |
+| **Gesto/objeto** | toca os **sininhos** do cinto antes de falar com um Retornado, para ver se ele recua |
 | **Lente** | o que está fora do lugar: quem entra sem tocar o sino, a sombra que não acompanha, o sorriso calmo demais |
 | **Alavanca** | a vila; a [[Tilde]] (ele gosta dela); a Madre (o que ele sente por ela); Pedra-Alta |
 | **Se ninguém interferir…** | ver [[Relógios - Arco 1#3. Irmão Caetano]] |

@@ -36,7 +36,7 @@ Com cenas, nunca em voz alta:
 | Força | Quer | Método | Relógio |
 |---|---|---|---|
 | **[[Madre Ilvane]]** (o Hóspede) | tomar o Berço na **Noite Sem Lua** | Quietos, cura verdadeira, o Repouso | [[Relógios - Arco 1#1. A Madre (o Repouso)]] |
-| **A Coroa** ([[Rurik Mosse]]) | conter o Oco **barato** | **fogo** e Hospedeiros | dispara os contratos 6 e F |
+| **A Coroa** ([[Rurik Mosse]]) | conter o Oco **barato** | **fogo** e Retornados | dispara os contratos 6 e F |
 | **A Vigília** ([[Irmão Caetano]]) | fechar as portas: a Casa do Repouso **e** o Berço | sermões, sal, ritos | [[Relógios - Arco 1#3. Irmão Caetano]] |
 | **Esquadrão Albrecht** ([[Lorenz Albrecht]]) | top 1 a qualquer custo | contratos rápidos, sem perguntas | [[Relógios - Arco 1#4. Esquadrão Albrecht]] |
 | **[[Dra. Ilse Varga]]** (Halden) | entender as leituras e o "nome verdadeiro" | exames, acordos | [[Relógios - Arco 1#2. A Observadora]] |

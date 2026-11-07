@@ -14,7 +14,7 @@ updated: 2026-11-07
 
 Os novos vieram na lua cheia, igual aos outros. Na noite das lanternas.
 
-Eu tinha deixado o pão. Sempre deixo. Às vezes os pássaros comem e eu finjo que foi um Hospedeiro.
+Eu tinha deixado o pão. Sempre deixo. Às vezes os pássaros comem e eu finjo que foi um Retornado.
 
 Eram [quatro]. Nasceram cinzentos, que nem sempre, e depois a cor subiu neles. A do [nome de Amarant de um PJ] foi [cor 1] primeiro, depois [cor 2], e ficou um tempo das duas, misturada, que nem o rio quando chove.
 

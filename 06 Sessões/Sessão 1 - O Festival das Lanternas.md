@@ -72,10 +72,10 @@ Depois, **deixe-os passear**. Cada jogador escolhe uma ou duas coisas. Cada uma 
 |---|---|---|
 | **O Ganso Torto** | a [[Hanne]] serve cerveja de mel e ensaia a canção do festival. Falta a segunda voz: "era da minha Ada. Ela está na Casa do Repouso, servindo. Faz três anos." Se um PJ quiser, ela **ensina a parte dela da canção** | a chave da Irmã Vela (pista F) |
 | **A barraca do sino** | jogo de feira: acertar um sino pendurado com pedrinhas. Prêmio: um pão doce. O dono explica o costume: "o que entra sem tocar o sino não é gente" | os Ocos e os sinos (pista F) |
-| **O vau** | o [[Ottmar e Lisel\|Ottmar]] e a Lisel com a lanterna da avó. A Lisel pede para um PJ segurar a lanterna "porque Hospedeiro não queima a mão" | quem estará no vau no ataque |
+| **O vau** | o [[Ottmar e Lisel\|Ottmar]] e a Lisel com a lanterna da avó. A Lisel pede para um PJ segurar a lanterna "porque Retornado não queima a mão" | quem estará no vau no ataque |
 | **Os juncos** | uma lanterna branca, presa nos juncos **rio acima**. Ninguém da vila soltou lanterna branca | a primeira estranheza |
-| **A praça** | preços: pão 1 florim; para Hospedeiro, metade. Uma velha: "vocês não comem de verdade, não é?" | o mundo pelo cotidiano |
-| **A Tilde** | pergunta se os Hospedeiros viram o irmão dela, o Ansel, "que foi servir a Coroa no leste" | gancho de longo prazo |
+| **A praça** | preços: pão 1 florim; para Retornado, metade. Uma velha: "vocês não comem de verdade, não é?" | o mundo pelo cotidiano |
+| **A Tilde** | pergunta se os Retornados viram o irmão dela, o Ansel, "que foi servir a Coroa no leste" | gancho de longo prazo |
 
 **XP de roleplay:** se o grupo fizer uma cena juntos aqui (dançar, competir na barraca, ajudar a soltar lanternas), já vale os 100 de "cena de grupo".
 

@@ -15,7 +15,7 @@ Do [[Campaign Brief - The Simulation]] §8, mais as que surgiram.
 2. **Experiência dos jogadores:** já jogaram Nauren? Já jogaram RPG?
 3. **Idioma da mesa:** português (assumido nos handouts).
 4. **Tom geral:** quanto horror, quanto romance? (definir na [[Sessão 0 - Criação]])
-5. **A magia de Amarant:** as classes do Nauren funcionam como regras, mas **na ficção**, por que um Hospedeiro "nasce" mago? Os nativos também têm magia? (Sugestão: só alguns nativos têm, e eles ficam **chocados** que os Hospedeiros tenham tanta.)
+5. **A magia de Amarant:** as classes do Nauren funcionam como regras, mas **na ficção**, por que um Retornado "nasce" mago? Os nativos também têm magia? (Sugestão: só alguns nativos têm, e eles ficam **chocados** que os Retornados tenham tanta.)
 6. **O esporte:** depois do Arco 1.
 7. **Vessels:** como o Lorenz recebeu o corpo-recipiente (Arco 2+).
 8. **Onde a mesa joga:** presencial ou Foundry? (afeta os handouts)

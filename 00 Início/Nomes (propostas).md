@@ -33,18 +33,31 @@ updated: 2026-11-07
 | Região inicial | **Zona de Iniciação 01 — "Marca de Vael"** | **Vau-Cinzento** (a vila), **Fronteira de Orla** (a região) |
 | O reino | "facção aliada: Coroa" | **a Coroa de Ostrel** |
 | Pontos de renascimento | **Âncoras** | **Berços** |
-| Marcos de progressão | **Marcos de Sincronia** | **Nós** (o Hospedeiro fica mais **amarrado** ao mundo) |
-| Os jogadores | "usuários" | **Hospedeiros** ✅ *(decidido)*. A Coroa, nos papéis oficiais, diz **Jurados do Berço** |
+| Marcos de progressão | **Marcos de Sincronia** | **Nós** (o Retornado fica mais **amarrado** ao mundo) |
+| Os jogadores | "usuários" | **Retornados** ✅ *(decidido)*; às vezes **Hospedeiros**, quase por confusão (ver abaixo). A Coroa, nos papéis oficiais, diz **Jurados do Berço** |
 | A entidade | — | **o Hóspede** (nos textos antigos); o povo evita dizer o nome e fala "o que entra" |
 | A corrupção | "NPC em loop", "bug de IA" | **o Oco**; quem foi tomado é um **Oco** ou um **Quieto** |
 | A rachadura no céu | "skybox" | **a Costura** |
 | A Igreja | — | **a Vigília** (guardiões das portas e dos limiares) |
 
-### O detalhe que liga tudo: "Hóspede" e "Hospedeiro"
-A entidade é **o Hóspede**: ela **entra** nas pessoas e mora nelas. Os jogadores são **Hospedeiros**: corpos de Amarant que recebem uma alma de fora.
-- Para o povo, "Hospedeiro" é só o nome dos que voltam do Berço.
-- Para a **Vigília**, a palavra é literal: **quem carrega um hóspede dentro**. É a mesma coisa que o Hóspede faz.
-- Em português, *hospedeiro* também é o organismo que **carrega um parasita**. Os jogadores vão ouvir o nome do próprio personagem com um arrepio, muito antes de entender por quê. Eles estão errados sobre si mesmos… e a Vigília está certa sobre a porta (nível 4).
+### O detalhe que liga tudo: Retornados, Hóspede… e "Hospedeiros" ✅ *(decidido)*
+- **Retornados** é o nome comum dos jogadores em Amarant.
+- **O Hóspede** é a entidade: quem entra nas pessoas e mora nelas.
+- **"Hospedeiros"** aparece **de vez em quando**, quase como uma confusão de palavras, e nunca ninguém corrige.
+
+**Quem diz "Hospedeiros", e por quê:**
+| Quem | Como | O que o mestre sabe |
+|---|---|---|
+| **Gente simples** (o pai da Tilde, um bêbado, uma criança) | troca as palavras sem querer: "esses hospedeiros… retornados, sei lá" | é só um erro. Ou parece |
+| **A Vigília** ([[Irmão Caetano]]) | usa de propósito e **ao pé da letra**: corpos que carregam um hóspede dentro | ele está errado sobre os jogadores… e certo sobre a porta (nível 4) |
+| **A [[Madre Ilvane]]** | usa com **carinho**: "meus hospedeiros" | para ela, os jogadores já são casas prontas para Ele |
+| **Textos antigos** (o afresco das Colinas, um livro da Vigília) | a palavra aparece **antes** de os Retornados existirem | alguém já esperava por eles |
+
+**Regras de uso na mesa:**
+1. **Raro.** Uma ou duas vezes por sessão, no máximo. Se virar sinônimo, perde o efeito.
+2. **Nunca explique.** Se um jogador perguntar "por que ele me chamou de hospedeiro?", o NPC dá de ombros, se corrige ou muda de assunto.
+3. **Deixe a confusão crescer:** no Arco 1, quase sempre parece erro. Mais tarde, a palavra aparece em lugares onde não pode ser erro (um texto de séculos atrás).
+4. Em português, *hospedeiro* também é o organismo que **carrega um parasita**. Os jogadores vão perceber isso sozinhos. Deixe.
 
 ### "Berço" (mantido)
 Os alunos chamam o casulo de **berço** por piada; os nativos chamam a âncora de **Berço**. Ninguém combinou. Não explique nunca.

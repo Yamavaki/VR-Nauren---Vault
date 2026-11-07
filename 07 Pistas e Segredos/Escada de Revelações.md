@@ -12,12 +12,12 @@ Do [[Campaign Brief - The Simulation]] §5. Cada arco sobe **um** degrau. Os jog
 | 0 | É uma simulação | jogadores, público | **Arco 1** (começam aqui; só **indícios** do 1) |
 | 1 | "Efeitos colaterais neurais", NDAs, o teto, regras estranhas | pros, médicos ([[Dra. Ilse Varga]]), [[Tomás Arrieta]] | Arco 2 |
 | 2 | O mundo é real; a mentira é necessária | pesquisa interna da Halden | Parte 2 |
-| 3 | O Pacto: a Coroa contrata os Hospedeiros | o Estado, a corte do reino, ([[Rurik Mosse]] em parte) | Parte 2 |
+| 3 | O Pacto: a Coroa contrata os Retornados | o Estado, a corte do reino, ([[Rurik Mosse]] em parte) | Parte 2 |
 | 4 | O Hóspede guiou os dois lados até o Pacto. A ponte é a porta | ninguém | Parte 3 |
 
 ## Sementes já plantadas no Arco 1 para níveis altos
 - **Nível 3:** "Marca de Vael" (o general enforcado); as cartas dos "Jurados do Berço"; "pagar ao Pacto" borrado no contrato.
-- **Nível 4:** o afresco das Colinas (reis em volta de uma porta de luz; do outro lado, figuras sem rosto); as **constelações da Terra** vistas pela Costura; e o Irmão Caetano, que acha que os Hospedeiros são o Hóspede entrando: **ele está errado sobre os jogadores e certo sobre o plano**.
+- **Nível 4:** o afresco das Colinas (reis em volta de uma porta de luz; do outro lado, figuras sem rosto); as **constelações da Terra** vistas pela Costura; e o Irmão Caetano, que acha que os Retornados são o Hóspede entrando: **ele está errado sobre os jogadores e certo sobre o plano**.
 
 ## Tabela de Segredos (ficha por segredo)
 | Segredo | A verdade | Quem sabe | Pistas plantadas | Revelação prevista |
