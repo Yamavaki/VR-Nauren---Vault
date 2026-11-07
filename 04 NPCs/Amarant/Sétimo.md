@@ -29,11 +29,12 @@ Um **Inquilino** do Hóspede ([[O Hóspede e os Inquilinos]]). Ele não tem nome
 | **Limite** | não mata Retornados "à toa": quer **estudá-los**. Mata nativos sem pensar |
 
 ## A luta do Episódio 1 (difícil de verdade)
+> **Ficha do Foundry:** `11 Foundry/1-inimigos-ep1.json` (números abaixo atualizados para bater com ela: 60 PV, Defesa 15, Estocada que Prova, Giro do Campeão, Desalojar com 2 Dados de Destino para resistir).
 É o **segundo combate** do episódio: os PJs já subiram para o **nível 2** (6–10 PV) depois de lutar contra as Cascas. Difícil de verdade: **provavelmente um PJ morre** e volta ao nível 1 ([[Morte e Retorno]]). Quem morre **sai da luta** para calibrar e não volta para ela.
 
 | PV | Defesa | Agi | Estamina/rodada | PdA |
 |---|---|---|---|---|
-| 30 | 14 | 5 | 4 | 3 |
+| 60 | 15 | 5 | 6 | 5 (+1 por dano sofrido, máx. +3) |
 
 - **Espada de Aldric** (2 Est): 1d8 + 3.
 - **Curiosidade** (passiva): o **primeiro ataque** dele contra cada PJ causa **metade** do dano. Ele está **testando**, e comenta em voz alta: "rápido… mas sem raiva. Interessante."
@@ -43,7 +44,7 @@ Um **Inquilino** do Hóspede ([[O Hóspede e os Inquilinos]]). Ele não tem nome
 - **A mão que treme:** quando chega a **metade da Vida**, role 1d6. No 6, **o Aldric luta por dentro**: o Sétimo perde a próxima ação.
 
 **Como os jogadores "vencem" (ninguém mata o Sétimo no Ep1):**
-- reduzi-lo a **10 PV** → ele para e recua: "Chega. Já vi o que queria ver.";
+- reduzi-lo a **15 PV** → ele para e recua: "Chega. Já vi o que queria ver.";
 - o **sino da praça** tocar por 2 rodadas → as Cascas recuam e ele vai junto;
 - ou **sobreviver 5 rodadas** protegendo o vau.
 

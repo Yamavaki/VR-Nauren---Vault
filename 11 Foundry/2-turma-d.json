@@ -1,0 +1,2711 @@
+{
+ "pasta": "TESSERA",
+ "documentos": [
+  {
+   "name": "Lorenz Albrecht",
+   "type": "npc",
+   "img": "icons/environment/people/infantry-armored.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Guerreiro",
+    "atributos": {
+     "forca": {
+      "value": 6
+     },
+     "agilidade": {
+      "value": 6
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Alto, loiro, armadura melhor que a de todo mundo (\"bônus de patrocinador\"). Força 6 e Agilidade 6 no primeiro dia: forte demais para um calouro.</p><p><b>Como luta:</b> Na frente, rápido, sempre querendo o golpe final. Gentil com colegas, cruel com NPCs: termina aldeões feridos sem pensar.</p><p><b>Personalidade:</b> Educado, sorriso de entrevista. Frase: \"Boa sorte. Sério.\"</p><p><b>Classe:</b> Arraste a Classe <b>Guerreiro</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 Programa V (Vessels) e o irmão Konrad. Ver a nota no vault. Na ficha do vault ele aparece no nível 2; aqui está no nível 1, como pedido.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Cota de Patrocinador (no lugar do couro do kit)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-steel-gold.webp",
+     "system": {
+      "defesaBonus": 6,
+      "tipo": "Malha (\"bônus de patrocinador\" da Halden)",
+      "equipado": true,
+      "descricao": "<p>Malha (\"bônus de patrocinador\" da Halden): +6 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Espada Albrecht",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-guard-gold-red.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média do kit: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Espada Albrecht",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Execução Pública",
+     "type": "habilidade",
+     "img": "icons/skills/melee/strike-blade-blood-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Golpe para terminar. Se depois do dano a Vida do alvo ficar em 3 ou menos, ela cai a 0. Ele usa isso em NPCs sem pensar duas vezes.</p>",
+      "acoes": [
+       {
+        "nome": "Execução Pública",
+        "custoEstamina": 2,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "limiarExecucaoFormula": "3"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "selo-real",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 45,
+      "cores": [
+       "#ffd27a"
+      ]
+     }
+    ],
+    "esmalte": "#3a0e14",
+    "joia": "#c24b4b"
+   }
+  },
+  {
+   "name": "Cassius Wren",
+   "type": "npc",
+   "img": "icons/environment/people/infantry.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Guerreiro",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 5
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 5,
+     "max": 5
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Moreno, cabelo penteado para trás, postura de esgrimista. A sola das botas do avatar já parece gasta.</p><p><b>Como luta:</b> Esgrima de salão: finta, abre a guarda do alvo e deixa o Lorenz terminar.</p><p><b>Personalidade:</b> Ironia o tempo todo; chama os PJs de \"turistas\". Frase: \"Ah, o esquadrão que sobrou. Que charmoso.\"</p><p><b>Classe:</b> Arraste a Classe <b>Guerreiro</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 O \"Draco\": pago para vigiar o Lorenz. A família está falida.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "poderAtaque": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Espada de Duelo",
+     "type": "arma",
+     "img": "icons/weapons/swords/greatsword-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média do kit: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Espada de Duelo",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Finta de Salão",
+     "type": "habilidade",
+     "img": "icons/skills/melee/maneuver-daggers-paired-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Uma finta elegante que abre a guarda. Se acertar, o alvo fica Exposto (Facilidade e +2 no próximo dano que sofrer).</p>",
+      "acoes": [
+       {
+        "nome": "Finta de Salão",
+        "custoEstamina": 2,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Exposto",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "deco-placas",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 35,
+      "cores": [
+       "#e8e4d8"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Valentina Ríos",
+   "type": "npc",
+   "img": "icons/environment/people/cleric-orange.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Sacerdote",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Cabelo preso, olhar firme, uma agenda de couro presa no cinto (mesmo no jogo).</p><p><b>Como luta:</b> Fica atrás, cura e organiza. Dá ordens como quem faz uma pergunta.</p><p><b>Personalidade:</b> Convincente; termina frases com perguntas. Frase: \"Eu só quero que todo mundo seja ouvido. Faz sentido, não faz?\"</p><p><b>Classe:</b> Arraste a Classe <b>Sacerdote</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 O segredo dela está na nota do vault (justiça é o valor que o torna insuportável).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Bastão Curto (kit)",
+     "type": "arma",
+     "img": "icons/weapons/clubs/club-simple-barbed-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve do kit: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Pancada de Bastão",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Faz Sentido, Não Faz?",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ela organiza o grupo com uma pergunta. Dá Prioridade a um aliado a até 9 m.</p>",
+      "acoes": [
+       {
+        "nome": "Faz Sentido, Não Faz?",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "louros",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 40
+     }
+    ],
+    "esmalte": "#2f5a3a",
+    "joia": "#cca162"
+   }
+  },
+  {
+   "name": "Ji-woo Park",
+   "type": "npc",
+   "img": "icons/environment/people/charge.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Ladino",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Cabelo com mechas rosa, roupa adaptada para \"ficar bonita na câmera\". Sempre perto de onde dá para ver tudo.</p><p><b>Como luta:</b> Rápida, impulsiva, ataca pelas costas e comemora em voz alta (\"chat, olha isso!\").</p><p><b>Personalidade:</b> Narra a própria vida como se estivesse ao vivo. Frase: \"Isso aqui é conteúdo, gente.\"</p><p><b>Classe:</b> Arraste a Classe <b>Ladino</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 Grava às escondidas. O vídeo vazado com o rosto do Sétimo (Ep2–4) é dela.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Adagas Gêmeas (kit)",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-curved-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Duas armas leves do kit: 1d4 + Poder de Ataque. Arremessáveis a 4 m. Causam 0 de dano se bloqueadas.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Adaga",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       },
+       {
+        "nome": "Arremessar Adaga",
+        "custoEstamina": 1,
+        "alcance": "4m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ao Vivo, Chat!",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Quando acerta um crítico, ela comemora e recupera 1 de Estamina (até 2 vezes por combate).</p>",
+      "usaUsosPassiva": true,
+      "usosPassivaAtual": 2,
+      "usosPassivaMax": 2,
+      "usosPassivaReset": "cena",
+      "usaGatilhos": true,
+      "gatilhos": [
+       {
+        "evento": "euAcerteiCritico",
+        "recurso": "estaminaCombate",
+        "quantidade": "1"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "neon-estelar",
+    "paleta": "neon",
+    "efeitos": [
+     {
+      "tipo": "ciclo",
+      "vel": 3,
+      "int": 55,
+      "cores": [
+       "#e88fc2",
+       "#8f4bc2",
+       "#4b7fc2"
+      ]
+     }
+    ],
+    "esmalte": "#1a0a24"
+   }
+  },
+  {
+   "name": "Tavita Fonoti",
+   "type": "npc",
+   "img": "icons/environment/people/spearfighter.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Guerreiro",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 5
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 7,
+     "max": 7
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 5,
+     "max": 5
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Enorme, calmo, as tatuagens samoanas aparecem no avatar também (ele pediu na calibração).</p><p><b>Como luta:</b> Escudo humano: se coloca na frente de quem é menor. Bate pouco, segura muito.</p><p><b>Personalidade:</b> Fala pouco, chama todo mundo de \"irmão\". Frase: \"Tudo bem, irmão. Eu seguro.\"</p><p><b>Classe:</b> Arraste a Classe <b>Guerreiro</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> Infeliz no D-1. Aliado natural dos PJs se alguém o tratar bem.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Vitalidade)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "vitalidade": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Machado de Mão (kit)",
+     "type": "arma",
+     "img": "icons/weapons/axes/axe-broad-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média do kit: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Machado de Mão",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Eu Seguro, Irmão",
+     "type": "habilidade",
+     "img": "icons/skills/melee/shield-block-bash-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ele se põe na frente de um aliado colado nele: o aliado ganha um Escudo de Vida igual à Vitalidade do Tavita até o fim da rodada.</p>",
+      "acoes": [
+       {
+        "nome": "Eu Seguro, Irmão",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaEscudo": true,
+        "escudoFormula": "@vitalidade",
+        "escudoNoAlvo": true,
+        "escudoDuracao": "fimRodada"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "corda",
+    "paleta": "bronze",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 35
+     }
+    ],
+    "esmalte": "#2f4a2a"
+   }
+  },
+  {
+   "name": "Freya Lindqvist",
+   "type": "npc",
+   "img": "icons/creatures/magical/humanoid-silhouette-dashing-blue.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Mago",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 11,
+     "max": 11
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Cabelo branco natural, postura perfeita. Nunca apoia os cotovelos; parte o pão com as mãos.</p><p><b>Como luta:</b> Precisa e fria. Fica atrás, escolhe o alvo mais perigoso e não erra.</p><p><b>Personalidade:</b> Fala pouco e só quando tem certeza. Frase: \"Eu não tirei essa nota por acaso.\"</p><p><b>Classe:</b> Arraste a Classe <b>Mago</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 Transmigrada: é a Lady Isolde, prima da Comandante Severa. No Ep1, o único indício: bate de leve no batente da porta.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Poder de Magia)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "poderMagia": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Poder de Magia.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Varinha de Cristal (kit)",
+     "type": "arma",
+     "img": "icons/weapons/wands/wand-carved-stone-shard.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Catalisador (arma ritualística): feixe de 1d4 de dano arcano + Poder de Magia, alcance 6 m.</p>",
+      "acoes": [
+       {
+        "nome": "Feixe de Cristal",
+        "custoEstamina": 1,
+        "alcance": "6m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderMagia",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderMagia",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Precisão Fria",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Crítico com 19 ou 20.</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "critMin",
+          "valor": "-1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "selo-real",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 45,
+      "cores": [
+       "#bfe3ff"
+      ]
+     }
+    ],
+    "esmalte": "#16304f",
+    "joia": "#4b7fc2"
+   }
+  },
+  {
+   "name": "Saanvi Rao",
+   "type": "npc",
+   "img": "icons/creatures/magical/humanoid-silhouette-glowing-pink.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Ladino",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 9,
+     "max": 9
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Elegante sem tentar; três brincos que ela jura que são \"ícones de debug\".</p><p><b>Como luta:</b> Observa primeiro, procura o \"bug\" do inimigo e manda os outros baterem ali.</p><p><b>Personalidade:</b> Fala rápido, em siglas. Frase: \"Tudo é código. Se não é, eu quero saber o que é.\"</p><p><b>Classe:</b> Arraste a Classe <b>Ladino</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> Atelier (Profa. Solberg). Pergunta a todo mundo se já mediram o tráfego de rede dos berços.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Roxo",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+     "system": {
+      "corHex": "#8f4bc2",
+      "bonusMenorAtributo": true,
+      "bonusMenorAtributoValor": 1,
+      "descricao": "<p>Roxo: curiosidade e astúcia. +1 no seu menor atributo (recalculado automaticamente).</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Adaga e Faca de Bota (kit)",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-curved-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Duas armas leves do kit: 1d4 + Poder de Ataque. Arremessáveis a 4 m. Causam 0 de dano se bloqueadas.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Adaga",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       },
+       {
+        "nome": "Arremessar Adaga",
+        "custoEstamina": 1,
+        "alcance": "4m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ler o Código",
+     "type": "habilidade",
+     "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ela olha o alvo até achar o padrão. Sem teste: o alvo a até 9 m fica Exposto (Facilidade e +2 no próximo dano que sofrer).</p>",
+      "acoes": [
+       {
+        "nome": "Ler o Código",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "tipoAlcance": "distancia",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Exposto",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "hexagono",
+    "paleta": "neon",
+    "efeitos": [
+     {
+      "tipo": "cintilar",
+      "vel": 2,
+      "int": 45,
+      "cores": [
+       "#bfa3ff"
+      ],
+      "dist": 90,
+      "tam": 80
+     }
+    ],
+    "esmalte": "#1e1436"
+   }
+  },
+  {
+   "name": "Ilya Petrenko",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Druida",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 5
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 5,
+     "max": 5
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Magro, mãos sempre limpas, sorri quando se machuca.</p><p><b>Como luta:</b> Cura todo mundo e entra em lugares perigosos sem hesitar: não sente dor nem na Terra.</p><p><b>Personalidade:</b> Calmo demais; pergunta de verdade como é sentir dor. Frase: \"Doeu? Me conta como foi.\"</p><p><b>Classe:</b> Arraste a Classe <b>Druida</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> Nasceu sem sentir dor (condição real). No TESSERA, com o filtro, ele começa a sentir algo pela primeira vez.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Cajado de Galho (kit)",
+     "type": "arma",
+     "img": "icons/weapons/staves/staff-forest-gold.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média do kit: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Cajado de Galho",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Sem Dor",
+     "type": "habilidade",
+     "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Não sofre penalidade por Estresse.</p>",
+      "ignoraPenalidadeEstresse": true
+     }
+    },
+    {
+     "name": "Primeiros Socorros",
+     "type": "habilidade",
+     "img": "icons/magic/life/cross-area-circle-green-white.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Toque: cura 1d4 + Vitalidade de um aliado colado. 2 usos por combate.</p>",
+      "acoes": [
+       {
+        "nome": "Primeiros Socorros",
+        "custoEstamina": 2,
+        "alcance": "1m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "curas": [
+         {
+          "formula": "1d4+@vitalidade",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "usaUsos": true,
+        "usosMax": 2,
+        "usosAtual": 2,
+        "usosReset": "cena"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "estrela-foliada",
+    "paleta": "esmeralda",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 40
+     }
+    ],
+    "esmalte": "#173a24"
+   }
+  },
+  {
+   "name": "Hiroshi Tanabe",
+   "type": "npc",
+   "img": "icons/environment/people/archer.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Caçador",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Rosto fechado, faixa na testa, arco nas costas. Treina sozinho no Berço antes de todo mundo acordar.</p><p><b>Como luta:</b> Distância, silêncio, um tiro por vez. Prepara o disparo e não desperdiça flecha.</p><p><b>Personalidade:</b> Responde com uma palavra. Frase: \"…Hm.\"</p><p><b>Classe:</b> Arraste a Classe <b>Caçador</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 A irmã, Aiko, fez a Expedição e está em coma num hospital de Meridia.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Arco Curto (kit)",
+     "type": "arma",
+     "img": "icons/weapons/bows/bow-recurve-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma à distância do kit: 1d6 + Poder de Ataque, alcance 9 m. Sofre com obstáculos no caminho.</p>",
+      "acoes": [
+       {
+        "nome": "Disparo de Arco Curto",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Faca de Caça (kit)",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-simple-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve do kit: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Faca",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Foco do Arqueiro",
+     "type": "condicao",
+     "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>Facilidade no próximo ataque. Some ao atacar.</p>",
+      "modificadores": [
+       {
+        "campo": "vantagemAtaque",
+        "valor": "vantagem"
+       }
+      ],
+      "removerAoAtacar": true,
+      "duracaoRodadas": 1
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Treino da Madrugada",
+     "type": "habilidade",
+     "img": "icons/skills/ranged/arrow-barbed-flying-gray.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ele respira e mira. Ganha Foco do Arqueiro: Facilidade no próximo ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Treino da Madrugada",
+        "custoEstamina": 1,
+        "alcance": "pessoal",
+        "modoAlvo": "nenhum",
+        "naoGeraPrioridade": true,
+        "condicaoEmMimUuid": "self:Foco do Arqueiro",
+        "condicaoEmMimAcumulos": 1
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "dente-de-serra",
+    "paleta": "obsidiana",
+    "efeitos": [
+     {
+      "tipo": "pulso",
+      "vel": 2,
+      "int": 45,
+      "cores": [
+       "#c24b4b"
+      ]
+     }
+    ],
+    "esmalte": "#140a0c"
+   }
+  },
+  {
+   "name": "Benji Okoro",
+   "type": "npc",
+   "img": "icons/environment/people/group.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Inventor",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Óculos vermelhos redondos (ele pediu igual aos de verdade), cinto cheio de bolsos e post-its.</p><p><b>Como luta:</b> Improvisa: engenhocas, armadilhas, piadas ruins no meio da luta.</p><p><b>Personalidade:</b> Braço amigo de todo mundo. Frase: \"Não esquecer: existir.\" (está num post-it)</p><p><b>Classe:</b> Arraste a Classe <b>Inventor</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1. Confira se o Inventor está liberado na sua mesa.</p><p><b>Para o Mestre:</b> 🔒 \"O amigo que vai cair\". Bom candidato a vizinho de quarto de um PJ.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Chave Inglesa Grande (kit)",
+     "type": "arma",
+     "img": "icons/tools/hand/wrench-adjustable-toothed.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média do kit: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Chave Inglesa Grande",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Engenhoca de Post-it",
+     "type": "habilidade",
+     "img": "icons/commodities/tech/antenna-powered-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Joga uma engenhoca barulhenta a até 6 m. Área de 2 m: 1d4 de dano e Caído em quem estiver lá (inimigos). 1 uso por combate.</p>",
+      "acoes": [
+       {
+        "nome": "Engenhoca de Post-it",
+        "custoEstamina": 2,
+        "alcance": "6m",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 2,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d4",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ],
+        "usaUsos": true,
+        "usosMax": 1,
+        "usosAtual": 1,
+        "usosReset": "cena"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "engrenagem",
+    "paleta": "bronze",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 40,
+      "cores": [
+       "#ffcf6a"
+      ]
+     }
+    ],
+    "esmalte": "#3a1f0a"
+   }
+  },
+  {
+   "name": "Rory Byrne",
+   "type": "npc",
+   "img": "icons/environment/people/infantry-army.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Empíreo",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Ruivo, sorriso fácil, uma cicatriz no ombro que aparece também no avatar.</p><p><b>Como luta:</b> Luta com os punhos, cantando. Quando o perigo é real, a postura muda: parece soldado treinado.</p><p><b>Personalidade:</b> Piada atrás de piada; fica pálido quando o assunto é morrer. Frase: \"Relaxa. Se for para morrer, que seja cantando.\"</p><p><b>Classe:</b> Arraste a Classe <b>Empíreo</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 Transmigrado: é o Ansel, irmão da Tilde, soldado de Ostrel morto na guerra. Pode dizer sem querer \"pela luz do farol\".</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Punhos Enfaixados (kit)",
+     "type": "arma",
+     "img": "icons/skills/melee/unarmed-punch-fist-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Soco Enfaixado",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Que Seja Cantando",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Quando chega à metade da Vida, ele começa a cantar e recupera 1 de Estamina (1 vez por combate).</p>",
+      "usaUsosPassiva": true,
+      "usosPassivaAtual": 1,
+      "usosPassivaMax": 1,
+      "usosPassivaReset": "cena",
+      "usaGatilhos": true,
+      "gatilhos": [
+       {
+        "evento": "metadeVida",
+        "recurso": "estaminaCombate",
+        "quantidade": "1"
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "sol-de-petalas",
+    "paleta": "ourolinha",
+    "efeitos": [
+     {
+      "tipo": "arco",
+      "vel": 2,
+      "int": 40
+     }
+    ],
+    "esmalte": "#3a1a10"
+   }
+  },
+  {
+   "name": "Amara Diallo",
+   "type": "npc",
+   "img": "icons/environment/people/cleric-grey.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Sacerdote",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 10,
+     "max": 10
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Tranças presas, caderno de couro preso ao cinto, anota até no meio da luta.</p><p><b>Como luta:</b> Apoio: acalma, lembra os outros de quem eles são.</p><p><b>Personalidade:</b> Escuta mais do que fala; entrevista os NPCs. Frase: \"Ninguém é esquecido enquanto alguém lembra o nome.\"</p><p><b>Classe:</b> Arraste a Classe <b>Sacerdote</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> A primeira da Turma D a se aproximar do Coletivo Lanterna (Prof. Damian).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Bastão de Griô (kit)",
+     "type": "arma",
+     "img": "icons/weapons/staves/staff-ornate-banded-purple.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve do kit: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Pancada de Bastão",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ninguém é Esquecido",
+     "type": "habilidade",
+     "img": "icons/magic/holy/chalice-glowing-gold-water.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Chama um aliado a até 6 m pelo nome: tira 1 acúmulo de uma Condição negativa dele.</p>",
+      "acoes": [
+       {
+        "nome": "Ninguém é Esquecido",
+        "custoEstamina": 1,
+        "alcance": "6m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "efeitosNoAlvo": [
+         {
+          "tipo": "removerAcumulos",
+          "formula": "1"
+         },
+         {
+          "tipo": "texto",
+          "texto": "Ela diz o nome do aliado em voz alta."
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "mandala",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 40
+     }
+    ],
+    "esmalte": "#1d2a4f"
+   }
+  },
+  {
+   "name": "Pietra Lenz",
+   "type": "npc",
+   "img": "icons/creatures/magical/humanoid-silhouette-green.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Místico",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Cabelo curto bagunçado, lápis atrás da orelha, um caderno de esboços que ela trouxe \"de algum jeito\".</p><p><b>Como luta:</b> Desenha no ar com um pincel: prende, atrasa, abre caminho. Curiosa até no perigo.</p><p><b>Personalidade:</b> Pergunta demais, ri alto. Se o PJ for brasileiro: \"ah, finalmente alguém!\". Frase: \"Eles não estão bugados. Eles estão esperando.\"</p><p><b>Classe:</b> Arraste a Classe <b>Místico</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> Pais engenheiros da Halden, que proibiram que ela entrasse. Aliada natural dos PJs.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Roxo",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+     "system": {
+      "corHex": "#8f4bc2",
+      "bonusMenorAtributo": true,
+      "bonusMenorAtributoValor": 1,
+      "descricao": "<p>Roxo: curiosidade e astúcia. +1 no seu menor atributo (recalculado automaticamente).</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Pincel de Calibração (kit)",
+     "type": "arma",
+     "img": "icons/tools/hand/brush-paint-brown-tan.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Catalisador (arma ritualística): feixe de 1d4 de dano arcano + Poder de Magia, alcance 6 m.</p>",
+      "acoes": [
+       {
+        "nome": "Traço de Luz",
+        "custoEstamina": 1,
+        "alcance": "6m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderMagia",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderMagia",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Traço que Prende",
+     "type": "habilidade",
+     "img": "icons/magic/control/debuff-chains-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Desenha uma linha no ar que prende os pés do alvo: 1d4 + Poder de Magia e 1 acúmulo de Lerdeza.</p>",
+      "acoes": [
+       {
+        "nome": "Traço que Prende",
+        "custoEstamina": 2,
+        "alcance": "6m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderMagia",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderMagia",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Lerdeza",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "leque",
+    "paleta": "livre",
+    "efeitos": [
+     {
+      "tipo": "cintilar",
+      "vel": 2,
+      "int": 45,
+      "cores": [
+       "#e88fc2"
+      ],
+      "dist": 90,
+      "tam": 80
+     }
+    ],
+    "esmalte": "#2a1238",
+    "cores": [
+     "#8f4bc2",
+     "#e88fc2"
+    ]
+   }
+  },
+  {
+   "name": "Inês Carvalho",
+   "type": "npc",
+   "img": "icons/environment/people/cavalry.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Caçador",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Canhota, um calo de pena no dedo, uma bússola que ela não lembra de ter pegado.</p><p><b>Como luta:</b> Sempre no lugar certo. Atira de longe e sabe de onde o inimigo vai sair.</p><p><b>Personalidade:</b> Fala baixo; desenha enquanto escuta. Frase: \"Eu já estive aqui. …Não. Eu acho que não.\"</p><p><b>Classe:</b> Arraste a Classe <b>Caçador</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 Transmigrada: a cartógrafa Oriane, de Pedra-Alta. Pode nunca ser revelada.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "poderAtaque": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Couro Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Arco de Caça (kit)",
+     "type": "arma",
+     "img": "icons/weapons/bows/bow-recurve-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma à distância do kit: 1d6 + Poder de Ataque, alcance 9 m. Sofre com obstáculos no caminho.</p>",
+      "acoes": [
+       {
+        "nome": "Disparo de Arco de Caça",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Adaga de Cartógrafa (kit)",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-simple-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve do kit: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Adaga",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Eu Já Estive Aqui",
+     "type": "habilidade",
+     "img": "icons/tools/navigation/compass-brass-blue-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Sabe onde as coisas estão: +2 m de alcance em todos os golpes. Na mesa: ela sempre sabe o caminho, mesmo em lugar novo.</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "alcanceBonus",
+          "valor": "2"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "bussola-deco",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 40,
+      "cores": [
+       "#bfe3ff"
+      ]
+     }
+    ],
+    "esmalte": "#18263a"
+   }
+  },
+  {
+   "name": "Omar Haddad",
+   "type": "npc",
+   "img": "icons/environment/people/cavalry-heavy.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "Sacerdote",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Avatar:</b> Elegante, joias de ouro da família no avatar também. As cores dele são fortes… por enquanto.</p><p><b>Como luta:</b> Calmo demais no perigo. Abençoa os aliados e encara o que assusta os outros.</p><p><b>Personalidade:</b> Gentil e intenso. Frase: \"E se Deus estiver lá dentro, esperando a gente notar?\"</p><p><b>Classe:</b> Arraste a Classe <b>Sacerdote</b> do compêndio <i>Nauren - Classes</i> para esta ficha: o sistema aplica sozinho as habilidades do nível 1.</p><p><b>Para o Mestre:</b> 🔒 O Merrow o convence de que o Hóspede é o Deus que voltou. No fim do Arco 1, é o Retornado sem cores que ajuda o Sétimo a fugir. A imunidade a medo é pista disso.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Robe Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/robe-collared-blue.webp",
+     "system": {
+      "defesaBonus": 2,
+      "tipo": "Tecido",
+      "equipado": true,
+      "descricao": "<p>Tecido: +2 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Capa Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/back/cloak-brown-accent-brown-layered-collared-fur.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Capa",
+      "equipado": true,
+      "descricao": "<p>Capa: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Botas Simples (kit TESSERA)",
+     "type": "armadura",
+     "img": "icons/equipment/feet/boots-leather-banded-furred.webp",
+     "system": {
+      "defesaBonus": 1,
+      "tipo": "Botas",
+      "equipado": true,
+      "descricao": "<p>Botas: +1 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Maça de Peregrino (kit)",
+     "type": "arma",
+     "img": "icons/weapons/maces/mace-round-ornate-purple.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve do kit: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Maça",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Fé Sem Medo",
+     "type": "habilidade",
+     "img": "icons/magic/holy/angel-winged-humanoid-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Não pode ficar Amedrontado. Ele não teme o que os outros temem, nem o que deveria temer.</p>",
+      "imunidadesCondicoes": [
+       "Amedrontado"
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Turma D",
+   "borda": {
+    "modelo": "coroa-solar",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "aura",
+      "vel": 1,
+      "int": 45,
+      "cores": [
+       "#cca162"
+      ]
+     }
+    ],
+    "esmalte": "#2a1d08"
+   }
+  }
+ ]
+}

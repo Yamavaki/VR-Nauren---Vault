@@ -23,7 +23,7 @@ updated: 2026-11-07
 | 8 | A virada | 5 | lanternas **brancas** rio acima, gente embaixo, canção perfeita, moça de branco andando na água · "Lagoa-Mansa" | **"O que vocês fazem?"** |
 | 9 | **Combate 1: as Cascas** (média) | 40 | 3 frentes, relógio de 4 rodadas cada (abaixo) · impossível salvar tudo | sino 2 rodadas ou fim das 4 rodadas |
 | ⇧ | **Interlúdio: nível 2** | 5 | silêncio; contam os levados · **+200 XP → nível 2** · "as cores ficam mais fortes, um calor no peito" · 2–3 min reais para a ficha | a canção recomeça rio acima |
-| 10 | **Combate 2: o Sétimo** (difícil) | 30 | chega pela água com a Vela e 2–3 Cascas · "Sor Aldric?!" · *"Vocês são como eu. Só que com coleira."* · luta | 10 PV, sino 2 rodadas ou 5 rodadas |
+| 10 | **Combate 2: o Sétimo** (difícil) | 30 | chega pela água com a Vela e 2–3 Cascas · "Sor Aldric?!" · *"Vocês são como eu. Só que com coleira."* · luta | 15 PV, sino 2 rodadas ou 5 rodadas |
 | 11 | A pergunta | 5 | olha o PJ que mais o interessou: *"Você. Qual é o seu nome?"* | lanternas sobem o rio |
 | 12 | Antes do amanhecer | 5 | lanternas novas para os levados · Tilde: "Por que ele queria o seu nome?" | desconectam |
 | E | Epílogo | 5 | "+100 pts. NPCs protegidos: X." Nenhuma linha para os levados · e-mail das 6h12 se alguém foi Desalojado | fim |
@@ -57,7 +57,7 @@ updated: 2026-11-07
 |---|---|---|---|---|---|---|
 | **Casca** | 5 | 11 | 2 | 2 | 1 | Agarrar · Arrastar 3 m · sem Estresse · sino = Amedrontado · ½ Vida, d6=6: diz o próprio nome e para 1 rodada |
 | **Irmã Vela** | 14 | 12 | 4 | 3 | 2 (PdM 3) | não luta a sério no Ep1 · Canção (Destino 12, Atordoado) · lanterna 1d6+3 Cego · trava se alguém cantar a parte da Hanne |
-| **O Sétimo** *(vs. nível 2)* | 30 | 14 | 5 | 4 | 3 | Espada 1d8+3 · 1º golpe em cada PJ = ½ dano · +1 PdA a cada dano (máx +3) · Comando da Casca · **Desalojar** (1×, Destino 13, nariz sangra) · na ½ Vida d6=6: perde a ação |
+| **O Sétimo** *(vs. nível 2)* | 60 | 15 | 5 | 6 | 5 | Espada 1d8+3 · 1º golpe em cada PJ = ½ dano · +1 PdA a cada dano (máx +3) · Comando da Casca · **Desalojar** (1×, Destino 13, nariz sangra) · na ½ Vida d6=6: perde a ação |
 
 Detalhes: [[Sétimo]], [[Bestiário - Arco 1]].
 

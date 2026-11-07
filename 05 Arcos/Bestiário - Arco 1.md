@@ -24,7 +24,7 @@ updated: 2026-11-07
 
 ## O Sétimo — Ep1 e Ep5 (o vilão)
 Ficha completa, luta e o final da pergunta em [[Sétimo]].
-- **Ep1:** 30 PV, não pode ser morto (recua a 10 PV, com o sino tocando 2 rodadas, ou após 5 rodadas).
+- **Ep1:** 60 PV, Defesa 15 (ficha do Foundry), não pode ser morto (recua a 15 PV, com o sino tocando 2 rodadas, ou após 5 rodadas).
 - **Ep5:** 45 PV (+10 por Berço da Zona 04 que tiver caído). Ganha **Desalojar** duas vezes por cena. Pode ser derrotado; o Aldric pode ser libertado (ver a nota dele).
 
 ## Irmã Vela — Ep1 e Ep5

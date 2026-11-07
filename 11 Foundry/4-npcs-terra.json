@@ -1,0 +1,1094 @@
+{
+ "pasta": "TESSERA",
+ "documentos": [
+  {
+   "name": "Diretor Aurelio Strand",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 1
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 10,
+     "max": 10
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~70 anos, italiano de Trieste, alto e curvado; terno cinza gasto nos cotovelos. Uma lanterna de papel desbotada na mesa.</p><p><b>Como age:</b> Fala baixo e enche a sala; pausas longas; diz \"TESSERA\" como um nome próprio. Frase: \"Ninguém constrói uma cidade em volta de um jogo.\"</p><p><b>Testes:</b> Inteligência alta (enganá-lo: Inteligência contra 15). Destino alto: ele sempre aparece na hora certa.</p><p><b>Para o Mestre:</b> 🔒 Sabe que Amarant é real e carrega a culpa sozinho. O discurso da Cerimônia está na nota dele.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Diretor da Aster",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre a história da Aster, a Halden e os protocolos da universidade.</p>"
+     }
+    },
+    {
+     "name": "Peso da Culpa",
+     "type": "habilidade",
+     "img": "icons/commodities/treasure/lantern-stone-grey.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Quando um aluno pergunta da lanterna, ele conta um pedaço da verdade, nunca a inteira.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "deco-coroa",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ]
+   }
+  },
+  {
+   "name": "Prof. Silas Merrow",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 11,
+     "max": 11
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~45 anos, escocês de Edimburgo; cardigã, óculos redondos, livro velho debaixo do braço. Lavanda na mesa. Tutor da Turma D, Línguas e Lore.</p><p><b>Como age:</b> Caloroso, engraçado, cita poemas em línguas de Amarant; lembra o nome de todos. Frase: \"Toda língua é uma porta, meus caros. Algumas só abrem para um lado.\"</p><p><b>Testes:</b> Perceber que ele está mentindo: Inteligência contra 16 (ele é muito bom).</p><p><b>Para o Mestre:</b> 🔒 O vilão escondido: quer a cura da filha, Clara, e por isso abre a porta para o Hóspede. Recruta pelos Cartógrafos; o Omar é dele.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Roxo",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+     "system": {
+      "corHex": "#8f4bc2",
+      "bonusMenorAtributo": true,
+      "bonusMenorAtributoValor": 1,
+      "descricao": "<p>Roxo: curiosidade e astúcia. +1 no seu menor atributo (recalculado automaticamente).</p>"
+     }
+    },
+    {
+     "name": "Profissão: Línguas e Lore de TESSERA",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre línguas, lendas e história de Amarant.</p>"
+     }
+    },
+    {
+     "name": "Lembra Todos os Nomes",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-embossed-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Sabe o nome de todo aluno, até de quem não se apresentou. Os jogadores devem achar isso encantador.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "relicario",
+    "paleta": "arcano",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 1,
+      "int": 35,
+      "cores": [
+       "#b48cff"
+      ]
+     }
+    ],
+    "esmalte": "#2a1638"
+   }
+  },
+  {
+   "name": "Prof. Edmund Thorne",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 9,
+     "max": 9
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~55 anos, inglês de Manchester; preto dos pés à cabeça, olheiras, anel de ferro no polegar. Frascos de cinza colorida na sala. Tanatologia Imersiva (\"a Aula da Morte\").</p><p><b>Como age:</b> Frio, direto, faz perguntas desconfortáveis em público; tamborila o anel quando alguém mente. Frase: \"Todo mundo aqui acha que morrer é de graça. É por isso que eu guardo a conta.\"</p><p><b>Testes:</b> Mentir para ele: Inteligência contra 15 (o anel o denuncia ao Mestre).</p><p><b>Para o Mestre:</b> Parece do mal, não é: ajuda do jeito dele. A primeira aula está na nota dele. Pediu para os calouros contarem as mortes.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Tanatologia Imersiva",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre morte, renascimento e o que sobra de um avatar.</p>"
+     }
+    },
+    {
+     "name": "Anel de Ferro",
+     "type": "habilidade",
+     "img": "icons/equipment/finger/ring-band-copper.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Quando alguém mente perto dele, ele tamborila o anel. Dica para os jogadores perceberem.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "grega",
+    "paleta": "obsidiana",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ],
+    "esmalte": "#1a1a1a"
+   }
+  },
+  {
+   "name": "Profa. Kirsten Holm",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> Dinamarquesa, ex-capitã pro (time Valkyr), cicatriz no queixo, apito no pescoço. Tutora da Turma B, Tática Imersiva.</p><p><b>Como age:</b> Chama todos pelo sobrenome; dura, justa, sem paciência para vaidade. Frase: \"Bonito não ganha luta. Vivo ganha.\"</p><p><b>Testes:</b> Impressioná-la num treino: Agilidade ou Força contra 14.</p><p><b>Para o Mestre:</b> Sabe mais do que ensina sobre o servidor principal (jogou lá).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Tática Imersiva",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre táticas de combate, liga pro e o servidor principal.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "picos-cardeais",
+    "paleta": "cobre",
+    "efeitos": [
+     {
+      "tipo": "pulso",
+      "vel": 2,
+      "int": 35,
+      "cores": [
+       "#c24b4b"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Profa. Ingrid Solberg",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 8,
+     "max": 8
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> Norueguesa de Tromsø; mãos sujas de graxa; prende o cabelo com uma chave de fenda. Tutora da Turma C, Engenharia de Imersão.</p><p><b>Como age:</b> Direta, impaciente com burocracia, desmonta coisas enquanto fala. Frase: \"Se eu não posso abrir, não é meu. E se não é meu, de quem é?\"</p><p><b>Testes:</b> Convencê-la a ajudar: mostrar uma peça estranha de um berço (sem teste).</p><p><b>Para o Mestre:</b> Patrona do Atelier. Quer descobrir o que é o gel âmbar dos berços.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Roxo",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+     "system": {
+      "corHex": "#8f4bc2",
+      "bonusMenorAtributo": true,
+      "bonusMenorAtributoValor": 1,
+      "descricao": "<p>Roxo: curiosidade e astúcia. +1 no seu menor atributo (recalculado automaticamente).</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Engenharia de Imersão",
+     "type": "habilidade",
+     "img": "icons/tools/hand/screwdriver-flat-steel-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre os berços, o hardware e o código do TESSERA.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "engrenagem",
+    "paleta": "cobre",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 35,
+      "cores": [
+       "#ffcf6a"
+      ]
+     }
+    ],
+    "esmalte": "#2a1a0a"
+   }
+  },
+  {
+   "name": "Prof. Kwame Asante",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 5
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 9,
+     "max": 9
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 6,
+     "max": 6
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> Ganês de Kumasi, ex-operador de mercado em Londres; ternos coloridos, gargalhada enorme, caderninho dourado. Tutor da Turma A, Economia de Mundos.</p><p><b>Como age:</b> Fala de tudo como investimento; generoso; adora o Placar. Frase: \"Tudo tem preço, meu jovem. Até o que não tem.\"</p><p><b>Testes:</b> Negociar com ele: Inteligência contra 15.</p><p><b>Para o Mestre:</b> Patrono dos Dourados: quer escolher o esquadrão calouro que vão patrocinar.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Magia)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderMagia": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Magia.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Economia de Mundos",
+     "type": "habilidade",
+     "img": "icons/commodities/currency/coins-assorted-crown-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre moedas, preços, comércio de Amarant e o mercado da liga.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "bussola-deco",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 40,
+      "cores": [
+       "#ffd27a"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Prof. Aurel Damian",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 11,
+     "max": 11
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~60 anos, romeno de Cluj; giz na mão, nenhum slide; uma palavra no quadro por aula. Tutor da Turma E, Ética das Simulações.</p><p><b>Como age:</b> Responde pergunta com pergunta; escuta muito. Frase: \"Venham na minha sala. Não tragam o celular.\"</p><p><b>Testes:</b> Ganhar a confiança dele: mostrar que se importa com um NPC (sem teste).</p><p><b>Para o Mestre:</b> Patrono do Coletivo Lanterna, a porta para os Dissidentes.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Ética das Simulações",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre dilemas morais, NPCs e o que a Halden esconde em público.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "mandala",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ],
+    "esmalte": "#1d2a3f"
+   }
+  },
+  {
+   "name": "Dra. Ilse Varga",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 11,
+     "max": 11
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~50 anos, húngara de Budapeste; jaleco abotoado até em cima; caderno azul de papel. Ala de Calibração.</p><p><b>Como age:</b> Frases curtas; corrige quem diz \"jogo\"; nunca diz \"morrer\" (\"desconectar abruptamente\"). Frase: \"A simulação, senhor. Não o jogo.\"</p><p><b>Testes:</b> Ler o caderno azul às escondidas: Agilidade contra 15. Arrancar uma informação: Inteligência contra 16.</p><p><b>Para o Mestre:</b> A Observadora: anota no caderno azul quem pergunta demais (relógio dela +1).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Medicina (Ala de Calibração)",
+     "type": "habilidade",
+     "img": "icons/tools/medical/bandage-rough.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre sintomas, o filtro somático e os exames.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "aro-duplo",
+    "paleta": "branco",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 1,
+      "int": 30,
+      "cores": [
+       "#bfe3ff"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Tomás Arrieta",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> 5º ano, espanhol de Valência, ex-pro; luvas de couro sempre. Monitor do 1º ano.</p><p><b>Como age:</b> Sarcástico, chama todos de \"calouro\"; quando fala sério, fala baixo e devagar. Frase: \"Regra número um, calouro: não dê seu nome a ninguém lá dentro.\"</p><p><b>Testes:</b> Fazê-lo falar da liga pro: Destino ou uma boa história, contra 14.</p><p><b>Para o Mestre:</b> 🔒 Morre de propósito para baixar a Sincronia. O colega dele (Lucas Brandt) morreu depois de uma Expedição.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Monitor (ex-pro)",
+     "type": "habilidade",
+     "img": "icons/sundries/books/book-open-brown-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre a liga, os veteranos e as regras não escritas do TESSERA.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "dente-de-serra",
+    "paleta": "cobre",
+    "efeitos": [
+     {
+      "tipo": "pulso",
+      "vel": 2,
+      "int": 35,
+      "cores": [
+       "#c24b4b"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Nadia Kovač",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> 30 anos, croata de Zagreb; turno da noite no Salão dos Berços; chama os berços de \"meninas\".</p><p><b>Como age:</b> Cantarola músicas antigas; bate de leve na tampa antes de fechar. Frase: \"Respira fundo quando fechar. Vai parecer que você caiu. Não caiu.\"</p><p><b>Testes:</b> Convencê-la a deixar um berço aberto fora do horário: Destino contra 13.</p><p><b>Para o Mestre:</b> Quem abre o casulo quando um PJ morre. Ótima para a cena curta na Terra de quem saiu da luta.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Técnica dos Berços",
+     "type": "habilidade",
+     "img": "icons/tools/hand/awl-steel-tan.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre os berços, os turnos e o que acontece com os corpos lá fora.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "contas",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ]
+   }
+  },
+  {
+   "name": "Sr. Dorian Kell",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 5
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 10,
+     "max": 10
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 6,
+     "max": 6
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~45 anos, terno cinza-chumbo sem uma ruga, caneta-tinteiro preta. Halden Systems.</p><p><b>Como age:</b> Cortesia perfeita; nunca ameaça, só lembra o que a pessoa tem a perder. Frase: \"A Halden só quer o melhor para vocês.\"</p><p><b>Testes:</b> Arrancar qualquer coisa dele: Inteligência contra 18. Se um PJ puxar assunto, ele anota.</p><p><b>Para o Mestre:</b> 🔒 Rosto da Halden (relógio A Colheita). Observa o Lorenz e a Turma D.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Executivo da Halden",
+     "type": "habilidade",
+     "img": "icons/tools/scribal/ink-quill-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre contratos, a Halden e o que ela quer de cada um.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Terra · Aster e Halden",
+   "borda": {
+    "modelo": "deco-colchetes",
+    "paleta": "obsidiana",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 1,
+      "int": 30,
+      "cores": [
+       "#9aa4b2"
+      ]
+     }
+    ],
+    "esmalte": "#121418"
+   }
+  }
+ ]
+}

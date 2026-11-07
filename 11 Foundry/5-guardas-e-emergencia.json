@@ -1,0 +1,1854 @@
+{
+ "pasta": "TESSERA",
+ "documentos": [
+  {
+   "name": "Soldado de Ostrel",
+   "type": "npc",
+   "img": "icons/environment/people/spearfighter.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 8,
+     "max": 8
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Recruta ou veterano ferido do Fortim de Orla: couro gasto, estandarte do farol. Olha os Retornados com alívio e nojo.</p><p><b>Como luta:</b> Em dupla, de lança, mantendo distância. Foge se o sargento cair.</p><p><b>História:</b> Quase toda a tropa foi para a frente contra Vharen; sobraram estes.</p><p><b>Dicas para o Mestre:</b> Guarda genérico. Aliado no Ep1 (troque a disposição para amigável); inimigo se os PJs brigarem com a Coroa.</p><p><b>Plano de luta:</b> Estocada de Lança todo turno; Dar Prioridade ao colega. Perjúrio: Estocada Dupla.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "8"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "poderAtaque": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Lança de Ostrel",
+     "type": "arma",
+     "img": "icons/weapons/polearms/spear-flared-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma de alcance: 1d6, 2 m.</p>",
+      "acoes": [
+       {
+        "nome": "Estocada de Lança",
+        "custoEstamina": 1,
+        "alcance": "2m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Couro de Recruta",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Couro",
+      "equipado": true,
+      "descricao": "<p>Couro: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Estocada Dupla",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: uma estocada que derruba. Use quando um jogador tirar 1 perto de dois soldados.</p>",
+      "acoes": [
+       {
+        "nome": "Estocada Dupla",
+        "custoEstamina": 0,
+        "alcance": "1m",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "2d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": 1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Besteiro do Fortim",
+   "type": "npc",
+   "img": "icons/environment/people/archer.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 13,
+    "movimento": 6,
+    "vida": {
+     "value": 7,
+     "max": 7
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Guarda da muralha do Fortim, besta no ombro.</p><p><b>Como luta:</b> Atira de cima, de trás de cobertura. Recua se alguém chega perto.</p><p><b>História:</b> Treinado para a frente leste, ficou por causa de uma perna ruim.</p><p><b>Dicas para o Mestre:</b> Guarda genérico à distância.</p><p><b>Plano de luta:</b> Virote todo turno; recua 3 m se for alcançado. Perjúrio: Virote na Junta.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "7"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Besta do Fortim",
+     "type": "arma",
+     "img": "icons/weapons/crossbows/crossbow-simple-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma à distância: 1d6, 9 m. Aplica Alvejado sozinho.</p>",
+      "acoes": [
+       {
+        "nome": "Virote de Besta",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Faca de Bota",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-black.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Faca",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Virote na Junta",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: um virote que trava a perna. Use quando um PJ tentar fugir.</p>",
+      "acoes": [
+       {
+        "nome": "Virote na Junta",
+        "custoEstamina": 0,
+        "alcance": "9m",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "2d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Lerdeza",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": 1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Miliciano de Vau-Cinzento",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 11,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Pescador ou lavrador com um forcado e coragem emprestada.</p><p><b>Como luta:</b> Em grupo, gritando. Foge na primeira ferida feia.</p><p><b>História:</b> A vila tem milícia porque o Fortim fica a meio dia.</p><p><b>Dicas para o Mestre:</b> Aldeão armado; aliado no festival.</p><p><b>Plano de luta:</b> Forcado em quem ameaça a família dele. Perjúrio: Todo Mundo Junto.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "4"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Forcado",
+     "type": "arma",
+     "img": "icons/weapons/polearms/trident-curved-steel.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Ferramenta de fazenda: 1d6, 2 m.</p>",
+      "acoes": [
+       {
+        "nome": "Forcado",
+        "custoEstamina": 1,
+        "alcance": "2m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Todo Mundo Junto",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: a milícia inteira empurra junto. Use para virar uma cena de multidão.</p>",
+      "acoes": [
+       {
+        "nome": "Todo Mundo Junto",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 2,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d6",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": 1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Desertor",
+   "type": "npc",
+   "img": "icons/environment/people/infantry-army.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 14,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Soldado que largou a frente leste. Uniforme sem insígnia, olhos cansados.</p><p><b>Como luta:</b> Bloqueia sempre: não quer morrer. Rende-se com metade da Vida.</p><p><b>História:</b> Fugiram da guerra contra Vharen; querem chegar ao litoral.</p><p><b>Dicas para o Mestre:</b> Contrato 2 (com o Brando). Conversa resolve mais que espada.</p><p><b>Plano de luta:</b> Bloquear, Corte só quando seguro. Metade da Vida: se rende. Perjúrio: Golpe Desesperado.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "5"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Espada de Soldado",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-guard-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Desertor",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Golpe Desesperado",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: o golpe de quem não tem nada a perder.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe Desesperado",
+        "custoEstamina": 0,
+        "alcance": "1m",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "2d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "obsidiana",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Brando",
+   "type": "npc",
+   "img": "icons/environment/people/infantry-armored.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 14,
+    "movimento": 6,
+    "vida": {
+     "value": 9,
+     "max": 9
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Líder dos desertores. Ex-cabo, barba por fazer, fala manso.</p><p><b>Como luta:</b> Protege os dele. Negocia se falarem primeiro.</p><p><b>História:</b> Rosto dos Livres: quer levar os desertores ao litoral.</p><p><b>Dicas para o Mestre:</b> Ver a nota do Brando no vault. Pode virar aliado (rotas escondidas, notícias da frente).</p><p><b>Plano de luta:</b> Bloquear e Dar Prioridade aos desertores. Se dois caírem, oferece trégua. Perjúrio: Pela Liberdade.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "9"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Espada de Cabo",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-broad-crystal-paired.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6.</p>",
+      "acoes": [
+       {
+        "nome": "Corte do Brando",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Pela Liberdade",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: um grito que faz os desertores avançarem de uma vez.</p>",
+      "acoes": [
+       {
+        "nome": "Pela Liberdade",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 2,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d6",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Amedrontado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": 0
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "corda",
+    "paleta": "obsidiana",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ]
+   }
+  },
+  {
+   "name": "Bandido de Estrada",
+   "type": "npc",
+   "img": "icons/environment/people/charge.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 13,
+    "movimento": 6,
+    "vida": {
+     "value": 6,
+     "max": 6
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Gente da estrada: capuz, faca torta, fome.</p><p><b>Como luta:</b> Emboscada; corta e some. Fogem quando a luta vira.</p><p><b>História:</b> A guerra deixou as estradas sem guarda.</p><p><b>Dicas para o Mestre:</b> Ficha de emergência para qualquer estrada.</p><p><b>Plano de luta:</b> Rodada 1: Pedrada de longe. Depois: Facada no mais fraco. Perjúrio: Emboscada.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "6"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Faca Torta",
+     "type": "arma",
+     "img": "icons/weapons/daggers/dagger-bone-barbed.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4 e Sangramento.</p>",
+      "acoes": [
+       {
+        "nome": "Facada",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Sangramento",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Funda",
+     "type": "arma",
+     "img": "icons/weapons/slings/sling-leather.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>À distância: 1d4, 9 m.</p>",
+      "acoes": [
+       {
+        "nome": "Pedrada de Funda",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Emboscada",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: um segundo bandido sai do mato e corta junto.</p>",
+      "acoes": [
+       {
+        "nome": "Emboscada",
+        "custoEstamina": 0,
+        "alcance": "1m",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "2d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Sangramento",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "obsidiana",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Lobo Faminto",
+   "type": "npc",
+   "img": "icons/creatures/mammals/wolf-howl-moon-gray.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 1
+     },
+     "destino": {
+      "value": 1
+     }
+    },
+    "defesa": 11,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 2,
+     "max": 2
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 1,
+     "max": 1
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Lobo magro da estrada, costelas aparecendo.</p><p><b>Como luta:</b> Cerca em dupla. Foge com metade da Vida.</p><p><b>História:</b> Fome da guerra: até os lobos estão mais ousados.</p><p><b>Dicas para o Mestre:</b> Ficha de emergência para viagens.</p><p><b>Plano de luta:</b> Mordida em quem estiver isolado; dois no mesmo alvo. Metade da Vida: foge. Perjúrio: Uivo da Matilha.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "4"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Mordida",
+     "type": "arma",
+     "img": "icons/creatures/abilities/fang-tooth-blood-red.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>1d4 + 1. Cerco: +1 no teste por lobo colado no mesmo alvo.</p>",
+      "acoes": [
+       {
+        "nome": "Mordida de Lobo",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+1",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "ataqueBonusExtra": "@aliados_1m"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Uivo da Matilha",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: o uivo chama mais dois lobos (coloque os tokens) e assusta quem está perto.</p>",
+      "acoes": [
+       {
+        "nome": "Uivo da Matilha",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 3,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d4",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Amedrontado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "dente-de-serra",
+    "paleta": "obsidiana",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Aldeão",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Qualquer pessoa de Vau-Cinzento: pescador, lavadeira, padeiro.</p><p><b>Como luta:</b> Não luta; foge, grita, protege os filhos.</p><p><b>História:</b> Vida simples na fronteira, com medo de Vharen e da Costura.</p><p><b>Dicas para o Mestre:</b> Ficha de emergência para vítimas e testemunhas. Use várias cópias no vau.</p><p><b>Plano de luta:</b> Foge. Se encurralado, Golpe de Ferramenta. Perjúrio: Pânico na Multidão.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "3"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Ferramenta",
+     "type": "arma",
+     "img": "icons/tools/hand/hammer-and-nail.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Ferramenta qualquer: 1d4.</p>",
+      "acoes": [
+       {
+        "nome": "Golpe de Ferramenta",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco definido.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Pânico na Multidão",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: a multidão atropela quem estiver no caminho.</p>",
+      "acoes": [
+       {
+        "nome": "Pânico na Multidão",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 2,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d4",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": 1
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "A Garça do Juncal",
+   "type": "npc",
+   "img": "icons/creatures/birds/corvid-call-sound-blue.webp",
+   "system": {
+    "nivel": 4,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 13,
+    "movimento": 6,
+    "vida": {
+     "value": 22,
+     "max": 22
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Uma garça cinza do tamanho de um cavalo, velha como o brejo. Não é corrompida. Tem um ninho.</p><p><b>Como luta:</b> Bica de longe, bate as asas para cegar e empurrar. Defende o ninho, não caça os PJs.</p><p><b>História:</b> Ela come Ocos. No ninho há restos de lanternas de festa e o badalo do sino de Lagoa-Mansa (pista F).</p><p><b>Dicas para o Mestre:</b> Contrato 4, chefe opcional. Terreno: água no joelho (movimento dobrado fora das pedras); neblina (−1 em ataques a mais de 6 m). Se poupada e respeitada, aparece no céu sobre o Berço na Noite Sem Lua.</p><p><b>Plano de luta:</b> Bico-Lança em quem chega perto do ninho; Bater Asas quando 2 ou mais estão colados (Ação Anunciada). Perjúrio: Mergulho.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "22"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Vitalidade)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "vitalidade": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Bico-Lança",
+     "type": "arma",
+     "img": "icons/creatures/abilities/stinger-poison-green.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>1d8 + 2, alcance 2 m.</p>",
+      "acoes": [
+       {
+        "nome": "Bico-Lança",
+        "custoEstamina": 2,
+        "alcance": "2m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d8+2",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Bater Asas",
+     "type": "habilidade",
+     "img": "icons/creatures/abilities/wings-birdlike-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ação Anunciada. Área de 3 m em volta: empurra 2 m e deixa Cego até o fim do turno.</p>",
+      "acoes": [
+       {
+        "nome": "Bater Asas",
+        "custoEstamina": 2,
+        "alcance": "pessoal",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 3,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "prioridadeIndicador": "PI",
+        "usaEmpurrar": true,
+        "empurrarMetros": 2,
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Cego",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ponto Fraco: 2, o pescoço. Se acertar, ela fica Atordoada por 1 turno (aplique à mão).</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Mergulho",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso: ela some na neblina e cai de cima. Use quando um PJ ficar isolado na água.</p>",
+      "acoes": [
+       {
+        "nome": "Mergulho da Garça",
+        "custoEstamina": 0,
+        "alcance": "1m",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "2d8+2",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0,
+    "width": 2,
+    "height": 2
+   },
+   "pasta": "Guardas e emergência",
+   "borda": {
+    "modelo": "estrela-foliada",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 35
+     }
+    ],
+    "esmalte": "#2a3a3a"
+   }
+  }
+ ]
+}

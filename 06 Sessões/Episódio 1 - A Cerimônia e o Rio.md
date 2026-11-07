@@ -120,7 +120,7 @@ Logo depois do interlúdio, ele chega pela água, atrás da Vela, com as Cascas 
 - O **Brask** (ou um soldado): "**Sor Aldric?!**"
 - Ele olha os PJs, inclina a cabeça, e entende o que eles são: *"Ah. Vocês são como eu. Só que com **coleira**."*
 - **A luta:** ficha e regras em [[Sétimo]]. Difícil de verdade: Curiosidade, Sentir Tudo (+PdA a cada dano), Desalojar (o PJ é jogado para fora e acorda com o **nariz sangrando**), a mão que treme.
-- **Vencer = fazê-lo recuar:** reduzi-lo a 10 PV, o sino tocar 2 rodadas (as Cascas dele recuam e ele vai junto), ou resistir 5 rodadas.
+- **Vencer = fazê-lo recuar:** reduzi-lo a 15 PV, o sino tocar 2 rodadas (as Cascas dele recuam e ele vai junto), ou resistir 5 rodadas.
 - **A morte agora custa:** os PJs estão no **nível 2**. Quem morrer **sai da luta para calibrar** e **volta ao nível 1** com a XP zerada, como o Thorne ensinou. Provavelmente **um PJ morre** aqui. É a lição da aula ficando real: deixe a perda pesar ("contem").
 - **O dilema:** o corpo é do Sor Aldric. O Brask grita: "Não o matem!"
 

@@ -1,0 +1,1042 @@
+{
+ "pasta": "TESSERA",
+ "documentos": [
+  {
+   "name": "Casca (Quieto)",
+   "type": "npc",
+   "img": "icons/creatures/magical/spirit-undead-ghost-tan-teal.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 1
+     },
+     "destino": {
+      "value": 1
+     }
+    },
+    "defesa": 11,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 2,
+     "max": 2
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 1,
+     "max": 1
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Um aldeão de Lagoa-Mansa: roupa de festa molhada, sorriso calmo, uma lanterna branca apagada na mão. Canta a canção do festival, mais bonito que qualquer vivo.</p><p><b>Como luta:</b> Não luta para matar. Agarra e arrasta para o rio. Ignora quem não está no caminho.</p><p><b>História:</b> Lagoa-Mansa aceitou o Repouso contra uma febre. A febre parou. As pessoas também. O corpo continua; a alma não.</p><p><b>Dicas para o Mestre:</b> Os jogadores vão achar que são NPCs bugados: deixe. Coloque vários tokens desta ficha (não vinculados). Uns 2 por jogador no Combate 1: 2 no sino e o resto no vau.</p><p><b>Plano de luta:</b> Rodada 1: Agarrar quem está mais perto da água. Depois: arrastar 3 m por turno para o rio. Se alguém bloquear o caminho, Mão Fria. Sino tocando: Amedrontadas; 2 rodadas: recuam. Perjúrio: quando um jogador tirar 1.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "5"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Vitalidade)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "vitalidade": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Agarrado pela Casca",
+     "type": "condicao",
+     "img": "icons/magic/control/debuff-chains-blue.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>Mãos frias seguram você. Movimento 0. Quando a Casca anda, você é arrastado junto (para o rio). Solta se a Casca cair ou se você pagar 2 de Estamina para se libertar (ou com um Ataque de Condição de um aliado).</p>",
+      "modificadores": [
+       {
+        "campo": "movimento",
+        "valor": "=0"
+       }
+      ],
+      "arrastarComOrigem": true,
+      "origemAfastaMetros": 1,
+      "origemCaiRemove": true,
+      "custoParaRemoverRecurso": "estamina",
+      "custoParaRemoverQuantidade": "2",
+      "motion": "preso"
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Agarrar e Levar",
+     "type": "habilidade",
+     "img": "icons/skills/melee/hand-grip-axe-strike-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Não querem matar: querem levar. Se acertar, o alvo fica Agarrado pela Casca. Depois ela anda para o rio e o arrasta junto (3 m por turno).</p>",
+      "acoes": [
+       {
+        "nome": "Agarrar e Levar",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Agarrado pela Casca",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Mão Fria",
+     "type": "arma",
+     "img": "icons/creatures/claws/claw-hooked-barbed.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Um empurrão, um tapa sem força. 1d4 + Poder de Ataque. Usada só quando algo atrapalha o caminho.</p>",
+      "acoes": [
+       {
+        "nome": "Mão Fria",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Sem Dor",
+     "type": "habilidade",
+     "img": "icons/magic/death/skull-cattle-totem-glow-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Não sofre penalidade por Estresse. Sorri o tempo todo, até ferida.</p>",
+      "ignoraPenalidadeEstresse": true
+     }
+    },
+    {
+     "name": "Medo do Sino",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Fraqueza (regra de mesa). Um sino tocando a até 10 m: todas as Cascas ficam Amedrontadas (ações custam +1 de Estamina). Sino tocando 2 rodadas seguidas: elas recuam para o rio. Quem anda entre as casas nota: o que entra sem tocar o sino da porta não é gente.</p>"
+     }
+    },
+    {
+     "name": "A Dor Lembra",
+     "type": "habilidade",
+     "img": "icons/skills/wounds/anatomy-bone-joint.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Regra de mesa. Quando a Casca chega à metade da Vida, role 1d6: no 6, ela para, olha as mãos e diz um nome (o próprio). Não age por 1 rodada.</p>"
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Sem Ponto Fraco no corpo. A fraqueza delas é o som do sino (ver Medo do Sino) e a dor (ver A Dor Lembra).</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Maré Quieta",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso do Grupo. Todas as mãos de uma vez: todo inimigo a até 3 m fica Agarrado. <b>Para o Mestre:</b> use quando um jogador tirar 1 no vau, ou guarde para quando a Lisel estiver quase no rio.</p>",
+      "acoes": [
+       {
+        "nome": "Maré Quieta",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 3,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Agarrado pela Casca",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": false,
+    "disposition": -1
+   },
+   "pasta": "Inimigos · Ep1",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "branco",
+    "efeitos": [],
+    "esmalte": "#cfd8d4"
+   }
+  },
+  {
+   "name": "Irmã Vela",
+   "type": "npc",
+   "img": "icons/creatures/magical/spirit-undead-ghost-blue.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 5
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 12,
+    "movimento": 6,
+    "vida": {
+     "value": 14,
+     "max": 14
+    },
+    "mana": {
+     "value": 11,
+     "max": 11
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Uma moça de branco que anda sobre a água, à frente das Cascas, cantando com uma voz perfeita. Sem cor nos olhos.</p><p><b>Como luta:</b> Não luta a sério no Ep1: canta e atordoa. Ajoelha-se na água quando o Sétimo aparece.</p><p><b>História:</b> Era a Ada, filha da Hanne, que foi servir na Casa do Repouso. A Madre a guarda como a Casca mais bonita.</p><p><b>Dicas para o Mestre:</b> O jeito de vencê-la é a canção da Hanne, não a espada. Se um PJ aprendeu a canção no festival, dê a ele o momento.</p><p><b>Plano de luta:</b> Rodada 1: Canção do Repouso no grupo maior. Depois: Clarão em quem tentar alcançar o vau. Quando o Sétimo chega: para e se ajoelha. Perjúrio: na virada.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "14"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Lembrança de Ada",
+     "type": "condicao",
+     "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>A canção da Hanne chegou até ela. Não ataca e não recebe Prioridade nesta rodada.</p>",
+      "travaAtaques": true,
+      "naoRecebePrioridade": "todos",
+      "duracaoRodadas": 1
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Canção do Repouso",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ação Anunciada. Todos os inimigos a até 6 m ficam Atordoados, a não ser que paguem 2 de Estamina para resistir (tapar os ouvidos, gritar por cima). Retornados de Sincronia baixa resistem fácil: ainda não estão amarrados o bastante (pista).</p>",
+      "acoes": [
+       {
+        "nome": "Canção do Repouso",
+        "custoEstamina": 2,
+        "alcance": "pessoal",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 6,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "prioridadeIndicador": "PI",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Atordoado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false,
+          "perguntarParaEvitar": true,
+          "custoParaEvitarRecurso": "estamina",
+          "custoParaEvitarQuantidade": "2"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Lanterna Branca",
+     "type": "arma",
+     "img": "icons/commodities/treasure/lantern-stone-grey.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>A lanterna de papel branca. Um clarão que cega: 1d6 + Poder de Magia e Cego.</p>",
+      "acoes": [
+       {
+        "nome": "Clarão da Lanterna Branca",
+        "custoEstamina": 1,
+        "alcance": "6m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderMagia",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d6+@poderMagia",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Cego",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Andar Sobre a Água",
+     "type": "habilidade",
+     "img": "icons/magic/water/water-drop-swirl-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Anda sobre o rio como se fosse chão. Ignora terreno de água.</p>"
+     }
+    },
+    {
+     "name": "A Voz que Falta",
+     "type": "habilidade",
+     "img": "icons/magic/holy/chalice-glowing-gold-water.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Fraqueza (regra de mesa). Se a Hanne (ou um PJ que aprendeu com ela) cantar a parte dela da canção, a Vela perde o turno: aplique Lembrança de Ada. Ela é a Ada, filha da Hanne.</p>"
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ponto Fraco: 2, a lanterna. Some +2 na Defesa só quando o jogador declarar que mira a lanterna. Se acertar, a lanterna apaga: ela não pode usar o Clarão até o fim da cena.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Coro de Lagoa-Mansa",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso. Todas as Cascas cantam com ela: inimigos a até 8 m ficam Amedrontados. <b>Para o Mestre:</b> use na virada (Cena 8) se a mesa estiver confiante demais.</p>",
+      "acoes": [
+       {
+        "nome": "Coro de Lagoa-Mansa",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 8,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Amedrontado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": -1
+   },
+   "pasta": "Inimigos · Ep1",
+   "borda": {
+    "modelo": "aro-duplo",
+    "paleta": "branco",
+    "efeitos": [
+     {
+      "tipo": "neon",
+      "vel": 1,
+      "int": 45,
+      "cores": [
+       "#e8f4ff"
+      ],
+      "fora": true
+     }
+    ],
+    "semEsmalte": true
+   }
+  },
+  {
+   "name": "O Sétimo (Sor Aldric Maren)",
+   "type": "npc",
+   "img": "icons/creatures/magical/spirit-undead-masked-blue.webp",
+   "system": {
+    "nivel": 4,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 5
+     },
+     "estamina": {
+      "value": 5
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 60,
+     "max": 60
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 6,
+     "max": 6
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> Um cavaleiro de armadura azul de Ostrel, com o farol raspado do peito. O rosto é do Sor Aldric Maren, campeão desaparecido. Pisca devagar demais; a sombra chega meio segundo atrasada. Cheira a comida antes de olhar.</p><p><b>Como luta:</b> Duelista de curta distância, rápido e móvel: avança com a Estocada, gira quando é cercado, prova a dor dos Retornados. Não mata Retornados à toa: quer estudá-los. Mata nativos sem pensar.</p><p><b>História:</b> Um Inquilino do Hóspede: o sétimo a atravessar. Tomou o corpo do Sor Aldric na fronteira, há três meses. A alma do Aldric ainda está lá dentro, presa num canto.</p><p><b>Dicas para o Mestre:</b> Combate 2 do Ep1, contra PJs de nível 2. Ninguém mata o Sétimo no Ep1: ele recua com 15 de Vida, com o sino tocando 2 rodadas ou depois de 5 rodadas. Provavelmente um PJ morre (sai da luta para calibrar e volta ao nível 1). O dilema: o corpo é do Aldric; o Brask grita \"Não o matem!\".</p><p><b>Plano de luta:</b> Rodada 1: chega pela água; Estocada que Prova no PJ que mais chamou atenção (a Curiosidade corta o 1º golpe em cada um pela metade); Comando da Casca. Rodada 2: Corte do Campeão em quem está com Dor Verdadeira; se 2 ou mais o cercarem, Giro do Campeão. Rodada 3: Desalojar (Ação Anunciada) no PJ mais teimoso. Metade da Vida: role A Mão que Treme. Com 15 de Vida: \"Chega. Já vi o que queria ver.\" e recua para a água, para fazer a pergunta do nome. Perjúrio: quando o grupo o cercar.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "60"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Roxo",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-purple.webp",
+     "system": {
+      "corHex": "#8f4bc2",
+      "bonusMenorAtributo": true,
+      "bonusMenorAtributoValor": 1,
+      "descricao": "<p>Roxo: curiosidade e astúcia. +1 no seu menor atributo (recalculado automaticamente).</p>"
+     }
+    },
+    {
+     "name": "Armadura de Ostrel (farol raspado)",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-layered-steel-blue-gold.webp",
+     "system": {
+      "defesaBonus": 4,
+      "tipo": "Placa de campeão, o farol raspado do peito",
+      "equipado": true,
+      "descricao": "<p>Placa de campeão, o farol raspado do peito: +4 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Saboreando",
+     "type": "condicao",
+     "img": "icons/magic/control/buff-flight-wings-blue.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>Cada ferida prova que ele está vivo. +1 de Poder de Ataque por acúmulo (máx. 3), até o fim do combate.</p>",
+      "acumulativel": true,
+      "acumulosMax": 3,
+      "modificadores": [
+       {
+        "campo": "poderAtaque",
+        "valor": "1"
+       }
+      ],
+      "duracaoRodadas": 0
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Dor Verdadeira",
+     "type": "condicao",
+     "img": "icons/skills/wounds/blood-cells-disease-green.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>O filtro somático falha perto dele. Por 2 rodadas, você sente a dor de verdade e sofre +1 em todo dano recebido.</p>",
+      "modificadores": [
+       {
+        "campo": "danoRecebido",
+        "valor": "1"
+       }
+      ],
+      "duracaoRodadas": 2
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Desalojado",
+     "type": "condicao",
+     "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>A alma foi empurrada para fora do avatar. O jogador sai da luta (desconectado, sem morrer e sem perder nível) e acorda na Terra com o nariz sangrando. Retire o token da cena.</p>",
+      "travaAtaques": true,
+      "modificadores": [
+       {
+        "campo": "movimento",
+        "valor": "=0"
+       }
+      ],
+      "naoRecebePrioridade": "todos",
+      "duracaoRodadas": 0
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Aldric Luta por Dentro",
+     "type": "condicao",
+     "img": "icons/magic/holy/barrier-shield-winged-blue.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>O Sor Aldric tenta retomar o próprio braço. O Sétimo não ataca e não recebe Prioridade nesta rodada.</p>",
+      "travaAtaques": true,
+      "naoRecebePrioridade": "todos",
+      "duracaoRodadas": 1
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Espada de Aldric",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-guard-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>A espada do campeão de Ostrel. Rápida e limpa. 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Corte do Campeão",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Estocada que Prova",
+     "type": "habilidade",
+     "img": "icons/skills/melee/strike-sword-stabbed-brown.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Avança até 3 m e crava a lâmina. Se acertar, o filtro somático do alvo falha: Dor Verdadeira (+1 em todo dano sofrido por 2 rodadas). Ele comenta: \"Agora você sente.\"</p>",
+      "acoes": [
+       {
+        "nome": "Estocada que Prova",
+        "custoEstamina": 2,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Dor Verdadeira",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ],
+        "usaMoverEscolhendo": true,
+        "moverQuem": "eu",
+        "moverMetros": "3",
+        "moverMomento": "antes",
+        "moverPertoDoAlvo": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Giro do Campeão",
+     "type": "habilidade",
+     "img": "icons/skills/melee/strike-axe-blood-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Gira a espada em volta de si: todo inimigo a até 2 m faz a defesa; quem for atingido sofre 1d6 + 2 e cai (Caído). 2 vezes por combate.</p>",
+      "acoes": [
+       {
+        "nome": "Giro do Campeão",
+        "custoEstamina": 3,
+        "alcance": "pessoal",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 2,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+2",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Caído",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ],
+        "usaUsos": true,
+        "usosMax": 2,
+        "usosAtual": 2,
+        "usosReset": "cena"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Desalojar",
+     "type": "habilidade",
+     "img": "icons/magic/control/silhouette-aura-energy.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ação Anunciada, 1 vez por combate. Toca o peito de um alvo a até 3 m e empurra a alma para fora. O alvo pode gastar 2 Dados de Destino para resistir (ou, na regra de mesa: 1d20 + Destino contra 13). Falhou: Desalojado.</p>",
+      "acoes": [
+       {
+        "nome": "Desalojar",
+        "custoEstamina": 3,
+        "alcance": "3m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "tipoAlcance": "corpoACorpo",
+        "prioridadeIndicador": "PI",
+        "usaUsos": true,
+        "usosMax": 1,
+        "usosAtual": 1,
+        "usosReset": "cena",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Desalojado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false,
+          "perguntarParaEvitar": true,
+          "custoParaEvitarRecurso": "destino",
+          "custoParaEvitarQuantidade": "2"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Comando da Casca",
+     "type": "habilidade",
+     "img": "icons/magic/control/buff-flight-wings-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Uma Casca a até 10 m recebe Prioridade e age. Elas se viram para ele como girassóis.</p>",
+      "acoes": [
+       {
+        "nome": "Comando da Casca",
+        "custoEstamina": 1,
+        "alcance": "10m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Sentir Tudo",
+     "type": "habilidade",
+     "img": "icons/magic/unholy/barrier-fire-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Os Retornados quase não sentem dor; ele sente tudo, e saboreia. Cada vez que sofre dano, ganha 1 acúmulo de Saboreando (+1 Poder de Ataque, máx. +3). Ferir o Sétimo o deixa mais perigoso.</p>",
+      "usaGatilhos": true,
+      "gatilhos": [
+       {
+        "evento": "euSofriDano",
+        "recurso": "condicaoEmMim:self:Saboreando",
+        "quantidade": "1"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Curiosidade",
+     "type": "habilidade",
+     "img": "icons/magic/perception/eye-ringed-glow-angry-large-red.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Regra de mesa. O primeiro ataque dele contra cada PJ causa metade do dano: ele está testando. Comenta em voz alta (\"rápido… mas sem raiva. Interessante.\").</p>"
+     }
+    },
+    {
+     "name": "A Mão que Treme",
+     "type": "habilidade",
+     "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Regra de mesa. Quando ele chega à metade da Vida, role 1d6: no 6, aplique Aldric Luta por Dentro. Se alguém gritar \"Aldric!\" (o Brask, um PJ), role com Facilidade (6 ou 5).</p>"
+     }
+    },
+    {
+     "name": "Corpo do Campeão (Chefe)",
+     "type": "habilidade",
+     "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Chefe: +1 de Estamina de Combate (um golpe a mais por rodada) e +1 de Defesa.</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estaminaCombate",
+          "valor": "1"
+         },
+         {
+          "campo": "defesa",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ponto Fraco: 3, o braço da espada (onde o Aldric ainda luta). Some +3 na Defesa só quando o jogador declarar que mira o braço. Se acertar: aplique Aldric Luta por Dentro (ele perde a próxima rodada de ataques).</p>"
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: Puxar a Coleira",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso. Ele puxa o fio que prende cada Retornado ao corpo: todos a até 3 m sofrem 1d6 e ficam Atordoados. <b>Para o Mestre:</b> use quando um jogador tirar 1 perto dele, ou guarde para quando o grupo cercá-lo.</p>",
+      "acoes": [
+       {
+        "nome": "Puxar a Coleira",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 3,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "danoDiretoSemTeste": true,
+        "danos": [
+         {
+          "formula": "1d6",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Atordoado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": -1
+   },
+   "pasta": "Inimigos · Ep1",
+   "borda": {
+    "modelo": "estrela-de-lancas",
+    "paleta": "livre",
+    "efeitos": [
+     {
+      "tipo": "aura",
+      "vel": 1,
+      "int": 50,
+      "cores": [
+       "#7fb3ff"
+      ]
+     },
+     {
+      "tipo": "pulso",
+      "vel": 3,
+      "int": 45,
+      "cores": [
+       "#c24b4b"
+      ]
+     }
+    ],
+    "esmalte": "#0d1426",
+    "cores": [
+     "#3a5f9e",
+     "#c9d6ea"
+    ],
+    "girar": {
+     "modo": "tudo",
+     "vel": 1,
+     "sentido": -1
+    }
+   }
+  }
+ ]
+}

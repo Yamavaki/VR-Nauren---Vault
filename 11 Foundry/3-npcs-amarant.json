@@ -1,0 +1,1567 @@
+{
+ "pasta": "TESSERA",
+ "documentos": [
+  {
+   "name": "Tilde",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 1
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~12 anos, cabelo cor de cobre com fita, joelhos ralados, avental com bolsos demais. Cuida do Berço sozinha.</p><p><b>Como age:</b> Três perguntas antes de esperar resposta; lembra o nome e a cor de cada Retornado; descreve tudo por cor. Frase: \"Vocês vieram na lua cheia, igual aos outros.\"</p><p><b>Na luta:</b> Não luta. Corre, grita, puxa gente para longe do rio.</p><p><b>Para o Mestre:</b> 🔒 O irmão dela, Ansel, é o Rory Byrne. Ela guarda numa caixa os itens dos Retornados que morrem. Nunca a coloque em perigo só para motivar os PJs.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Vassoura de Palha",
+     "type": "arma",
+     "img": "icons/tools/hand/broom-straw-brown.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Não é arma. Mas assusta galinha e Casca distraída.</p>",
+      "acoes": [
+       {
+        "nome": "Vassourada",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Grito do Nome",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ela grita o nome de um Retornado a até 12 m: ele recebe Prioridade. Na primeira vez, o PJ sente um puxão no peito (pode ser o 1º Nó dele).</p>",
+      "acoes": [
+       {
+        "nome": "Grito do Nome",
+        "custoEstamina": 1,
+        "alcance": "12m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Lembra Todos os Nomes",
+     "type": "habilidade",
+     "img": "icons/sundries/documents/blueprint-anchor.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Lembra o nome e a cor de todo Retornado que já passou pelo Berço, inclusive de anos atrás.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "sol-de-petalas",
+    "paleta": "cobre",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 35
+     }
+    ],
+    "esmalte": "#3a1a0a"
+   }
+  },
+  {
+   "name": "Sargento Brask",
+   "type": "npc",
+   "img": "icons/environment/people/infantry.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 5,
+    "vida": {
+     "value": 15,
+     "max": 15
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~60 anos, bigode branco, um olho só, perna rígida. Cuida dos novatos no Fortim de Orla.</p><p><b>Como age:</b> Rabugento e carinhoso; chama os PJs de \"Jurados\" e, se gosta, de \"garoto/garota\". Frase: \"Fiquem no vau e na praça. Fácil.\"</p><p><b>Na luta:</b> Segura o vau com dois soldados. Grita \"Sor Aldric!\" quando o Sétimo aparece (dá Facilidade na Mão que Treme).</p><p><b>Para o Mestre:</b> O Sor Aldric salvou a vida dele duas vezes. \"Ele não desertou, digam o que disserem.\"</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Cota Velha de Ostrel",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-blue.webp",
+     "system": {
+      "defesaBonus": 6,
+      "tipo": "Malha",
+      "equipado": true,
+      "descricao": "<p>Malha: +6 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Espada de Sargento",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-guard-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Corte de Sargento",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Segurar a Linha",
+     "type": "habilidade",
+     "img": "icons/skills/melee/shield-block-bash-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ele segura um aliado ou aldeão colado nele: Escudo de Vida igual à Vitalidade dele até o fim da rodada.</p>",
+      "acoes": [
+       {
+        "nome": "Segurar a Linha",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaEscudo": true,
+        "escudoFormula": "@vitalidade",
+        "escudoNoAlvo": true,
+        "escudoDuracao": "fimRodada"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Velho de Guerra",
+     "type": "habilidade",
+     "img": "icons/skills/social/wave-halt-stop.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Dá Prioridade a um aliado a até 9 m.</p>",
+      "acoes": [
+       {
+        "nome": "Ordem do Sargento",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "aro-duplo",
+    "paleta": "bronze",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ]
+   }
+  },
+  {
+   "name": "Rurik Mosse",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 8,
+     "max": 8
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> Intendente de Ostrel no Fortim de Orla. Barriga de ex-soldado, uniforme remendado, óculos de latão, balança de moedas.</p><p><b>Como age:</b> Formal, burocrático; pesa as moedas duas vezes; diz \"registrado\" em vez de \"obrigado\". Frase: \"Jurados. Registrados.\"</p><p><b>Testes:</b> Pechinchar um contrato: Inteligência contra 14.</p><p><b>Para o Mestre:</b> Distribui os contratos (o Quadro oficial em Amarant).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Vitalidade)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "vitalidade": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Intendente",
+     "type": "habilidade",
+     "img": "icons/commodities/currency/coins-assorted-crown-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre contratos, preços, a guerra contra Vharen e o Fortim.</p>"
+     }
+    },
+    {
+     "name": "Bengala de Latão",
+     "type": "arma",
+     "img": "icons/weapons/staves/staff-simple-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4.</p>",
+      "acoes": [
+       {
+        "nome": "Bengalada",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "contas",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Hanne",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> 50 anos, braços fortes, avental de farinha, voz de cantora. Viúva, dona do Ganso Torto.</p><p><b>Como age:</b> Fala e ri alto; passa o dedo nas marcas de faca do balcão quando está nervosa. Frase: \"Falta a segunda voz. Era da minha Ada.\"</p><p><b>Na luta:</b> No incêndio, entra para buscar as cartas da Ada. Se cantar a parte dela da canção perto da Irmã Vela, a Vela perde o turno.</p><p><b>Para o Mestre:</b> 🔒 A Irmã Vela é a Ada. Ensina a canção a quem quiser no festival.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Lembrança de Ada",
+     "type": "condicao",
+     "img": "icons/magic/holy/prayer-hands-glowing-yellow-green.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>A canção chegou até ela. Não ataca e não recebe Prioridade nesta rodada.</p>",
+      "travaAtaques": true,
+      "naoRecebePrioridade": "todos",
+      "duracaoRodadas": 1
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Cantar a Parte de Ada",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Canta a segunda voz da canção do festival. Só funciona na Irmã Vela (a até 12 m): ela recebe Lembrança de Ada. Em outro alvo, nada acontece. Um PJ que aprendeu a canção pode fazer o mesmo (copie esta habilidade para ele).</p>",
+      "acoes": [
+       {
+        "nome": "Cantar a Parte de Ada",
+        "custoEstamina": 1,
+        "alcance": "12m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "tipoAlcance": "distancia",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Lembrança de Ada",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Rolo de Massa",
+     "type": "arma",
+     "img": "icons/tools/cooking/bowl-steaming-brown.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Rolo de Massa",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "louros",
+    "paleta": "bronze",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ],
+    "esmalte": "#3a2a10",
+    "joia": "#e88fc2"
+   }
+  },
+  {
+   "name": "Ottmar",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 6,
+     "max": 6
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> O moleiro. Grande, fala baixo, enxuga as mãos secas no avental.</p><p><b>Como age:</b> Quer a filha segura. Muda de assunto se perguntam da mãe da Lisel.</p><p><b>Na luta:</b> No vau, segurando a Lisel. É arrastado com ela se ninguém ajudar.</p><p><b>Para o Mestre:</b> Ver Ottmar e Lisel no vault.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Vitalidade)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "vitalidade": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pá do Moinho",
+     "type": "arma",
+     "img": "icons/tools/hand/shovel-hand.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média improvisada: 1d6.</p>",
+      "acoes": [
+       {
+        "nome": "Pá do Moinho",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "trigo",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Lisel",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 1
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 1,
+     "max": 1
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> 8 anos, filha do Ottmar. Fita vermelha, a lanterna da avó.</p><p><b>Como age:</b> \"Retornado não queima a mão, né?\" Pede para um PJ segurar a lanterna.</p><p><b>Na luta:</b> Não luta. Está no vau no Combate 1 e é levada se o relógio do vau chegar a 4.</p><p><b>Para o Mestre:</b> Quem segurou a lanterna dela no festival é quem ela chama no ataque.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Lanterna da Avó",
+     "type": "habilidade",
+     "img": "icons/commodities/treasure/lantern-stone-grey.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Uma lanterna de papel vermelha com o nome da avó.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "cobre",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Pim",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 3,
+     "max": 3
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> 10 anos, o menino do sino da praça.</p><p><b>Como age:</b> Rápido, assustado, sobe em qualquer coisa.</p><p><b>Na luta:</b> Fugiu para o telhado da casa ao lado do sino. Duas Cascas cercam o poste. Se alguém tocar o sino 2 rodadas seguidas, as Cascas recuam.</p><p><b>Para o Mestre:</b> Relógio da frente do sino: 1 cercam o poste · 2 sobem no telhado · 3 chegam ao menino · 4 o levam.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Subir em Tudo",
+     "type": "habilidade",
+     "img": "icons/skills/movement/feet-bladed-boots-fire.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Escala telhados e postes sem teste.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Irmão Caetano",
+   "type": "npc",
+   "img": "icons/environment/people/cleric-grey.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 9,
+     "max": 9
+    },
+    "mana": {
+     "value": 9,
+     "max": 9
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~50 anos, magro, túnica cinza, descalço, sininhos no cinto. A Vigília.</p><p><b>Como age:</b> Calmo, parábolas de casa e porta; toca os sininhos antes de falar com um Retornado. Frase: \"Eu não tenho medo de vocês, meu filho. Tenho medo do que está segurando a sua mão.\"</p><p><b>Na luta:</b> Toca os sinos: Cascas e Hospedeiros por perto ficam com medo.</p><p><b>Para o Mestre:</b> Quer selar o Berço (relógio dele). Chega depois do Ep1.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Sinos da Vigília",
+     "type": "habilidade",
+     "img": "icons/magic/sonic/bell-alarm-red-purple.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Toca os sininhos do cinto. Todo inimigo a até 4 m fica Amedrontado, a não ser que pague 1 de Estamina. Para a Vigília, Retornados também são \"inimigos\" quando ele quer.</p>",
+      "acoes": [
+       {
+        "nome": "Sinos da Vigília",
+        "custoEstamina": 2,
+        "alcance": "pessoal",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 4,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Amedrontado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false,
+          "perguntarParaEvitar": true,
+          "custoParaEvitarRecurso": "estamina",
+          "custoParaEvitarQuantidade": "1"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Cajado de Peregrino",
+     "type": "arma",
+     "img": "icons/weapons/staves/staff-forest-gold.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6.</p>",
+      "acoes": [
+       {
+        "nome": "Cajado de Peregrino",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "grega",
+    "paleta": "prata",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 30
+     }
+    ],
+    "esmalte": "#2a2a2a"
+   }
+  },
+  {
+   "name": "Madre Ilvane (Fase 2: o Hóspede)",
+   "type": "npc",
+   "img": "icons/creatures/magical/humanoid-silhoette-alien-gray.webp",
+   "system": {
+    "nivel": 6,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 5
+     },
+     "inteligencia": {
+      "value": 6
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 14,
+    "movimento": 6,
+    "vida": {
+     "value": 40,
+     "max": 40
+    },
+    "mana": {
+     "value": 10,
+     "max": 10
+    },
+    "estaminaCombate": {
+     "value": 5,
+     "max": 5
+    },
+    "dadosDestino": {
+     "value": 4,
+     "max": 4
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Descrição:</b> A Madre da Casa do Repouso depois de cruzar o próprio limite. A sombra dela cresce no chão e tem mãos demais.</p><p><b>Como luta:</b> Segura de longe com as mãos da sombra, fecha a porta da dor em área, e se cura enquanto houver Cascas por perto.</p><p><b>História:</b> Ela acredita que o Repouso é misericórdia. O Hóspede deu a ela o fim da dor; o preço são as almas.</p><p><b>Dicas para o Mestre:</b> Opcional, para o Ep5 (PJs de nível 3–4). Na Fase 1 ela não luta: quem a ataca acerta um aldeão que se joga na frente.</p><p><b>Plano de luta:</b> Rodada 1: Mãos da Sombra nos dois mais perto. Rodada 2: Fechar a Porta no grupo. Depois: alterna. Fraquezas: o badalo de Lagoa-Mansa tocado perto dela (Atordoada e perde o Coro); a Vela voltar a ser a Ada (perde 10 de Vida). Perjúrio: o Hóspede olhando direto para a mesa.</p>",
+    "calculoVida": "customizado",
+    "vidaFormula": "40"
+   },
+   "items": [
+    {
+     "name": "Pigmento Branco (Poder de Magia)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "poderMagia": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Poder de Magia.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Porta Fechada",
+     "type": "condicao",
+     "img": "icons/magic/control/hypnosis-mesmerism-eye-tan.webp",
+     "system": {
+      "ativo": false,
+      "descricao": "<p>A Madre fechou a porta da dor: −1 de Estamina máxima até o fim da cena. Você não sente o próximo dano (ele vem do mesmo jeito; o Mestre só não diz quanto).</p>",
+      "modificadores": [
+       {
+        "campo": "estaminaCombate",
+        "valor": "-1"
+       }
+      ],
+      "duracaoRodadas": 0
+     },
+     "flags": {
+      "nauren": {
+       "modelo": true
+      }
+     }
+    },
+    {
+     "name": "Mãos da Sombra",
+     "type": "habilidade",
+     "img": "icons/magic/unholy/hand-claw-fire-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Até 2 alvos a até 6 m: 1d8 + Poder de Magia e Preso/Agarrado.</p>",
+      "acoes": [
+       {
+        "nome": "Mãos da Sombra",
+        "custoEstamina": 2,
+        "alcance": "6m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderMagia",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d8+@poderMagia",
+          "aplicarNoAlvo": true
+         }
+        ],
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Preso/Agarrado",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": true
+         }
+        ],
+        "numeroAlvos": 2
+       }
+      ]
+     }
+    },
+    {
+     "name": "Fechar a Porta",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolanter-orange.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ação Anunciada. Todos a até 4 m recebem Porta Fechada, a não ser que gastem 1 Dado de Destino (ou, na regra de mesa, passem em Destino contra 12).</p>",
+      "acoes": [
+       {
+        "nome": "Fechar a Porta",
+        "custoEstamina": 3,
+        "alcance": "pessoal",
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 4,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "prioridadeIndicador": "PI",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Porta Fechada",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false,
+          "perguntarParaEvitar": true,
+          "custoParaEvitarRecurso": "destino",
+          "custoParaEvitarQuantidade": "1"
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Coro",
+     "type": "habilidade",
+     "img": "icons/magic/life/heart-area-circle-red-green.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Passiva. Enquanto houver 3 ou mais Cascas (aliadas) a até 10 m, recupera 2 de Vida no início de cada rodada.</p>",
+      "usaGatilhos": true,
+      "gatilhos": [
+       {
+        "evento": "inicioRodada",
+        "recurso": "vida",
+        "quantidade": "2",
+        "condicaoFormula": "@aliados_10m >= 3"
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ponto Fraco",
+     "type": "habilidade",
+     "img": "icons/skills/targeting/crosshair-arrowhead-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Ponto Fraco: 2, o sino sem badalo que ela carrega. Se acertar: o sino cai e ela perde o Coro até o fim da cena.</p>"
+     }
+    },
+    {
+     "name": "Dar Prioridade",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Habilidade universal (Cap. III, Prioridade Estratégica). Concede Prioridade a um aliado à sua escolha.</p>",
+      "acoes": [
+       {
+        "nome": "Dar Prioridade",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    },
+    {
+     "name": "Perjúrio do Acaso: O Hóspede Olha",
+     "type": "habilidade",
+     "img": "icons/magic/control/fear-fright-jackolantern-yellow.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Só com 1 Perjúrio do Acaso. A sombra olha para cada um: todos a até 6 m ficam em Pavor. <b>Para o Mestre:</b> use com gosto, é o Hóspede olhando direto para a mesa.</p>",
+      "acoes": [
+       {
+        "nome": "O Hóspede Olha",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "consomePerjurio": true,
+        "naoGeraPrioridade": true,
+        "usaTemplate": true,
+        "templateTipo": "circle",
+        "templateTamanho": 6,
+        "modoAlvo": "area",
+        "areaDisposicao": "inimigos",
+        "condicoesAplicadas": [
+         {
+          "uuid": "self:Pavor",
+          "acumulos": 1,
+          "ativo": true,
+          "soSeAcertar": false
+         }
+        ]
+       }
+      ],
+      "prioridadeIndicador": "NP"
+     }
+    },
+    {
+     "name": "Categoria 1",
+     "type": "habilidade",
+     "img": "icons/skills/movement/arrow-down-pink.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p><b>Categoria 1</b> — referência para o Mestre. Dado de dano d6, sem Estamina extra por ataque, token 1x1. Estresse Máximo 3 (já automatizado aqui).</p>",
+      "efeitosVinculados": [
+       {
+        "ativo": true,
+        "modificadores": [
+         {
+          "campo": "estresse",
+          "valor": "1"
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": -1
+   },
+   "pasta": "Inimigos · Arco 1",
+   "borda": {
+    "modelo": "portal-arcano",
+    "paleta": "obsidiana",
+    "efeitos": [
+     {
+      "tipo": "aura",
+      "vel": 1,
+      "int": 50,
+      "cores": [
+       "#8f4bc2"
+      ]
+     },
+     {
+      "tipo": "ciclo",
+      "vel": 1,
+      "int": 40,
+      "cores": [
+       "#2a2a2a",
+       "#8f4bc2",
+       "#e8e4d8"
+      ]
+     }
+    ],
+    "esmalte": "#140a1e",
+    "girar": {
+     "modo": "tudo",
+     "vel": 1,
+     "sentido": 1
+    }
+   }
+  },
+  {
+   "name": "Comandante Severa de Ostrel",
+   "type": "npc",
+   "img": "icons/environment/people/cavalry-heavy.webp",
+   "system": {
+    "nivel": 6,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 6
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 30,
+     "max": 30
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 6,
+     "max": 6
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~40 anos, cabelo grisalho curto, armadura sem enfeites, fita azul no punho da espada. Uma pálpebra caída de um corte antigo.</p><p><b>Como age:</b> Fala como quem dá ordens até quando agradece. Nunca se senta se há soldados em pé.</p><p><b>Na luta:</b> Muito acima dos calouros. Se lutar, é para mostrar a diferença: dois golpes e acabou.</p><p><b>Para o Mestre:</b> 🔒 Prima da Lady Isolde (a Freya). Quer o Repouso para os soldados. Patrona com condições: obedecer e não falar do Aldric.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Cota Reforçada de Ostrel",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-blue.webp",
+     "system": {
+      "defesaBonus": 7,
+      "tipo": "Malha",
+      "equipado": true,
+      "descricao": "<p>Malha: +7 de Defesa.</p>"
+     }
+    },
+    {
+     "name": "Espada da Fita Azul",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-broad-crystal-paired.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Corte da Comandante",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Ordem de Comando",
+     "type": "habilidade",
+     "img": "icons/skills/social/diplomacy-handshake-blue.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Dá Prioridade a um aliado a até 12 m.</p>",
+      "acoes": [
+       {
+        "nome": "Ordem de Comando",
+        "custoEstamina": 1,
+        "alcance": "12m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "usaDarPrioridade": true
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "deco-coroa",
+    "paleta": "rubi",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 1,
+      "int": 35,
+      "cores": [
+       "#ffb0b0"
+      ]
+     }
+    ],
+    "esmalte": "#1a2a4a"
+   }
+  },
+  {
+   "name": "Mestre Corvin Baltasar",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 1
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 6,
+     "max": 6
+    },
+    "mana": {
+     "value": 9,
+     "max": 9
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~60 anos, gordo e bem vestido, anéis com cristais de sal, bengala com cabo de prata. Companhia do Sal.</p><p><b>Como age:</b> Fala de tudo em números; chama todo mundo de \"meu sócio\"; diz \"braços\" em vez de \"trabalhadores\".</p><p><b>Testes:</b> Negociar: Inteligência contra 15. Fazê-lo admitir as Cascas das salinas: só com prova.</p><p><b>Para o Mestre:</b> 🔒 Usa Cascas de Lagoa-Mansa como mão de obra nas salinas.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Profissão: Mestre do Sal",
+     "type": "habilidade",
+     "img": "icons/commodities/currency/coin-embossed-cobra-gold.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Profissão (Cap. VIII): pode fazer perguntas ao Mestre sobre comércio, barcos e rotas do rio Lenta.</p>"
+     }
+    },
+    {
+     "name": "Bengala de Prata",
+     "type": "arma",
+     "img": "icons/weapons/staves/staff-ornate-banded-purple.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4.</p>",
+      "acoes": [
+       {
+        "nome": "Bengala de Prata",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 0
+   },
+   "pasta": "Amarant · Vau-Cinzento e arredores",
+   "borda": {
+    "modelo": "selo-real",
+    "paleta": "ouro",
+    "efeitos": [
+     {
+      "tipo": "brilho",
+      "vel": 2,
+      "int": 35,
+      "cores": [
+       "#ffffff"
+      ]
+     }
+    ],
+    "esmalte": "#3a2f10",
+    "joia": "#e8e4d8"
+   }
+  }
+ ]
+}
