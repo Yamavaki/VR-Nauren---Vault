@@ -24,4 +24,8 @@ Do [[Campaign Brief - The Simulation]] §5. Cada arco sobe **um** degrau. Os jog
 |---|---|---|---|---|
 | O teto do nível 4 | é o 1º Nó | Varga, Tomás, veteranos | [[Pistas - Arco 1]] B | fim do Arco 1 (como pergunta) |
 | O Lorenz | programa dos Vessels | Halden (nível 2) | D | Arco 2 |
-| Os contratos | campanhas militares da Coroa | Mosse (em parte) | E | Parte 2 |
+| Os contratos | campanhas militares de Ostrel contra Vharen | Mosse (em parte) | E | Parte 2 |
+| O Hóspede copiou o Pacto | os Inquilinos roubam corpos; as Cascas esperam dono | ninguém na Terra; o Sétimo | C, F | Arco 3 |
+| Os Transmigrados | Freya = Lady Isolde; Rory = Ansel; Inês = cartógrafa de Pedra-Alta | Kell, o Estado (Strand?) | indícios, 1 por sessão | Parte 2+ (a Inês, talvez nunca) |
+| O Merrow | Aceleracionista; passa a lista de nomes ao Hóspede | ninguém | lavanda, perguntas demais, o Omar | Arco 2–3 |
+| Quem matou a Lady Isolde | um Inquilino, para começar a guerra | o Hóspede | — | Parte 2–3 |

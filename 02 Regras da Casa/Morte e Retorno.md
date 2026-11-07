@@ -1,6 +1,6 @@
 ---
 type: house-rules
-status: proposta
+status: decidido (morrer = perder 1 nível; sequelas crescentes) + proposta (detalhes)
 updated: 2026-11-07
 ---
 
@@ -13,13 +13,19 @@ No Nauren, 0 PV é o fim da jornada. Para o **avatar**, não: ele renasce. Mas a
 2. Ele pode voltar a mergulhar depois de **1 hora real** (na ficção: o tempo da "recalibração"). *Lembre: o tempo corre igual nos dois mundos. Se o grupo estava no meio de algo, o grupo segue sem ele.*
 3. Ele renasce no **Berço** (âncora) mais próximo que já tocou.
 4. **O que fica para trás:** o corpo antigo não some. Ele se desfaz em **cinza colorida** em algumas horas (nas cores do avatar). Os itens que ele carregava **ficam no chão**, onde ele caiu. Se ninguém pegar, um nativo pega.
-5. **XP:** não perde. No Nauren a Vida é **Vitalidade × Nível**, então um avatar de nível 1 tem uns 3–5 PV e **vai morrer bastante** no começo. Isso é bom para o tema ("morrer não dói"), mas tirar XP a cada morte puniria demais. O custo da morte é o **tempo fora**, o **corpo** e os **itens** deixados para trás.
+5. **Perde 1 nível** ✅ *(decisão do mestre)*. Nunca abaixo do **nível 1**.
+   - A XP volta a **0** dentro do nível novo.
+   - A Vida máxima cai junto (no Nauren, Vida = Vitalidade × Nível).
+   - **Os Nós já atravessados não se perdem.** Quem caiu do 5 para o 4 sobe de novo para o 5 só com XP, sem refazer o Nó.
+   - **Na ficção:** a morte "afrouxa" a conexão. A Halden chama de **"dessincronização"**. O [[Prof. Edmund Thorne]] explica isso na primeira aula.
+   > **Por que funciona com o Nauren:** no nível 1 não há o que perder, então os calouros podem morrer à vontade no Ep1 e aprender o sistema. A partir do nível 2, **cada morte dói no Placar e na ficha**, e o combate ganha peso.
+   > 🔒 **Para o futuro:** se morrer **baixa a Sincronia**, morrer também **diminui a dor e os efeitos na Terra**. Algum veterano (o [[Tomás Arrieta]]?) pode estar **morrendo de propósito** para não subir. Um dilema ótimo para o Arco 2–3.
 
 > **Por que deixar o corpo e os itens:** é a melhor pista do arco. "Gráficos" não deixam cadáver. E o item perdido cria uma missão natural (voltar para buscar), além de colocar o item na mão de um NPC (a [[Tilde]] guarda tudo).
 
 ## Exceção: o período de Calibração
 Nas **primeiras 24 horas** de cada calouro no TESSERA, o renascimento é **imediato** (sem a hora de espera), no Berço mais próximo. A Halden chama de "período de aprendizado".
-> **Por que:** a Sessão 1 tem um ataque grande e PJs de 3–5 PV. Com renascimento imediato, morrer vira **tática** (descer a colina correndo e voltar à luta), e os aldeões **veem** isso acontecer. É o primeiro momento em que os nativos olham para os jogadores com medo.
+> **Por que:** o Ep1 tem um ataque grande e PJs de 3–5 PV (nível 1, então a morte não tira nível). Com renascimento imediato, morrer vira **tática** (descer a colina correndo e voltar à luta), e os aldeões **veem** isso acontecer. É o primeiro momento em que os nativos olham para os jogadores com medo.
 
 ## Estresse
 - O Estresse funciona como no Nauren dentro do jogo.

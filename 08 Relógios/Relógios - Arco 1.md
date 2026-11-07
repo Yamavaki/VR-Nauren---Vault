@@ -4,49 +4,78 @@ arco: 1
 updated: 2026-11-07
 ---
 
-# Relógios das Ameaças: Arco 1
+# Relógios: Arco 1
 
-> **Como usar:** no fim de cada sessão, avance **1 etapa** de cada relógio em que os jogadores **não interferiram**. Se interferiram, o relógio para, volta ou muda de rumo. Marque a data ao lado.
+> **Como usar (*Proactive Roleplaying*):** depois de cada sessão, encha **0, 1 ou 2** segmentos de cada relógio conforme o que os PJs fizeram: ajudaram, atrapalharam ou ignoraram. Não planeje antes. Anote a data.
 > Os jogadores **nunca veem** os relógios. Veem as **consequências**.
-> **Exceção:** o relógio da Madre tem um **prazo fixo**: a etapa 6 acontece na Noite Sem Lua, esteja onde estiver.
+> **Exceção:** a Travessia tem **prazo fixo**: a etapa final acontece na Noite Sem Lua, esteja onde estiver.
 
-## 1. A Madre (o Repouso)
-- [ ] 1. **O Festival** (Sessão 1): os Quietos descem o rio e levam pessoas.
-- [ ] 2. **A oferta:** a Madre chega à vila, cura feridos de verdade, oferece o Repouso.
-- [ ] 3. **Os primeiros Repousados** em Vau-Cinzento: sorriem, dormem bem, **param de tocar o sino da porta**.
-- [ ] 4. **A vila se divide:** uma briga na praça; alguém tenta incendiar a carroça das Irmãs.
-- [ ] 5. **O Lorenz aceita o Repouso** para curar o avatar (ou outro Retornado, se o Lorenz já foi salvo de si mesmo).
-- [ ] 6. **A Noite Sem Lua:** o Grande Repouso no Berço. *(Prazo fixo: dia 14.)*
-**Para / muda:** destruir o sino sem badalo dela antes da Noite Sem Lua **enfraquece** o Grande Repouso (ver o bestiário). Expor a ela a verdade sobre a febre de 20 anos atrás (ver [[Pistas - Arco 1]]) faz **uma Irmã** desertar e contar o plano.
+## 1. A Travessia (o Sétimo)
+- [ ] 1. **A Maré Quieta** (Ep1): colheita nas vilas; o Sétimo testa os Retornados.
+- [ ] 2. Os levados chegam à Casa do Repouso. Começam a virar Cascas.
+- [ ] 3. Bilhete com a letra do Sor Aldric chega ao Fortim: "**não mandem ninguém atrás de mim**". *(A Severa manda abafar.)*
+- [ ] 4. As Cascas de Lagoa-Mansa **param a rotina** e ficam olhando para a colina do Berço.
+- [ ] 5. O Sétimo escolhe a **Irmã Vela** para o primeiro Inquilino.
+- [ ] 6. **A Noite Sem Lua.** *(Prazo fixo: dia 14.)*
+**Muda:** se o PJ que respondeu ao Sétimo **disse o nome real**, uma Casca o chama pelo nome em algum momento do Ep3 ou Ep4.
 
-## 2. A Observadora (Dra. Ilse Varga)
-*Escolha o PJ cujo **nome real** a Irmã Vela disser na Sessão 1.*
-- [ ] 1. Leituras estranhas no exame da Calibração (anota no papel).
-- [ ] 2. Depois do festival: chama o PJ. "Seu nome apareceu num log de NPC. A Halden vai chamar de vazamento de dados. **Você** contou seu nome a alguém lá dentro?"
-- [ ] 3. Aparece no Salão dos Berços no fim de um mergulho, sem motivo.
-- [ ] 4. Pede a um colega do PJ (o [[Benji Okoro]]?) que conte "como ele anda dormindo".
-- [ ] 5. Oferece um acordo: horas de berço extras em troca de exames **sigilosos**.
-- [ ] 6. Fala do teto do nível 4 ("não conte a ninguém"). *(Fim do arco.)*
-**Muda:** se o PJ confrontá-la com algo concreto, ela pula para a etapa 5.
+## 2. O Repouso (a Madre)
+- [ ] 1. Recebe os levados com carinho.
+- [ ] 2. **A oferta** (Ep2): cura feridos em Vau-Cinzento; oferece o Repouso.
+- [ ] 3. Os primeiros Repousados da vila sorriem, dormem bem e **param de tocar o sino da porta**.
+- [ ] 4. A vila se divide: briga na praça; alguém tenta incendiar a carroça das Irmãs.
+- [ ] 5. Fecha o acordo com a Comandante Severa.
+- [ ] 6. Leva os Repousados ao Berço na Noite Sem Lua.
+**Muda:** se os PJs **provarem** que o Repouso faz Cascas para Inquilinos, ela trava na etapa atual e, no Ep5, **se volta contra o Sétimo**.
 
-## 3. Irmão Caetano
-- [ ] 1. Chega a Vau-Cinzento no dia seguinte ao festival. Prega: "os Hospedeiros chegaram na lua cheia, e o rio trouxe os Quietos. Não é coincidência."
-- [ ] 2. Pendura sinos novos em todas as portas. Dá à [[Tilde]] uma fita branca.
+## 3. A Comandante
+- [ ] 1. Chega ao Fortim de Orla para recrutar e "resolver o caso Aldric".
+- [ ] 2. Proíbe que se fale do Aldric. Quem falar perde contratos.
+- [ ] 3. Visita a Casa do Repouso. Vê soldados feridos curados.
+- [ ] 4. Fecha o acordo: o Repouso para um pelotão.
+- [ ] 5. O pelotão Repousado vai à Noite Sem Lua "defender o Berço", e não sabe de que lado lutar.
+**Muda:** se os PJs trouxerem **provas** de que o Sétimo usa o corpo do Aldric (e de que o Aldric ainda está lá dentro), ela muda de lado e vira **patrona**.
+
+## 4. Mais Braços (a Companhia do Sal)
+- [ ] 1. Os trabalhadores das salinas já são Cascas (a D-2 descobre na Maré Quieta).
+- [ ] 2. O Corvin compra **mais Repouso**: os levados viram "braços".
+- [ ] 3. Barcos da Companhia levam Cascas rio abaixo, à noite.
+- [ ] 4. O Corvin oferece **dinheiro** aos esquadrões calouros para "não mexerem nos braços".
+**Muda:** se os PJs libertarem as salinas, o relógio para, e a Companhia vira **inimiga**: corta o sal do Fortim e culpa os Retornados.
+
+## 5. Irmão Caetano
+- [ ] 1. Chega no dia seguinte ao festival. Prega: "os Hospedeiros chegaram na lua cheia, e o rio trouxe as Cascas."
+- [ ] 2. Pendura sinos novos em todas as portas. Dá à Tilde uma fita branca.
 - [ ] 3. Testemunha um Retornado renascer no Berço. Fica parado na chuva, rezando.
-- [ ] 4. Vai sozinho à Casa do Repouso falar com a Madre. Volta **calado e com uma mão enfaixada**.
-- [ ] 5. **Marca o Berço** com sal e cinza: por 3 dias, quem morre renasce no **Fortim**.
+- [ ] 4. Vai sozinho à Casa do Repouso falar com a Madre. Volta calado e com a mão enfaixada.
+- [ ] 5. **Marca o Berço** com sal e cinza: por 3 dias, quem morre renasce no Fortim.
 - [ ] 6. Na Noite Sem Lua, tenta **selar o Berço** de vez.
-**Muda:** se um PJ conversar com ele **de igual para igual**, ele conta o que sabe da Madre (estudaram juntos) e propõe uma aliança, com o preço de selar o Berço depois. Se os PJs **provarem** que não são o Oco (ex.: um PJ toca o sino da porta por vontade própria, várias vezes, na frente dele), ele não sela. Ele espera.
+**Muda:** se um PJ conversar com ele de igual para igual, ele propõe aliança (preço: selar o Berço depois). Se os PJs **tocarem o sino da porta** na frente dele, várias vezes, ele hesita, e não sela.
 
-## 4. Esquadrão Albrecht
-- [ ] 1. Top 3 do Placar na primeira semana. (Avatar já no nível 2 no dia 1: pista dos Vessels.)
-- [ ] 2. Pega o contrato "Purificação: Lagoa-Mansa" e **queima** a aldeia (se os PJs não pegarem antes). Vídeo no Placar: "Conteúdo de terror bem feito, recomendo."
-- [ ] 3. Recruta quem os PJs deixaram de lado (a [[Pietra Lenz]] ou outro NPC).
-- [ ] 4. O avatar do Lorenz é ferido gravemente; ele **aceita o Repouso** na Casa ("é só um buff de cura, relaxa").
-- [ ] 5. Na Noite Sem Lua, o avatar dele está **entre os Quietos**. Na Terra, ele convulsiona na sala V.
-**Muda:** se os PJs se aproximarem do Lorenz como pessoa (não como rival), a etapa 4 trava: ele conta que tem medo do próprio avatar.
+## 6. Na Terra
+**A Observadora (Dra. Varga)** — *o PJ que foi Desalojado pelo Sétimo, ou o que disse o nome*
+- [ ] 1. Exame depois do Ep1: "você chegou com o nariz sangrando. Isso não acontece no nível 1."
+- [ ] 2. Pede exames extras.
+- [ ] 3. Aparece no Salão dos Berços sem motivo.
+- [ ] 4. Pergunta a um colega como o PJ anda dormindo.
+- [ ] 5. Oferece um acordo: horas de berço extras em troca de exames **sigilosos**.
+- [ ] 6. Fala do teto do nível 4. *(Fim do arco.)*
 
-## 5. Pequenos relógios
-- **Benji:** 1 cansado → 2 mergulha escondido além das horas → 3 sangra pelo nariz ao sair (Sessão 4) → *(internação: Arco 2)*.
-- **A bolsa:** se o esquadrão estiver fora do top 30 na Sessão 3, chega o e-mail "Revisão de elegibilidade" para os bolsistas.
-- **Os Levados:** cada sessão sem resgate, **um** Levado vira Quieto de vez (anote quem; se for alguém que os PJs conhecem, mostre na Sessão 5).
+**O rival (Esquadrão Kaiser)**
+- [ ] 1. Top 3 do ano na primeira semana (o avatar do Lorenz já está no nível 2).
+- [ ] 2. Pega o contrato "Purificação: Lagoa-Mansa" e **queima** a aldeia.
+- [ ] 3. O Tavita pede transferência (se alguém foi bondoso com ele).
+- [ ] 4. O avatar do Lorenz é ferido gravemente; ele **aceita o Repouso** ("é só um buff de cura").
+- [ ] 5. Na Noite Sem Lua, o avatar dele está **entre as Cascas**. Na Terra, ele convulsiona na sala V.
+
+**O tutor (Prof. Merrow)**
+- [ ] 1. Pergunta aos PJs, com brilho nos olhos, **como o Sétimo soava**.
+- [ ] 2. Convida os PJs para os Cartógrafos.
+- [ ] 3. O Omar sai da sala dele com os olhos vermelhos.
+- [ ] 4. O Omar volta da Casa do Repouso "calmo demais".
+- [ ] 5. Na Noite Sem Lua, o Omar não está no Berço do esquadrão dele.
+
+## Pequenos relógios
+- **Benji:** cansado → mergulha escondido além das horas → sangra pelo nariz (Ep4) → *(internação: Arco 2)*.
+- **A bolsa:** se o esquadrão estiver fora do top 12 do ano no Ep3, chega o e-mail "Revisão de elegibilidade" para os bolsistas.
+- **Os Levados:** cada sessão sem resgate, **um** levado vira Casca de vez. Anote quem.

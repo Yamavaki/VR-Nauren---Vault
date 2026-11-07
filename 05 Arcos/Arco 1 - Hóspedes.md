@@ -2,116 +2,114 @@
 type: arc
 arco: 1
 titulo: Hóspedes
-status: proposta
+status: decidido (estrutura geral) + proposta (detalhes)
 niveis: 1 → 4 (teto do 1º Nó)
-sessoes: 5–6
+episodios: 5–6
 escada: nível 0 (só indícios do nível 1)
-vila: "[[Madre Ilvane]]"
+vilao: "[[Sétimo]]"
 updated: 2026-11-07
 ---
 
 # Arco 1: Hóspedes
 
-> **Uma frase:** na primeira noite no "jogo", a vila do festival é atacada por pessoas que cantam bonito demais. Elas levam gente para uma abadessa gentil que cura toda dor, e que quer o Berço por onde os jogadores entram.
+> **Uma frase:** na primeira noite no "jogo", todas as zonas dos calouros são atacadas por pessoas que cantam bonito demais. Por trás, um Inquilino no corpo de um herói de guerra, que reconhece os jogadores pelo que eles são.
 
-Isto é uma **situação**, não um roteiro ([[RPG Campaign Guide]] §2): o que está acontecendo, quem quer o quê e o que acontece se ninguém agir. Os jogadores escolhem o caminho.
+Isto é uma **situação**, não um roteiro. Seguimos o *Proactive Roleplaying*: as **metas dos jogadores** decidem o caminho; as **facções** ([[Facções]]) andam com ou sem eles.
 
 ---
 
-## 1. Objetivos da equipe
-- **Médio prazo (o semestre):** ficar no **top 3** da Liga para ganhar a **Expedição Aurora**. Ver [[O Semestre e a Expedição]].
-- **No arco:** sobreviver ao Mês de Calibração com **pontos** suficientes para não cair no corte… e decidir o que fazer com **os Levados** de Vau-Cinzento.
-- **O conflito embutido:** o que dá pontos (contratos da Coroa, velocidade, Evento de Liga) quase nunca é o que salva as pessoas. **Toda sessão, o Placar e a vila puxam para lados diferentes.**
+## 1. Objetivos
+- **Do esquadrão (semestre):** top 3 do ano → a Expedição ([[O Semestre e a Expedição]]).
+- **Dos PJs:** as metas da [[Sessão 0 - Criação]] (anotadas em [[Facções#As metas dos jogadores (preencher na Sessão 0)]]).
+- **O conflito embutido:** o que dá pontos quase nunca é o que salva as pessoas. **Toda sessão, o Placar e o mundo puxam para lados diferentes.**
 
-## 2. As promessas da Sessão 1 (o que o primeiro episódio "promete")
-Com cenas, nunca em voz alta:
-1. **É uma história sobre um time** (formar o esquadrão).
-2. **O jogo é estranho** (sem HUD, a Costura no céu, os NPCs que lembram).
-3. **Tem algo errado com os NPCs "bugados"** (os Quietos cantam a canção perfeita).
-4. **Tem uma vilã, e ela sabe quem vocês são** ("a Madre está esperando vocês", dito com o **nome real** de um PJ).
-5. **Haverá um rival** (o [[Lorenz Albrecht]]).
-6. **As escolhas ficam** (quem eles não salvaram no festival continua levado).
+## 2. A ameaça imediata: a Maré Quieta
+Na noite do **Festival das Lanternas**, ao longo dos rios de **todas as Zonas de Iniciação**, as **Cascas** sobem a correnteza com lanternas brancas, cantando, e **levam pessoas vivas** das vilas em festa.
+- **Por que nessa noite:** com o rio cheio de lanternas dos mortos, **a porta da água fica mais fina**. O folclore estava certo, ao contrário: as lanternas não levam os mortos embora; **elas iluminam o caminho para o que vem.**
+- **O que a Maré quer:** 1) **colher** corpos vivos → a Casa do Repouso → novas Cascas; 2) **testar** os Retornados (o Hóspede acabou de descobrir que existem); 3) preparar **a Noite Sem Lua**: tomar os Berços e fazer uma travessia em massa de Inquilinos.
+- **Na Zona 04 (Turma D):** cada esquadrão vive o ataque na própria vila ([[Turma D#A Turma D na noite da Maré Quieta]]). **Os PJs, em Vau-Cinzento, encontram o [[Sétimo]].**
+- **Nas outras zonas:** a mesma coisa, em outros rios. No dia seguinte, a Aster inteira só fala disso. A Halden publica uma "nota de correção de bug" que não corrige nada.
 
-## 3. As forças em movimento
-| Força | Quer | Método | Relógio |
-|---|---|---|---|
-| **[[Madre Ilvane]]** (o Hóspede) | tomar o Berço na **Noite Sem Lua** | Quietos, cura verdadeira, o Repouso | [[Relógios - Arco 1#1. A Madre (o Repouso)]] |
-| **A Coroa** ([[Rurik Mosse]]) | conter o Oco **barato** | **fogo** e Retornados | dispara os contratos 6 e F |
-| **A Vigília** ([[Irmão Caetano]]) | fechar as portas: a Casa do Repouso **e** o Berço | sermões, sal, ritos | [[Relógios - Arco 1#3. Irmão Caetano]] |
-| **Esquadrão Albrecht** ([[Lorenz Albrecht]]) | top 1 a qualquer custo | contratos rápidos, sem perguntas | [[Relógios - Arco 1#4. Esquadrão Albrecht]] |
-| **[[Dra. Ilse Varga]]** (Halden) | entender as leituras e o "nome verdadeiro" | exames, acordos | [[Relógios - Arco 1#2. A Observadora]] |
+## 3. As forças em movimento (no máximo 4 por problema)
+| Força | Quer | Relógio |
+|---|---|---|
+| **O Hóspede / o [[Sétimo]]** | a **Travessia** pelos Berços na Noite Sem Lua | [[Relógios - Arco 1#1. A Travessia (o Sétimo)]] |
+| **A Casa do Repouso** ([[Madre Ilvane]]) | levar o Repouso a todas as vilas | [[Relógios - Arco 1#2. O Repouso (a Madre)]] |
+| **Ostrel** ([[Comandante Severa de Ostrel]]) | o Repouso para os soldados; abafar o caso do Sor Aldric | [[Relógios - Arco 1#3. A Comandante]] |
+| **A Companhia do Sal** ([[Mestre Corvin Baltasar]]) | mais "braços" | [[Relógios - Arco 1#4. Mais Braços]] |
+| **A Vigília** ([[Irmão Caetano]]) | selar os Berços | [[Relógios - Arco 1#5. Irmão Caetano]] |
+| **Na Terra** | Halden (Varga), o rival (Lorenz), o tutor (Merrow) | [[Relógios - Arco 1#6. Na Terra]] |
 
 ## 4. O relógio do mundo: a Noite Sem Lua
-- A Sessão 1 acontece na **lua cheia** (o festival). A **lua nova** vem **14 dias depois**.
-- **O tempo passa igual nos dois mundos**, então a Noite Sem Lua tem **data na Terra**. Coloque no calendário da Aster: "Evento de Liga — dia 14 — Defesa de Âncora (600 pts)". **A Halden sabe a data.** *(Pista E.)*
-- Isso dá aos jogadores um **prazo visível** desde a Sessão 2. Eles escolhem o que fazer com os 14 dias.
+- O Ep1 é na **lua cheia**. A **lua nova** vem **14 dias depois**.
+- O tempo passa igual nos dois mundos, então a Noite Sem Lua tem **data na Terra**: o calendário da Aster marca "**Evento de Liga — Defesa de Âncora (600 pts)**". **A Halden sabe a data.** *(Pista.)*
+- É o **prazo visível** desde o Ep2.
 
-## 5. As escolhas difíceis (o coração do arco)
-Nenhuma tem resposta certa. Prepare as duas consequências e **não force** nenhum lado.
+## 5. A linha de quest (a porta de entrada e os três caminhos)
+```
+           EP1: A Maré Quieta (o Festival, o Sétimo, "qual é o seu nome?")
+                                  │
+         ┌────────────────────────┼────────────────────────┐
+     O RIO                    O DINHEIRO                A GUERRA
+  Lagoa-Mansa →             Salinas →                 o Fortim →
+  a Casa do Repouso         a Companhia do Sal        a Comandante Severa
+  (a Madre; os Levados)     (Cascas como operários)   (o "desertor" Sor Aldric;
+                                                       o Repouso para soldados)
+         └────────────────────────┼────────────────────────┘
+                                  ▼
+        A NOITE SEM LUA: o Sétimo tenta abrir os 5 Berços da Zona 04
+             (os esquadrões da Turma D cooperam ou competem)
+                                  ▼
+               a luta final contra o Sétimo (agora vencível)
+```
+Os jogadores escolhem a ordem conforme as **metas** deles. Se ignorarem um caminho, o relógio daquela facção anda sozinho.
 
-| # | Quando | A escolha | Custa de um lado | Custa do outro |
-|---|---|---|---|---|
-| 1 | Sessão 1 | **Quem salvar no festival:** as crianças na torre do sino, a estalagem pegando fogo (Hanne), ou o vau (onde a Lisel e outros estão sendo levados)? | pessoas levadas | pessoas mortas, ou o alarme que não toca |
-| 2 | Sessão 2 | **Aceitar a ajuda da Madre** para os feridos? Ela cura de verdade | quem ela cura vira Repousado (aos poucos) | feridos sem cura morrem ou ficam com Estresse permanente |
-| 3 | Sessão 2–3 | **Os desertores** ([[Brando]]): entregar à Coroa (enforcados, +pontos) ou soltar? | vidas | pontos e a confiança do Intendente |
-| 4 | Sessão 3 | **Caçar a Garça do Juncal** (300 pts) — mas ela **come Ocos**. Matá-la abre o Juncal para os Quietos | pontos | um caminho seguro e um aliado natural |
-| 5 | Sessão 3–4 | **Queimar Lagoa-Mansa** (contrato da Coroa, 300 pts). Os moradores **ainda estão lá dentro** (pista: "minha mãe pisca quando eu canto") | uma aldeia que poderia voltar | o Oco se espalhando a partir dela |
-| 6 | Sessão 4 | **Os Levados não querem voltar.** A Lisel: "não dói mais, pai." Arrastá-los à força? | o consentimento deles | perdê-los para o Oco |
-| 7 | Sessão 4–5 | **Aliar-se à Vigília** contra a Madre? O Caetano ajuda, mas exige **selar o Berço** depois | a âncora (renascer a meio dia de distância) | enfrentar a Madre sem ele |
-| 8 | Sessão 5 | **Salvar o rival** (o avatar do Lorenz foi tomado; na Terra ele convulsiona) ou proteger o Berço e os pontos? | pontos e talvez o Berço | o Lorenz, e o que acontece com o corpo dele |
-| 9 | Sessão 5 | **Matar a Madre** (os Repousados voltam a sentir de uma vez; alguns morrem) **ou capturá-la** (a Coroa e a Vigília disputam o que fazer com ela) | vidas que ela sustentava | uma vilã viva |
-
-> **Por que tantas?** Porque a mesa vai pular algumas. Você não precisa de todas; precisa que **toda sessão tenha pelo menos uma**. Elas também ensinam aos jogadores, aos poucos, que neste jogo **os NPCs são o preço**.
-
-## 6. Estrutura sugerida (cenas possíveis, não obrigatórias)
-| Sessão | Título | Terra | Amarant | Variedade | Termina com… |
+## 6. Episódios (cenas possíveis, não obrigatórias)
+| Ep | Título | Terra | Amarant | Variedade | Termina com… |
 |---|---|---|---|---|---|
-| **1** | **O Festival das Lanternas** | chegada, Calibração, o rival, o esquadrão | festival → ataque dos Quietos → fuga | social · combate · caos | a Irmã Vela diz o **nome real** de um PJ: "A Madre está esperando vocês." |
-| **2** | **A Manhã Depois** | a Halden publica "correção de bug"; a Dra. Varga chama o PJ do nome real | o velório; a **Madre chega e cura**; o Caetano chega; contratos novos; o prazo da lua nova | luto · social · investigação | a Madre oferece o Repouso à vila. Metade aceita |
-| **3** | **Rio Acima** | festa no Telhado; o [[Tomás Arrieta]] avisa | **Lagoa-Mansa** (exploração de horror); o Juncal (a Garça); a estrada (desertores) | exploração · enigma · caçada | a menina escondida de Lagoa-Mansa: "dói, então eu sou eu" |
-| **4** | **A Casa do Repouso** | o [[Benji Okoro]] sangra pelo nariz; o Lorenz falta às aulas | infiltração / visita à Casa; os Levados em paz; o quarto da Ada; a data do **Grande Repouso** | social · furtividade · dilema | descobrem que o Lorenz aceitou o Repouso para curar o avatar |
-| **5** | **A Noite Sem Lua** | a noite do Evento de Liga; o Placar ao vivo | **a avalanche**: a Madre, os Quietos, os Repousados da vila, o Lorenz tomado, a Vigília querendo selar o Berço | combate grande · escolhas em tempo real | **a Madre cruza o limite** e luta. Vitória, derrota ou fuga |
-| **6** *(curta)* | **O Que Ficou** | o Placar final do mês; consequências na Terra | a vila depois | respiro · consequência | **o teto do nível 4**: a barra cheia que não sobe. Nova pergunta |
+| **1** | **A Cerimônia e o Rio** | Cerimônia; o Diretor; a **Aula da Morte** (Thorne); a Turma D | o Festival → as lanternas brancas → o ataque → **o Sétimo** | social · combate · caos | "Qual é o seu nome?" |
+| **2** | **A Manhã Depois** | o café da Turma D (cada vila escolheu diferente); a Halden "corrige o bug"; o Thorne: "não é bug" | o velório; **a Madre chega e cura**; o Caetano; o retrato do Sor Aldric no Fortim | luto · social · investigação | a Madre oferece o Repouso. Metade da vila aceita |
+| **3** | **Os Caminhos** (1) | festa no Telhado; o Tomás; a Ji-woo vaza um vídeo | o caminho que os PJs escolherem | exploração · enigma · combate | depende do caminho |
+| **4** | **Os Caminhos** (2) | o Benji sangra pelo nariz; o Merrow pergunta demais sobre o Sétimo | o segundo caminho; a Severa fecha acordo com a Madre | social · furtividade · dilema | os Levados **não querem voltar** |
+| **5** | **A Noite Sem Lua** | o Evento de Liga; o Placar ao vivo; os 5 esquadrões da Turma D | **a avalanche** nos Berços | combate grande · escolhas em tempo real | o Sétimo vence, perde ou foge |
+| **6** *(curto)* | **O Que Ficou** | o Placar do mês; consequências | a vila depois | respiro | **o teto do nível 4** + o Retornado sem cores |
 
-Se a mesa for rápida, junte a 3 e a 4. Se os jogadores forem à Casa do Repouso **antes**, ótimo: avance o relógio da Madre e adapte. **O prazo da lua nova é o que fica fixo.**
+## 7. As escolhas difíceis
+| Ep | A escolha | Custa de um lado | Custa do outro |
+|---|---|---|---|
+| 1 | **Quem salvar no festival:** a torre do sino, a estalagem, o vau? | gente levada | gente morta, ou o alarme que não toca |
+| 1 | **Ferir o Sétimo** (o corpo é do Sor Aldric, ainda vivo lá dentro) | o herói de Ostrel | a vila |
+| 1 | **Dizer o nome ao Sétimo?** | o Hóspede pode chamar o PJ | o Sétimo volta a perguntar |
+| 2 | **Aceitar a cura da Madre** para os feridos? | eles viram Cascas, aos poucos | feridos morrem |
+| 3 | **Libertar as Cascas das salinas?** | arruína a Companhia e o sal da guerra; as Cascas param de comer | gente usada como coisa |
+| 3 | **Queimar Lagoa-Mansa** (300 pts)? | uma aldeia que poderia voltar | as Cascas que se espalham |
+| 4 | **Os Levados não querem voltar.** Arrastá-los? | o consentimento deles | perdê-los |
+| 4 | **Aliar-se à Vigília?** O Caetano ajuda, mas exige selar o Berço | a âncora | enfrentar o Sétimo sem ele |
+| 5 | **Ajudar os outros esquadrões** ou defender só o próprio Berço (pontos)? | pontos | Berços que caem |
+| 5 | **Matar o Sétimo** (e o corpo do Aldric) ou **libertar o Aldric** (mais difícil)? | o herói | o risco de o Sétimo escapar |
 
-## 7. Quadro de Contratos do arco
-Cada contrato tem **o que diz o Placar** e **o que é de verdade**. Ver o molde em [[Handout - Contrato da Coroa]].
-
-| # | No Placar (Terra) | O que é de verdade | Índice | Pista |
-|---|---|---|---|---|
-| 1 | "Evento de Liga: Festival das Lanternas — Proteção" | o ataque dos Quietos | 100 (+20 por "NPC protegido") | A, C |
-| 2 | "Escolta: Carroça de Sal" | cartas lacradas da Coroa ("Jurados do Berço — baixas: nenhuma permanente"); emboscada de desertores | 150 | E |
-| 3 | "Resgate: Levados do Vau" | a Coroa paga **por cabeça devolvida**, viva ou não | 50 por pessoa | A |
-| 4 | "Caçada: a Coisa do Juncal" (chefe) | a Garça, que come Ocos | 300 | C |
-| 5 | "Exploração: Colinas do Santuário" | o afresco da porta de luz; um **Berço antigo quebrado** | 100 | semente nível 3/4 |
-| 6 | "Purificação: Lagoa-Mansa" | **queimar** a aldeia oca | 300 | A, C |
-| **F** | **"Evento de Liga: Noite Sem Lua — Defesa de Âncora"** | o Grande Repouso da Madre | **600** | o clímax |
-
-**Recompense quem faz o que não paga.** O contrato 3 vale pouco; quem fizer vai encontrar as pistas mais importantes.
-
-## 8. A avalanche (Sessão 5)
-Tudo converge no Berço, na Noite Sem Lua:
-- a **Madre** sobe a colina com os Quietos e os Repousados de Vau-Cinzento (incluindo quem os PJs deixaram ela curar);
-- o **avatar do Lorenz** está entre os Quietos; na Terra, ele convulsiona na sala V (a Dra. Varga corre para lá, se o relógio dela chegou à etapa 4);
-- o **Caetano** chega para selar o Berço, com ou sem aliança;
+## 8. A avalanche (Ep5)
+Tudo converge nos Berços, na Noite Sem Lua:
+- o **Sétimo** sobe a colina de Vau-Cinzento com as Cascas, a **Irmã Vela** e os Repousados da vila;
+- ele quer pôr o **primeiro Inquilino** na Vela, na frente da Madre. Se os PJs mostraram a verdade à Madre, **ela se volta contra ele**;
+- os **soldados Repousados** da Severa estão lá e não sabem de que lado lutar;
+- o **Caetano** chega para selar o Berço;
 - a **Tilde** está entre as pedras com a vassoura e o pão;
-- o **Placar** conta pontos ao vivo, e os outros esquadrões calouros estão lá também (aliados ou concorrentes).
+- nas outras quatro vilas, os outros esquadrões da Turma D defendem os próprios Berços. **Se um cair, o Sétimo fica mais forte** (+10 PV por Berço caído). Ajudar os outros custa pontos.
 
-**Regra de ouro (Sanderson):** a vitória tem que vir de **uma escolha que os jogadores fizeram antes**. Exemplos: o sino que salvaram no festival (os Ocos não suportam sinos, ver o bestiário); a canção que a Hanne ensinou (para a Vela); a Garça que pouparam (aparece); o Caetano que respeitaram (não sela); a menina de Lagoa-Mansa (sabe o caminho).
+**Regra de ouro (Sanderson):** a vitória vem de **uma escolha que os jogadores fizeram antes**: o sino que salvaram no festival, a canção da Hanne, o Brask que gritou "Aldric!", a Madre que viu a verdade, o Caetano que respeitaram, o nome que **não** disseram.
 
 ## 9. Consequências
-- **Madre morta:** a vila salva; os Repousados voltam a sentir; alguns morrem nas horas seguintes; Lagoa-Mansa **acorda** (se não foi queimada). A Vela volta a ser a Ada… com 3 anos de dor de uma vez.
-- **Madre capturada:** a Coroa e a Vigília brigam por ela; ela pede para falar com um PJ específico. Gancho para o Arco 2.
-- **Madre em fuga:** ela leva os Levados que restaram para o leste. Volta no Arco 3.
-- **Lagoa-Mansa queimada:** pontos no Placar; a menina sobrevivente nunca mais fala com os PJs.
-- **Lorenz salvo pelos PJs:** ele deve uma, e não sabe lidar com isso. **Não salvo:** ele some da Aster por duas semanas; volta com outra cicatriz.
+- **Sétimo derrotado e Aldric libertado:** Ostrel deve um herói aos PJs. A Severa vira patrona.
+- **Sétimo derrotado e o corpo morto:** o herói morre. Ostrel chama os PJs de assassinos, ou de heróis, dependendo de quem conta.
+- **Sétimo foge:** ajudado por um **Retornado sem cores** ([[Omar Haddad]]). Volta no Arco 3.
+- **A Madre:** ver [[Madre Ilvane#Como resolver a Madre (escolhas, não só luta)]].
 - **Em qualquer caso:** quem morreu no festival não volta. O Placar não registra.
 
-## 10. Fim do arco: avalanche + revelação pequena + nova pergunta
-- **Revelação (pequena, indício do nível 1):** o primeiro PJ que chega ao nível 4 **não sobe mais**. Na noite seguinte, a Dra. Varga o chama: "suas leituras estão ótimas. Não conte a ninguém sobre o teto."
-- **Nova pergunta:** *como o Hóspede sabia os nossos nomes?* e *o que está do outro lado do teto?*
+## 10. Fim do arco: revelação pequena + nova pergunta
+- **Revelação:** o primeiro PJ a chegar ao nível 4 **não sobe mais**. A Dra. Varga: "suas leituras estão ótimas. Não conte a ninguém sobre o teto."
+- **Novas perguntas:** *quem de nós ajudou o Sétimo?* e *o que está do outro lado do teto?*
 
 ## 11. O que NÃO revelar neste arco
-- Que o mundo é real. O Pacto. Os Vessels (só pistas do Lorenz). O que é o Hóspede.
-- Se os jogadores **adivinharem**, não confirme nem negue. Anote em [[Teorias dos Jogadores]].
+- Que o mundo é real. O Pacto. Os Vessels. Os Transmigrados. O que é o Hóspede.
+- Se os jogadores adivinharem, não confirme nem negue. Anote em [[Teorias dos Jogadores]].

@@ -7,7 +7,7 @@ updated: 2026-11-07
 # O Semestre e a Expedição (o objetivo de médio prazo)
 
 ## O objetivo
-> **Terminar o semestre no top 3 da Liga Aster de Calouros.**
+> **Terminar o semestre com o esquadrão D-4 no top 3 do ano**, entre os ~22 esquadrões dos 100 calouros (Turmas A–E). ✅
 
 O Placar no Átrio corre o **semestre inteiro** (uns 4 meses, 3 arcos). Os três melhores esquadrões ganham **a Expedição Aurora**.
 
@@ -21,7 +21,7 @@ O Placar no Átrio corre o **semestre inteiro** (uns 4 meses, 3 arcos). Os três
 - Um vídeo de divulgação passa no Placar toda semana: pros sorrindo, um castelo branco num penhasco, um céu com a Costura brilhando. **Um dos pros do vídeo é o irmão de um PJ** (se alguém pegou o gancho de origem 1).
 
 ## O que a Expedição é de verdade (segredo)
-Uma **campanha militar real** da Coroa de Ostrel contra o Oco, no **Vale de Ostrel**, a frente leste. Os Retornados de elite (os pros) são a ponta de lança. Os calouros do top 3 são **reforço**. *(Nível 3. Só aparece de verdade no fim da Parte 1.)*
+Uma **campanha militar real** do Reino de Ostrel contra o **Domínio de Vharen**, na **Marca de Ferro**, a frente leste ([[Ostrel e Vharen]]). Os Retornados de elite (os pros) são a ponta de lança. Os calouros do top 3 são **reforço**. *(Nível 3. Só aparece de verdade no fim da Parte 1.)*
 - O **Ansel**, irmão da [[Tilde]], está lá.
 - O colega do [[Tomás Arrieta]] morreu "na Terra" depois de uma Expedição.
 
@@ -40,9 +40,9 @@ Uma **campanha militar real** da Coroa de Ostrel contra o Oco, no **Vale de Ostr
 > **Dica de mestre:** se algum PJ não tiver um motivo, pergunte ao jogador na Sessão 0: "o que o seu personagem perde se vocês não ficarem no top 3?". A resposta é o motivo.
 
 ## O Placar (a regra)
-- Cada contrato dá **Pontos de Índice**. O Placar mostra os 40 esquadrões calouros.
+- Cada contrato dá **Pontos de Índice**. O Placar mostra os **~22 esquadrões** do ano (5 turmas, 4–5 esquadrões cada).
 - **Eventos de Liga** (um por arco) dão muitos pontos: o festival (Arco 1), a Qualificatória (Arco 2, o esporte), a Seleção (Arco 3).
-- **Cortes mensais:** os 10 últimos esquadrões perdem metade das horas de berço. Bolsistas nesses esquadrões recebem o e-mail "Revisão de elegibilidade".
+- **Cortes mensais:** os 5 últimos esquadrões perdem metade das horas de berço. Bolsistas nesses esquadrões recebem o e-mail "Revisão de elegibilidade".
 - **O Índice mede o resultado no papel**, não o que aconteceu: velocidade, contrato cumprido, "baixas evitáveis de NPCs" (sim, existe esse item, e ele **vale pouco**).
 
 ### Por que o Placar é uma ferramenta de drama
@@ -51,9 +51,9 @@ Ele mostra, toda sessão, **um número que mente**. Os jogadores vão salvar uma
 ## Estrutura da Parte 1 (o semestre)
 | Arco | Mês | Evento de Liga | Ameaça visível | Escada |
 |---|---|---|---|---|
-| **1 — Hóspedes** | 1º | Festival das Lanternas → a Noite Sem Lua | [[Madre Ilvane]] e a Casa do Repouso | 0 (indícios do 1) |
-| 2 — *a definir* | 2º–3º | a Qualificatória (o esporte) | o rival e o programa V? a Vigília? | 0 → 1 |
-| 3 — *a definir* | 4º | a Seleção para a Expedição | ? | 1 |
+| **1 — Hóspedes** | 1º | Festival das Lanternas → a Noite Sem Lua | o [[Sétimo]] (com a Madre, a Severa e a Companhia do Sal em volta) | 0 (indícios do 1) |
+| 2 — *a definir* | 2º–3º | a Qualificatória (o esporte) | o traidor ([[Omar Haddad]]) e o [[Prof. Silas Merrow]]; o programa V | 0 → 1 |
+| 3 — *a definir* | 4º | a Seleção para a Expedição | a Halden (Kell); a guerra contra Vharen chega perto | 1 |
 | *fim da Parte 1* | | **a Expedição** | | 1 → 2 |
 
-**Posição sugerida no Placar no fim do Arco 1:** entre 4º e 12º, dependendo das escolhas. **Nunca no top 3 ainda.** O top 3 tem que ser conquistado no semestre.
+**Posição sugerida no Placar no fim do Arco 1:** entre 4º e 10º, dependendo das escolhas. **Nunca no top 3 ainda.** O top 3 tem que ser conquistado no semestre.
