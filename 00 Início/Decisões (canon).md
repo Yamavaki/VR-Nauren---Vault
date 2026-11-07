@@ -10,7 +10,7 @@ updated: 2026-11-07
 | Data | Decisão | Detalhes |
 |---|---|---|
 | 2026-11-07 | **Sistema: Nauren RPG** (v0.6.1) | só as **regras**. Repositório `Yamavaki/Nauren-RPG` |
-| 2026-11-07 | **O outro mundo NÃO é Naurien** | é um **mundo novo**, com nome a inventar. Nome provisório: ver [[Nomes (propostas)]] |
+| 2026-11-07 | **O outro mundo NÃO é Naurien** | é um **mundo novo**: **Amarant** |
 | 2026-11-07 | **Nomes:** mundo = **Amarant**; cidade da universidade = **Meridia**; o jogo = **TESSERA**; os jogadores são os **Hospedeiros** | ver [[Nomes (propostas)]] |
 | 2026-11-07 | **Duas fichas por jogador** | **humano** (Terra) e **avatar** (o "jogo"). Ver [[Fichas - Humano e Avatar]] |
 | 2026-11-07 | **Sincronia = nível do avatar** | quanto mais perto do 20, maior a sincronia. Alguns níveis só sobem depois de **eventos**. Ver [[Sincronia e Nós]] |
