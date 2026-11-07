@@ -21,8 +21,9 @@ updated: 2026-11-07
 | 6 | O Berço | 15 | corpo cinza ganhando cor · a Costura no céu · **Tilde** pergunta o nome de cada um e pelo Ansel · sem HUD | descem ao vau |
 | 7 | O Festival | 35 | **Brask** entrega o [[Handout - Contrato da Coroa]] · passeio livre (tabela abaixo) | soltam as lanternas |
 | 8 | A virada | 5 | lanternas **brancas** rio acima, gente embaixo, canção perfeita, moça de branco andando na água · "Lagoa-Mansa" | **"O que vocês fazem?"** |
-| 9 | O ataque | 40 | 3 frentes, relógio de 4 rodadas cada (abaixo) · impossível salvar tudo | rodada 3–4 |
-| 10 | O Sétimo | 30 | chega pela água · "Sor Aldric?!" · *"Vocês são como eu. Só que com coleira."* · luta | 10 PV, sino 2 rodadas ou 5 rodadas |
+| 9 | **Combate 1: as Cascas** (média) | 40 | 3 frentes, relógio de 4 rodadas cada (abaixo) · impossível salvar tudo | sino 2 rodadas ou fim das 4 rodadas |
+| ⇧ | **Interlúdio: nível 2** | 5 | silêncio; contam os levados · **+200 XP → nível 2** · "as cores ficam mais fortes, um calor no peito" · 2–3 min reais para a ficha | a canção recomeça rio acima |
+| 10 | **Combate 2: o Sétimo** (difícil) | 30 | chega pela água com a Vela e 2–3 Cascas · "Sor Aldric?!" · *"Vocês são como eu. Só que com coleira."* · luta | 10 PV, sino 2 rodadas ou 5 rodadas |
 | 11 | A pergunta | 5 | olha o PJ que mais o interessou: *"Você. Qual é o seu nome?"* | lanternas sobem o rio |
 | 12 | Antes do amanhecer | 5 | lanternas novas para os levados · Tilde: "Por que ele queria o seu nome?" | desconectam |
 | E | Epílogo | 5 | "+100 pts. NPCs protegidos: X." Nenhuma linha para os levados · e-mail das 6h12 se alguém foi Desalojado | fim |
@@ -39,7 +40,7 @@ updated: 2026-11-07
 | A praça | preços pela metade "porque vocês não comem de verdade"; brinde ao Sor Aldric | o nome Aldric |
 | O Brask | o Aldric salvou a vida dele duas vezes, "não desertou" | o corpo do Sétimo |
 
-## O ataque: as 3 frentes
+## Combate 1: as 3 frentes
 | Frente | 1 | 2 | 3 | 4 (perdido) |
 |---|---|---|---|---|
 | **Torre do sino** (Pim, 10 anos) | 2 Cascas na porta | sobem | chegam ao menino | levam o Pim |
@@ -47,7 +48,8 @@ updated: 2026-11-07
 | **O vau** (Lisel, Ottmar + 4 aldeões; Brask segura) | agarrados | na cintura | no peito | levados |
 
 - **Sino tocando 2 rodadas seguidas → Cascas recuam.**
-- **Morreu:** renasce **na hora** no Berço (Calibração) + **2 rodadas** correndo colina abaixo. No nível 1, não perde nível.
+- **Morreu:** renasce **na hora** no Berço (Calibração) + **2 rodadas** correndo colina abaixo. No combate 1 (nível 1), não perde nível. **No combate 2 (nível 2), volta ao nível 1 e zera a XP**: provavelmente um PJ morre ali.
+- **Cascas:** ~2 por PJ (2 na torre, o resto no vau). O Ganso é fogo, não combate.
 - Ensine jogando: Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (soltar agarrado).
 
 ## Fichas de bolso
@@ -55,7 +57,7 @@ updated: 2026-11-07
 |---|---|---|---|---|---|---|
 | **Casca** | 5 | 11 | 2 | 2 | 1 | Agarrar · Arrastar 3 m · sem Estresse · sino = Amedrontado · ½ Vida, d6=6: diz o próprio nome e para 1 rodada |
 | **Irmã Vela** | 14 | 12 | 4 | 3 | 2 (PdM 3) | não luta a sério no Ep1 · Canção (Destino 12, Atordoado) · lanterna 1d6+3 Cego · trava se alguém cantar a parte da Hanne |
-| **O Sétimo** | 30 | 14 | 5 | 4 | 3 | Espada 1d8+3 · 1º golpe em cada PJ = ½ dano · +1 PdA a cada dano (máx +3) · Comando da Casca · **Desalojar** (1×, Destino 13, nariz sangra) · na ½ Vida d6=6: perde a ação |
+| **O Sétimo** *(vs. nível 2)* | 30 | 14 | 5 | 4 | 3 | Espada 1d8+3 · 1º golpe em cada PJ = ½ dano · +1 PdA a cada dano (máx +3) · Comando da Casca · **Desalojar** (1×, Destino 13, nariz sangra) · na ½ Vida d6=6: perde a ação |
 
 Detalhes: [[Sétimo]], [[Bestiário - Arco 1]].
 

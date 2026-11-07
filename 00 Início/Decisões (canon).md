@@ -36,6 +36,7 @@ updated: 2026-11-07
 | 2026-11-07 | **A Maré Quieta** atinge todas as zonas na mesma noite | a porta de entrada da linha de quest |
 | 2026-11-07 | **Retornados: um nome só** (o nome de registro) nos dois mundos | o nome é a âncora do Pacto |
 | 2026-11-07 | **Três Transmigrados na Turma D** (Freya = Lady Isolde; Inês = cartógrafa de Pedra-Alta; Rory = Ansel), com **nomes diferentes** nos dois mundos | segredo para o futuro; um pode nunca ser revelado. Ver [[Os Transmigrados]] |
+| 2026-11-07 | **Ep1 tem dois combates:** as Cascas (média) → todos sobem ao **nível 2** → o Sétimo (difícil; provavelmente um PJ morre e volta ao 1) | ver [[Episódio 1 - A Cerimônia e o Rio]] |
 | 2026-11-07 | **Método: The Game Master's Book of Proactive Roleplaying** | metas dos jogadores + facções com relógios. Ver [[Facções]] |
 
 ## Propostas aguardando aprovação

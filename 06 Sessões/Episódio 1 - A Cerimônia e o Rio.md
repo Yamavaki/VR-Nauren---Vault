@@ -11,7 +11,7 @@ updated: 2026-11-07
 # Episódio 1: A Cerimônia e o Rio
 
 > **A promessa deste episódio:** começa leve, numa cerimônia de universidade e numa festa bonita num jogo bonito. Termina com gente levada pelo rio, um herói de guerra que não é mais ele, e uma pergunta: **"Qual é o seu nome?"**
-> **Ritmo:** Terra rápida (o tom, a turma, as regras da morte) → Amarant encantadora (o festival) → **virada** → caos (três frentes) → **o vilão** → **a pergunta**.
+> **Ritmo:** Terra rápida (o tom, a turma, as regras da morte) → Amarant encantadora (o festival) → **virada** → **combate 1** (as Cascas, três frentes, dificuldade média) → **nível 2** → **combate 2** (o Sétimo, difícil; provavelmente um PJ morre) → **a pergunta**. ✅ *(estrutura de dois combates: decisão do mestre)*
 > **Para narrar rápido:** [[Episódio 1 - Cola do Mestre]].
 > As cenas são **possíveis**, não obrigatórias. Se os jogadores puxarem para outro lado, siga e entregue as pistas onde caírem.
 
@@ -91,7 +91,7 @@ O [[Sargento Brask]] dá o contrato ([[Handout - Contrato da Coroa]]): "Fiquem n
 
 *(Pausa. "O que vocês fazem?")*
 
-### Cena 9 — O ataque · 40 min
+### Cena 9 — Combate 1: o ataque das Cascas · 40 min (dificuldade média)
 As **Cascas** saem do rio e começam a **agarrar e arrastar** pessoas para a água. Não matam: **levam**. Três coisas ao mesmo tempo:
 
 | Frente | O que está acontecendo | Relógio (4 rodadas) | Se ninguém for |
@@ -103,15 +103,25 @@ As **Cascas** saem do rio e começam a **agarrar e arrastar** pessoas para a ág
 - **É impossível salvar tudo** com 4–5 PJs de nível 1. É de propósito.
 - **Morrer:** renascimento **imediato** no Berço (período de Calibração) e **2 rodadas** correndo colina abaixo. No nível 1, **não perdem nível**. *(Os aldeões veem os Retornados morrerem e voltarem correndo. Alguns recuam com medo.)*
 - **Ensine as regras jogando:** Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (para soltar alguém agarrado).
+- **Quantas Cascas:** ~2 por PJ, divididas entre a torre (2) e o vau (o resto). O Ganso é um perigo (fogo), não um combate. A Irmã Vela só canta (a Canção pode Atordoar).
+- **Termina quando:** o sino tocar 2 rodadas seguidas (as Cascas recuam para a água), **ou** as 4 rodadas dos relógios acabarem.
 
-### Cena 10 — O Sétimo · 30 min
-Quando a cena estiver no auge (rodada 3 ou 4), ele chega pela água, atrás da Vela:
+### Interlúdio — Nível 2 · 5 min
+O silêncio depois. As Cascas paradas na água, até a cintura, olhando a vila. As lanternas brancas **não foram embora**. Contem os levados e os salvos.
+- **XP:** dê **200** a cada PJ (100 pelo festival: roleplay ou descoberta; 100 pelo combate). Todos sobem para o **nível 2**.
+- **Mostre, não conte (sem HUD):** "As cores do seu avatar ficam mais fortes, como se alguém tivesse aumentado a saturação. Um calor atrás do esterno. O corpo responde meio segundo mais rápido." *(É a Sincronia subindo. Ninguém explica.)*
+- Recuperem Estamina. Deixe os jogadores anotarem a ficha nova **em 2–3 minutos reais**: a pressa é tensão.
+- Então a canção recomeça, rio acima. Mais bonita. E alguém vem andando pela água.
+
+### Cena 10 — Combate 2: o Sétimo · 30 min (difícil)
+Logo depois do interlúdio, ele chega pela água, atrás da Vela, com as Cascas que sobraram (2–3):
 > Um cavaleiro de armadura azul de Ostrel, com o farol **raspado** do peito, caminha pelo rio com água até os joelhos. A moça de branco se ajoelha na água ao lado dele. As Cascas param e se viram para ele, como girassóis. Ele respira fundo, sente o cheiro da fumaça e das tortas de mel, e sorri.
 
 - O **Brask** (ou um soldado): "**Sor Aldric?!**"
 - Ele olha os PJs, inclina a cabeça, e entende o que eles são: *"Ah. Vocês são como eu. Só que com **coleira**."*
 - **A luta:** ficha e regras em [[Sétimo]]. Difícil de verdade: Curiosidade, Sentir Tudo (+PdA a cada dano), Desalojar (o PJ é jogado para fora e acorda com o **nariz sangrando**), a mão que treme.
-- **Vencer = fazê-lo recuar:** reduzi-lo a 10 PV, o sino tocar 2 rodadas, ou resistir 5 rodadas.
+- **Vencer = fazê-lo recuar:** reduzi-lo a 10 PV, o sino tocar 2 rodadas (as Cascas dele recuam e ele vai junto), ou resistir 5 rodadas.
+- **A morte agora custa:** os PJs estão no **nível 2**. Quem morrer renasce na hora no Berço (Calibração), mas **volta ao nível 1** e zera a XP, como o Thorne ensinou. Provavelmente **um PJ morre** aqui. É a lição da aula ficando real: deixe a perda pesar ("contem").
 - **O dilema:** o corpo é do Sor Aldric. O Brask grita: "Não o matem!"
 
 ### Cena 11 — A pergunta · 5 min (o gancho)
@@ -139,7 +149,10 @@ Deixe o jogador escolher: **dizer, mentir ou se recusar**. A resposta do Sétimo
 Ver [[Pistas - Arco 1#Os 10 segredos do Episódio 1]].
 
 ## XP (fim do episódio)
-Tabela do Nauren (uma vez por episódio cada): roleplay de grupo **100**, descoberta importante **100**, solução criativa **100**. **Proposta:** +100 por fazer o Sétimo recuar. Este episódio leva todos ao **nível 2**. *(A partir de agora, morrer custa um nível.)*
+Tabela do Nauren (uma vez por episódio cada): roleplay de grupo **100**, descoberta importante **100**, solução criativa **100**.
+- **No interlúdio:** 200 (todos vão ao **nível 2** antes do Sétimo).
+- **No fim:** +100 por fazer o Sétimo recuar, +100 se houve solução criativa (o sino, a canção da Hanne). Conta para o nível 3 (300).
+- Quem morreu contra o Sétimo voltou ao nível 1 com XP zerada: ganha a XP do fim normalmente (100–200 = volta ao nível 2 se chegar a 200).
 
 ## Depois do episódio
 - [ ] No [[Diário de Sessões]]: quem foi salvo e quem foi levado; se a Hanne e o Brask vivem; quem aprendeu a canção; **o que o PJ respondeu ao Sétimo**; quem foi Desalojado; o número de mortes de cada um (o Thorne pediu para contar).
