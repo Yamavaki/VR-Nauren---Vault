@@ -14,6 +14,6 @@ updated: 2026-11-07
 - **Desejo:** que a estalagem continue de pé e que a filha, a **Ada**, mande notícias da Casa do Repouso. Faz três anos que não manda.
 - **Segredo:** foi ela quem **ofereceu** a Ada para o acordo da Casa, porque não tinha como alimentar as duas naquele inverno. Nunca contou isso a ninguém.
 - **Alavanca:** a Ada; a culpa; a canção.
-- **A canção do festival:** ela e a Ada cantavam juntas, em duas vozes. A parte da Ada era a mais aguda, a que "doía na garganta". Se um PJ **aprender a parte da Hanne** (Sessão 1, durante o festival, ou depois), ele tem a chave da [[Irmã Vela]] (pista F).
-- **Na Sessão 1:** a estalagem pega fogo no ataque (escolha 1). Se ninguém a ajudar, ela sobrevive, mas a estalagem não.
-- **Se ninguém interferir:** quando reconhecer a filha entre os Quietos, ela **vai até o rio** atrás dela. É a nativa que pode **morrer de verdade** e **não voltar** (Sessão 1 ou 3). *(Decida conforme a mesa se apegar a ela.)*
+- **A canção do festival:** ela e a Ada cantavam juntas, em duas vozes. A parte da Ada era a mais aguda, a que "doía na garganta". Se um PJ **aprender a parte da Hanne** (Ep1, durante o festival, ou depois), ele tem a chave da [[Irmã Vela]] (pista F).
+- **No Ep1:** a estalagem pega fogo no ataque (escolha 1). Se ninguém a ajudar, ela sobrevive, mas a estalagem não.
+- **Se ninguém interferir:** quando reconhecer a filha entre os Quietos, ela **vai até o rio** atrás dela. É a nativa que pode **morrer de verdade** e **não voltar** (Ep1 ou 3). *(Decida conforme a mesa se apegar a ela.)*

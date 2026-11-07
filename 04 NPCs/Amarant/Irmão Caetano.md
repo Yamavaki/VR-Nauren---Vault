@@ -16,7 +16,7 @@ updated: 2026-11-07
 |---|---|
 | **Desejo (agora)** | descobrir por que os Hospedeiros chegaram junto com os Quietos |
 | **Desejo (grande)** | fechar **todas** as portas por onde algo entra em Amarant: a Casa do Repouso **e** o Berço |
-| **Ferida → mentira** | a cidade dele, **Pedra-Alta**, ficou Oca numa única noite, há 15 anos. Ele estava fora, numa vigília → *"fui poupado para fechar as portas; quem hesita deixa entrar"* |
+| **Ferida → mentira** | a cidade dele, **Pedra-Alta**, virou uma cidade de Cascas numa única noite, há 15 anos. Ele estava fora, numa vigília → *"fui poupado para fechar as portas; quem hesita deixa entrar"* |
 | **Contradição** | gentil com cada pessoa da vila **e** fala dos Retornados como coisas |
 | **Segredo** | estudou com a **Madre Ilvane** na Vigília, há 30 anos. Era apaixonado por ela. Foi o único que ela **não convenceu**. Sente o Hóspede nos Retornados como um zumbido nos dentes. **Não está errado:** a ponte deles é a porta (nível 4). Está errado sobre quem os jogadores são |
 | **Voz** | calmo, fala devagar, parábolas de casa ("a casa não cai pela tempestade; cai pela porta que ninguém trancou") |
@@ -30,5 +30,7 @@ updated: 2026-11-07
 - **A aliança difícil (escolha 7 do arco):** ele é o único que sabe **como a Madre pensa** (pista F: "ela nunca levanta a mão para ninguém. Faça ela levantar e você verá o que mora nela."). O preço dele é **selar o Berço** depois. Os jogadores precisam decidir se vale.
 - **O teste do sino:** se um PJ, na frente dele, **toca o sino da porta ao entrar** (por vontade própria, várias vezes), ele hesita. "O que entra não toca sino." É a melhor forma de conquistar o respeito dele.
 - **Ele não luta neste arco.** Se os PJs o atacarem, ele não reage; morre como um homem, e a vila **nunca perdoa**. Deixe isso claro antes: ele anda desarmado, descalço, entre aldeões.
+
+🔒 **Futuro:** a cartógrafa da Vigília de Pedra-Alta, que ele conheceu, renasceu na Terra como [[Inês Carvalho]] ([[Os Transmigrados]]).
 
 **Frase:** "Eu não tenho medo de vocês, meu filho. Tenho medo do que está segurando a sua mão."

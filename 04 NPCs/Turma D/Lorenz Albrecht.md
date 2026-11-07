@@ -2,13 +2,17 @@
 type: npc
 mundo: Terra
 papel: o rival
-importancia: secundária importante (antagonista do Arco 1)
+turma: D
+esquadrao: "D-1 Kaiser (líder)"
+importancia: secundária importante (o rival)
 escada: nível 0 (não sabe o que fizeram com ele)
 aliases: [Lorenz, Albrecht, o rival]
 updated: 2026-11-07
 ---
 
 # Lorenz Albrecht
+
+*Alemanha (Munique) · Gestão · **D-1 Kaiser (líder)** · Guerreiro · palavra-chave: ambicioso. Ver [[Turma D]].*
 
 **Calouro, herdeiro de um patrocinador da liga.** Bonito, educado, roupa simples e caríssima. O esquadrão dele é forte demais.
 
@@ -28,6 +32,8 @@ updated: 2026-11-07
 
 **Avatar no TESSERA:** "Kaiser". Guerreiro, já nível 2 no dia 1, Força 6, Agilidade 6. Armadura melhor que o kit padrão ("bônus de patrocinador").
 
-**Primeira aparição (Sessão 1, 2 pistas inocentes):** na fila da Calibração, ele **passa direto** pela fila com um funcionário, e cumprimenta a Dra. Varga pelo nome. Ao se despedir, passa a mão atrás da orelha.
+**Primeira aparição (Episódio 1, 2 pistas inocentes):** na Cerimônia, ele chega com o **Sr. Kell** (Halden) ao lado e cumprimenta o Diretor pelo nome. Ao se sentar, passa a mão atrás da orelha.
+
+**Na Maré Quieta (Ponte-Velha):** queima a ponte com as Cascas **e os levados** em cima. "Eram NPCs, cara." Sobe no Placar. O [[Tavita Fonoti|Tavita]] não perdoa.
 
 > **Cuidado:** um rival que é só arrogante cansa. O Lorenz tem que ser **agradável**. Os jogadores devem gostar dele um pouco, e se incomodar por gostar. No Arco 2, ele pode virar aliado, vítima ou vilão, dependendo do que fizerem.
