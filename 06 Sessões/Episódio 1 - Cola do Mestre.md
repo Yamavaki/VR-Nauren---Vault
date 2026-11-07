@@ -66,6 +66,8 @@ Escolha o PJ: 1) golpe mais forte nele · 2) se pôs entre ele e um nativo · 3)
 ---
 
 ## Mapas para fazer
+> Descrições completas e prompts para o gerador: [[Mapas - Episódio 1]].
+
 | # | Mapa | Precisa? | O que tem que ter |
 |---|---|---|---|
 | 1 | **Vau-Cinzento (o mapa do ataque)** | **obrigatório**, em grid | o **rio** e o **vau** (água rasa = terreno difícil) · a **praça** com a **torre do sino** · **O Ganso Torto** · a barraca do sino · o caminho da **colina do Berço** (fora do mapa ou na borda; 2 rodadas de corrida) · as 3 frentes **longe o bastante** para não dar para estar em duas ao mesmo tempo · juncos rio acima (por onde chegam as Cascas e o Sétimo) |
