@@ -43,13 +43,13 @@ updated: 2026-11-07
 ## Combate 1: as 3 frentes
 | Frente | 1 | 2 | 3 | 4 (perdido) |
 |---|---|---|---|---|
-| **Torre do sino** (Pim, 10 anos) | 2 Cascas na porta | sobem | chegam ao menino | levam o Pim |
+| **Sino da praça** (Pim, 10 anos, no telhado ao lado) | 2 Cascas cercam o poste | sobem no telhado | chegam ao menino | levam o Pim |
 | **Ganso Torto** (incêndio; Hanne volta pelas cartas) | fumaça | teto | escada | desaba |
 | **O vau** (Lisel, Ottmar + 4 aldeões; Brask segura) | agarrados | na cintura | no peito | levados |
 
 - **Sino tocando 2 rodadas seguidas → Cascas recuam.**
 - **Morreu:** **sai da luta para calibrar** (acorda na Terra; não volta para esta luta). No combate 1 (nível 1), não perde nível; as Cascas agarram, quase não matam. **No combate 2 (nível 2), volta ao nível 1 e zera a XP**: provavelmente um PJ morre ali.
-- **Cascas:** ~2 por PJ (2 na torre, o resto no vau). O Ganso é fogo, não combate.
+- **Cascas:** ~2 por PJ (2 no sino, o resto no vau). O Ganso é fogo, não combate.
 - Ensine jogando: Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (soltar agarrado).
 
 ## Fichas de bolso
@@ -68,7 +68,7 @@ Escolha o PJ: 1) golpe mais forte nele · 2) se pôs entre ele e um nativo · 3)
 ---
 
 ## Mapa
-**Um só: Vau-Cinzento**, com o recorte da torre do sino no canto. Os dois combates acontecem nele. Descrição completa (áreas, distâncias, onde cada um começa): [[Mapas - Episódio 1]].
+**Um só: Vau-Cinzento** (o sino fica num poste no meio da praça). Os dois combates acontecem nele. Descrição: [[Mapas - Episódio 1]].
 
 ## Personagens com quem eles interagem com certeza
 **Terra**
@@ -84,7 +84,7 @@ Escolha o PJ: 1) golpe mais forte nele · 2) se pôs entre ele e um nativo · 3)
 - [[Sargento Brask]]: dá o contrato; segura o vau; grita "Sor Aldric!".
 - [[Sétimo]]: a luta e a pergunta.
 - [[Irmã Vela]]: a moça de branco (não fala com eles no Ep1).
-- **Pim**: o menino do sino (só existe na frente da torre).
+- **Pim**: o menino do sino (só existe na frente do sino).
 
 **Prováveis (dependem de onde eles forem)**
 - [[Hanne]] (Ganso Torto) e [[Ottmar e Lisel]] (o vau): aparecem no Festival e viram vítimas no ataque. Quase certo que encontram pelo menos um.

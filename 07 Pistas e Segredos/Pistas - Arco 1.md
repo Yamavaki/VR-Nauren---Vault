@@ -10,7 +10,7 @@ updated: 2026-11-07
 > Marque ✅ quando entregar, e anote **onde** e **para quem**.
 
 ## F. "Como vencer o Sétimo" (necessária para o clímax)
-- [ ] **As Cascas fogem do som de sinos.** (O costume das portas; no Ep1, o ataque recua quando o sino da torre toca; as crianças brincando de Hóspede.)
+- [ ] **As Cascas fogem do som de sinos.** (O costume das portas; no Ep1, o ataque recua quando o sino da praça toca; as crianças brincando de Hóspede.)
 - [ ] **A dor acorda as Cascas por um instante.** A menina escondida de Lagoa-Mansa: "dói, então eu sou eu." A Vela para quando a Hanne canta a parte da canção que "doía na garganta".
 - [ ] **O Sor Aldric ainda está lá dentro.** A mão que treme na luta do Ep1; o bilhete com a letra dele ("não mandem ninguém atrás de mim"); o Brask: "ele salvou minha vida duas vezes. Ele não desertou."
 - [ ] **Chamar o Aldric pelo nome** faz o corpo lutar por dentro. (O Brask grita o nome no Ep1, e a mão treme.)
@@ -70,5 +70,5 @@ Copie para a nota da sessão. Entregue onde fizer sentido.
 6. Uma lanterna branca presa nos juncos **rio acima**. *(C)*
 7. A Hanne tem uma filha "servindo na Casa do Repouso". *(F, A)*
 8. O retrato do Sor Aldric no Fortim, com uma fita preta. *(F)*
-9. As Cascas recuam quando o sino da torre toca. *(F)*
+9. As Cascas recuam quando o sino da praça toca. *(F)*
 10. "Vocês são como eu. Só que com coleira." *(o grande gancho)*

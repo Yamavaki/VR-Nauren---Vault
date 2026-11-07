@@ -17,7 +17,7 @@ updated: 2026-11-07
 
 ## Antes da sessão
 - [ ] Reler as **metas** dos PJs ([[Facções#As metas dos jogadores (preencher na Sessão 0)]]) e escolher **2–3 alunos da [[Turma D]]** que cruzam com elas.
-- [ ] Fazer o **mapa de Vau-Cinzento** com o recorte da torre do sino ([[Mapas - Episódio 1]]).
+- [ ] Fazer o **mapa de Vau-Cinzento** ([[Mapas - Episódio 1]]).
 - [ ] Imprimir: [[Handout - Termo de Imersão]], [[Handout - Regras de Conduta no TESSERA]], [[Handout - Contrato da Coroa]].
 - [ ] Ter à mão: [[Sétimo]], [[Bestiário - Arco 1]], [[Morte e Retorno]].
 
@@ -96,14 +96,14 @@ As **Cascas** saem do rio e começam a **agarrar e arrastar** pessoas para a ág
 
 | Frente | O que está acontecendo | Relógio (4 rodadas) | Se ninguém for |
 |---|---|---|---|
-| **A torre do sino** | o menino do sino (**Pim**, 10 anos) está lá em cima; duas Cascas bloqueiam a porta. **Se o sino tocar 2 rodadas seguidas, as Cascas recuam** | 1 bloqueiam · 2 sobem · 3 chegam ao menino · 4 o levam | o alarme nunca toca; mais gente é levada |
+| **O sino da praça** | o sino grande pendurado num poste. O menino do sino (**Pim**, 10 anos) fugiu para o telhado da casa ao lado; duas Cascas cercam o poste. **Se o sino tocar 2 rodadas seguidas, as Cascas recuam** | 1 cercam o poste · 2 sobem no telhado · 3 chegam ao menino · 4 o levam | o alarme nunca toca; mais gente é levada |
 | **O Ganso Torto** | uma lanterna caiu, a estalagem pega fogo; a Hanne entra para buscar as cartas da Ada | 1 fumaça · 2 o teto · 3 a escada · 4 desaba | a estalagem queima; talvez a Hanne |
 | **O vau** | a Lisel, o Ottmar e mais quatro aldeões sendo arrastados para o rio; o Brask segura com dois soldados | 1 agarrados · 2 na cintura · 3 no peito · 4 levados | a Lisel é levada |
 
 - **É impossível salvar tudo** com 4–5 PJs de nível 1. É de propósito.
 - **Morrer:** o PJ **sai da luta para calibrar** (acorda no berço da Terra; não volta para esta luta). No nível 1, **não perde nível**. As Cascas **agarram e arrastam, quase não matam**: no combate 1, morrer deve ser raro. *(Os aldeões veem o corpo do Retornado virar cinza colorida. Alguns recuam com medo.)*
 - **Ensine as regras jogando:** Estamina, Prioridade, Bloquear/Esquivar, Estresse, Ataque de Condição (para soltar alguém agarrado).
-- **Quantas Cascas:** ~2 por PJ, divididas entre a torre (2) e o vau (o resto). O Ganso é um perigo (fogo), não um combate. A Irmã Vela só canta (a Canção pode Atordoar).
+- **Quantas Cascas:** ~2 por PJ, divididas entre o sino (2) e o vau (o resto). O Ganso é um perigo (fogo), não um combate. A Irmã Vela só canta (a Canção pode Atordoar).
 - **Termina quando:** o sino tocar 2 rodadas seguidas (as Cascas recuam para a água), **ou** as 4 rodadas dos relógios acabarem.
 
 ### Interlúdio — Nível 2 · 5 min

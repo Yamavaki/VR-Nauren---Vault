@@ -44,7 +44,7 @@ Um **Inquilino** do Hóspede ([[O Hóspede e os Inquilinos]]). Ele não tem nome
 
 **Como os jogadores "vencem" (ninguém mata o Sétimo no Ep1):**
 - reduzi-lo a **10 PV** → ele para e recua: "Chega. Já vi o que queria ver.";
-- o **sino da torre** tocar por 2 rodadas → as Cascas recuam e ele vai junto;
+- o **sino da praça** tocar por 2 rodadas → as Cascas recuam e ele vai junto;
 - ou **sobreviver 5 rodadas** protegendo o vau.
 
 **O dilema dentro da luta:** cada golpe acerta **o corpo do Sor Aldric**, ainda vivo lá dentro. O [[Sargento Brask]] grita: "É o Sor Aldric! Não o matem!"

@@ -77,7 +77,7 @@ Os jogadores escolhem a ordem conforme as **metas** deles. Se ignorarem um camin
 ## 7. As escolhas difíceis
 | Ep | A escolha | Custa de um lado | Custa do outro |
 |---|---|---|---|
-| 1 | **Quem salvar no festival:** a torre do sino, a estalagem, o vau? | gente levada | gente morta, ou o alarme que não toca |
+| 1 | **Quem salvar no festival:** o sino da praça, a estalagem, o vau? | gente levada | gente morta, ou o alarme que não toca |
 | 1 | **Ferir o Sétimo** (o corpo é do Sor Aldric, ainda vivo lá dentro) | o herói de Ostrel | a vila |
 | 1 | **Dizer o nome ao Sétimo?** | o Hóspede pode chamar o PJ | o Sétimo volta a perguntar |
 | 2 | **Aceitar a cura da Madre** para os feridos? | eles viram Cascas, aos poucos | feridos morrem |
