@@ -17,16 +17,20 @@ No Nauren, 0 PV é o fim da jornada. Para o **avatar**, não: ele renasce. Mas a
 
 > **Por que deixar o corpo e os itens:** é a melhor pista do arco. "Gráficos" não deixam cadáver. E o item perdido cria uma missão natural (voltar para buscar), além de colocar o item na mão de um NPC (a [[Tilde]] guarda tudo).
 
+## Exceção: o período de Calibração
+Nas **primeiras 24 horas** de cada calouro no TESSERA, o renascimento é **imediato** (sem a hora de espera), no Berço mais próximo. A Halden chama de "período de aprendizado".
+> **Por que:** a Sessão 1 tem um ataque grande e PJs de 3–5 PV. Com renascimento imediato, morrer vira **tática** (descer a colina correndo e voltar à luta), e os aldeões **veem** isso acontecer. É o primeiro momento em que os nativos olham para os jogadores com medo.
+
 ## Estresse
 - O Estresse funciona como no Nauren dentro do jogo.
 - **Estresse permanente** (24h sem tratamento) **não fica no avatar** nos níveis 1–4: a "recalibração" limpa ao morrer. É um alívio que a Halden anuncia como vantagem.
-- **A partir da 1ª Demão**, ele fica. *(É assim que a mesa percebe que as regras mudaram.)*
+- **A partir do 1º Nó**, ele fica. *(É assim que a mesa percebe que as regras mudaram.)*
 
 ## O filtro somático (supressor de dor), por faixa de Sincronia
 | Sincronia | Morte no avatar sente… | Efeito no humano |
 |---|---|---|
 | 1–4 | quase nada; um "puxão" | nenhum |
-| 5–8 (após 1ª Demão) | o golpe final, por um segundo | o humano ganha 1 de Estresse (ficha do humano), que some com uma noite de sono |
+| 5–8 (após o 1º Nó) | o golpe final, por um segundo | o humano ganha 1 de Estresse (ficha do humano), que some com uma noite de sono |
 | 9–12 | dor real | Estresse que dura 24h; marcas roxas onde o golpe acertou |
 | 13–16 | dor completa | Estresse pode virar permanente no humano |
 | 17+ | — | **morrer lá pode matar o corpo na Terra** |

@@ -7,45 +7,66 @@ updated: 2026-11-07
 
 # Bestiário: Arco 1
 
-> **Calibragem:** no Nauren a Vida é **Vitalidade × Nível**. Um PJ de nível 1 tem uns **3–5 PV** e Defesa 12–15 com o kit padrão. Ou seja: **dois golpes matam**. Isso é intencional neste arco (a morte é barata no começo, ver [[Morte e Retorno]]). Os números abaixo são um ponto de partida; se a mesa morrer demais, tire 1 de PdA dos inimigos.
-> Todos seguem as regras de **Prioridade** e **Estamina** do livro. Se usar o Foundry, o Criador de Monstros do sistema monta tudo isso.
+> **Calibragem:** no Nauren, Vida = **Vitalidade × Nível**. Nível 1 ≈ **3–5 PV**; nível 3–4 ≈ **9–20 PV**. Defesa com o kit padrão ≈ 12–15. Dois golpes matam um nível 1, e isso é intencional (ver [[Morte e Retorno]]). Se a mesa morrer demais, tire 1 de PdA dos inimigos.
+> Todos usam **Prioridade** e **Estamina** do livro. No Foundry, o Criador de Monstros do sistema monta isto.
 
-## Lobo faminto (Contrato 1) — em bando de 3–4
-| PV | Defesa | Agi | Estamina/rodada | PdA |
+## Quieto (Oco comum) — Sessões 1, 3, 5
+*Um aldeão de Lagoa-Mansa. Roupa de festa molhada, sorriso calmo, uma lanterna apagada na mão. Canta.*
+| PV | Defesa | Agi | Est/rodada | PdA |
+|---|---|---|---|---|
+| 5 | 11 | 2 | 2 | 1 |
+- **Agarrar** (Ataque de Condição, 1 Est): aplica **Agarrado**. Não querem matar, querem **levar**.
+- **Arrastar** (1 Est): move-se 3 m levando quem está agarrado, em direção ao rio.
+- **Sem dor** (passiva): não podem receber **Estresse**, mas também **não reduzem dano** com ele.
+- **Fraqueza — o sino:** um sino tocando a até 10 m deixa todos os Quietos **Amedrontados** (ações +1 Est). Se o sino continuar tocando 2 rodadas seguidas, eles **recuam** para o rio.
+- **Fraqueza — a dor:** quando um Quieto chega a metade da Vida, role 1d6: no **6**, ele **para**, olha as mãos e diz um nome (o próprio nome). Por uma rodada, não age.
+- **Em grupo:** use a regra do **Bando** do Foundry para 6+ Quietos.
+
+## Irmã Vela (tenente) — Sessão 1 e 5
+| PV | Defesa | Agi | Est/rodada | PdA | PdM |
+|---|---|---|---|---|---|
+| 14 | 12 | 4 | 3 | 2 | 3 |
+- **Canção do Repouso** (2 Est, **Ação Anunciada**, área 6 m): quem ouvir faz teste de Destino (1d20 + Destino, 12). Falha: fica **Atordoado** até o fim do turno; o corpo quer parar e ouvir. *(Retornados com Sincronia baixa têm **facilidade**: ainda não estão "amarrados" o bastante para o Hóspede pegá-los. Pista.)*
+- **A lanterna** (1 Est, 6 m): uma luz fria; 1d6 + 3 de dano; o alvo fica **Cego** até o fim do turno.
+- **Andar pela água:** ignora terreno de rio.
+- **Fraqueza:** se a **Hanne** cantar a parte dela da canção (ou um PJ que aprendeu com ela), a Vela **perde o turno**.
+- **Na Sessão 1 ela não morre:** no fim do combate, ela recua para o rio, diz o nome real de um PJ, e some.
+
+## Lobos famintos — estrada
+| PV | Defesa | Agi | Est | PdA |
 |---|---|---|---|---|
 | 4 | 11 | 4 | 2 | 1 |
-- **Mordida** (1 Est): 1d4 + 1.
-- **Cerco:** se dois lobos estiverem adjacentes ao mesmo alvo, o segundo ataque tem **facilidade**.
-- **Fome:** com metade da Vida, foge. *(Lobo que foge não é monstro: é bicho com medo. Mostre isso.)*
-- **O Lobo de Três Patas:** igual, mas onde está a quarta pata há um traço de pincel que solta cinza. Quando morre, desfaz-se em cinza **cinza-esverdeada**. Os outros lobos uivam para ele.
+- **Mordida** (1 Est): 1d4 + 1. **Cerco:** com dois lobos adjacentes ao alvo, o segundo ataque tem facilidade. Com metade da Vida, **fogem**.
 
-## Desertores (Contrato 3) — Brando + 4
+## Desertores ([[Brando]] + 4) — Contrato 2
 | | PV | Defesa | Agi | Est | PdA |
 |---|---|---|---|---|---|
-| Desertor | 5 | 14 (cota simples) | 2 | 2 | 2 |
+| Desertor | 5 | 14 | 2 | 2 | 2 |
 | Brando | 9 | 14 | 2 | 3 | 3 |
-- Espada (1 Est): 1d6 + PdA. Usam **Bloquear** sempre que podem: eles **não querem morrer**.
-- Rendem-se quando metade cai. Brando negocia antes de lutar se os PJs falarem primeiro.
+- Espada (1 Est): 1d6 + PdA. **Bloqueiam** sempre: não querem morrer. Rendem-se com metade caída. Brando negocia se falarem primeiro.
 
-## A Garça Incompleta (Contrato 4 — chefe)
-*Uma garça-real do tamanho de um cavalo. Metade do corpo é pintura perfeita; a outra metade é **esboço**: linhas de carvão, sem cor, que se refazem quando ela se mexe.*
-| PV | Defesa | Agi | Estamina/rodada | PdA |
+## A Garça do Juncal — Contrato 4 (chefe opcional)
+*Uma garça cinza do tamanho de um cavalo, velha como o brejo. Não é corrompida. Tem um ninho.*
+| PV | Defesa | Agi | Est/rodada | PdA |
 |---|---|---|---|---|
 | 22 | 13 | 5 | 4 | 2 |
 - **Bico-lança** (2 Est, alcance 2 m): 1d8 + 2.
-- **Bater asas** (2 Est, **Ação Anunciada**, área 3 m): empurra 2 m e aplica **Cego** até o fim do turno (cinza nos olhos). Todos na área recebem Prioridade.
-- **Esboço** (passiva): a primeira vez que ela chega a 0 PV, ela se **redesenha** com 8 PV, mais pálida. *(Os jogadores vão achar que é "segunda fase de chefe". É o Acaso.)*
-- **Traço do Descarte:** quem a acerta com arma corpo a corpo fica com uma **mancha de cinza** na arma ou armadura que **não sai**. (Pista C.)
-- **Terreno (Juncal):** água até o joelho: movimento custa o dobro fora das trilhas de pedra. Neblina: −1 em ataques a mais de 6 m (penumbra).
-- **Quando morre:** vira uma nuvem de cinza **colorida** que o vento leva **na direção do moinho**.
+- **Bater asas** (2 Est, **Ação Anunciada**, área 3 m): empurra 2 m e aplica **Cego** até o fim do turno.
+- **Terreno:** água até o joelho (movimento dobrado fora das trilhas de pedra); neblina (−1 em ataques a mais de 6 m).
+- **O segredo:** ela **come Ocos**. No ninho há restos de lanternas de festa e **um badalo de sino** (o de Lagoa-Mansa: pista F). Se os PJs observarem antes de atacar, podem vê-la caçando um Quieto.
+- **Se poupada e respeitada:** na Noite Sem Lua, ela aparece no céu sobre o Berço.
 
-## A Mancha do Moinho (Contrato Final — cenário vivo)
-Não é um monstro com PV. É o **lugar** que luta. Cada rodada, no início da rodada, role 1d6 (ou escolha):
-1. **Esquecer:** uma parede/escada vira traço; quem está nela cai 2–4 m (dano de queda do livro).
-2. **Repetir:** um PJ repete a última ação, de graça, **mas no mesmo alvo** (mesmo que tenha mudado).
-3. **Descolorir:** um PJ perde o bônus de **uma das suas cores** até o fim da cena (eco da "Tinta do Vazio" do livro).
-4. **Sombra atrasada:** surge um **Eco** (cópia em esboço de um PJ: PV 3, Defesa 12, faz o que o PJ fez no turno passado).
-5. **Ranger:** a roda gira ao contrário; todos na sala de moenda recebem 1 de dano.
-6. **Respiro:** nada. Silêncio. *(O silêncio também assusta.)*
-- **A fonte:** a figura repintada na roda. Para arrancá-la: chegar à roda (que gira), 3 ações gerais (1 Est cada) ao longo de rodadas, enquanto a Mancha reage. Destruir a figura → a Mancha para.
-- **Perjúrio do Acaso** gasto aqui é **literal**: o Acaso está na sala.
+## Madre Ilvane — Sessão 5 (a vilã)
+**Fase 1 — ela não luta.** Enquanto não cruzar o próprio limite, ela anda entre os Quietos, toca rostos, fala. Atacá-la nessa fase: ela não se defende, **mas** cada Repousado da vila a até 10 m recebe Prioridade e se joga na frente do golpe (ataque vai para ele). *(Atacar a Madre = ferir os aldeões que a protegem. Escolha difícil em tempo real.)*
+
+**O gatilho da Fase 2:** quando algo ameaça **o Grande Repouso de verdade** (o sino da praça soa, alguém destrói o sino sem badalo dela, a Tilde a enfrenta), ela **cruza o limite**: levanta a mão contra alguém.
+
+**Fase 2 — o Hóspede.** A sombra dela cresce no chão e tem **mãos demais**.
+| PV | Defesa | Agi | Est/rodada | PdA | PdM |
+|---|---|---|---|---|---|
+| 40 (para 4–5 PJs de nível 3–4) | 14 | 3 | 5 | 2 | 4 |
+- **Mãos da sombra** (2 Est, alcance 6 m, até 2 alvos): 1d8 + 4; aplica **Agarrado**.
+- **Fechar a porta** (3 Est, **Ação Anunciada**, área 4 m): todos fazem teste de Destino (12). Falha: **perde 1 de Estamina máxima** até o fim da cena e não sente o próximo dano que levar (o dano vem mesmo assim; ele só não sabe). *(Tirar a dor como arma. Assustador e temático.)*
+- **Coro** (passiva): enquanto houver 3+ Quietos vivos, ela recupera 2 PV no início de cada rodada.
+- **Fraquezas:** o **badalo de Lagoa-Mansa** posto de volta num sino e tocado perto dela → ela fica **Atordoada** 1 rodada e perde o Coro. **A Vela** voltar a ser a Ada (pela canção) → a Madre perde 10 PV de uma vez ("Ada… não").
+- **Perjúrio do Acaso** gasto nesta luta é o Hóspede olhando direto para a mesa: use com gosto.

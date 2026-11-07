@@ -7,7 +7,7 @@ updated: 2026-11-07
 
 # The Simulation — Painel do Mestre
 
-> Campanha de RPG de mesa no sistema **Nauren**. Os jogadores entram numa universidade que dá acesso a um VR ultrarrealista. Eles acham que é um jogo. Não é.
+> Campanha de RPG de mesa no sistema **Nauren**. Os jogadores entram numa universidade que dá acesso a um VR ultrarrealista. Eles acham que é um jogo. Não é: é **Amarant** (nome provisório), um mundo real sendo esvaziado pelo Hóspede.
 > **Tudo neste vault é segredo de mestre.** Os handouts (pasta 09) têm uma parte para os jogadores, entre as linhas `---`, e uma *nota do mestre* no fim: entregue só a parte de cima.
 
 ## Onde está cada coisa
@@ -15,11 +15,11 @@ updated: 2026-11-07
 |---|---|
 | **00 Início** | este painel, [[Decisões (canon)]], [[Perguntas em aberto]], [[Nomes (propostas)]] |
 | **01 Referência** | [[Campaign Brief - The Simulation]], [[RPG Campaign Guide]], [[Style Guide - Sanderson & Rothfuss]], [[Character Guide]] |
-| **02 Regras da Casa** | [[Fichas - Humano e Avatar]], [[Sincronia e Demãos]], [[Morte e Retorno]] |
-| **03 Mundo** | [[Terra - Meridia e a Universidade]], [[Naurien - A Marca de Vael]] |
-| **04 NPCs** | uma nota por NPC (Terra / Naurien) |
-| **05 Arcos** | [[Arco 1 - Calibração]] |
-| **06 Sessões** | [[Sessão 0 - Criação]], [[Sessão 1 - Primeiro Mergulho]] |
+| **02 Regras da Casa** | [[Fichas - Humano e Avatar]], [[Sincronia e Nós]], [[Morte e Retorno]] |
+| **03 Mundo** | [[Terra - Meridia e a Universidade]], [[Amarant - A Marca de Vael]] |
+| **04 NPCs** | uma nota por NPC (Terra / Amarant) |
+| **05 Arcos** | [[O Semestre e a Expedição]] (objetivo: top 3), [[Arco 1 - Hóspedes]], [[Bestiário - Arco 1]] |
+| **06 Sessões** | [[Sessão 0 - Criação]], [[Sessão 1 - O Festival das Lanternas]] |
 | **07 Pistas e Segredos** | [[Pistas - Arco 1]], [[Escada de Revelações]] |
 | **08 Relógios** | [[Relógios - Arco 1]] |
 | **09 Handouts** | o que os jogadores podem ler |
@@ -27,7 +27,7 @@ updated: 2026-11-07
 | **_Templates** | NPC, Sessão, Local |
 
 ## Estado atual
-- **Fase:** preparação do Arco 1 (níveis 1–4, escada de segredos no nível 0).
+- **Fase:** preparação do Arco 1 "Hóspedes" (níveis 1–4, escada de segredos no nível 0). Vilã: [[Madre Ilvane]].
 - **Próximo passo:** marcar a [[Sessão 0 - Criação]] com os 4–5 jogadores.
 - **Em aberto:** ver [[Perguntas em aberto]].
 

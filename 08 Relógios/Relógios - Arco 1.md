@@ -6,46 +6,47 @@ updated: 2026-11-07
 
 # Relógios das Ameaças: Arco 1
 
-> **Como usar:** no fim de cada sessão, avance **1 etapa** de cada relógio em que os jogadores **não interferiram**. Se interferiram, o relógio para, volta, ou muda de rumo. Marque a data ao lado da etapa.
-> Os jogadores **nunca veem** os relógios. Eles veem as **consequências**.
+> **Como usar:** no fim de cada sessão, avance **1 etapa** de cada relógio em que os jogadores **não interferiram**. Se interferiram, o relógio para, volta ou muda de rumo. Marque a data ao lado.
+> Os jogadores **nunca veem** os relógios. Veem as **consequências**.
+> **Exceção:** o relógio da Madre tem um **prazo fixo**: a etapa 6 acontece na Noite Sem Lua, esteja onde estiver.
 
-## 1. A Mancha do Moinho
-*O Acaso se espalha a partir da roda pintada.*
-- [ ] 1. Animais com Traços do Descarte nas margens do rio (o cachorro de três patas).
-- [ ] 2. O rio corre ao contrário uma hora por dia. As crianças acham graça; os velhos rezam.
-- [ ] 3. **Lisel**, a filha do Ottmar, adoece: a cor some do cabelo, mecha por mecha.
-- [ ] 4. A **Garça Incompleta** ataca a vila à noite (se ainda viver).
-- [ ] 5. Metade do moinho "esquece" a forma: paredes viram traços, como um esboço.
-- [ ] 6. **A Mancha engole o moinho e a Lisel.** O Intendente manda queimar a vila baixa inteira.
-**Para:** se a fonte (o pedaço da roda) for destruída.
+## 1. A Madre (o Repouso)
+- [ ] 1. **O Festival** (Sessão 1): os Quietos descem o rio e levam pessoas.
+- [ ] 2. **A oferta:** a Madre chega à vila, cura feridos de verdade, oferece o Repouso.
+- [ ] 3. **Os primeiros Repousados** em Vau-Cinzento: sorriem, dormem bem, **param de tocar o sino da porta**.
+- [ ] 4. **A vila se divide:** uma briga na praça; alguém tenta incendiar a carroça das Irmãs.
+- [ ] 5. **O Lorenz aceita o Repouso** para curar o avatar (ou outro Retornado, se o Lorenz já foi salvo de si mesmo).
+- [ ] 6. **A Noite Sem Lua:** o Grande Repouso no Berço. *(Prazo fixo: dia 14.)*
+**Para / muda:** destruir o sino sem badalo dela antes da Noite Sem Lua **enfraquece** o Grande Repouso (ver o bestiário). Expor a ela a verdade sobre a febre de 20 anos atrás (ver [[Pistas - Arco 1]]) faz **uma Irmã** desertar e contar o plano.
 
 ## 2. A Observadora (Dra. Ilse Varga)
-*Escolha **um** PJ: o que tiver a origem ou o gancho mais ligado à Halden, ou o primeiro a subir de nível.*
-- [ ] 1. Nota leituras estranhas no exame da Calibração (Sessão 1). Anota no papel, não no tablet.
-- [ ] 2. Pede um exame extra "de rotina" só para esse PJ.
+*Escolha o PJ cujo **nome real** a Irmã Vela disser na Sessão 1.*
+- [ ] 1. Leituras estranhas no exame da Calibração (anota no papel).
+- [ ] 2. Depois do festival: chama o PJ. "Seu nome apareceu num log de NPC. A Halden vai chamar de vazamento de dados. **Você** contou seu nome a alguém lá dentro?"
 - [ ] 3. Aparece no Salão dos Berços no fim de um mergulho, sem motivo.
 - [ ] 4. Pede a um colega do PJ (o [[Benji Okoro]]?) que conte "como ele anda dormindo".
-- [ ] 5. Oferece um acordo: horas de berço extras em troca de exames semanais **sigilosos**.
-- [ ] 6. Age: fala do teto do nível 4 ("não conte a ninguém") e põe o PJ numa lista. *(Arco 2.)*
+- [ ] 5. Oferece um acordo: horas de berço extras em troca de exames **sigilosos**.
+- [ ] 6. Fala do teto do nível 4 ("não conte a ninguém"). *(Fim do arco.)*
 **Muda:** se o PJ confrontá-la com algo concreto, ela pula para a etapa 5.
 
-## 3. Esquadrão Albrecht
-- [ ] 1. Sobe para o top 3 do Placar na primeira semana. (Avatar dele já está no nível 2 no primeiro dia: **pista dos Vessels**.)
-- [ ] 2. Pega os contratos de maior valor antes de todo mundo (tem acesso ao Quadro **antes** da hora de abertura).
-- [ ] 3. Recruta alguém que os PJs rejeitaram ou deixaram de lado (a [[Pietra Lenz]], ou um NPC da Terra que eles ignoraram).
-- [ ] 4. Aceita o Contrato Final com tochas e óleo comprados no Fortim.
-- [ ] 5. Queima o moinho. **1º lugar na Avaliação.**
-**Muda:** se os PJs se aproximarem do Lorenz como pessoa (não como rival), a etapa 4 trava: ele hesita, porque não sabe o que pensar.
-
-## 4. Irmão Caetano
-- [ ] 1. Boatos no Fortim: "um sacerdote do Entrelaço está perguntando sobre os Berços".
-- [ ] 2. Chega a Vau-Cinzento. Conversa com a [[Tilde]] e dá a ela uma fita branca "para proteger".
+## 3. Irmão Caetano
+- [ ] 1. Chega a Vau-Cinzento no dia seguinte ao festival. Prega: "os Hóspedes chegaram na lua cheia, e o rio trouxe os Quietos. Não é coincidência."
+- [ ] 2. Pendura sinos novos em todas as portas. Dá à [[Tilde]] uma fita branca.
 - [ ] 3. Testemunha um Retornado renascer no Berço. Fica parado na chuva, rezando.
-- [ ] 4. Prega na praça. A vila se divide: metade acha que os Retornados ajudam, metade que eles **trouxeram** a Mancha.
-- [ ] 5. **Marca o Berço** com sal e cinza: durante 3 dias, os PJs que morrerem renascem no **Fortim**, a meio dia de caminhada.
-- [ ] 6. Tenta selar o Berço com um rito na noite da Avaliação. A Tilde fica entre ele e as pedras.
-**Muda:** se um PJ conversar com ele **de igual para igual** (sem chamá-lo de NPC, sem violência), ele não sela. Ele espera. E observa. *(Um aliado improvável para o Arco 2.)*
+- [ ] 4. Vai sozinho à Casa do Repouso falar com a Madre. Volta **calado e com uma mão enfaixada**.
+- [ ] 5. **Marca o Berço** com sal e cinza: por 3 dias, quem morre renasce no **Fortim**.
+- [ ] 6. Na Noite Sem Lua, tenta **selar o Berço** de vez.
+**Muda:** se um PJ conversar com ele **de igual para igual**, ele conta o que sabe da Madre (estudaram juntos) e propõe uma aliança, com o preço de selar o Berço depois. Se os PJs **provarem** que não são o Oco (ex.: um PJ toca o sino da porta por vontade própria, várias vezes, na frente dele), ele não sela. Ele espera.
 
-## 5. Pequenos relógios (opcionais)
-- **Benji:** 1 cansado → 2 dorme demais → 3 sangra pelo nariz ao sair do berço → 4 internado "por defeito no equipamento" (Brief, Parte 1). No Arco 1, pare na etapa 3.
-- **A bolsa:** se o esquadrão ficar fora do top 12 na Sessão 3, chega um e-mail da Halden para os bolsistas: "Revisão de elegibilidade agendada".
+## 4. Esquadrão Albrecht
+- [ ] 1. Top 3 do Placar na primeira semana. (Avatar já no nível 2 no dia 1: pista dos Vessels.)
+- [ ] 2. Pega o contrato "Purificação: Lagoa-Mansa" e **queima** a aldeia (se os PJs não pegarem antes). Vídeo no Placar: "Conteúdo de terror bem feito, recomendo."
+- [ ] 3. Recruta quem os PJs deixaram de lado (a [[Pietra Lenz]] ou outro NPC).
+- [ ] 4. O avatar do Lorenz é ferido gravemente; ele **aceita o Repouso** na Casa ("é só um buff de cura, relaxa").
+- [ ] 5. Na Noite Sem Lua, o avatar dele está **entre os Quietos**. Na Terra, ele convulsiona na sala V.
+**Muda:** se os PJs se aproximarem do Lorenz como pessoa (não como rival), a etapa 4 trava: ele conta que tem medo do próprio avatar.
+
+## 5. Pequenos relógios
+- **Benji:** 1 cansado → 2 mergulha escondido além das horas → 3 sangra pelo nariz ao sair (Sessão 4) → *(internação: Arco 2)*.
+- **A bolsa:** se o esquadrão estiver fora do top 30 na Sessão 3, chega o e-mail "Revisão de elegibilidade" para os bolsistas.
+- **Os Levados:** cada sessão sem resgate, **um** Levado vira Quieto de vez (anote quem; se for alguém que os PJs conhecem, mostre na Sessão 5).

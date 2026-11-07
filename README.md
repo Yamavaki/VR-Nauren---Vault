@@ -10,8 +10,8 @@ Vault do Obsidian da campanha **"The Simulation"** (título provisório), no sis
 |---|---|
 | 00 Início | painel, decisões (canon), perguntas em aberto, nomes |
 | 01 Referência | Campaign Brief e os guias (RPG, Style, Character) |
-| 02 Regras da Casa | fichas humano/avatar, Sincronia e Demãos, Morte e Retorno |
-| 03 Mundo | Terra (Meridia, a Aster) e Naurien (a Marca de Vael) |
+| 02 Regras da Casa | fichas humano/avatar, Sincronia e Nós, Morte e Retorno |
+| 03 Mundo | Terra (Meridia, a Aster) e Amarant (a Marca de Vael) |
 | 04 NPCs | uma nota por NPC |
 | 05 Arcos | Arco 1 e bestiário |
 | 06 Sessões | Sessão 0 e Sessão 1 |

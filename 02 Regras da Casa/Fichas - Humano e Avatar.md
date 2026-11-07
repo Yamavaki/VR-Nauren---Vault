@@ -22,7 +22,7 @@ Cada jogador tem **duas fichas** (decisão do mestre). A proposta abaixo usa só
 | **Profissão** | Cap. VIII: a profissão deixa o jogador **fazer perguntas** ao mestre | vira o **curso** na Aster (Engenharia de Jogos, Medicina, Direito, Design, Neurociência, Engenharia Elétrica…) e/ou um trabalho anterior |
 | **Classe** | — | **não tem.** Humano não tem habilidades de classe |
 | **Ganchos** | — | 1 **gancho de origem** + 1 **laço** com outro PJ (ver [[Sessão 0 - Criação]]) |
-| **Sintomas** | — | uma linha vazia. **O mestre preenche** quando a Sincronia sobe ([[Sincronia e Demãos]]) |
+| **Sintomas** | — | uma linha vazia. **O mestre preenche** quando a Sincronia sobe ([[Sincronia e Nós]]) |
 
 ### O d4 do destino, na Terra
 | d4 | No livro | Na Terra |
@@ -32,16 +32,16 @@ Cada jogador tem **duas fichas** (decisão do mestre). A proposta abaixo usa só
 | 3 | Destino Sereno | família de classe média que paga a mensalidade, **e cobra resultados** |
 | 4 | Destino Áureo | família rica ou **patrocinador**. Tem um berço particular de última geração |
 
-> **Por que isso funciona:** dá ao Arco 1 uma pressão concreta e pessoal. Quem é bolsista precisa que o esquadrão vá bem na [[Arco 1 - Calibração|Avaliação]]. Quem é rico tem algo a provar. E o d4 é do próprio livro, os jogadores já conhecem.
+> **Por que isso funciona:** dá ao Arco 1 uma pressão concreta e pessoal. Quem é bolsista precisa que o esquadrão fique no **top 3** do semestre ([[O Semestre e a Expedição]]). Quem é rico tem algo a provar. E o d4 é do próprio livro, os jogadores já conhecem.
 > O mestre pode deixar o jogador **escolher** em vez de rolar, se a história dele pedir.
 
 ### Testes na Terra
 Use o capítulo I do Nauren ("Como narrar sem pedir tantos testes"): história do personagem + boa descrição + resultado incerto. Na Terra quase não há combate. Os testes são sociais e de investigação (Inteligência), físicos de vez em quando (correr de um segurança, Agilidade).
-**Graça do Destinado** e **Perjúrio do Acaso** funcionam nos dois mundos. *(Pequena estranheza proposital: por que o Acaso age na Terra também? Não explique.)*
+**Graça do Destinado** e **Perjúrio do Acaso** funcionam nos dois mundos. *(Pequena estranheza proposital: por que o "Acaso" das regras age na Terra também? Não explique.)*
 
 ---
 
-## 2. A ficha do Avatar (TESSERA / Naurien)
+## 2. A ficha do Avatar (TESSERA / Amarant)
 
 É a ficha normal do Nauren, com estas mudanças:
 
@@ -51,7 +51,7 @@ Use o capítulo I do Nauren ("Como narrar sem pedir tantos testes"): história d
 | **Classe** | qualquer uma das 9 | escolhida no questionário de calibração ([[Handout - Questionário de Calibração]]) |
 | **As duas cores** | Cap. II "Sobre você e sua herança" | a Halden pergunta as **duas cores favoritas** no questionário. É uma pergunta estranha para um "jogo" — e é a regra do livro funcionando na ficção |
 | **Destino (d4)** | — | **não se rola.** Todo avatar começa com o **kit padrão do TESSERA** = equipamento do Destino Sereno (capa simples, bota leve, armadura simples, duas armas leves ou uma normal, 7 dias de comida, 50 florins) |
-| **Nível** | 1 | é também a **Sincronia** (ver [[Sincronia e Demãos]]) |
+| **Nível** | 1 | é também a **Sincronia** (ver [[Sincronia e Nós]]) |
 | **Profissão** | — | o avatar **não tem**. Ele usa as perguntas do curso do humano. *(Um estudante de Medicina reconhece que um ferimento de NPC "está infeccionando de verdade". Ótimo jeito de deixar os jogadores perceberem coisas.)* |
 
 ### Por que rolar atributos duas vezes?

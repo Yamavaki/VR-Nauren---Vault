@@ -14,7 +14,7 @@ updated: 2026-11-07
 
 | Campo | |
 |---|---|
-| **Desejo (agora)** | 1º lugar na Avaliação. O pai vem assistir |
+| **Desejo (agora)** | 1º lugar na Liga e a Expedição. O pai assiste ao Placar toda semana |
 | **Desejo (grande)** | que o pai o veja como mais que um investimento |
 | **Ferida → mentira** | cresceu sendo comparado com o irmão mais velho, que "não deu certo" → *"se eu não for o melhor, eu não sirvo para nada"* |
 | **Contradição** | é gentil com pessoas **e** trata os NPCs como cenário. Ajuda um calouro a carregar a mala e queima uma vila no mesmo dia |

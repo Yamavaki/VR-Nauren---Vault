@@ -1,6 +1,6 @@
 ---
 type: npc
-mundo: Terra | Naurien
+mundo: Terra | Amarant
 papel:
 importancia: figurante | secundária menor | secundária importante
 escada:

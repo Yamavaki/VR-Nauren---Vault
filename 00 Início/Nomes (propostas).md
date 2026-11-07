@@ -6,31 +6,58 @@ updated: 2026-11-07
 
 # Nomes (propostas)
 
-> Todos são **provisórios**. Usei estes nomes nas notas para o texto ficar legível; se mudar algum, use "buscar e substituir" no Obsidian (Ctrl+Shift+F).
+> Todos são **provisórios**. Usei os nomes em **negrito** nas notas para o texto ficar legível. Para trocar, use "buscar e substituir" no Obsidian (Ctrl+Shift+F).
+
+## O nome do mundo novo
+O mundo **não é Naurien** (decisão). Precisa de um nome que os **nativos** usam. A Halden nunca o usa: para ela, é "o servidor".
+
+| Opção | Som | Por que pode funcionar |
+|---|---|---|
+| **Amarant** *(usado nas notas)* | a-ma-RANT | vem de *amaranto*, a "flor que não murcha". É um mundo **morrendo** com nome de flor eterna. A ironia só aparece quando os jogadores descobrirem que ele é real |
+| **Orvália** | or-VÁ-lia | de *orvalho*. Soa suave, fácil de falar na mesa em português |
+| **Ystrel** | IS-trel | estranho, sem significado na Terra. Bom se você quiser que o mundo soe **alienígena** |
+| **Cendra** | CEN-dra | de *cinza* (catalão/latim). Um mundo que vai virando cinza |
+
+> **Minha opinião:** Amarant, porque o nome **conta a tragédia sem explicar**. Mas Orvália é mais fácil de pronunciar para uma mesa brasileira. A escolha é sua.
+
+## Meridia ou TESSERA?
+Os dois **não competem**: nomeiam coisas diferentes.
+- **Meridia** = a cidade planejada na Terra.
+- **TESSERA** = o nome comercial do "jogo".
+
+Se a pergunta for "qual é o nome mais forte", é **TESSERA**: *tessera* é a peça de um mosaico, e a Halden vende o mundo como um mosaico digital, feito de pedacinhos. Isso esconde uma ironia (um mundo inteiro reduzido a "peças"). Meridia é funcional, um bom nome de cidade, sem segunda camada. **Nenhum dos dois serve para o mundo nativo**, porque é a Halden falando, não o povo de lá.
 
 ## Terra
-| O quê | Proposta | Por quê |
-|---|---|---|
-| Cidade planejada | **Meridia** | soa europeu e "oficial", como um nome escolhido por comitê. Uma Brasília: o meridiano, o centro |
-| Universidade | **Universidade Aster de Meridia (UAM)** | "Aster" = estrela; os alunos chamam só de "a Aster" |
-| Empresa | **Halden Systems** | nome frio de corporação; o logo é um H dentro de um losango |
-| O "jogo" | **TESSERA** | *tessera* é a peça de um mosaico. A Empresa vende o mundo como um mosaico digital. Os nativos vivem numa **pintura**. As duas palavras falam de arte, e ninguém percebe |
-| Os casulos de VR | **berços** (gíria dos alunos) / **Unidades de Imersão** (nome oficial) | ver o detalhe abaixo |
-| Supressor de dor | **filtro somático** | termo técnico que soa inofensivo |
+| O quê | Proposta |
+|---|---|
+| Cidade planejada | **Meridia** |
+| Universidade | **Universidade Aster de Meridia** ("a Aster") |
+| Empresa | **Halden Systems** (logo: um H dentro de um losango, "a pipa") |
+| O "jogo" | **TESSERA** |
+| Casulos de VR | **berços** (gíria) / Unidades de Imersão (oficial) |
+| Supressor de dor | **filtro somático** |
+| A liga dos calouros | **Liga Aster de Calouros** (o Placar do semestre) |
+| O prêmio do top 3 | **a Expedição Aurora** (ver [[O Semestre e a Expedição]]) |
 
 ## O outro mundo
-| O quê | Nome da Empresa (no "jogo") | Nome dos nativos |
+| O quê | Nome da Halden | Nome dos nativos |
 |---|---|---|
-| O mundo | "o servidor" / "o mapa" | **Naurien** |
-| Região inicial | **Zona de Iniciação 01 — "Marca de Vael"** | **Vau-Cinzento** (a vila) e **Fronteira de Orla** (a região) |
-| Pontos de renascimento | **Âncoras** | **Berços** (os nativos veem os Retornados *nascerem* ali) |
-| Marcos de progressão (Thresholds) | **Marcos de Sincronia** | **Demãos** (camadas de tinta: o Retornado fica mais "pintado" no mundo) |
-| Os jogadores | "usuários" | **Retornados** (povo) / **Borrões** (a Igreja, como insulto) |
-| A entidade | — | **o Acaso** (já existe na lore do Nauren) |
-| A corrupção | "bugs", "glitches de renderização" | **Traços do Descarte** (lore do Nauren: pedaços incompletos que viram cinza) |
+| O mundo | "o servidor" | **Amarant** |
+| Região inicial | **Zona de Iniciação 01 — "Marca de Vael"** | **Vau-Cinzento** (a vila), **Fronteira de Orla** (a região) |
+| O reino | "facção aliada: Coroa" | **a Coroa de Ostrel** |
+| Pontos de renascimento | **Âncoras** | **Berços** |
+| Marcos de progressão | **Marcos de Sincronia** | **Nós** (o Retornado fica mais **amarrado** ao mundo) |
+| Os jogadores | "usuários" | **Retornados** (o povo) / **Hóspedes** (a Vigília, como acusação) |
+| A entidade | — | **o Hóspede** (nos textos antigos); o povo evita dizer o nome e fala "o que entra" |
+| A corrupção | "NPC em loop", "bug de IA" | **o Oco**; quem foi tomado é um **Oco** ou um **Quieto** |
+| A rachadura no céu | "skybox" | **a Costura** |
+| A Igreja | — | **a Vigília** (guardiões das portas e dos limiares) |
 
-### Detalhe que vale ouro: a palavra "berço"
-Os alunos chamam o casulo de VR de **berço** por piada. Os nativos chamam a âncora de **Berço**. Ninguém combinou isso. Quando um jogador ouvir um nativo dizer "você voltou pelo Berço", ele vai sentir um arrepio sem saber por quê. **Não explique nunca.** (Se a mesa preferir, troque a gíria; o importante é a coincidência.)
+### O detalhe que liga tudo: "Hóspede"
+A entidade **entra** nas pessoas e mora nelas. A Vigília olha para os Retornados (almas que entram em corpos) e vê **a mesma coisa**. Eles estão errados sobre os jogadores… e certos sobre a porta. Os jogadores vão ouvir "Hóspede" como insulto muito antes de entender por que a palavra dá medo.
 
-### Detalhe 2: os mapas não batem
-Na Terra, o mapa do TESSERA chama a região de "Marca de Vael". Nenhum nativo usa esse nome. Se um jogador perguntar a um aldeão sobre "Vael", ele franze a testa: **Vael era o nome de um general da Coroa**, enforcado há 40 anos. (Quem batizou o mapa sabia disso. Isso é nível 3.)
+### "Berço" (mantido)
+Os alunos chamam o casulo de **berço** por piada; os nativos chamam a âncora de **Berço**. Ninguém combinou. Não explique nunca.
+
+### Os mapas não batem (mantido)
+Nenhum nativo diz "Marca de Vael". **Vael era um general da Coroa**, enforcado há 40 anos. Quem batizou o mapa sabia disso (nível 3).

@@ -32,8 +32,8 @@ Uma cidade planejada há ~20 anos em torno da universidade. Moderna, impressiona
 - Fala sempre em **"simulação"**, nunca em "jogo". Os alunos dizem "jogo" e ninguém corrige… exceto a Dra. Varga.
 - Tem um **Termo de Imersão** com cláusulas estranhas ([[Handout - Termo de Imersão]]) e **Regras de Conduta** ([[Handout - Regras de Conduta no TESSERA]]).
 
-## O Mês de Calibração (a estrutura do Arco 1)
-- Todo calouro passa o 1º mês na **Zona de Iniciação 01 — "Marca de Vael"**.
-- Os calouros formam **esquadrões de 4–5**. Cada contrato concluído dá pontos no **Índice de Esquadrão**.
-- No fim do mês: a **Avaliação de Esquadrões**. Os 8 melhores ganham **vaga na Qualificatória Universitária** (o torneio do Arco 2) e **Horas de Berço extras**. Bolsistas precisam ficar no corte para manter a bolsa de imersão.
-- O Índice premia **velocidade e conclusão**, não o *como*. *(É isso que cria a escolha difícil do arco: fazer rápido ou fazer certo.)*
+## O Mês de Calibração e a Liga
+- Todo calouro passa o 1º mês na **Zona de Iniciação 01 — "Marca de Vael"**, formando **esquadrões de 4–5**.
+- O Mês de Calibração é o começo da **Liga Aster de Calouros**, que corre o **semestre inteiro**. Cada contrato dá **Pontos de Índice** no Placar.
+- **O top 3 no fim do semestre ganha a Expedição Aurora.** Ver [[O Semestre e a Expedição]].
+- O Índice premia **velocidade e contrato cumprido**, não o *como*. "Baixas evitáveis de NPCs" descontam **pouco**. *(É daí que vêm as escolhas difíceis.)*

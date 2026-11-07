@@ -28,7 +28,7 @@ updated: 2026-11-07
 
 ---
 *Nota do mestre:*
-- **Pergunta 6** é o "limite" do [[Character Guide]] §7. Guarde. O Contrato Final vai testá-la.
+- **Pergunta 6** é o "limite" do [[Character Guide]] §7. Guarde. A Noite Sem Lua (Sessão 5) vai testá-la.
 - **Pergunta 8** "sim" + gancho de origem 8 = esse PJ tem algo especial. Decida depois.
-- **Pergunta 9** é a 1ª Demão escondida (o nome que a [[Tilde]] dá).
+- **Pergunta 9** é o 1º Nó escondido (o nome que a [[Tilde]] dá).
 - *O Inventor aparece no Foundry do Nauren, mas não no livro 0.6.1. Confira se ele está liberado.*

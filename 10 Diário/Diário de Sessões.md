@@ -12,7 +12,7 @@ updated: 2026-11-07
 - **Lines & veils:**
 - **Notas de tom (média):** drama _ · combate _ · investigação _ · horror _ · humor _ · romance _
 - **PJs:** (humano / avatar / gancho de origem / laço)
-- **O que cada um quer do Mês de Calibração:**
+- **O que cada um perde se não ficarem no top 3:**
 
 ---
 
@@ -21,7 +21,7 @@ updated: 2026-11-07
 - **Escolhas importantes e consequências:**
 - **Pistas entregues** (marque também em [[Pistas - Arco 1]]):
 - **NPCs encontrados / o que sabem dos PJs:**
-- **Nomes de Naurien dados pela Tilde:**
+- **Nomes de Amarant dados pela Tilde:**
 - **Mortes de avatar (onde, o que ficou no chão):**
 - **Placar (posição do esquadrão / do Albrecht):**
 - **XP entregue / níveis:**

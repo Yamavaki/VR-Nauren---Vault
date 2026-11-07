@@ -8,15 +8,15 @@ updated: 2026-11-07
 Do [[Campaign Brief - The Simulation]] §8, mais as que surgiram.
 
 ## Respondidas
-- ~~Sistema~~ → Nauren. ~~Jogadores~~ → 4–5. ~~Duração~~ → média-longa, começando por um arco curto.
+- ~~Sistema~~ → Nauren (só as regras). ~~Jogadores~~ → 4–5. ~~Duração~~ → média-longa. ~~O mundo é Naurien?~~ → não, mundo novo. ~~Objetivo de médio prazo~~ → top 3 no semestre + expedição.
 
 ## Ainda abertas
-1. **Experiência dos jogadores:** já jogaram Nauren? Já jogaram RPG?
-2. **Idioma da mesa:** português (assumido nos handouts).
-3. **Tom geral:** quanto horror, quanto romance? (definir na [[Sessão 0 - Criação]] com a mesa)
-4. **Nomes:** ver [[Nomes (propostas)]].
-5. **O outro mundo é Naurien?** A lore do livro encaixa quase perfeitamente (o Acaso que "borra a pintura", o Nada no horizonte, as Cinco Casas, os Pigmentos). Se sim, qual das Casas é o **reino do Pacto**?
-6. **A magia:** o Nauren já tem regras e custos. Falta decidir **o que muda quando o mago é um Retornado** (ex.: ele "nasce" conjurador porque a calibração escolheu?).
-7. **O esporte:** depois do Arco 1.
-8. **Vessels:** como o rival recebeu o corpo-recipiente (só importa no Arco 2+).
-9. **Onde a mesa joga:** presencial ou Foundry? (afeta os handouts: papel ou imagem)
+1. **Nome do mundo** ([[Nomes (propostas)]]).
+2. **Experiência dos jogadores:** já jogaram Nauren? Já jogaram RPG?
+3. **Idioma da mesa:** português (assumido nos handouts).
+4. **Tom geral:** quanto horror, quanto romance? (definir na [[Sessão 0 - Criação]])
+5. **A magia de Amarant:** as classes do Nauren funcionam como regras, mas **na ficção**, por que um Retornado "nasce" mago? Os nativos também têm magia? (Sugestão: só alguns nativos têm, e eles ficam **chocados** que os Retornados tenham tanta.)
+6. **O esporte:** depois do Arco 1.
+7. **Vessels:** como o Lorenz recebeu o corpo-recipiente (Arco 2+).
+8. **Onde a mesa joga:** presencial ou Foundry? (afeta os handouts)
+9. **Arcos 2 e 3 do semestre:** ameaças e eventos de liga (ver [[O Semestre e a Expedição]]).

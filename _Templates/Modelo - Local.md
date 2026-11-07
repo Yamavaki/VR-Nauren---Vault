@@ -1,6 +1,6 @@
 ---
 type: location
-mundo: Terra | Naurien
+mundo: Terra | Amarant
 updated:
 ---
 

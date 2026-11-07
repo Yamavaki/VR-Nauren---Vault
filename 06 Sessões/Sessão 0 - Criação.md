@@ -12,7 +12,7 @@ updated: 2026-11-07
 
 ## 1. O pitch (leia ou conte com suas palavras — **é tudo o que os jogadores sabem**)
 > Meridia é uma cidade planejada, construída há vinte anos em volta de uma universidade: a Aster. Lá, estudantes do mundo todo estudam, desenvolvem jogos e, os melhores, jogam profissionalmente o **TESSERA**, a simulação de realidade virtual mais realista já feita. Não tem interface. Não tem barra de vida. Os personagens parecem pessoas.
-> Vocês são calouros. Acabaram de chegar. Antes das aulas, todo calouro passa pelo **Mês de Calibração**: um mês dentro do TESSERA, numa região de iniciação, formando esquadrões e cumprindo contratos. No fim, a **Avaliação**. Os melhores esquadrões vão para a Qualificatória. Os outros… tentam de novo no ano que vem. Se puderem pagar.
+> Vocês são calouros. Acabaram de chegar. Antes das aulas, todo calouro passa pelo **Mês de Calibração**: um mês dentro do TESSERA, numa região de iniciação, formando esquadrões e cumprindo contratos. É o começo da **Liga de Calouros**, que dura o semestre inteiro. Os **três melhores esquadrões** do semestre ganham a **Expedição Aurora**: duas semanas no servidor principal, ao lado dos profissionais, com bolsa integral. Os outros… tentam de novo no ano que vem. Se puderem pagar.
 > Vocês vão jogar com dois personagens: quem vocês **são**, e quem vocês **são lá dentro**.
 
 **Não diga:** que é um mundo real, que é mistério, que "nada é o que parece". Deixe que descubram. *(Se perguntarem "tem plot twist?", responda: "tem uma universidade, um jogo e um mês. Vamos ver.")*
@@ -40,7 +40,7 @@ Siga [[Fichas - Humano e Avatar]] §1:
 | 5 | Alguém que você amava estudou na Aster e **voltou diferente** (ou não voltou: "AVC aos 22") | liga com o colega morto do [[Tomás Arrieta]] |
 | 6 | Você competia em outro e-sport até uma **lesão** (mão, punho, coluna). No TESSERA o corpo não importa… certo? | os efeitos na Terra (cura rápida!) vão mexer com ele |
 | 7 | Você estuda **Medicina ou Neurociência** e veio pesquisar o filtro somático | acesso a perguntas técnicas; olho da [[Dra. Ilse Varga]] |
-| 8 | Desde criança você **sonha** com um céu dividido ao meio, metade sol, metade lua | **não explique nada.** Na primeira vez que ele olhar o céu de Naurien… |
+| 8 | Desde criança você **sonha** com um céu atravessado por uma cicatriz pálida, como uma costura | **não explique nada.** Na primeira vez que ele olhar o céu de Amarant… |
 
 6. **Laços:** cada jogador responde **uma** pergunta sobre o PJ **à sua esquerda**:
    - De onde você já conhecia essa pessoa antes da Aster?
@@ -60,7 +60,7 @@ Entregue o [[Handout - Questionário de Calibração]] como a ficha de criação
 5. **Nome no jogo.**
 
 ## 5. Fechamento (10 min)
-- Pergunte a cada um: **"O que seu personagem quer do Mês de Calibração?"** Anote. Isso alimenta a Sessão 1.
+- Pergunte a cada um: **"O que seu personagem perde se vocês não ficarem no top 3?"** Anote. Esse é o motivo dele (ver [[O Semestre e a Expedição]]).
 - Pergunte: **"O que vocês, jogadores, querem ver nessa campanha?"** Anote em [[Teorias dos Jogadores]] (às vezes é ouro).
 - Diga a data da Sessão 1.
 
