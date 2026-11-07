@@ -54,7 +54,7 @@ Começou a cuidar do Berço sozinha porque ninguém mais cuidava, e porque os Re
 nenhuma; a **Vigília** (Caetano) quer protegê-la, e ela desconfia
 
 ### Relações
-[[Irmão Caetano]]: ele gosta dela; ela tem medo dele · [[Hanne]]: a dá comida de graça · 🔒 [[Rory Byrne]]: o irmão
+[[Irmão Caetano]]: ele gosta dela; ela tem medo dele · [[Hanne]]: dá comida a ela de graça · 🔒 [[Rory Byrne]]: o irmão
 
 ### Arco possível (semente → teste → escolha que custa)
 **Semente:** o pão no Berço. **Teste:** o Caetano quer selar o Berço. **Escolha que custa:** enfrentar um sacerdote pelos Retornados.

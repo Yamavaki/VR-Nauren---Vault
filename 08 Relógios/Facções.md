@@ -20,7 +20,7 @@ updated: 2026-11-07
 ## Na Terra
 | # | Facção | Poder | Ideologia | Meta de longo prazo | Rostos | Oferece aos PJs | Relógio |
 |---|---|---|---|---|---|---|---|
-| 1 | **Halden Systems** | enorme | controle; "a mentira é necessária" | manter o segredo e **entregar tropas** à Expedição | Sr. Dorian Kell · [[Dra. Ilse Varga]] | horas de berço, bolsas, equipamento (com vigilância) | **A Colheita** (8): observa → seleciona → convoca |
+| 1 | **Halden Systems** | enorme | controle; "a mentira é necessária" | manter o segredo e **entregar tropas** à Expedição | [[Sr. Dorian Kell]] · [[Dra. Ilse Varga]] | horas de berço, bolsas, equipamento (com vigilância) | **A Colheita** (8): observa → seleciona → convoca |
 | 2 | **Reitoria da Aster** | alto | proteger sem revelar | que nenhum aluno morra de verdade | [[Diretor Aurelio Strand]] | acesso, perdão de regras | dividida por dentro (não tem relógio próprio) |
 | 3 | **Os Dourados** *(Círculo)* | médio | competir e vencer | um calouro campeão e contratos com a liga pro | [[Prof. Kwame Asante]] · veteranos patrocinados | treino, gear, contatos com pros | **O Campeão** (6): escolher um esquadrão calouro para patrocinar |
 | 4 | **Os Cartógrafos** *(Círculo)* | médio | conhecimento; "mapear tudo" | mapear TESSERA inteira | [[Prof. Silas Merrow]] · [[Inês Carvalho]] | mapas, biblioteca de lore, traduções | 🔒 **A Porta** (8): é a rede de recrutamento do Merrow |
