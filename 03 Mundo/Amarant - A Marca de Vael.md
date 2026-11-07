@@ -47,7 +47,7 @@ Vila num vau do rio **Lenta**. Casas de pedra caiada com portas pintadas, cada f
 - **O costume das portas:** toda casa tem um **sino pequeno pendurado do lado de dentro da porta**. Quem entra faz o sino tocar. "O que entra sem tocar o sino não é gente." *(Os Ocos não tocam. Os Retornados, por reflexo, também não… até alguém ensinar.)*
 
 ## O Festival das Lanternas
-Uma vez por ano, na lua cheia do fim do verão, cada família solta no rio uma **lanterna de papel** pintada com a cor da casa, uma para cada morto do ano. As lanternas descem o Lenta até o mar, "para levar os mortos para longe da porta". *(É a noite da [[Sessão 1 - O Festival das Lanternas]].)*
+Uma vez por ano, na lua cheia do fim do verão, cada família solta no rio uma **lanterna de papel** pintada com a cor da casa, uma para cada morto do ano. As lanternas descem o Lenta até o mar, "para levar os mortos para longe da porta". *(É a noite da [[Episódio 1 - A Cerimônia e o Rio]].)*
 
 ## Fortim de Orla (a Coroa)
 Forte de madeira e pedra a meio dia de caminhada, com o estandarte do **Reino de Ostrel**: um farol branco sobre fundo azul. Quase toda a tropa foi mandada para a frente contra **Vharen**; sobraram velhos, feridos e recrutas.

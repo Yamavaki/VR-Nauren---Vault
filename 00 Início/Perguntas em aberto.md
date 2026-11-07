@@ -11,7 +11,7 @@ Do [[Campaign Brief - The Simulation]] §8, mais as que surgiram.
 - ~~Sistema~~ → Nauren (só as regras). ~~Jogadores~~ → 4–5. ~~Duração~~ → média-longa. ~~O mundo é Naurien?~~ → não, mundo novo. ~~Objetivo de médio prazo~~ → top 3 no semestre + expedição. ~~Nome do mundo~~ → Amarant.
 
 ## Ainda abertas
-1. **Título da campanha** (capa).
+1. ~~Título~~ → TESSERA.
 2. **Experiência dos jogadores:** já jogaram Nauren? Já jogaram RPG?
 3. **Idioma da mesa:** português (assumido nos handouts).
 4. **Tom geral:** quanto horror, quanto romance? (definir na [[Sessão 0 - Criação]])

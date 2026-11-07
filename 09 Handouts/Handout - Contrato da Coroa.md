@@ -22,7 +22,7 @@ updated: 2026-11-07
 
 ### Versão do Quadro de Contratos (celular, na Terra)
 
-> **◇ TESSERA · Zona de Iniciação 01 · Marca de Vael**
+> **◇ TESSERA · Zona de Iniciação 04 · Marca de Vael**
 > **EVENTO DE LIGA #01 — Festival das Lanternas (Proteção)**
 > Dificuldade: ★☆☆ · Tutorial · Recomendado: Esquadrão nível 1
 > Recompensa: **100 pts de Índice** · 5 moedas · **+20 pts por NPC protegido**

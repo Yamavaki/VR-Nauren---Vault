@@ -51,7 +51,8 @@ Use o capítulo I do Nauren ("Como narrar sem pedir tantos testes"): história d
 | **Classe** | qualquer uma das 9 | escolhida no questionário de calibração ([[Handout - Questionário de Calibração]]) |
 | **As duas cores** | Cap. II "Sobre você e sua herança" | a Halden pergunta as **duas cores favoritas** no questionário. É uma pergunta estranha para um "jogo" — e é a regra do livro funcionando na ficção |
 | **Destino (d4)** | — | **não se rola.** Todo avatar começa com o **kit padrão do TESSERA** = equipamento do Destino Sereno (capa simples, bota leve, armadura simples, duas armas leves ou uma normal, 7 dias de comida, 50 florins) |
-| **Nível** | 1 | é também a **Sincronia** (ver [[Sincronia e Nós]]) |
+| **Nome** | — | **o mesmo do humano** (regra da Halden: nome de registro, sem apelidos). Segredo: o nome é a âncora do Pacto |
+| **Nível** | 1 | é também a **Sincronia** (ver [[Sincronia e Nós]]). **Morrer custa 1 nível** ([[Morte e Retorno]]) |
 | **Profissão** | — | o avatar **não tem**. Ele usa as perguntas do curso do humano. *(Um estudante de Medicina reconhece que um ferimento de NPC "está infeccionando de verdade". Ótimo jeito de deixar os jogadores perceberem coisas.)* |
 
 ### Por que rolar atributos duas vezes?
@@ -68,7 +69,7 @@ FOR   AGI   EST   INT   DES      Vitalidade/PV:
 Laço com outro PJ:
 Sintomas: (o mestre preenche)
 
-AVATAR — Nome no jogo:       Classe:        Nível/Sincronia: 1
+AVATAR — Nome (= nome de registro):       Classe:        Nível/Sincronia: 1
 Cores: ___ / ___             Bônus das cores:
 FOR   AGI   EST   INT   DES
 Espírito   PdA   PdM   Vitalidade   PV   Defesa   Estresse máx.

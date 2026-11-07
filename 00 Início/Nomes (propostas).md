@@ -9,7 +9,7 @@ updated: 2026-11-07
 > Todos são **provisórios**. Usei os nomes em **negrito** nas notas para o texto ficar legível. Para trocar, use "buscar e substituir" no Obsidian (Ctrl+Shift+F).
 
 ## O título da campanha (a capa)
-**Proposta: TESSERA** na capa. E, quando a verdade vier à tona (Parte 2), **trocar a capa para AMARANT**.
+**TESSERA** na capa ✅. E, quando a verdade vier à tona (Parte 2), **trocar a capa para AMARANT**.
 - A capa com **TESSERA** é a capa da **mentira**: o nome do produto, com logo de jogo. É exatamente o que os jogadores acreditam estar jogando.
 - Quando eles descobrirem que o mundo é real, você mostra a nova capa: **AMARANT**, com o mesmo desenho, sem o logo. Ninguém precisa explicar nada. A mudança de capa **é** a revelação.
 - *The Simulation* funciona como título de trabalho, mas entrega o tema: avisa que "simulação" é a palavra a desconfiar. **Meridia** é só a cidade, sem segunda camada.
@@ -31,12 +31,14 @@ updated: 2026-11-07
 |---|---|---|
 | O mundo | "o servidor" | **Amarant** ✅ *(decidido)* |
 | Região inicial | **Zona de Iniciação 01 — "Marca de Vael"** | **Vau-Cinzento** (a vila), **Fronteira de Orla** (a região) |
-| O reino | "facção aliada: Coroa" | **a Coroa de Ostrel** |
+| O reino do Pacto | "facção aliada: Coroa" | **o Reino de Ostrel** (estandarte: um farol) |
+| O reino inimigo | "facção hostil" | **o Domínio de Vharen** ✅ |
+| Os lacaios do Hóspede | — | **Inquilinos** ✅ (o primeiro: o **Sétimo**) |
 | Pontos de renascimento | **Âncoras** | **Berços** |
 | Marcos de progressão | **Marcos de Sincronia** | **Nós** (o Retornado fica mais **amarrado** ao mundo) |
 | Os jogadores | "usuários" | **Retornados** ✅ *(decidido)*; às vezes **Hospedeiros**, quase por confusão (ver abaixo). A Coroa, nos papéis oficiais, diz **Jurados do Berço** |
 | A entidade | — | **o Hóspede** (nos textos antigos); o povo evita dizer o nome e fala "o que entra" |
-| A corrupção | "NPC em loop", "bug de IA" | **o Oco**; quem foi tomado é um **Oco** ou um **Quieto** |
+| Os corpos vazios | "NPC em loop", "bug de IA" | **Cascas** ✅ (o povo também diz **Ocos** ou **Quietos**) |
 | A rachadura no céu | "skybox" | **a Costura** |
 | A Igreja | — | **a Vigília** (guardiões das portas e dos limiares) |
 

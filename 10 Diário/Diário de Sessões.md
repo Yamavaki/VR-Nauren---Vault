@@ -16,13 +16,14 @@ updated: 2026-11-07
 
 ---
 
-## Sessão 1 — (data)
+## Episódio 1 — (data)
 - **O que aconteceu (5 linhas):**
 - **Escolhas importantes e consequências:**
 - **Pistas entregues** (marque também em [[Pistas - Arco 1]]):
 - **NPCs encontrados / o que sabem dos PJs:**
 - **Nomes de Amarant dados pela Tilde:**
-- **Mortes de avatar (onde, o que ficou no chão):**
+- **Mortes de avatar (onde, o que ficou no chão, níveis perdidos):**
+- **O que o PJ respondeu ao Sétimo:**
 - **Placar (posição do esquadrão / do Albrecht):**
 - **XP entregue / níveis:**
 - **Relógios avançados:**
