@@ -20,8 +20,8 @@ Um experimento **ultrassecreto** da Halden com o Estado, chamado **"Ponte Invers
 | | [[Freya Lindqvist]] ♀ | [[Inês Carvalho]] ♀ | [[Rory Byrne]] ♂ |
 |---|---|---|---|
 | **Esquadrão** | D-2 Aurora Boreal | D-5 Mapa em Branco | D-3 Os Três de Remanso |
-| **Identidade na Terra** | sueca; pais "mortos num acidente" | portuguesa; criada por uma tia "que mora longe" | irlandês; órfão, "criado num internato" |
-| **Quem era em Amarant** | **Lady Isolde de Ostrel**, a noiva assassinada na fronteira há 3 anos, cuja morte começou a guerra com Vharen. A [[Comandante Severa de Ostrel]] é prima dela | **uma cartógrafa da Vigília** de **Pedra-Alta**, a cidade que virou Casca numa noite, há 15 anos (a cidade do [[Irmão Caetano]]) | **Ansel**, o **irmão da [[Tilde]]**, que foi servir a Coroa e "parou de mandar cartas". Morreu na frente de batalha no ano passado |
+| **Identidade na Terra** | sueca de Uppsala; pais "mortos num acidente de carro" que a deixou em coma e com **amnésia parcial** (a cobertura perfeita) | portuguesa do Porto; criada pela "tia **Rosa**", em Évora, que atende sempre no primeiro toque (🔒 uma agente da Halden) | irlandês; órfão, criado no internato **St. Brendan's**, em Galway |
+| **Quem era em Amarant** | **Lady Isolde de Ostrel**, prometida ao príncipe **Kasimir de Vharen** e assassinada na fronteira há 3 anos, cuja morte começou a guerra com Vharen. A [[Comandante Severa de Ostrel]] é prima dela | **Oriane**, cartógrafa da Vigília de **Pedra-Alta**, a cidade que virou Casca numa noite, há 15 anos (a cidade do [[Irmão Caetano]]) | **Ansel**, o **irmão da [[Tilde]]**, que foi servir a Coroa e "parou de mandar cartas". Morreu na frente de batalha no ano passado |
 | **Por que a Halden os trouxe** | sangue real de Ostrel: a magia antiga que fez o portal | conhece mapas que a Halden não tem | um soldado comum: **o grupo de controle** |
 | **Pode ficar sem revelação?** | não: é a peça mais política | **sim: candidata a nunca ser revelada** | não: é a peça mais emocional |
 
