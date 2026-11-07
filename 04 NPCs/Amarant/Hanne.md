@@ -17,3 +17,30 @@ updated: 2026-11-07
 - **A canção do festival:** ela e a Ada cantavam juntas, em duas vozes. A parte da Ada era a mais aguda, a que "doía na garganta". Se um PJ **aprender a parte da Hanne** (Ep1, durante o festival, ou depois), ele tem a chave da [[Irmã Vela]] (pista F).
 - **No Ep1:** a estalagem pega fogo no ataque (escolha 1). Se ninguém a ajudar, ela sobrevive, mas a estalagem não.
 - **Se ninguém interferir:** quando reconhecer a filha entre os Quietos, ela **vai até o rio** atrás dela. É a nativa que pode **morrer de verdade** e **não voltar** (Ep1 ou 3). *(Decida conforme a mesa se apegar a ela.)*
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Casou cedo com um soldado que voltou da guerra bebendo e morreu bêbado no inverno em que a Ada foi embora. Ficou com a estalagem, as dívidas e as marcas de faca no balcão. Canta só no Festival.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | manter o Ganso Torto aberto |
+| **Médio** | notícias da Ada |
+| **Longo** | ter a filha de volta, e ser perdoada |
+
+### Facções
+nenhuma; teme a **Casa do Repouso** sem saber por quê
+
+### Relações
+[[Irmã Vela]]: a filha · [[Tilde]]: dá comida a ela de graça
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** a canção a duas vozes. **Teste:** reconhecer a filha entre as Cascas. **Escolha que custa:** ir ao rio atrás dela.
+
+### Ganchos com os PJs
+ensina a canção · a estalagem pega fogo no Ep1

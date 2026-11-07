@@ -34,3 +34,30 @@ updated: 2026-11-07
 🔒 **Futuro:** a cartógrafa da Vigília de Pedra-Alta, que ele conheceu, renasceu na Terra como [[Inês Carvalho]] ([[Os Transmigrados]]).
 
 **Frase:** "Eu não tenho medo de vocês, meu filho. Tenho medo do que está segurando a sua mão."
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu em **Pedra-Alta**, cidade de pedreiros nas montanhas. Entrou na Vigília aos 15 anos, onde estudou com a jovem **Ilvane**. Há 15 anos, voltando de uma vigília de três dias, encontrou a cidade **inteira** virada em Cascas: a família, os amigos, a cartógrafa da ordem que ele admirava (🔒 a **Oriane**, hoje a Inês). Fez voto de andar descalço até fechar todas as portas.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | entender os Retornados de Vau-Cinzento |
+| **Médio** | fechar a Casa do Repouso |
+| **Longo** | selar todos os Berços |
+
+### Facções
+**A Vigília** (rosto) · inimigo da **Casa do Repouso**
+
+### Relações
+[[Madre Ilvane]]: o amor antigo, a inimiga de hoje · [[Tilde]]: protege · 🔒 [[Inês Carvalho]]: a cartógrafa de Pedra-Alta
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** os sininhos. **Teste:** vai sozinho falar com a Madre. **Escolha que custa:** aliar-se aos Hospedeiros que ele jurou combater.
+
+### Ganchos com os PJs
+o teste do sino · a aliança contra a Madre · se vir a **letra** da Inês num mapa, ele empalidece

@@ -27,3 +27,30 @@ updated: 2026-11-07
 **O detalhe das moedas:** ele paga os Retornados com **moedas diferentes**: mais leves, sem a efígie, só um losango riscado. "Moeda de Jurado. Vale aqui, no Fortim e na vila. Não tente gastar na capital." *(O losango é parecido com o logo da Halden. Não comente. Se um jogador notar, sorria.)*
 
 > **Por que ele não é vilão:** ele manda queimar Lagoa-Mansa pelo mesmo motivo que os jogadores escolheriam pelos pontos: é mais barato e mais seguro **para os dele**. Se os PJs mostrarem outra solução **com provas**, ele aceita, e registra.
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu em **Ostrel**, a capital, filho de um comerciante de grãos. Lutou na guerra contra Vharen até levar uma lança na barriga. Virou Intendente por saber fazer contas. Há três anos recebe as **ordens lacradas** sobre os "Jurados do Berço". Nunca perguntou de onde eles vêm: o que importa é que, cada vez que um Jurado morre, **um rapaz da vila não morre**.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | cumprir as cotas de suprimento da frente |
+| **Médio** | conter as Cascas sem perder homens (queimar Lagoa-Mansa) |
+| **Longo** | aposentar-se vivo e voltar para a capital |
+
+### Facções
+**Ostrel** (a Intendência) · obedece à **Comandante Severa**
+
+### Relações
+[[Sargento Brask]]: velho companheiro · [[Comandante Severa de Ostrel]]: superior · [[Madre Ilvane]]: manda doentes para ela há anos
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** as moedas pesadas duas vezes. **Teste:** os PJs trazem provas de que queimar Lagoa-Mansa mata gente que poderia voltar. **Escolha que custa:** desobedecer a uma ordem.
+
+### Ganchos com os PJs
+os contratos · as moedas de losango · o **registro da febre** (pista F)

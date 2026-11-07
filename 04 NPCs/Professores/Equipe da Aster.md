@@ -12,4 +12,4 @@ Professores: [[Diretor Aurelio Strand]] · [[Prof. Silas Merrow]] (Turma D) · [
 - [[Dra. Ilse Varga]]: Ala de Calibração.
 - [[Tomás Arrieta]]: monitor do 1º ano.
 - [[Nadia Kovač]]: técnica do Salão dos Berços.
-- **Sr. Dorian Kell**: o "homem de terno" da Halden. Acompanha o Lorenz, conhece o projeto **Ponte Inversa**. Fala pouco, anota tudo, sorri com a boca e não com os olhos.
+- [[Sr. Dorian Kell]]: o "homem de terno" da Halden.

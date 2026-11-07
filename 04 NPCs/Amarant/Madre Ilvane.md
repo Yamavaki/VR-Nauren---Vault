@@ -60,3 +60,30 @@ Ver [[Relógios - Arco 1]].
 
 ## Primeira aparição (2 pistas inocentes, Ep2)
 Ela chega a Vau-Cinzento de manhã, depois do ataque, a pé, com duas Irmãs. **Não toca o sino da porta** do Ganso Torto ao entrar (ninguém repara, porque todos estão chorando). Cuida da mão queimada de um PJ e pergunta o nome dele, e **repete devagar**, como o Sétimo fez.
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu numa família de camponeses perto de Lagoa-Mansa. Entrou na Vigília, mas saiu por discordar da dureza da ordem. Há 20 anos, uma febre matou metade da fronteira; ela cuidou dos doentes até não ter mais o que fazer, e rezou por qualquer coisa que tirasse a dor. **Algo respondeu.** Fundou a Casa do Repouso na mesma semana em que a febre parou.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | cuidar dos levados da Maré Quieta |
+| **Médio** | levar o Repouso a todas as vilas do Lenta |
+| **Longo** | um mundo sem dor |
+
+### Facções
+**A Casa do Repouso** (lidera) · serve ao **Hóspede** sem saber · negocia com **Ostrel** e com a **Companhia do Sal**
+
+### Relações
+[[Irmão Caetano]] · [[Irmã Vela]]: a filha que ela nunca teve · [[Sétimo]]: o "anjo" · [[Prof. Silas Merrow]]: o Retornado que fala como sacerdote
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** a cura que funciona. **Teste:** ver o Sétimo pôr um Inquilino na Vela. **Escolha que custa:** voltar-se contra o Sétimo e aceitar o que fez.
+
+### Ganchos com os PJs
+cura a mão de um PJ e pergunta o nome dele · oferece o Repouso a um PJ ferido

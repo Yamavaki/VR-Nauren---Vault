@@ -33,3 +33,31 @@ updated: 2026-11-07
 - **Nunca** ponha a Tilde em perigo só para motivar os PJs. Se ela correr perigo, que seja por uma escolha **dela** (enfrentar o Caetano).
 
 > 🔒 **Ansel morreu** na frente de batalha contra Vharen, no ano passado. A alma dele foi levada pelo projeto **Ponte Inversa**: ele é o [[Rory Byrne]], da Turma D ([[Os Transmigrados]]). A Tilde não sabe. Ninguém sabe. Ela continua perguntando a cada Retornado: "vocês viram o meu irmão?"
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu em **Vau-Cinzento**. A mãe morreu da febre quando ela tinha 6 anos. O pai, **Joren**, era barqueiro e começou a beber. O irmão, **Ansel**, cuidou dela até se alistar no exército de Ostrel, há dois anos, "para mandar dinheiro". As cartas pararam no ano passado.
+Começou a cuidar do Berço sozinha porque ninguém mais cuidava, e porque os Retornados **voltam**, o que as pessoas dela não fazem.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | varrer o Berço; o pão de cada manhã |
+| **Médio** | achar o Ansel (pergunta a todo Retornado) |
+| **Longo** | sair de Vau-Cinzento e ver o mar |
+
+### Facções
+nenhuma; a **Vigília** (Caetano) quer protegê-la, e ela desconfia
+
+### Relações
+[[Irmão Caetano]]: ele gosta dela; ela tem medo dele · [[Hanne]]: a dá comida de graça · 🔒 [[Rory Byrne]]: o irmão
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** o pão no Berço. **Teste:** o Caetano quer selar o Berço. **Escolha que custa:** enfrentar um sacerdote pelos Retornados.
+
+### Ganchos com os PJs
+ela guarda os itens dos PJs mortos · pergunta pelo Ansel · grita o nome de um PJ num momento de perigo (o 1º Nó)

@@ -20,3 +20,30 @@ updated: 2026-11-07
 - **Como patrono:** oferece **dinheiro, barcos e rotas** pelo rio. A condição: "não mexam nos meus braços".
 - **Se ninguém interferir:** compra **mais Repouso** depois da Maré Quieta (os levados viram mais "braços"). As salinas de **Salinas** (a vila da D-2) são o caminho "dinheiro" da linha de quest.
 - **A escolha que ele cria:** libertar as Cascas das salinas arruína a Companhia e o sal da guerra. E as Cascas libertadas não "acordam" sozinhas. Elas ficam paradas, sem rotina, e **param de comer**.
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Começou carregando sacos de sal no porto. Comprou a primeira salina aos 30 anos e hoje controla quase todo o sal e os barcos do rio Lenta. Há um ano, comprou o Repouso para Lagoa-Mansa, que morria de febre, e ficou com os "braços".
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | mais braços |
+| **Médio** | dominar o contrato de sal do exército |
+| **Longo** | um título de nobreza em Ostrel |
+
+### Facções
+**A Companhia do Sal** (lidera)
+
+### Relações
+[[Madre Ilvane]]: fornecedora · [[Comandante Severa de Ostrel]]: cliente
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** os braços. **Teste:** os PJs libertam as salinas. **Escolha que custa:** admitir o que fez.
+
+### Ganchos com os PJs
+oferece dinheiro aos PJs · a D-2 descobriu as salinas

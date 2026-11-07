@@ -70,3 +70,30 @@ Quando recua, ele para na água, com as lanternas brancas atrás, e olha para **
 - **Ep2–4:** não aparece em pessoa. Aparecem os **rastros** dele: um bilhete com a letra do Aldric para a Comandante Severa; Cascas que "dizem" o nome do PJ que respondeu; o vídeo vazado da Ji-woo com o rosto dele.
 - **Ep5 (Noite Sem Lua):** a luta final, agora **vencível**. Possibilidade de **libertar o Sor Aldric**: se a mão que treme for usada (o PJ grita o nome "Aldric", ou o Brask o chama), o Aldric luta por dentro de verdade.
 - **Fim do arco:** se fugir, é ajudado por um **Retornado sem cores** ([[Omar Haddad]]).
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Não se sabe o que ele era antes, no lugar de onde vem. Diz que lá "não havia nada para sentir". Foi o **sétimo a atravessar**. Tomou o corpo do Sor Aldric na fronteira, há três meses, quando o cavaleiro caçava desertores perto do Lenta.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | colher corpos na Maré Quieta; estudar os Retornados |
+| **Médio** | preparar a Noite Sem Lua |
+| **Longo** | abrir os Berços |
+
+### Facções
+**O Hóspede** · usa a **Casa do Repouso** e a **Companhia do Sal**
+
+### Relações
+[[Madre Ilvane]]: a ferramenta que acredita nele · [[Irmã Vela]]: a Casca guardada · [[Omar Haddad]]: o Retornado que o ajuda a fugir
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** "coleira". **Teste:** o Aldric luta por dentro. **Escolha (dos PJs):** matar o corpo ou libertar o Aldric.
+
+### Ganchos com os PJs
+a pergunta do nome · ele lembra **cada** PJ que o feriu

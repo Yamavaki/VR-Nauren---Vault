@@ -42,3 +42,31 @@ A **primeira aula de toda a Turma D** é dele, antes do primeiro mergulho. É cu
 > *Uma última coisa. Contem. Cada vez que morrerem, contem. Um dia, o número vai importar."*
 >
 > *(Alguém pergunta: "importar como?" Ele já está saindo da sala.)*
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu em **Manchester**. Foi paramédico do exército antes de entrar no programa de testes da Halden. Há 18 anos, na Estação Lumen, foi o **primeiro piloto a morrer em TESSERA**, e ficou **4 minutos morto** na Terra antes de o reanimarem. Desde então, dorme pouco e, de olhos fechados, vê a Costura.
+A esposa foi embora; ele mora sozinho com um gato chamado **Lázaro**. Ensina a Aula da Morte porque acha que alguém precisa dizer a verdade, mesmo que pela metade.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | registrar cada morte da Turma D |
+| **Médio** | provar que a "dessincronização" afeta a alma, não só o avatar |
+| **Longo** | descobrir para onde vai a alma |
+
+### Facções
+nenhuma; troca dados com a **Halden** (Kell); respeita o **Damian** em segredo
+
+### Relações
+[[Dra. Ilse Varga]]: rival profissional, respeito mútuo · [[Tomás Arrieta]]: o Thorne desconfia que o Tom **morre de propósito** · [[Ilya Petrenko]]: o caso que o fascina · [[Prof. Silas Merrow]]: desconfia dele, sem prova
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** o frasco de cinza. **Teste:** o PJ Desalojado pelo Sétimo. **Escolha que custa:** entregar os dados do PJ ao Sr. Kell (e salvar o laboratório) ou protegê-lo.
+
+### Ganchos com os PJs
+pede aos PJs que contem as mortes · paga em **informação** quem traz dados honestos · o gato Lázaro (pergunte por quê)

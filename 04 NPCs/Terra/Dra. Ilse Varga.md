@@ -29,3 +29,30 @@ updated: 2026-11-07
 **Primeira aparição (2 pistas inocentes):** no exame da Calibração, ela pede ao PJ para **olhar para a luz e dizer de que cor ela é**. Depois anota no caderno azul, não no tablet. *(A cor que o PJ disser é uma das duas cores do avatar dele, antes de ele responder o questionário. Ela anota isso.)*
 
 > **Por que ela funciona:** não é vilã. É uma pessoa decente presa num protocolo. Os jogadores vão desconfiar dela no começo e talvez precisar dela no fim. Esse é o arco: de ameaça a aliada difícil (ou o contrário, se eles a traírem).
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Nasceu em **Budapeste**. Neurologista. Há 6 anos era a médica responsável no **Incidente do Campeonato**: o pro **Lucas Brandt** morreu no jogo e não acordou. Ela assinou o laudo de "falha de equipamento" porque a Halden pediu, e porque era mais fácil do que a outra explicação. Nunca mais usou o tablet para anotações importantes.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | entender as leituras do PJ que foi Desalojado |
+| **Médio** | montar um registro **paralelo**, em papel, de todos os casos estranhos |
+| **Longo** | provar que o filtro vai falhar, antes que falhe |
+
+### Facções
+**Halden** (empregadora) · próxima da **Reitoria** · a consciência a empurra para os **Dissidentes**
+
+### Relações
+[[Diretor Aurelio Strand]]: confiança · [[Prof. Edmund Thorne]]: rival e colega · [[Tomás Arrieta]]: o paciente que ela não consegue salvar (ele era do time do Lucas)
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** o caderno azul. **Teste:** um PJ sangra pelo nariz no nível 1. **Escolha que custa:** mostrar o caderno a alguém.
+
+### Ganchos com os PJs
+o exame da Cerimônia (a pergunta da cor) · depois do Ep1, ela chama o PJ Desalojado

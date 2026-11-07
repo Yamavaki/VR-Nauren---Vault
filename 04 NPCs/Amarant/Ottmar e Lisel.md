@@ -23,3 +23,30 @@ updated: 2026-11-07
 - **Se for salva no festival:** ela fica marcada; sonha com a canção. No Ep4, **some da cama** e é encontrada andando para o rio, cantando. *(O Hóspede insiste.)*
 
 > **Cuidado:** a Lisel é criança. Ela pode estar em perigo, mas a mesa nunca deve ver violência **contra ela**. O horror é a **calma** dela, não a dor.
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+O **Ottmar** herdou o moinho do pai. Há seis anos, a esposa, **Marta**, adoeceu e foi para a Casa do Repouso "para não sentir a doença". Ele a deixou ir. Diz a todos que ela morreu. A **Lisel**, de 8 anos, acredita.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | (Ottmar) ter a filha de volta |
+| **Médio** | (Ottmar) ir à Casa do Repouso buscá-la |
+| **Longo** | (Ottmar) ser perdoado pela Marta |
+
+### Facções
+nenhuma
+
+### Relações
+a **Marta**: Repousada na Casa · [[Madre Ilvane]]
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** a mentira sobre a Marta. **Teste:** a Lisel encontra a mãe na Casa. **Escolha que custa:** arrancar as duas de lá, sabendo o que vão sentir.
+
+### Ganchos com os PJs
+a Lisel no vau no Ep1 · o Ottmar pede ajuda aos PJs no Ep2

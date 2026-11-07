@@ -20,3 +20,30 @@ updated: 2026-11-07
 - **Escolha que ela cria:** salvar a Ada é possível? A Hanne vai implorar que tentem. A Coroa vai querer a cabeça dela. *(Não decida a resposta. Deixe os jogadores tentarem.)*
 
 > **Cuidado ao usar:** a dupla Hanne/Ada é o lado mais triste do arco. Se a mesa marcou "perda familiar" como algo a evitar na Sessão 0, troque a filha por uma sobrinha ou uma vizinha.
+
+---
+
+## Ficha aprofundada
+> Formulário do [[Character Guide]] + metas e facções do *Proactive Roleplaying*.
+
+### História
+Era **Ada**, filha da Hanne. Tinha a voz mais bonita de Vau-Cinzento e sonhava cantar na capital. Há três anos, num inverno de fome, a mãe a ofereceu ao acordo da Casa do Repouso. Ada foi sem reclamar. Foi a primeira que a Madre "salvou" de verdade.
+
+### Metas
+| Prazo | Meta |
+|---|---|
+| **Curto** | — |
+| **Médio** | — |
+| **Longo** | *(Casca: não tem metas. Mas a Ada, lá dentro, quer ouvir a mãe cantar de novo.)* |
+
+### Facções
+**A Casa do Repouso** · o **Sétimo** a guarda para o primeiro Inquilino
+
+### Relações
+[[Hanne]]: a mãe · [[Madre Ilvane]]
+
+### Arco possível (semente → teste → escolha que custa)
+**Semente:** a canção perfeita. **Teste:** a mãe canta a parte dela. **Escolha (dos PJs):** tentar trazer a Ada de volta, sabendo que ela vai sentir três anos de dor de uma vez.
+
+### Ganchos com os PJs
+a canção da Hanne é a chave · ela é o alvo do Sétimo na Noite Sem Lua
