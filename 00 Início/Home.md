@@ -19,7 +19,7 @@ updated: 2026-11-07
 | **03 Mundo** | [[Terra - Meridia e a Universidade]], [[Amarant - A Marca de Vael]], [[Ostrel e Vharen]], 🔒 [[O Hóspede e os Inquilinos]] |
 | **04 NPCs** | **Professores:** [[Equipe da Aster]], [[Cola Rápida - Professores e Amarant]] · **Turma D:** [[Turma D]], [[Turma D - Cola Rápida]], [[Outras turmas]], 🔒 [[Os Transmigrados]] · **Terra:** Varga, Tomás, Nadia · **Amarant:** [[Sétimo]], [[Madre Ilvane]], [[Tilde]] e outros |
 | **05 Arcos** | [[O Semestre e a Expedição]] (top 3), [[Arco 1 - Hóspedes]], [[Bestiário - Arco 1]] |
-| **06 Sessões** | [[Sessão 0 - Criação]], [[Episódio 1 - A Cerimônia e o Rio]] |
+| **06 Sessões** | [[Sessão 0 - Criação]], [[Episódio 1 - A Cerimônia e o Rio]] · **[[Episódio 1 - Cola do Mestre]]** (para narrar) |
 | **07 Pistas e Segredos** | [[Pistas - Arco 1]], [[Escada de Revelações]] |
 | **08 Relógios** | [[Facções]] (as 12 facções + as metas dos jogadores), [[Relógios - Arco 1]] |
 | **09 Handouts** | o que os jogadores podem ler · **[[Guia do Calouro (jogadores)]]** (mandar antes da Sessão 0) |
