@@ -10,7 +10,7 @@ updated: 2026-11-07
 
 # Rory Byrne
 
-> ⚠️ **Depois do Ep1 (2026-11-08):** ele **não é mais o Ansel** (o Ansel está vivo). Continua Transmigrado, de outra pessoa: proposta em [[Arco 1 - Mundo Aberto#8. A Turma D (situações por episódio)]].
+> ⚠️ **Mudou (2026-11-08):** ele **não é mais o Ansel** (o Ansel está vivo). ✅ Agora é um **soldado de Vharen infiltrado** no exército de Ostrel (ver História).
 
 ![[Rory Byrne.jpg|250]]
 
@@ -26,7 +26,7 @@ updated: 2026-11-07
 | **Aparência** | loiro de cabelo comprido, pálido, rosto anguloso; violão nas costas; **cicatriz de flecha no ombro** de "um acidente de criança" |
 | **Voz e gesto** | piada atrás de piada; canta alto; ri antes do fim das próprias piadas |
 | **Desejo** | ser amado |
-| **Segredo** | tem **pânico** de morrer no jogo; nunca contou. 🔒 É um **Transmigrado**: era **Ansel**, o irmão da [[Tilde]], morto na frente de batalha (ver [[Os Transmigrados]]) |
+| **Segredo** | tem **pânico** de morrer no jogo; nunca contou. 🔒 É um **Transmigrado**: era **Mirek**, um **espião de Vharen infiltrado** no exército de Ostrel com o nome falso de "Dain", companheiro de tropa do [[Ansel]] (ver [[Os Transmigrados]]) |
 | **Alavanca** | o medo; a música |
 | **Se ninguém interferir…** | na Maré Quieta (Remanso), **foge**. No dia seguinte, chora no banheiro. Os colegas riem |
 
@@ -37,7 +37,9 @@ updated: 2026-11-07
 
 ### História
 **A versão oficial:** órfão, criado no internato **St. Brendan's**, em **Galway**, por padres. Não tem ninguém para quem ligar. Diz que "a cabeça é ruim para datas" e faz piada de não lembrar a infância. Toca violão desde que se lembra, e sabe canções que ninguém conhece.
-🔒 **A verdade:** é **Ansel**, de Vau-Cinzento, o irmão da **Tilde**. Filho do bêbado da vila; alistou-se no exército de Ostrel para mandar dinheiro para casa e morreu na **Marca de Ferro**, contra Vharen, no ano passado: uma flecha no ombro, e frio. A alma foi levada pelo projeto **Ponte Inversa**.
+🔒 **A verdade:** era **Mirek**, soldado do **Domínio de Vharen**, mandado para dentro do exército de Ostrel como espião, com o nome falso de **"Dain"**. Serviu dois anos na frente leste, na mesma tropa do **Ansel** (o irmão da Tilde), que virou o melhor amigo dele sem saber de nada. No ano passado foi descoberto e **morto pelos próprios companheiros de Ostrel**, na **Marca de Ferro**: uma flecha no ombro, e frio. A alma foi levada pelo projeto **Ponte Inversa** como se fosse de um soldado de Ostrel. **Ele não lembra de nada.**
+- Foi depois da morte do "Dain" que o Ansel desertou: ele nunca acreditou que o amigo era espião.
+- *(Semente opcional, não decidida: o Mirek estava na fronteira na noite em que a **Lady Isolde** foi assassinada. Ele sabe algo sobre a morte que começou a guerra. A Freya é a Isolde.)*
 
 ### O personagem (Character Guide)
 | | |
@@ -49,9 +51,9 @@ updated: 2026-11-07
 | **4. Necessidade** | coragem: encarar a morte por alguém |
 | **5. Contradição** | a alegria da festa **e** apavorado o tempo todo |
 | **6. Sliders** | competência 5 · iniciativa 6 · simpatia 9 |
-| **7. O limite** | nunca abandona uma criança *(eco da Tilde; é isso que vai fazê-lo ficar, um dia)* |
+| **7. O limite** | nunca trai um amigo *(a culpa do espião que gostava de verdade do Ansel)* |
 | **9. Lente (o que nota primeiro)** | comida, música, o rosto das crianças |
-| **10. Gesto ou objeto** | parte o pão e deixa um pedaço de lado; o violão; canta quando está com medo |
+| **10. Gesto ou objeto** | o violão; canta quando está com medo, **canções de Vharen** que ele acha que são irlandesas |
 
 ### Metas (*Proactive Roleplaying*)
 | Prazo | Meta |

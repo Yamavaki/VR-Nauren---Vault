@@ -177,10 +177,10 @@ updated: 2026-11-08
 | 5 | **Os 5 esquadrões** | cada um defende o próprio Berço. Pedidos de ajuda pelo celular. Ajudar custa pontos. |
 | 6 | **Rory** | ver abaixo. |
 
-**Rory (novo segredo, proposta):** como o Ansel está vivo, o Rory continua Transmigrado, mas de outra pessoa. Duas opções:
-1. **Dain**, o melhor amigo do Ansel no exército, que **morreu no lugar dele** na fronteira. O Rory tem pesadelos com "um irmão que não é meu". Quando vir o Ansel, vai saber o nome dele sem ninguém dizer.
-2. **Um soldado de Vharen**, o inimigo. Ele canta canções que ninguém conhece, numa língua que só o Merrow reconhece.
-
+**Rory (✅ novo segredo):** era **Mirek, espião de Vharen** infiltrado no exército de Ostrel como **"Dain"**, o melhor amigo do Ansel. Foi descoberto e morto pelos próprios companheiros; foi por isso que o Ansel desertou. Não lembra de nada.
+- **Ep2–4:** o Rory canta uma música no Telhado; o **Merrow** (se estiver perto) comenta que a língua é de Vharen.
+- **Se o Ansel ouvir o Rory cantar** (Rory em Amarant, perto de Vau-Cinzento): *"Onde você aprendeu essa? Só o Dain cantava essa."*
+- *(Semente opcional: o Mirek estava na fronteira na noite da morte da Lady Isolde, a Freya.)*
 ---
 
 ## 9. Os níveis e o 1º Nó

@@ -34,7 +34,7 @@ updated: 2026-11-07
 - **O perigo:** NPC criança fofa vira clichê de "salve a criança" rápido. Para fugir disso, ela **tem agenda**: ela quer que os Retornados achem o Ansel e vai **barganhar** (devolve itens perdidos em troca de notícias). Ela não é só alguém para ser salva.
 - **Nunca** ponha a Tilde em perigo só para motivar os PJs. Se ela correr perigo, que seja por uma escolha **dela** (enfrentar o Caetano).
 
-> 🔒 **Ansel morreu** na frente de batalha contra Vharen, no ano passado. A alma dele foi levada pelo projeto **Ponte Inversa**: ele é o [[Rory Byrne]], da Turma D ([[Os Transmigrados]]). A Tilde não sabe. Ninguém sabe. Ela continua perguntando a cada Retornado: "vocês viram o meu irmão?"
+> ~~🔒 Ansel morreu… é o Rory.~~ **Não vale mais:** o [[Ansel]] está vivo, desertor. O amigo de tropa dele, o "Dain", é que morreu, e o Dain era o [[Rory Byrne]].
 
 ---
 
@@ -56,7 +56,7 @@ Começou a cuidar do Berço sozinha porque ninguém mais cuidava, e porque os Re
 nenhuma; a **Vigília** (Caetano) quer protegê-la, e ela desconfia
 
 ### Relações
-[[Irmão Caetano]]: ele gosta dela; ela tem medo dele · [[Hanne]]: dá comida a ela de graça · 🔒 [[Rory Byrne]]: o irmão
+[[Irmão Caetano]]: ele gosta dela; ela tem medo dele · [[Hanne]]: dá comida a ela de graça · [[Ansel]]: o irmão (vivo) · 🔒 [[Rory Byrne]]: era o "Dain", o amigo do irmão
 
 ### Arco possível (semente → teste → escolha que custa)
 **Semente:** o pão no Berço. **Teste:** o Caetano quer selar o Berço. **Escolha que custa:** enfrentar um sacerdote pelos Retornados.

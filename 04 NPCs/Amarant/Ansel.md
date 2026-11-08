@@ -13,7 +13,8 @@ Irmão da [[Tilde]], uns 19 anos, cabelo cor de cobre como o dela. Foi servir a 
 
 | Campo | |
 |---|---|
-| **O que aconteceu** | **desertou** da frente leste (a Marca de Ferro) e voltou escondido para ver a irmã no festival. As cartas pararam porque ele fugiu |
+| **O que aconteceu** | **desertou** da frente leste (a Marca de Ferro) depois que o melhor amigo, **"Dain"**, foi acusado de espião de Vharen e morto pelos próprios companheiros. Voltou escondido para ver a irmã no festival. As cartas pararam porque ele fugiu |
+| 🔒 **O Dain** | era mesmo espião (Mirek, de Vharen). A alma dele é o [[Rory Byrne]]. Se o Ansel ouvir o Rory cantar, reconhece a música |
 | **Agora** | escondido em Vau-Cinzento ou com os desertores do [[Brando]], no Juncal |
 | **Desejo (agora)** | não ser enforcado; levar a Tilde para o litoral |
 | **O que ele viu** (nunca conta inteiro) | *"Na frente, tem Jurados que não falam. Lutam sem cor nos olhos."* · *"Os de Vharen dizem que na lua nova as portas abrem."* *(pistas da Expedição e da Noite Sem Lua)* |

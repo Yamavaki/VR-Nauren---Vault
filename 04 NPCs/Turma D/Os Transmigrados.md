@@ -8,7 +8,7 @@ updated: 2026-11-07
 
 # 🔒 Os Transmigrados (projeto "Ponte Inversa")
 
-> ⚠️ **Depois do Ep1 (2026-11-08):** o Rory **não é mais o Ansel** (o Ansel está vivo em Amarant). Nova identidade do Rory: a definir.
+> ⚠️ **Mudou (2026-11-08):** o Rory **não é mais o Ansel** (o Ansel está vivo). ✅ O Rory era **Mirek, espião de Vharen** infiltrado em Ostrel com o nome "Dain".
 
 > Ideia do mestre para **explorar no futuro**. Aqui fica tudo preparado. Um deles pode **nunca** ser revelado.
 
@@ -23,7 +23,7 @@ Um experimento **ultrassecreto** da Halden com o Estado, chamado **"Ponte Invers
 |---|---|---|---|
 | **Esquadrão** | D-2 Aurora Boreal | D-5 Mapa em Branco | D-3 Os Três de Remanso |
 | **Identidade na Terra** | sueca de Uppsala; pais "mortos num acidente de carro" que a deixou em coma e com **amnésia parcial** (a cobertura perfeita) | portuguesa do Porto; criada pela "tia **Rosa**", em Évora, que atende sempre no primeiro toque (🔒 uma agente da Halden) | irlandês; órfão, criado no internato **St. Brendan's**, em Galway |
-| **Quem era em Amarant** | **Lady Isolde de Ostrel**, prometida ao príncipe **Kasimir de Vharen** e assassinada na fronteira há 3 anos, cuja morte começou a guerra com Vharen. A [[Comandante Severa de Ostrel]] é prima dela | **Oriane**, cartógrafa da Vigília de **Pedra-Alta**, a cidade que virou Casca numa noite, há 15 anos (a cidade do [[Irmão Caetano]]) | **Ansel**, o **irmão da [[Tilde]]**, que foi servir a Coroa e "parou de mandar cartas". Morreu na frente de batalha no ano passado |
+| **Quem era em Amarant** | **Lady Isolde de Ostrel**, prometida ao príncipe **Kasimir de Vharen** e assassinada na fronteira há 3 anos, cuja morte começou a guerra com Vharen. A [[Comandante Severa de Ostrel]] é prima dela | **Oriane**, cartógrafa da Vigília de **Pedra-Alta**, a cidade que virou Casca numa noite, há 15 anos (a cidade do [[Irmão Caetano]]) | **Mirek**, espião do **Domínio de Vharen** infiltrado no exército de Ostrel como **"Dain"**, amigo de tropa do [[Ansel]]. Descoberto e morto pelos próprios companheiros na Marca de Ferro, no ano passado |
 | **Por que a Halden os trouxe** | sangue real de Ostrel: a magia antiga que fez o portal | conhece mapas que a Halden não tem | um soldado comum: **o grupo de controle** |
 | **Pode ficar sem revelação?** | não: é a peça mais política | **sim: candidata a nunca ser revelada** | não: é a peça mais emocional |
 
@@ -46,13 +46,14 @@ Um experimento **ultrassecreto** da Halden com o Estado, chamado **"Ponte Invers
 - Tem **medo de sorrisos calmos demais**. Se afasta de quem sorri sem piscar *(as Cascas que tomaram a cidade dela)*.
 - **Físico:** canhota, com um **calo de pena** no dedo médio. Ela "nunca escreveu à mão na vida".
 
-**Rory (Ansel):**
-- **Pânico de morrer no jogo**, porque ele **já morreu de verdade**. Na Maré Quieta, foge.
-- Sabe a canção do Festival das Lanternas **inteira** na primeira vez que ouve. Diz que "parece uma música irlandesa antiga".
-- Quando vê pão, **parte um pedaço e deixa de lado**, como a Tilde faz no Berço.
-- **Físico:** cicatriz de **flecha** no ombro, de "um acidente de criança".
+**Rory (Mirek, o "Dain"):**
+- **Pânico de morrer no jogo**, porque ele **já morreu de verdade**, pelas mãos de quem confiava nele. Na Maré Quieta, foge.
+- Canta músicas que "ninguém conhece". O **Merrow** reconhece a língua: é de **Vharen**. Ele diz que são irlandesas.
+- Assustado, xinga numa língua que não sabe falar.
+- Fica tenso perto de **uniformes de Ostrel** e do estandarte do farol, sem saber por quê.
+- **Físico:** cicatriz de **flecha** no ombro, de "um acidente de criança" (a flecha veio de Ostrel).
 
 ## Cenas futuras (não use no Arco 1)
 - Um soldado de Ostrel brinda "**à Lady Isolde**, que o farol a guarde", e a Freya derruba o copo sem saber por quê.
-- A Tilde vê o avatar do Rory e para de varrer. "Você… anda igual ao meu irmão."
+- O **Ansel** ouve o Rory cantar e fica branco: "Onde você aprendeu essa? Só o Dain cantava essa."
 - A Inês encontra, numa ruína, um mapa com **a letra dela**.
