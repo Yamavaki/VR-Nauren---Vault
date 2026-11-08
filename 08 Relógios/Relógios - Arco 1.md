@@ -53,8 +53,8 @@ updated: 2026-11-07
 **Muda:** se um PJ conversar com ele de igual para igual, ele propõe aliança (preço: selar o Berço depois). Se os PJs **tocarem o sino da porta** na frente dele, várias vezes, ele hesita, e não sela.
 
 ## 6. Na Terra
-**A Observadora (Dra. Varga)** — *o PJ que foi Desalojado pelo Sétimo, ou o que disse o nome*
-- [ ] 1. Exame depois do Ep1: "você chegou com o nariz sangrando. Isso não acontece no nível 1."
+**A Observadora (Dra. Varga)** — *alvo: o **Tiago** (respondeu ao Sétimo no Ep1; ninguém foi Desalojado)*
+- [ ] 1. Exame depois do Ep1: "suas leituras subiram muito numa noite só. Aconteceu alguma coisa lá dentro?" *(ninguém sangrou; ajustado)*
 - [ ] 2. Pede exames extras.
 - [ ] 3. Aparece no Salão dos Berços sem motivo.
 - [ ] 4. Pergunta a um colega como o PJ anda dormindo.

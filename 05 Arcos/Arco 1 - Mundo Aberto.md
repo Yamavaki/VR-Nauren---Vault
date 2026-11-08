@@ -22,7 +22,9 @@ updated: 2026-11-08
 | ✅ **O Ansel está vivo** | os PJs salvaram a Tilde e o irmão dela | o Ansel **desertou** da frente de guerra e voltou escondido para ver a irmã no festival. Desertor = forca, em Ostrel |
 | ✅ **Placar** | D-4 com 140 pts, **20º de 22**, último da Turma D | zona de corte. O Placar não contou o Aldric (vale 0 pts) |
 | ⚠️ **Rory Byrne** | ele **não é mais o Ansel** | precisa de um novo segredo (proposta no §8) |
-| ❓ **A confirmar** | quem respondeu ao Sétimo (e o que disse) · alguém morreu ou foi Desalojado · o Brask e a Lisel estão vivos | muda a Observadora (Varga) e o relógio da Travessia |
+| ✅ **A pergunta do nome** | quem respondeu foi o **Tiago** *(falta confirmar: disse o nome real, mentiu ou recusou?)* | se disse o nome real, ele é o **alvo nº 1** do Sétimo e a Dra. Varga passa a observá-lo |
+| ✅ **Ninguém morreu** | ninguém foi Desalojado | todos no nível 2, com 200/300 XP |
+| ✅ **Brask e Lisel vivos** | | o Brask vira aliado no Fortim; a Lisel lembra o nome de quem segurou a lanterna |
 
 ---
 
@@ -197,7 +199,7 @@ updated: 2026-11-08
 | PJ | O Nó possível |
 |---|---|
 | **Cesar** | escolher entre a bolsa (o contrato de 600 pts) e alguém que não renasce. A escolha marca |
-| **Souza** | achar o primeiro rastro da esposa em Amarant (uma bota, um nome numa pedra) e sentir dor de verdade ao tocar |
+| **Souza** | achar o primeiro rastro da esposa em Amarant (uma bota, um nome numa pedra) e sentir dor de verdade ao tocar *(a história da esposa fica para depois; a ideia do frasco do Thorne foi aprovada)* |
 | **Felipe** | alguém com quem ele se divertiu é levado na frente dele, e ele grita o nome da pessoa |
 | **Matheus** | ser chamado pelo nome pela Tilde ou pelo Ansel num momento de perigo e sentir o puxão no peito |
 | **Tiago** | recusar dinheiro (do Corvin, do câmbio) para salvar alguém, e não ganhar nada por isso |
@@ -208,7 +210,7 @@ updated: 2026-11-08
 ## 10. O vilão agora: o Sétimo sem corpo
 - **O que ele é agora:** uma presença no rio. Mora em **Cascas**, uma de cada vez, por algumas horas; depois a Casca cai e ele procura outra. Uma Casca com ele dentro **pisca devagar demais** e fala com a voz do Aldric.
 - **O que ele quer:** o **avatar de um Retornado** (um corpo com "coleira" tem uma porta para o outro lado: a Terra). Candidatos, em ordem:
-  1. **o PJ que disse o nome** a ele no Ep1 (se alguém disse);
+  1. **o Tiago**, que respondeu à pergunta do nome no Ep1 (se disse o nome real);
   2. **o Lorenz** (🔒 o programa V fez dele um "Vessel": o corpo perfeito para um Inquilino);
   3. o **Omar**, que vai se oferecer (🔒 o Merrow o convenceu de que o Hóspede é Deus).
 - **Até lá:** usa a Irmã Vela como voz e a Madre como mãos.
