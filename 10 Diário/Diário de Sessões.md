@@ -20,7 +20,7 @@ updated: 2026-11-07
 - **Resultado (registrado na hora):** os inimigos caíram fácil. Com um **20 natural**, o grupo deixou o **Sor Aldric vivo**. **2 NPCs protegidos.**
 - **Placar:** D-4 com **140 pts**, **20º de 22** (último da Turma D, zona de corte). Ver [[Placar]].
 - **XP:** 200 (combate 1 → nível 2) + 100 (o Sétimo recuou / foi vencido) + 100 (solução criativa: salvar o Aldric) = **nível 2, com 200/300 XP** para o nível 3 (se ninguém morreu no combate 2).
-- **A pergunta do nome:** quem respondeu foi o **Tiago**.
+- **A pergunta do nome:** o **Tiago** disse o **nome verdadeiro**. O Sétimo: "Então é isso que segura a sua coleira. Vou lembrar."
 - **Mortes:** nenhuma. Ninguém foi Desalojado. **Brask e Lisel vivos.**
 - **NPCs salvos (contados):** a Tilde e o Ansel (vivo; decisão do mestre).
 - **O que aconteceu (5 linhas):**

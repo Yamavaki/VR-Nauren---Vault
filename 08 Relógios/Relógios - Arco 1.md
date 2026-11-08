@@ -17,7 +17,7 @@ updated: 2026-11-07
 - [ ] 4. As Cascas de Lagoa-Mansa **param a rotina** e ficam olhando para a colina do Berço.
 - [ ] 5. O Sétimo escolhe a **Irmã Vela** para o primeiro Inquilino.
 - [ ] 6. **A Noite Sem Lua.** *(Prazo fixo: dia 14.)*
-**Muda:** se o PJ que respondeu ao Sétimo **disse o nome real**, uma Casca o chama pelo nome em algum momento do Ep3 ou Ep4.
+**Muda:** ✅ o **Tiago disse o nome real**. Uma Casca o chama pelo nome no Ep2 (fim), Ep3 ou Ep4. Na Noite Sem Lua, o Sétimo tenta entrar no avatar dele.
 
 ## 2. O Repouso (a Madre)
 - [ ] 1. Recebe os levados com carinho.
