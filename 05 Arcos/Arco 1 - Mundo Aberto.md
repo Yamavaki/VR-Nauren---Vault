@@ -38,7 +38,7 @@ updated: 2026-11-08
 ## 2. O calendário (14 dias até a lua nova)
 | Ep | Dia | Aula (Terra) | Professor | O que a aula ensina / planta | Amarant |
 |---|---|---|---|---|---|
-| **2 · A Manhã Depois** | 1–2 | **Línguas e Lore** | [[Prof. Silas Merrow]] | a palavra de Amarant para "Jurado" quer dizer **"o que foi amarrado"**; nomes são chaves | o velório; o Aldric acorda; a Madre chega e cura; o Caetano chega |
+| **2 · A Manhã Depois** ([[Episódio 2 - Roteiro de Narração\|roteiro]]) | 1–2 | **Línguas e Lore** | [[Prof. Silas Merrow]] | a palavra de Amarant para "Jurado" quer dizer **"o que foi amarrado"**; nomes são chaves | o velório; o Aldric acorda; a Madre chega e cura; o Caetano chega |
 | **3 · Os Caminhos (1)** | 4–5 | **Economia de Mundos** | [[Prof. Kwame Asante]] | o florim de Amarant tem câmbio real; o **bolão** dos professores; "o Placar é um mercado" | 1º caminho (rio, dinheiro ou guerra) |
 | **4 · Os Caminhos (2)** | 9–10 | **Engenharia de Imersão** | [[Profa. Ingrid Solberg]] | como o berço funciona; o **gel âmbar**; "a Halden não me deixa abrir o núcleo" | 2º caminho; a Severa vem buscar o Aldric |
 | **5 · A Noite Sem Lua** | 14 | **Tática Imersiva** | [[Profa. Kirsten Holm]] | defesa de ponto fixo, para o "Evento de Liga: Defesa de Âncora (600 pts)" | a avalanche nos Berços |
