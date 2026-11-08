@@ -12,6 +12,7 @@ updated: 2026-11-07
 
 > **A promessa deste episódio:** começa leve, numa cerimônia de universidade e numa festa bonita num jogo bonito. Termina com gente levada pelo rio, um herói de guerra que não é mais ele, e uma pergunta: **"Qual é o seu nome?"**
 > **Ritmo:** Terra rápida (o tom, a turma, as regras da morte) → Amarant encantadora (o festival) → **virada** → **combate 1** (as Cascas, três frentes, dificuldade média) → **nível 2** → **combate 2** (o Sétimo, difícil; provavelmente um PJ morre) → **a pergunta**. ✅ *(estrutura de dois combates: decisão do mestre)*
+> ⚠️ **Na mesa, use o [[Episódio 1 - Roteiro de Narração]] (versão curta, decidida em 2026-11-07).** Esta nota é a versão completa, com tudo o que pode ser usado depois.
 > **Para narrar rápido:** [[Episódio 1 - Cola do Mestre]] · **passo a passo com as falas:** [[Episódio 1 - Roteiro de Narração]].
 > As cenas são **possíveis**, não obrigatórias. Se os jogadores puxarem para outro lado, siga e entregue as pistas onde caírem.
 

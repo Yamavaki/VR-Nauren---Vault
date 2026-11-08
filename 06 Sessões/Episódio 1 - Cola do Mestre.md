@@ -7,6 +7,7 @@ updated: 2026-11-07
 
 # Episódio 1 · Cola do Mestre (narrar rápido)
 
+> ⚠️ **A sessão agora usa a versão curta do roteiro** ([[Episódio 1 - Roteiro de Narração]]): menos NPCs, sem a cena do Merrow, sem a Hanne/Ottmar/Pim, sem o incêndio. Esta cola é a versão longa, para consulta.
 > Versão curta do [[Episódio 1 - A Cerimônia e o Rio]]. Roteiro com todas as falas: [[Episódio 1 - Roteiro de Narração]]. Uma página para ter aberta na mesa. Textos longos (discurso do Strand, aula do Thorne, falas do Sétimo) ficam nas notas dos NPCs.
 
 ## A linha do episódio (~4 h)
