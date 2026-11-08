@@ -16,7 +16,10 @@ updated: 2026-11-07
 
 ---
 
-## Episódio 1 — (data)
+## Episódio 1 — 2026-11-07
+- **Resultado (registrado na hora):** os inimigos caíram fácil. Com um **20 natural**, o grupo deixou o **Sor Aldric vivo**. **2 NPCs protegidos.**
+- **Placar:** D-4 com **140 pts**, **20º de 22** (último da Turma D, zona de corte). Ver [[Placar]].
+- **XP:** 200 (combate 1 → nível 2) + 100 (o Sétimo recuou / foi vencido) + 100 (solução criativa: salvar o Aldric) = **nível 2, com 200/300 XP** para o nível 3 (se ninguém morreu no combate 2).
 - **O que aconteceu (5 linhas):**
 - **Escolhas importantes e consequências:**
 - **Pistas entregues** (marque também em [[Pistas - Arco 1]]):
