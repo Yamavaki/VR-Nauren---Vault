@@ -22,7 +22,22 @@ updated: 2026-11-07
 
 **Duração:** ~3 h. Terra ~30 min · Amarant ~2h30.
 
-**Os PJs (Esquadrão D-4), nível 1:** Tiago (75º no Exame) · Matheus (93º) · Souza (98º) · Felipe (99º) · Cesar (99º, empatado com o Felipe). O esquadrão de menor média da turma.
+**Os PJs (Esquadrão D-4), nível 1** (nota de corte 50, máximo 100):
+| Jogador | Nota no Exame | Colocação (de 100) |
+|---|---|---|
+| **Tiago** | 67,0 | 75º |
+| **Matheus** | 58,0 | 93º |
+| **Souza** | 55,0 | 98º |
+| **Felipe** | 53,0 | 99º (empatado) |
+| **Cesar** | 53,0 | 99º (empatado) |
+
+Média do D-4: 57,2, a menor da Turma D. (Para comparar: Freya, 1ª, tirou 99; Lorenz, 6º, 92; Cassius, 40º, 77.)
+
+**Como os PJs sabem o que fazer (o fio da noite):**
+1. **Na Terra (Cena 3):** antes de mergulhar, o celular mostra o **primeiro contrato** no Quadro: proteger o Festival das Lanternas em Vau-Cinzento e se apresentar ao **Sargento Brask**, no vau. A técnica explica como entrar e como sair.
+2. **No Berço (Cena 4):** a **Tilde** foi mandada pelo Brask para buscar "os novos" assim que nascessem. Ela os leva até ele.
+3. **No vau (Cena 5):** o **Brask** explica tudo: quem são os "Jurados", o contrato da Coroa, onde ficar, o pagamento, e o sino como alarme.
+4. **No fim (Cena 10):** voltam ao Berço para desconectar antes do amanhecer.
 
 **Personagens da noite (só estes):**
 | Onde | Quem | Para quê |
@@ -116,7 +131,18 @@ updated: 2026-11-07
 (Se responderem: *"Não levem a mal, turistas. Alguém tem que ficar em último."*)
 
 📖
-> O Salão dos Berços: quinhentos casulos brancos, como uma colmeia. Cheiro de ozônio e lavanda. Uma técnica confere os crachás: *"Respira fundo quando fechar. Vai parecer que você caiu. Não caiu."*
+> O Salão dos Berços: quinhentos casulos brancos, como uma colmeia. Cheiro de ozônio e lavanda. Os celulares de vocês vibram ao mesmo tempo.
+
+🎲 Mostre o **lado da Terra do contrato (Anexo A)**: é o primeiro contrato do esquadrão, no Quadro do celular.
+
+🗣️ **A técnica dos berços** (30 anos, cantarola, confere os crachás) explica enquanto prende os sensores:
+- *"Primeiro contrato já está no Quadro de vocês, viu? Evento de Liga. A Turma D começa na Zona 04, e cada esquadrão tem a sua vila. Vocês são de **Vau-Cinzento**."*
+- *"Vocês vão acordar num círculo de pedras, o **Berço**. É o ponto de vocês lá dentro: é onde vocês aparecem, e é onde vocês voltam se morrerem."*
+- *"Para sair, é só deitar no Berço e fechar os olhos. E saiam **antes do amanhecer** de lá, tá? É regra. Tem manutenção."*
+- *"O contrato diz para procurar um tal de **Sargento Brask**. Os NPCs de lá são bem… convincentes. Vocês vão ver."*
+- Ao fechar: *"Respira fundo. Vai parecer que você caiu. Não caiu."*
+
+📖
 > Gel morno nas têmporas. A tampa fecha. Escuro. Silêncio.
 
 ➡️ Mude a música e o tom. Amarant.
@@ -134,10 +160,13 @@ updated: 2026-11-07
 > O céu é azul-fundo, e de um horizonte ao outro corre uma **cicatriz pálida**, como uma costura mal fechada.
 > Lá embaixo: um rio, uma vila, centenas de lanternas sendo acesas. Na beira das pedras, uma menina com uma vassoura e um pão.
 
+🔒 **Por que ela está ali:** o Fortim sabe que Retornados aparecem nos Berços na lua cheia. O Brask pediu à Tilde (que vive no Berço) para levar os novos até ele no vau assim que nascessem.
+
 🗣️ **Tilde** (rápido, três perguntas de uma vez):
 - *"Vocês são os novos! Vieram na lua cheia, igual aos outros. Estão com fome? Sabem nadar?"*
+- *"O Sargento Brask mandou eu levar vocês até ele, no vau, assim que vocês nascessem. Ele é bravo, mas é bom. Vem, vem, o festival vai começar!"*
 - A cada PJ: *"Como você se chama?"* → repete devagar: *"…[nome]. Vou lembrar."*
-- *"O sargento está no vau. Vocês viram o meu irmão? Ansel. Cabelo da minha cor."*
+- No caminho: *"Vocês viram o meu irmão? Ansel. Cabelo da minha cor. Foi servir a Coroa e parou de mandar cartas."*
 - Se perguntarem do céu: passa a mão na boca: *"Que aguente."*
 
 🎲 Abrir menu: nada acontece. Barra de vida: "você sente o coração batendo."
@@ -153,7 +182,15 @@ updated: 2026-11-07
 📖
 > Vau-Cinzento: casas de pedra caiada, cada porta de uma cor, varais de lanternas, cheiro de torta de mel. No vau, um velho soldado de um olho só, apoiado numa lança.
 
-🗣️ **Brask:** *"Jurados. Até que enfim. A Coroa mandou isto."* (entregue o **Anexo A**) *"Fiquem no vau e na praça. Ninguém briga, ninguém cai no rio. Fácil."*
+🗣️ **Brask** (rabugento, carinhoso sem admitir). Ele explica a missão:
+> *"Jurados. Até que enfim. Sargento Brask, do Fortim de Orla, meio dia de caminhada daqui.*
+> *Vocês são o que a gente chama de **Jurados**: os que voltam. A Coroa paga vocês para fazer o que os nossos rapazes não podem mais, porque quase todos foram para a guerra contra Vharen.*
+> *Este é o contrato de vocês."* (entregue o **lado de Amarant do Anexo A**; eles vão comparar com o celular)
+> *"Hoje é a noite das Lanternas. O povo solta uma lanterna no rio para cada morto do ano. Vocês ficam no **vau** e na **praça**, comigo. Ninguém briga, ninguém cai no rio, e nada sobe o rio. Fácil.*
+> *Se acontecer qualquer coisa, o **sino da praça** é o alarme da vila. Pagamento amanhã de manhã: cinco moedas para cada um.*
+> *Até as lanternas descerem, aproveitem a festa. Só não comam tudo, que a padeira cobra."*
+
+🗣️ **Se perguntarem "o que pode subir o rio?":** ele coça o bigode: *"Ordem da Coroa. Eu não pergunto. Mas tem uma aldeia rio acima que parou de mandar peixe faz um tempo."*
 
 🎲 Deixe cada jogador escolher **um** lugar:
 | Onde | 📖 + 🗣️ |
@@ -283,8 +320,15 @@ updated: 2026-11-07
 📖
 > A vila conta os que faltam. Alguém acende lanternas novas, uma para cada levado, e não as solta.
 
+🗣️ **Brask:** *"Ele me olhou e não me reconheceu."* · *"Vão, Jurados. Voltem para o Berço antes do amanhecer. E voltem logo."*
+
+📖
+> Vocês sobem a colina até o círculo de pedras. A Tilde está lá, varrendo, e deixa um pão novo no centro.
+
 🗣️ **Tilde**, ao PJ da pergunta: *"Por que ele queria o seu nome?"* · a todos: *"Vocês voltam, né? Vocês sempre voltam."*
-🗣️ **Brask:** *"Ele me olhou e não me reconheceu."* · *"Vão, Jurados. O amanhecer está chegando."*
+
+📖
+> Vocês se deitam nas pedras frias e fecham os olhos.
 
 📖 **Terra:**
 > O casulo abre. Luz branca. Gosto de metal. O celular vibra:
@@ -312,7 +356,7 @@ updated: 2026-11-07
 
 # ANEXOS
 
-## Anexo A · Contrato da Coroa (Cena 5, os dois lados juntos)
+## Anexo A · Contrato (lado da Terra na Cena 3, no celular · lado de Amarant na Cena 5, na mão do Brask)
 **Lado de Amarant (papel, cera vermelha):**
 > *Fortim de Orla, na véspera da lua cheia.*
 > Por ordem da Coroa de Ostrel, e que a Costura aguente, ficam os Jurados do Berço recém-chegados encarregados de **guardar o vau e a praça de Vau-Cinzento durante a noite das Lanternas**, que o povo solte os seus mortos em paz, e que nada suba o rio.
