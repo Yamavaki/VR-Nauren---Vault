@@ -22,7 +22,7 @@ updated: 2026-11-07
 
 **Duração:** ~3 h. Terra ~30 min · Amarant ~2h30.
 
-**Os PJs (Esquadrão D-4), nível 1:** Tiago (75º no Exame) · Souza (98º) · Felipe (99º) · Cesar (99º, empatado com o Felipe). O esquadrão de menor média da turma.
+**Os PJs (Esquadrão D-4), nível 1:** Tiago (75º no Exame) · Matheus (93º) · Souza (98º) · Felipe (99º) · Cesar (99º, empatado com o Felipe). O esquadrão de menor média da turma.
 
 **Personagens da noite (só estes):**
 | Onde | Quem | Para quê |
@@ -33,9 +33,9 @@ updated: 2026-11-07
 | Amarant | **Tilde** | recebe os PJs no Berço |
 | Amarant | **Sargento Brask** | dá o contrato e luta no vau |
 | Amarant | **Lisel** (menina) | a criança no vau: o rosto de quem pode ser levado |
-| Inimigos | **Cascas** (6), **Irmã Vela**, **O Sétimo** | os dois combates |
+| Inimigos | **Cascas** (8), **Irmã Vela**, **O Sétimo** | os dois combates |
 
-**No Foundry:** Casca ×6 tokens · Irmã Vela · O Sétimo · Brask · Lisel · Tilde · Aldeão ×3 tokens.
+**No Foundry:** Casca ×8 tokens · Irmã Vela · O Sétimo · Brask · Lisel · Tilde · Aldeão ×3 tokens.
 
 **Regras da noite:**
 - **Morte:** com 0 de Vida, o PJ **sai da luta** (acorda no berço da Terra; não volta para aquela luta). Morrer **custa 1 nível**, nunca abaixo do 1. O corpo vira pó colorido e os itens ficam no chão.
@@ -112,7 +112,7 @@ updated: 2026-11-07
 📖
 > No corredor para o Salão dos Berços, um aluno de cabelo penteado para trás encosta na parede quando vocês passam.
 
-🗣️ **Cassius:** *"Ah. O D-4. Noventa e oito, noventa e nove, noventa e nove… O esquadrão que sobrou. Que charmoso."*
+🗣️ **Cassius:** *"Ah. O D-4. Noventa e três, noventa e oito, noventa e nove, noventa e nove… O esquadrão que sobrou. Que charmoso."*
 (Se responderem: *"Não levem a mal, turistas. Alguém tem que ficar em último."*)
 
 📖
@@ -181,7 +181,7 @@ updated: 2026-11-07
 ---
 
 ## 7 · Combate 1 · As Cascas (35 min · médio)
-🎭 6 Cascas (4 no vau, 2 no sino), a **Irmã Vela** sobre o rio, o **Brask** no vau, a **Lisel** e 3 aldeões sendo puxados.
+🎭 8 Cascas (6 no vau, 2 no sino; ~2 por PJ), a **Irmã Vela** sobre o rio, o **Brask** no vau, a **Lisel** e 3 aldeões sendo puxados.
 🔒 As Cascas **não matam**: agarram e levam para o rio. Não dá para salvar todo mundo. É de propósito.
 
 📖
@@ -332,7 +332,7 @@ Os novos vieram na lua cheia, igual aos outros. Na noite das lanternas.
 
 Eu tinha deixado o pão. Sempre deixo. Às vezes os pássaros comem e eu finjo que foi um Retornado.
 
-Eram [quatro]. Nasceram cinzentos, que nem sempre, e depois a cor subiu neles.
+Eram [cinco]. Nasceram cinzentos, que nem sempre, e depois a cor subiu neles.
 
 Um deles olhou pra Costura como se nunca tivesse visto céu nenhum.
 
@@ -356,5 +356,5 @@ Vila pobre de pedra caiada, portas coloridas, noite de lua cheia e festa.
 - **Uma estrada** subindo a colina, para o Berço.
 - **O vau e o sino bem separados.**
 
-**Combate 1:** 4 Cascas e a Vela no vau (com a Lisel, o Brask e 3 aldeões) · 2 Cascas no poste do sino · PJs onde estavam no festival.
+**Combate 1:** 6 Cascas e a Vela no vau (com a Lisel, o Brask e 3 aldeões) · 2 Cascas no poste do sino · PJs onde estavam no festival.
 **Combate 2:** o vau e a margem; o Sétimo desce o rio pelos juncos, com a Vela e as Cascas que sobraram.

@@ -37,7 +37,7 @@ updated: 2026-11-07
 | 2026-11-07 | **Retornados: um nome só** (o nome de registro) nos dois mundos | o nome é a âncora do Pacto |
 | 2026-11-07 | **Três Transmigrados na Turma D** (Freya = Lady Isolde; Inês = cartógrafa de Pedra-Alta; Rory = Ansel), com **nomes diferentes** nos dois mundos | segredo para o futuro; um pode nunca ser revelado. Ver [[Os Transmigrados]] |
 | 2026-11-07 | **Ep1 tem dois combates:** as Cascas (média) → todos sobem ao **nível 2** → o Sétimo (difícil; provavelmente um PJ morre e volta ao 1) | ver [[Episódio 1 - A Cerimônia e o Rio]] |
-| 2026-11-07 | **Notas do Exame** (corte 50, máx. 100): Tiago 67 (75º), Souza 55 (98º), Felipe 53 e Cesar 53 (99º, empatados) | ver [[Ranking do Exame Aster]] |
+| 2026-11-07 | **Notas do Exame** (corte 50, máx. 100): Tiago 67 (75º), Matheus 58 (93º), Souza 55 (98º), Felipe 53 e Cesar 53 (99º, empatados) | ver [[Ranking do Exame Aster]] |
 | 2026-11-07 | **Ep1 enxuto:** só Strand, Thorne, Cassius, Tilde, Brask e Lisel; sem a cena do Merrow, sem Hanne/Ottmar/Pim/Kell/Lorenz; combate 1 com 2 frentes (vau e sino) | ver [[Episódio 1 - Roteiro de Narração]] |
 | 2026-11-07 | **Método: The Game Master's Book of Proactive Roleplaying** | metas dos jogadores + facções com relógios. Ver [[Facções]] |
 

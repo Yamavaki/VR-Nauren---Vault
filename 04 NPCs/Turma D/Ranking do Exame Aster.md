@@ -27,16 +27,18 @@ updated: 2026-11-07
 | **75º** | **Tiago** (PJ) | **67,0** | **D-4** |
 | 86º | [[Rory Byrne]] | 62,5 | D-3 Os Três de Remanso |
 | 92º | [[Benji Okoro]] | 59,0 | D-3 Os Três de Remanso |
+| **93º** | **Matheus** (PJ) | **58,0** | **D-4** |
 | 95º | [[Tavita Fonoti]] | 57,5 | D-1 Kaiser |
 | **98º** | **Souza** (PJ) | **55,0** | **D-4** |
 | **99º** | **Felipe** (PJ) | **53,0** | **D-4** |
 | **99º** | **Cesar** (PJ) | **53,0** | **D-4** |
 
-> A Turma D tem 20 vagas: aqui estão 19. A 20ª fica livre (um 5º jogador, ou um aluno sem nome).
+> A Turma D tem 20 vagas: aqui estão as 20. O Matheus divide o 93º com um aluno de outra turma (mesma nota).
 
 ## O que isso diz na mesa
-- **O D-4 é o esquadrão com a menor média da Turma D** (62). Três dos quatro estão entre os **4 últimos** do ano. O "esquadrão que sobrou" do Cassius agora tem número.
+- **O D-4 é o esquadrão com a menor média da Turma D** (57,2). Quatro dos cinco estão entre os **8 últimos** do ano; três estão entre os 3 últimos. O "esquadrão que sobrou" do Cassius agora tem número.
 - **Felipe e Cesar empataram em último** (99º). Ninguém foi o 100º. *(Gancho opcional: a Aster nunca empata; alguém desempatou à mão, ou não quis desempatar. Por quê?)*
-- O **Tiago** (75º) é o único do D-4 no meio da tabela. Ele vai ouvir: "o que você está fazendo nesse esquadrão?".
+- O **Tiago** (75º) é o único do D-4 no meio da tabela.
+- O **Matheus** (93º) ficou um lugar abaixo do Benji e dois acima do Tavita: os três vão se esbarrar no fundo do Placar. Ele vai ouvir: "o que você está fazendo nesse esquadrão?".
 - Para o **top 3 do ano**, o D-4 começa no fundo do Placar. Subir vai ser mérito, não sorte.
 - 🔒 **Para o mestre:** o Exame mede compatibilidade neural, não inteligência. Nota baixa = Sincronia baixa = mais difícil de "amarrar" ao mundo. Isso pode ser uma vantagem escondida (resistem melhor à Canção do Repouso e ao Desalojar). Ninguém sabe disso.
