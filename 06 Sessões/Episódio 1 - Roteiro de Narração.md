@@ -133,7 +133,14 @@ Média do D-4: 57,2, a menor da Turma D. (Para comparar: Freya, 1ª, tirou 99; L
 📖
 > O Salão dos Berços: quinhentos casulos brancos, como uma colmeia. Cheiro de ozônio e lavanda. Os celulares de vocês vibram ao mesmo tempo.
 
-🎲 Mostre o **lado da Terra do contrato (Anexo A)**: é o primeiro contrato do esquadrão, no Quadro do celular.
+📖 **Leia para eles (a tela do celular):**
+> **◇ TESSERA · Zona de Iniciação 04 · Marca de Vael**
+> **EVENTO DE LIGA #01 — Festival das Lanternas (Proteção)**
+> Esquadrão: D-4 · Local: Vau-Cinzento · Apresentar-se a: Sargento Brask
+> Dificuldade: ★☆☆ · Tutorial
+> Recompensa: **100 pts de Índice** · 5 moedas · **+20 pts por NPC protegido**
+> Objetivo: manter a ordem durante o evento sazonal.
+> *Dica: aproveite a ambientação!* 🏮
 
 🗣️ **A técnica dos berços** (30 anos, cantarola, confere os crachás) explica enquanto prende os sensores:
 - *"Primeiro contrato já está no Quadro de vocês, viu? Evento de Liga. A Turma D começa na Zona 04, e cada esquadrão tem a sua vila. Vocês são de **Vau-Cinzento**."*
@@ -185,9 +192,20 @@ Média do D-4: 57,2, a menor da Turma D. (Para comparar: Freya, 1ª, tirou 99; L
 🗣️ **Brask** (rabugento, carinhoso sem admitir). Ele explica a missão:
 > *"Jurados. Até que enfim. Sargento Brask, do Fortim de Orla, meio dia de caminhada daqui.*
 > *Vocês são o que a gente chama de **Jurados**: os que voltam. A Coroa paga vocês para fazer o que os nossos rapazes não podem mais, porque quase todos foram para a guerra contra Vharen.*
-> *Este é o contrato de vocês."* (entregue o **lado de Amarant do Anexo A**; eles vão comparar com o celular)
+> *Este é o contrato de vocês. Leiam."* (ele estende um papel com um selo de cera vermelha)
+
+📖 **Leia para eles (o papel):**
+> *Fortim de Orla, na véspera da lua cheia.*
+> *Por ordem da Coroa de Ostrel, e que a Costura aguente, ficam os Jurados do Berço recém-chegados encarregados de guardar o vau e a praça de Vau-Cinzento durante a noite das Lanternas, que o povo solte os seus mortos em paz, e que nada suba o rio.*
+> *Reportar ao Sargento Brask. Pagamento: cinco moedas de Jurado a cada um, na manhã seguinte.*
+> *Baixas entre os Jurados não serão contadas.*
+> *— R. Mosse, Intendente.*
+
+🔒 Os jogadores vão comparar com o celular: o papel fala de mortos e de "nada suba o rio"; o celular fala de pontos. "Baixas entre os Jurados não serão contadas" soa como "vocês não importam".
+
+🗣️ **Brask** continua:
 > *"Hoje é a noite das Lanternas. O povo solta uma lanterna no rio para cada morto do ano. Vocês ficam no **vau** e na **praça**, comigo. Ninguém briga, ninguém cai no rio, e nada sobe o rio. Fácil.*
-> *Se acontecer qualquer coisa, o **sino da praça** é o alarme da vila. Pagamento amanhã de manhã: cinco moedas para cada um.*
+> *Se acontecer qualquer coisa, o **sino da praça** é o alarme da vila.*
 > *Até as lanternas descerem, aproveitem a festa. Só não comam tudo, que a padeira cobra."*
 
 🗣️ **Se perguntarem "o que pode subir o rio?":** ele coça o bigode: *"Ordem da Coroa. Eu não pergunto. Mas tem uma aldeia rio acima que parou de mandar peixe faz um tempo."*
@@ -350,26 +368,8 @@ Média do D-4: 57,2, a menor da Turma D. (Para comparar: Freya, 1ª, tirou 99; L
 
 ## Depois da sessão
 - [ ] Me mande as anotações (mortes, levados, a Lisel, a resposta ao Sétimo, Desalojados) e eu registro no vault.
-- [ ] 2–3 dias depois, mande a **vinheta da Tilde (Anexo B)** no grupo, sem explicação.
+- [ ] 2–3 dias depois, mande esta **mensagem da Tilde** no grupo, sem título nem explicação. Se perguntarem o que é: "Vau-Cinzento, enquanto vocês dormiam."
 
----
-
-# ANEXOS
-
-## Anexo A · Contrato (lado da Terra na Cena 3, no celular · lado de Amarant na Cena 5, na mão do Brask)
-**Lado de Amarant (papel, cera vermelha):**
-> *Fortim de Orla, na véspera da lua cheia.*
-> Por ordem da Coroa de Ostrel, e que a Costura aguente, ficam os Jurados do Berço recém-chegados encarregados de **guardar o vau e a praça de Vau-Cinzento durante a noite das Lanternas**, que o povo solte os seus mortos em paz, e que nada suba o rio.
-> Reportar ao Sargento Brask. Pagamento: **5 moedas de Jurado** a cada um, na manhã seguinte.
-> Baixas entre os Jurados não serão contadas.
-> — *R. Mosse, Intendente.*
-
-**Lado da Terra (celular):**
-> **◇ TESSERA · Zona 04 · EVENTO DE LIGA #01 — Festival das Lanternas**
-> Dificuldade ★☆☆ · Tutorial · Recompensa: **100 pts** · 5 moedas · **+20 pts por NPC protegido**
-> *Dica: aproveite a ambientação!* 🏮
-
-## Anexo B · Vinheta da Tilde (mandar 2–3 dias depois)
 > Troque os [colchetes] pelo que aconteceu.
 
 Os novos vieram na lua cheia, igual aos outros. Na noite das lanternas.
@@ -390,7 +390,12 @@ Guardei as botas do [nome de quem morreu]. Vou devolver quando ele voltar.
 
 Ele vai voltar. Eles sempre voltam.
 
-## Anexo C · O mapa de Vau-Cinzento
+
+---
+
+# MAPA
+
+## O mapa de Vau-Cinzento
 Vila pobre de pedra caiada, portas coloridas, noite de lua cheia e festa.
 - **O rio** num lado inteiro do mapa. **O vau:** trecho raso com pedras de passagem. **Os juncos com névoa**, rio acima (de onde vêm as Cascas e o Sétimo).
 - **A margem:** lama, um cais pequeno, barcos virados.
