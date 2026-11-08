@@ -12,6 +12,8 @@ updated: 2026-11-07
 
 # Arco 1: Hóspedes
 
+> ⚠️ **Depois do Ep1 (2026-11-08):** esta é a estrutura original. Para os Ep2–6, use [[Arco 1 - Mundo Aberto]] (Aldric vivo, Sétimo sem corpo, Ansel vivo, metas dos PJs).
+
 > **Uma frase:** na primeira noite no "jogo", todas as zonas dos calouros são atacadas por pessoas que cantam bonito demais. Por trás, um Inquilino no corpo de um herói de guerra, que reconhece os jogadores pelo que eles são.
 
 Isto é uma **situação**, não um roteiro. Seguimos o *Proactive Roleplaying*: as **metas dos jogadores** decidem o caminho; as **facções** ([[Facções]]) andam com ou sem eles.

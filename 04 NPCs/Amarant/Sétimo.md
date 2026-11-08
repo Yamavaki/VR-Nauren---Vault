@@ -10,6 +10,8 @@ updated: 2026-11-07
 
 # O Sétimo
 
+> ⚠️ **Depois do Ep1 (2026-11-08):** os PJs o **expulsaram do corpo do Sor Aldric** (20 natural). Ele fugiu **sem corpo** pelo rio: mora em Cascas por algumas horas e procura o **avatar de um Retornado**. Ver [[Arco 1 - Mundo Aberto#10. O vilão agora: o Sétimo sem corpo]].
+
 > *"Vocês são como eu. Só que com **coleira**."*
 
 Um **Inquilino** do Hóspede ([[O Hóspede e os Inquilinos]]). Ele não tem nome no nosso sentido. Diz que é **"o Sétimo"**: o sétimo a atravessar. *(Isso planta, sem explicar, que seis vieram antes e outros virão.)*

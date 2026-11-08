@@ -10,6 +10,8 @@ updated: 2026-11-07
 
 # Rory Byrne
 
+> ⚠️ **Depois do Ep1 (2026-11-08):** ele **não é mais o Ansel** (o Ansel está vivo). Continua Transmigrado, de outra pessoa: proposta em [[Arco 1 - Mundo Aberto#8. A Turma D (situações por episódio)]].
+
 ![[Rory Byrne.jpg|250]]
 
 > Consulta rápida: [[Turma D - Cola Rápida]].

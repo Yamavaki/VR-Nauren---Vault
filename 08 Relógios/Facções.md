@@ -53,9 +53,9 @@ Ele não compra ninguém com maldade. Oferece a cada um **o que já quer**:
 
 | PJ | Meta de longo prazo | Metas de médio prazo | Metas de curto prazo | Facções que esbarram |
 |---|---|---|---|---|
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| **Cesar** (bolsista) | não ser expulso; ser a favorita dos professores | pagar os aluguéis | favores de professores; monitoria | Reitoria, Halden (bolsa) |
+| **Souza** (rico) | descobrir o que aconteceu com a esposa | criar invenções e poções; testar coisas | analisar o chá do Repouso | Halden (Varga, Kell), Atelier, Casa do Repouso |
+| **Felipe** (rico) | curtir, sem responsabilidade | — | o Telhado, o bolão | Dourados |
+| **Matheus** (rico) | curtir, sem responsabilidade | — | o Telhado, o bolão | Dourados, Halden (patrocinador) |
+| **Tiago** (bolsista) | conseguir dinheiro | — | contratos que pagam; o câmbio de florins | Companhia do Sal, Halden (bolsa) |
 | **O esquadrão (D-4)** | **top 3 do ano → a Expedição** | | | Halden, Dourados, Ostrel |

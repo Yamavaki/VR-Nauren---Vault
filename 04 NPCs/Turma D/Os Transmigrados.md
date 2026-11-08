@@ -8,6 +8,8 @@ updated: 2026-11-07
 
 # 🔒 Os Transmigrados (projeto "Ponte Inversa")
 
+> ⚠️ **Depois do Ep1 (2026-11-08):** o Rory **não é mais o Ansel** (o Ansel está vivo em Amarant). Nova identidade do Rory: a definir.
+
 > Ideia do mestre para **explorar no futuro**. Aqui fica tudo preparado. Um deles pode **nunca** ser revelado.
 
 ## O que é

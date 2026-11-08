@@ -10,6 +10,8 @@ updated: 2026-11-07
 
 # Tilde
 
+> ⚠️ **Depois do Ep1 (2026-11-08):** o **Ansel está vivo** (decisão do mestre): desertou da frente e voltou escondido; os PJs salvaram os dois no festival. O segredo "Ansel = Rory" **não vale mais**. Ver [[Ansel]].
+
 **Menina de uns 12 anos de Vau-Cinzento.** Cabelo cor de cobre preso com uma fita, joelhos ralados, um avental com bolsos demais.
 
 | Campo | |

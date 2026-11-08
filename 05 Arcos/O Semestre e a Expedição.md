@@ -22,7 +22,7 @@ O Placar no Átrio corre o **semestre inteiro** (uns 4 meses, 3 arcos). Os três
 
 ## O que a Expedição é de verdade (segredo)
 Uma **campanha militar real** do Reino de Ostrel contra o **Domínio de Vharen**, na **Marca de Ferro**, a frente leste ([[Ostrel e Vharen]]). Os Retornados de elite (os pros) são a ponta de lança. Os calouros do top 3 são **reforço**. *(Nível 3. Só aparece de verdade no fim da Parte 1.)*
-- O **Ansel**, irmão da [[Tilde]], está lá.
+- ~~O **Ansel**, irmão da [[Tilde]], está lá.~~ *(O Ansel está vivo em Vau-Cinzento, desertor: ele **viu** a frente e pode contar.)*
 - O colega do [[Tomás Arrieta]] morreu "na Terra" depois de uma Expedição.
 
 ## Por que cada PJ quer o top 3 (amarre na Sessão 0)
