@@ -16,7 +16,29 @@ updated: 2026-11-07
 > - 🔒 = **o que está acontecendo por trás** (só para você; não conte).
 >
 > **Regra de ouro:** depois de cada 📖, pergunte **"O que vocês fazem?"** e espere. Os jogadores podem sair do roteiro: siga eles e use as falas onde caírem.
-> Fichas: [[Episódio 1 - Cola do Mestre]] · Mapa: [[Mapas - Episódio 1]] · Foundry: `11 Foundry/`.
+> **Este roteiro tem tudo:** as regras da noite, as fichas dos inimigos, o mapa e os papéis para entregar (nos Anexos, no fim). Não precisa abrir outra nota.
+
+---
+
+## Antes de começar (para você)
+
+**A noite em uma frase:** começa leve (uma cerimônia de universidade e uma festa bonita num jogo bonito) e termina com gente levada pelo rio, um herói de guerra que não é mais ele e uma pergunta: *"Qual é o seu nome?"*
+
+**O ritmo:** Terra rápida (1 h) → Amarant encantadora (o festival) → a virada → **Combate 1** contra as Cascas (médio) → **nível 2** → **Combate 2** contra o Sétimo (difícil) → a pergunta.
+
+**Os PJs (Esquadrão D-4):** Tiago (75º no Exame, nota 67) · Souza (98º, 55) · Felipe (99º, 53) · Cesar (99º, 53). São o esquadrão de menor média da Turma D. Começam no **nível 1**.
+
+**Prepare na mesa:**
+- [ ] No Foundry: as fichas da Casca (várias, uns 2 tokens por jogador), da Irmã Vela e do Sétimo; NPCs de Amarant (Brask, Hanne, Ottmar, Lisel, Pim, Tilde) e uns Aldeões.
+- [ ] O mapa de **Vau-Cinzento** (descrição no **Anexo E**).
+- [ ] Imprimir ou ter na tela: **Anexo A** (Termo), **Anexo B** (Regras de Conduta), **Anexo C** (Contrato da Coroa).
+- [ ] Escolher **2 ou 3 alunos da Turma D** para a Cena 4 (os que combinam com as metas dos jogadores).
+- [ ] Um papel para anotar: quem morreu (e quantas vezes), quem foi salvo e quem foi levado, quem aprendeu a canção da Hanne, quem falou com o Sr. Kell, e o que o PJ respondeu ao Sétimo.
+
+**Regras da noite (diga aos jogadores quando aparecer):**
+- **Morte:** quem chega a 0 de Vida **sai da luta** (acorda no berço da Terra e espera a recalibração; não volta para aquela luta). Morrer **custa 1 nível**, nunca abaixo do 1 (no nível 1, não perde nada). O corpo vira pó colorido e os itens ficam no chão.
+- **XP:** 200 depois do Combate 1 (todos vão ao nível 2). No fim: +100 por fazer o Sétimo recuar, +100 se houve solução criativa (o sino, a canção da Hanne).
+- **Sem HUD:** em Amarant não existe menu, mapa nem barra de vida. Descreva sensações.
 
 ---
 
@@ -68,13 +90,13 @@ updated: 2026-11-07
 - O **Kell** é quem cuida do programa secreto **V (Vessels)**. O Lorenz passou por uma "cirurgia de otimização neural" no verão (a cicatriz atrás da orelha). Ele não sabe o que fizeram com ele. O Kell está aqui para observar o "produto".
 - O Kell também observa a **Freya** e mais dois alunos da Turma D (os Transmigrados). Por isso anota nomes.
 - O **Strand** sabe que Amarant é real. O aviso sobre as "fronteiras" é sincero: lá ele não consegue tirar ninguém. Ele e o Kell se toleram por educação; o Strand quer menos vagas na Expedição, o Kell quer mais.
-- O **ranking** é real: o D-4 é o esquadrão de menor média da turma ([[Ranking do Exame Aster]]).
+- O **ranking** é real: o D-4 é o esquadrão de menor média da turma. Felipe e Cesar empataram em último; a Aster nunca empata, e ninguém desempatou (mistério para depois).
 
 📖
 > O Grande Auditório é um anfiteatro branco, com cem cadeiras embaixo e galerias cheias de veteranos em cima, apostando e vaiando. A parede do fundo inteira é o **Placar**, ainda vazio, um painel de doze metros.
 > As luzes baixam. Uma voz de mulher, educada demais, começa a chamar os nomes: nome, país e **colocação no Exame**.
 
-🎲 Faça a chamada dos PJs com a colocação real ([[Ranking do Exame Aster]]): **Tiago, 75º** · **Souza, 98º** · **Felipe, 99º** · **Cesar, 99º** (empatados em último; a voz lê os dois seguidos, e as galerias riem). Deixe cada jogador descrever como o personagem reage ao ouvir o próprio nome.
+🎲 Faça a chamada dos PJs com a colocação real: **Tiago, 75º** · **Souza, 98º** · **Felipe, 99º** · **Cesar, 99º** (empatados em último; a voz lê os dois seguidos, e as galerias riem). Deixe cada jogador descrever como o personagem reage ao ouvir o próprio nome.
 
 🗣️ **A chamada, em momentos:**
 - *"Freya Lindqvist. Suécia. Primeira colocada."* → 📖 *Murmúrios. Uma garota de cabelo branco se levanta sem sorrir, faz uma meia reverência curta, quase antiga, e se senta.*
@@ -154,7 +176,7 @@ updated: 2026-11-07
 > *Uma coisa sobre Amarant: lá, as palavras pesam. Toda língua é uma porta, meus caros. Algumas só abrem para um lado.*
 > *E se algum dia quiserem aprender a ler as portas… os Cartógrafos se reúnem às quintas. Tem chá."*
 
-🎲 **Entregue os papéis:** o [[Handout - Termo de Imersão]] e as [[Handout - Regras de Conduta no TESSERA]] (se já mandou no Guia do Calouro, entregue impressos como "a versão oficial"). Dê **1 minuto real** para lerem. Se alguém perguntar por que a regra 3 proíbe apelidos, o Merrow sorri: *"Burocracia, meu caro. A Halden adora um formulário."*
+🎲 **Entregue os papéis:** o **Termo de Imersão (Anexo A)** e as **Regras de Conduta (Anexo B)**. Eles já viram no Guia do Calouro; entregue como "a versão oficial". Dê **1 minuto real** para lerem. Se alguém perguntar por que a regra 3 proíbe apelidos, o Merrow sorri: *"Burocracia, meu caro. A Halden adora um formulário."*
 
 🗣️ **Os outros esquadrões da Turma D** (use 2 ou 3, os que cruzam com as metas dos PJs):
 - **Cassius Wren** (D-1), encostado na parede, sapatos impecáveis: *"Ah, o esquadrão que sobrou. Que charmoso."*
@@ -242,7 +264,7 @@ updated: 2026-11-07
 > Vau-Cinzento é uma vila pobre de pedra caiada, cada porta pintada de uma cor. Varais de lanternas coloridas cruzam as ruas. Cheiro de torta de mel e de peixe assado. No vau, com água até as canelas, um velho soldado de um olho só espera, apoiado numa lança.
 
 🗣️ **Sargento Brask** (rabugento, carinhoso sem admitir):
-> *"Jurados. Até que enfim. Sargento Brask, Fortim de Orla. A Coroa mandou isto."* (entregue o [[Handout - Contrato da Coroa]])
+> *"Jurados. Até que enfim. Sargento Brask, Fortim de Orla. A Coroa mandou isto."* (entregue o **Contrato da Coroa, Anexo C**: os dois lados, o papel de Amarant e a tela do celular)
 > *"Fiquem no vau e na praça. Ninguém briga, ninguém cai no rio. Fácil."*
 
 🎲 **Deixe-os passear.** Cada jogador escolhe 1 ou 2 lugares. Narre cada um em 2–3 frases e use as falas:
@@ -282,6 +304,21 @@ updated: 2026-11-07
 🎭 **Em cena:** ~2 Cascas por PJ (2 no sino, o resto no vau), a **Irmã Vela** sobre o rio cantando, o **Brask** e 2 soldados segurando o vau, **Lisel e Ottmar** sendo puxados, **Pim** no telhado, **Hanne** entrando no Ganso em chamas, aldeões correndo.
 🔒 **Por trás:** as Cascas **não querem matar**: querem levar gente para o rio, de onde serão levadas rio acima para virar Cascas também. Por isso agarram em vez de bater. É **impossível salvar tudo** com 4 PJs: é de propósito, a escolha é o ponto.
 
+**📋 Fichas deste combate:**
+| | Vida | Defesa | Estamina/rodada | O que faz |
+|---|---|---|---|---|
+| **Casca** (uns 2 por PJ) | 5 | 11 | 2 | **Agarrar e Levar** (1 Est): se acertar, o alvo fica Agarrado (movimento 0) e é **arrastado junto** quando ela anda (3 m por turno, para o rio). Solta-se pagando 2 de Estamina, com um Ataque de Condição de um aliado, ou se a Casca cair. **Mão Fria** (1 Est): 1d4+2. Não sofre Estresse. |
+| **Irmã Vela** (1) | 14 | 12 | 3 | **Canção do Repouso** (2 Est, Ação Anunciada): todos a até 6 m ficam Atordoados, a não ser que paguem 2 de Estamina. **Clarão da Lanterna** (1 Est, 6 m): 1d6+4 e Cego. Anda sobre a água. **Não luta a sério:** canta e atordoa. |
+
+**Fraquezas (o que os jogadores podem descobrir):**
+- **O sino:** sino tocando a até 10 m → todas as Cascas ficam Amedrontadas (ações custam +1 de Estamina). **2 rodadas seguidas → elas recuam** e o combate acaba.
+- **A dor:** Casca na metade da Vida → role 1d6; no 6, ela para 1 rodada e diz o próprio nome.
+- **A canção da Hanne:** quem aprendeu a segunda voz no festival (ou a própria Hanne) canta perto da Vela → ela **perde o turno**.
+
+**Como jogar as Cascas:** rodada 1, agarram quem está mais perto da água. Depois, arrastam 3 m por turno para o rio. Só usam a Mão Fria se alguém bloquear o caminho. A Vela abre com a Canção no grupo maior e depois usa o Clarão em quem tenta chegar ao vau.
+
+**🗺️ Onde:** Vau-Cinzento (Anexo E). As três frentes ficam longe umas das outras: ninguém consegue ajudar em duas na mesma rodada.
+
 📖
 > As pessoas de branco saem do rio. Não correm. Andam. Sorrindo. E começam a **agarrar** quem está perto da água, com mãos frias, e a **puxar** para o rio. Não batem. Não matam. **Levam.**
 > Três coisas acontecem ao mesmo tempo.
@@ -306,7 +343,7 @@ updated: 2026-11-07
 - **Alguém toca o sino:** *"O sino bate. Todas as cabeças brancas se viram ao mesmo tempo. Elas recuam um passo."* (Amedrontadas.) **Segunda rodada seguida:** *"Elas soltam quem estavam segurando e voltam para a água, de costas, ainda sorrindo."* (Fim do combate.)
 - **A Irmã Vela canta (Canção do Repouso):** *"A voz dela entra pelos ouvidos e desliga as pernas. Tudo fica leve. Ninguém deveria sentir tanto…"*
 - **Se alguém cantar a parte da Ada perto da Vela:** *"A moça de branco para. Vira o rosto para a voz. Por um instante, os olhos dela têm cor."*
-- **Se um PJ morrer:** *"O seu corpo fica cinza, como um desenho a lápis, e se desfaz em pó colorido nas suas cores. A espada cai na lama."* → o jogador acorda na Terra (ver **Morte**, abaixo). Os aldeões recuam de medo.
+- **Se um PJ morrer:** *"O seu corpo fica cinza, como um desenho a lápis, e se desfaz em pó colorido nas suas cores. A espada cai na lama."* → o jogador acorda na Terra (ver **Morte**, no fim do roteiro). Os aldeões recuam de medo.
 
 ➡️ **Termina quando** o sino tocar 2 rodadas seguidas, **ou** as 4 rodadas acabarem.
 
@@ -341,6 +378,35 @@ updated: 2026-11-07
 - A alma do **Aldric ainda está lá dentro**, presa. Quando o Sétimo se distrai, a mão da espada treme: é o Aldric lutando.
 - Ele chama os PJs de "**coleira**" porque vê que eles também são almas em corpos emprestados, só que presos a alguma coisa (o nome, o Pacto). Não explique.
 - Ele **sente tudo**, mais que um humano, e gosta: o oposto dos Retornados, que quase não sentem dor.
+
+**📋 Ficha do Sétimo** (nível 4, chefe, contra PJs de nível 2):
+| Vida | Defesa | Estamina/rodada | Poder de Ataque |
+|---|---|---|---|
+| **60** | **15** | **6** | 5 (+1 a cada dano que sofre, até +3) |
+
+| Ação | Custo | O que faz |
+|---|---|---|
+| **Corte do Campeão** | 1 Est | espada, 1 m: 1d6 + Poder de Ataque |
+| **Estocada que Prova** | 2 Est | avança 3 m e ataca: 1d6 + Poder de Ataque e **Dor Verdadeira** (o alvo sofre +1 em todo dano por 2 rodadas) |
+| **Giro do Campeão** | 3 Est | 2× por combate. Todos a até 2 m se defendem; quem for atingido sofre 1d6+2 e fica **Caído** |
+| **Desalojar** | 3 Est | 1× por combate, **Ação Anunciada** (diga em voz alta antes). Alvo a até 3 m: sai da luta (sem morrer e sem perder nível), a não ser que gaste **2 Dados de Destino** para resistir. Na Terra, acorda com o nariz sangrando |
+| **Comando da Casca** | 1 Est | uma Casca a até 10 m recebe Prioridade e age |
+
+**Passivas:**
+- **Curiosidade:** o 1º golpe dele em cada PJ causa **metade do dano** (ele está testando).
+- **Sentir Tudo:** cada vez que sofre dano, +1 de Poder de Ataque (máx. +3). Feri-lo o deixa mais perigoso.
+- **A Mão que Treme:** na metade da Vida (30), role 1d6; no 6, ele perde os ataques da próxima rodada (o Aldric luta por dentro). Se alguém gritar "Aldric!", ele perde com 5 ou 6.
+- **Ponto Fraco (o braço da espada):** se o jogador declarar que mira o braço, a Defesa sobe para 18 nesse ataque; se acertar, ele perde os ataques da próxima rodada.
+- **Perjúrio do Acaso (Puxar a Coleira):** gaste 1 Perjúrio do grupo: todos a até 3 m sofrem 1d6 e ficam Atordoados. Use quando o cercarem.
+
+**Plano de luta, rodada a rodada:**
+1. Chega pela água. **Estocada que Prova** no PJ que mais chamou atenção + **Comando da Casca**.
+2. **Corte do Campeão** em quem está com Dor Verdadeira. Se 2 ou mais o cercarem: **Giro do Campeão**.
+3. **Desalojar** no PJ mais teimoso (anuncie antes).
+4. Depois: alterna Corte e Estocada. Na metade da Vida, role a Mão que Treme.
+5. **Com 15 de Vida** (ou sino tocando 2 rodadas, ou depois de 5 rodadas): para e recua.
+
+**🗺️ Onde:** o vau e a margem. Ele desce o rio a partir dos juncos.
 
 📖
 > Um cavaleiro de armadura azul de Ostrel caminha pelo rio, com água até os joelhos. No peito, onde deveria estar o farol, o metal foi **raspado**.
@@ -444,6 +510,97 @@ updated: 2026-11-07
 ---
 
 ## Depois da sessão
-- [ ] Anotar no [[Diário de Sessões]]: salvos e levados; Hanne e Brask vivos?; quem aprendeu a canção; **o que o PJ respondeu ao Sétimo**; quem foi Desalojado; mortes de cada PJ.
-- [ ] Encher os [[Relógios - Arco 1]].
-- [ ] Mandar a [[Handout - Vinheta da Tilde|vinheta da Tilde]] no grupo, 2–3 dias depois.
+- [ ] Anotar: salvos e levados; Hanne e Brask vivos?; quem aprendeu a canção; **o que o PJ respondeu ao Sétimo**; quem foi Desalojado; quem falou com o Kell; mortes de cada PJ. (Mande para mim e eu registro no vault.)
+- [ ] 2–3 dias depois, mandar no grupo a **vinheta da Tilde (Anexo D)**, sem título nem explicação.
+
+---
+
+# ANEXOS
+
+## Anexo A · Termo de Imersão (entregar na Cena 4)
+**HALDEN SYSTEMS · UNIVERSIDADE ASTER DE MERIDIA**
+**TERMO DE CONSENTIMENTO PARA IMERSÃO EM SIMULAÇÃO (TESSERA) — CALOUROS** · Versão 14.2
+
+**1.1** O(A) Participante declara ciência de que o TESSERA é uma simulação de realidade virtual, e de que todos os personagens, locais e eventos nela contidos são produto de sistemas proprietários da Halden Systems.
+**2.3** O Participante compromete-se a cumprir as Regras de Conduta vigentes (Anexo B), cuja violação poderá acarretar suspensão das Horas de Berço.
+**4.2** Os registros de atividade do Participante (logs) poderão ser compartilhados com parceiros estratégicos da Halden Systems para fins de operação e continuidade da simulação.
+**5.1** O Participante autoriza a coleta de dados biométricos e neurológicos durante e após a imersão, incluindo exames semanais na Ala de Calibração.
+**7.1** O sistema de filtragem somática reduz a percepção de dor, impacto e desconforto a níveis seguros.
+**7.2** O Participante reconhece que a eficácia do filtro somático pode variar entre indivíduos.
+**7.3** O Participante compromete-se a comunicar imediatamente à Ala de Calibração qualquer alteração persistente de sono, paladar, cicatrização ou percepção sensorial fora da imersão, e a não discutir tais alterações com terceiros, incluindo outros Participantes, conforme Anexo C (Confidencialidade de Efeitos Neurossomáticos).
+**9.4** A Halden Systems não se responsabiliza por estados de ânimo, vínculos afetivos ou convicções desenvolvidos pelo Participante em relação a personagens da simulação.
+**Anexo C** — *DISPONÍVEL MEDIANTE SOLICITAÇÃO À ALA DE CALIBRAÇÃO*
+
+> 🔒 Se um PJ pedir o "Anexo C" do Termo: a Ala de Calibração diz que "está em revisão jurídica" e anota o nome dele.
+
+## Anexo B · Regras de Conduta no TESSERA (entregar na Cena 4)
+**REGRAS DE CONDUTA NO TESSERA — ZONA DE INICIAÇÃO 04** · *Para uma experiência imersiva, segura e justa.*
+1. **Preserve a imersão.** Não mencione "jogo", "usuários", "logs", "a Aster" ou o mundo exterior a personagens não jogadores.
+2. **Use apenas as Âncoras autorizadas** da Zona de Iniciação. Não ultrapasse as **Pedras Marcadas** (limites da zona) sem autorização da Reitoria.
+3. **Identificação:** o avatar usa obrigatoriamente o **nome de registro** do Participante. Apelidos e nomes de personagem não são permitidos.
+4. **Contratos somente pelo Quadro oficial.** Acordos paralelos com personagens não jogadores não geram pontuação.
+5. **Não ensine ofícios, técnicas ou conhecimentos externos** a personagens não jogadores (ex.: medicina, engenharia, química).
+6. Caso um personagem não jogador demonstre **interesse incomum pelo seu nome**, encerre a interação e reporte à monitoria.
+7. Desconecte-se **antes do amanhecer simulado** (06h00, horário de Meridia). Não permaneça na simulação durante o ciclo de manutenção.
+8. Comportamento abusivo com outros Participantes é falta grave.
+9. **Sangramento nasal** após a imersão é uma reação conhecida e não é motivo de preocupação. Procure a Ala de Calibração se persistir.
+
+*Dúvidas? Fale com a monitoria. Bom mergulho!* ◇
+
+> 🔒 As regras 3, 5 e 6 não fazem sentido para um jogo. Se perguntarem, ninguém explica. A regra 6 vai ganhar sentido quando o Sétimo perguntar o nome.
+
+## Anexo C · Contrato da Coroa (entregar na Cena 7, os dois lados juntos)
+**Lado de Amarant (papel envelhecido, cera vermelha):**
+> *Fortim de Orla, na véspera da lua cheia.*
+> Por ordem da Coroa de Ostrel, e que a Costura aguente, ficam os Jurados do Berço recém-chegados encarregados de:
+> **guardar o vau e a praça de Vau-Cinzento durante a noite das Lanternas**, que o povo solte os seus mortos em paz, e que nada suba o rio.
+> Reportar ao Sargento Brask. Pagamento: **5 moedas de Jurado** a cada um, na manhã seguinte.
+> Baixas entre os Jurados não serão contadas.
+> ~~Que se pague ao Pa~~ *(borrado por uma gota de cera)*
+> — *R. Mosse, Intendente.*
+
+**Lado da Terra (tela do celular):**
+> **◇ TESSERA · Zona de Iniciação 04 · Marca de Vael**
+> **EVENTO DE LIGA #01 — Festival das Lanternas (Proteção)**
+> Dificuldade: ★☆☆ · Tutorial · Recomendado: Esquadrão nível 1
+> Recompensa: **100 pts de Índice** · 5 moedas · **+20 pts por NPC protegido**
+> Objetivo: manter a ordem durante o evento sazonal.
+> *Dica: aproveite a ambientação!* 🏮
+
+> 🔒 "Que nada suba o rio": a Coroa esperava algo. "Baixas entre os Jurados não serão contadas": para os jogadores, soa como "vocês não importam". O "+20 por NPC protegido" põe preço em gente; os levados não aparecem no fim.
+
+## Anexo D · Vinheta da Tilde (mandar no grupo 2–3 dias depois)
+> Ajuste os [colchetes] ao que aconteceu. Mande sem título. Se perguntarem "o que é isso?", responda só: "Vau-Cinzento, enquanto vocês dormiam."
+
+Os novos vieram na lua cheia, igual aos outros. Na noite das lanternas.
+
+Eu tinha deixado o pão. Sempre deixo. Às vezes os pássaros comem e eu finjo que foi um Retornado.
+
+Eram [quatro]. Nasceram cinzentos, que nem sempre, e depois a cor subiu neles. A do [nome de um PJ] foi [cor 1] primeiro, depois [cor 2], e ficou um tempo das duas, misturada, que nem o rio quando chove.
+
+Um deles olhou pra Costura como se nunca tivesse visto céu nenhum.
+
+Depois veio o rio.
+
+O [nome de quem morreu] morreu no vau. Ele não gritou. Eles nunca gritam. O corpo virou pó colorido, e ele não voltou naquela noite. O pai diz que é porque Hospedeiro não sente. O Irmão que chegou hoje diz a mesma coisa.
+
+Hoje de manhã a gente acendeu [sete] lanternas novas. [Uma é da Lisel. O Ottmar segurou ela a noite inteira e não soltou no rio. Ainda está na mão dele.]
+
+Guardei as botas do [nome de quem morreu]. Tinham terra do vau. Vou devolver quando ele voltar.
+
+Ele vai voltar. Eles sempre voltam.
+
+[A Lisel também vai. Eu acho.]
+
+## Anexo E · O mapa de Vau-Cinzento
+Uma vila pobre de pedra caiada, cada porta pintada de uma cor, numa noite de lua cheia e festa: varais de lanternas coloridas e lanternas boiando no rio.
+- **O rio**, ocupando um lado do mapa inteiro, fundo. **O vau:** o trecho raso, com pedras de passagem e estacas com corda. **Os juncos com névoa**, rio acima (de onde vêm as Cascas e o Sétimo).
+- **A margem:** lama, um cais pequeno, barcos virados, redes. **O moinho** do Ottmar, com roda-d'água.
+- **As casas:** hortas, cercas baixas, barris, carroças; ruas estreitas.
+- **A praça:** o **sino grande num poste**, a **casa de telhado baixo ao lado** (onde o Pim sobe), poço, mesas do festival, barracas, a barraca do jogo dos sininhos.
+- **O Ganso Torto:** a estalagem de 2 andares, de frente para a praça (pega fogo no ataque; não precisa de interior).
+- **A estrada** saindo da vila e subindo a colina, até o Berço.
+- **O vau, o sino e o Ganso bem separados.**
+
+**Onde cada um está no Combate 1:** PJs onde estavam no festival · a Vela sobre o rio, em frente ao vau · a maioria das Cascas saindo da água no vau (agarrando a Lisel, o Ottmar e mais 4 aldeões) · 2 Cascas no poste do sino · o Brask e 2 soldados no vau · o fogo numa janela do Ganso.
+**No Combate 2:** o vau e a margem; o Sétimo desce o rio a partir dos juncos, com a Vela à frente e 2–3 Cascas atrás.
