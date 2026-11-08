@@ -53,7 +53,7 @@ updated: 2026-11-07
 > O Grande Auditório é um anfiteatro branco, com cem cadeiras embaixo e galerias cheias de veteranos em cima, apostando e vaiando. A parede do fundo inteira é o **Placar**, ainda vazio, um painel de doze metros.
 > As luzes baixam. Uma voz de mulher, educada demais, começa a chamar os nomes: nome, país e **colocação no Exame**.
 
-🎲 Faça a chamada dos PJs: diga o nome de cada um, o país e uma colocação (entre 40º e 90º; ninguém dos PJs está no topo). Deixe cada jogador descrever como o personagem reage ao ouvir o próprio nome.
+🎲 Faça a chamada dos PJs com a colocação real ([[Ranking do Exame Aster]]): **Tiago, 75º** · **Souza, 98º** · **Felipe, 99º** · **Cesar, 99º** (empatados em último; a voz lê os dois seguidos, e as galerias riem). Deixe cada jogador descrever como o personagem reage ao ouvir o próprio nome.
 
 🗣️ **A chamada, em momentos:**
 - *"Freya Lindqvist. Suécia. Primeira colocada."* → 📖 *Murmúrios. Uma garota de cabelo branco se levanta sem sorrir, faz uma meia reverência curta, quase antiga, e se senta.*
