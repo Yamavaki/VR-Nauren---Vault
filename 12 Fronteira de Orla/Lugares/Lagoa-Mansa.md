@@ -26,7 +26,8 @@ Uma aldeia inteira de **Cascas** (umas 40). Repetem o último dia normal que tiv
 | Perigo | Nível | XP por PJ |
 |---|---|---|
 | **Casca acordada** (à noite, se chamada) | 1 | 50 cada (são muitas) |
-| **O Pescador-Casca** (uma Casca grande que nunca larga o arpão) | 4 | 200 |
+| **[[Casca-Abraço]]** (abraça e não solta; bater nela machuca o abraçado) | 2 | 100 |
+| **O [[Pescador-Casca]]** (uma Casca grande que nunca larga o arpão) | 4 | 200 |
 | O D-1, se a coisa virar disputa | 3–4 | — (rival, não monstro) |
 
 ## O segredo: dá para desfazer

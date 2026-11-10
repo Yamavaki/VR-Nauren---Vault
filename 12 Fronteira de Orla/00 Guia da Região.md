@@ -10,6 +10,7 @@ updated: 2026-11-10
 
 > **A ideia (estilo Elden Ring):** um mapa aberto com um **caminho sugerido**, mas sem trava. Cada lugar tem um **nível** (a dificuldade). Os jogadores podem ir a um lugar difícil cedo: vão morrer, perder nível e aprender. Cada lugar **guarda uma peça** que serve em outro lugar, e o que eles fazem num lugar **muda** os outros.
 > **Mapa clicável:** abra o canvas [[Fronteira de Orla.canvas|Fronteira de Orla]] (clique num lugar para abrir a nota).
+> **Criaturas:** [[Bestiário da Fronteira]] (18 fichas completas, Códex + Foundry).
 > Inspiração: *Perilous Wilds* (descobertas e perigos, criaturas), *Eureka* (o monstro do rio; os fogos-fátuos que trocam de lugar com as pessoas), *That NPC Has a Dark Secret* (Orvo, Mira), *Sandbox Generator* (vilas, torres, círculos de pedra), *Puzzles, Predicaments & Perplexities* (a Escola dos Nomes).
 
 ---
@@ -106,6 +107,12 @@ updated: 2026-11-10
 | **atravessam as Pedras Marcadas** | a Halden vê: o Sr. Kell chama para uma conversa, as horas de berço são cortadas por uma semana; mas eles encontram a Andarilha e o caminho para Pedra-Alta |
 | **vencem a Primeira** em Pedra-Alta | o Caetano e a Inês (Terra) reagem; a Nascente fica sem guardiã (mais fácil, mas o Sétimo fica mais forte) |
 | **fazem um pacto** com a Primeira | ela entrega o Sétimo, em troca de algo (um nome) |
+| **entregam o Joran** (o noivo, um dos Livres) à [[A Afogada do Juncal]] | a Afogada descansa e o Juncal fica mais seguro; o Brando nunca perdoa; os Livres racham |
+| **protegem o Joran** | a Afogada continua no brejo; mas o Brando passa a dever um favor grande aos PJs |
+| deixam a [[Cova dos Desertores]] **chegar ao Holt** | o Holt morre e o problema dele acaba; o Fortim fica sem caçador de desertores, e a Severa culpa os Retornados |
+| **leem os nomes** dos enforcados para a Cova | ela se deita; o livro do Holt vira prova contra ele; o Rory ouve o nome "Dain" |
+| vencem a [[A Égua da Soleira]] **no duelo de trovas** | ela ensina a canção inteira de Lagoa-Mansa (peça do ritual de restauração) |
+| alguém aceita o **juramento** da [[Árvore do Juramento]] | sobe um nível na hora (até passando um Nó), se já fez algo terrível; senão, morre na sétima noite (e perde 1 nível) |
 
 ---
 

@@ -26,9 +26,10 @@ Jardins, chá quente, camas brancas. Gente doente chega e é **curada de verdade
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Irmãs do Repouso** (acólitas) | 3 | 150 |
+| **[[Irmã do Repouso|Irmãs do Repouso]]** (acólitas) | 3 | 150 |
 | **Irmã Vela** | 5 | 250 |
 | **Madre Ilvane, fase 2** (quando a dor volta para ela: o Repouso dela "estoura") | 6 | 300 |
+| [[Velho Quieto]] (um ou dois, guardando o porão; só se os PJs descerem) | 7 | 350 |
 
 ## Jeitos de resolver
 1. **Mostrar a verdade à Madre:** a prova de Lagoa-Mansa, o Orvo, os livros da Mira, um Eco da Mata. Com **duas** provas, ela para. Com o **Orvo**, ela chora.

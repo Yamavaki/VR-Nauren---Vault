@@ -25,8 +25,8 @@ Tanques de água salgada até o horizonte, montes brancos, galpões. Berço da D
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Cristalizado** (Casca que ficou tempo demais na salmoura: pele de sal, dura como pedra) | 4 | 200 |
-| **Capataz Cristalizado** (o primeiro de todos) | 6 | 300 |
+| **[[Cristalizado]]** (Casca que ficou tempo demais na salmoura: pele de sal, dura como pedra) | 5 | 250 |
+| **[[Capataz Cristalizado]]** (o primeiro de todos; Chefe) | 7 | 350 |
 | Guardas da Companhia | 2 | 100 |
 
 ## Mistérios

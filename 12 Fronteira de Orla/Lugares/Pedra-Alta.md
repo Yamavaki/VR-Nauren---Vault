@@ -24,7 +24,7 @@ Uma cidade de pedra cinza no alto, com 2 mil Cascas que **ainda varrem as ruas**
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Velho Quieto** | 7 | 350 |
+| **[[Velho Quieto]]** | 7 | 350 |
 | **A Primeira** (se lutar) | 9 | 450 |
 
 ## Mistérios

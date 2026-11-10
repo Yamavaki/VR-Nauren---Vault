@@ -30,8 +30,8 @@ O afresco dos **reis em volta de uma porta de luz** (os Berços, pintados há s�
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Corvos-de-Cinza** (bando) | 2 | 100 |
-| **Aluno-Eco** (o fantasma de um aluno que falhou, guarda a sala 3) | 3 | 150 |
+| **[[Corvos-de-Cinza]]** (bando de 4) | 2 | 100 |
+| **Aluno-Eco** (o fantasma de um aluno que falhou, guarda a sala 3; use a ficha do [[Eco]] com metade da Vida) | 3 | 150 |
 
 ## Recompensa
 **A Âncora do Nome:** cada PJ que completa as quatro lições ganha **vantagem contra Desalojar e contra ser chamado pelo nome**. Essencial para o **Tiago** antes da Noite Sem Lua.

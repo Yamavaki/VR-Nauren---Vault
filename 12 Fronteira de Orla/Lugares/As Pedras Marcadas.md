@@ -23,13 +23,15 @@ Uma fila de menires com um símbolo que os PJs **reconhecem**: o logo da Halden,
 
 ## Quem está aqui
 - **A Andarilha** (nova): uma Retornada **sem cores**: a pele e o cabelo cinzentos, como cinza **apagada**. Vaga há dois anos. Não tem Berço, não morre direito, **não lembra o próprio nome**. Diz que "a Halden desligou". 🔒 *Semente opcional: a esposa do Souza. Decidir depois.*
-- **O Andarilho Branco** (monstro): uma coisa alta, feita de cinza e neve, que segue quem atravessa. Nunca corre. Nunca para.
+- **O [[Andarilho Branco]]** (monstro): uma coisa alta, feita da cinza desbotada dos Retornados que morreram sem Berço. Segue quem atravessa. Nunca corre. Nunca para.
+- **A [[Árvore do Juramento]]**, num morro sem mais árvores: promete um nível a quem ficar pendurado nela sete noites.
 
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Andarilho Branco** | 8 | 400 |
-| **Corvos-de-Cinza** (bandos grandes) | 2 | 100 cada |
+| **[[Andarilho Branco]]** | 9 | 450 |
+| **[[Árvore do Juramento]]** (no morro, se alguém mexer nela) | 8 | 400 |
+| **[[Corvos-de-Cinza]]** (bandos grandes) | 2 | 100 por bando |
 | Frio, sem Berço, sem volta fácil | — | — |
 
 ## O Nó 2 (do nível 8 para o 9)

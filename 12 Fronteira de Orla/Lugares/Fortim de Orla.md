@@ -26,8 +26,9 @@ Muralha de pedra, quartel, forca na praça. Aqui fica o **quadro de contratos gr
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Soldado Repousado** | 3 | 150 |
+| **[[Soldado Repousado]]** | 3 | 150 |
 | **Capitão Holt** (se virar inimigo) | 5 | 250 |
+| **[[Cova dos Desertores]]** (os enforcados do Holt levantam da vala e vêm atrás dele) | 6 | 300 |
 | A forca (se os PJs forem pegos ajudando desertores) | — | — |
 
 ## Contratos do quadro (exemplos)

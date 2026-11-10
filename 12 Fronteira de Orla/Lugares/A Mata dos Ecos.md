@@ -20,8 +20,8 @@ Pinheiros escuros, neblina, nenhum pássaro. Aqui a alma de quem foi esvaziado *
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Eco** (alma perdida que imita a voz e a forma de alguém do grupo) | 5 | 250 |
-| **Coro de Ecos** (três ou mais juntos; o grupo ouve as próprias vozes discutindo) | 6 | 300 |
+| **[[Eco]]** (alma perdida que imita a voz e a forma de alguém do grupo) | 5 | 250 |
+| **Coro de Ecos** (três [[Eco|Ecos]] juntos: cada um ganha +2 no ataque pelo Bando 1) | 5 | 250 cada |
 
 ## Mistérios e pistas
 - Os Ecos **são as almas de Lagoa-Mansa** (e de Salinas). Se os PJs dizem o nome certo, o Eco para e escuta. 🔒 **Isso completa o ritual de restauração**: com a alma achada aqui, quem volta em Lagoa-Mansa volta **inteiro**, com todas as memórias.

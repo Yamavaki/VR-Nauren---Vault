@@ -24,9 +24,10 @@ updated: 2026-11-10
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **Lumes do Juncal** (bando de 3) | 2 | 100 cada |
-| **Corvos-de-Cinza** (bando) | 2 | 100 |
-| **A Garça do Juncal** | 4 | 200 |
+| **[[Lume do Juncal|Lumes do Juncal]]** (bando de 3) | 2 | 100 |
+| **[[Corvos-de-Cinza]]** (bando de 4) | 2 | 100 |
+| **[[A Afogada do Juncal]]** (Elke, no poço fundo perto da ilha dos Livres) | 4 | 200 |
+| **[[A Garça do Juncal]]** (Categoria 2: mortal para o nível 2–3) | 4 | 200 |
 | Lama funda (teste de atletismo, ou perde um item) | — | — |
 
 ## Mistérios e pistas

@@ -26,7 +26,7 @@ Um mosteiro num penhasco, com uma torre de cem sinos. O maior, o **Sino-Mestre**
 | Perigo | Nível | XP por PJ |
 |---|---|---|
 | **Monge da Vigília** | 4 | 200 |
-| **Badalo** (construto de bronze que guarda a torre; cada golpe dele é um som que atordoa) | 6 | 300 |
+| **[[Penitente do Sino]]** (monge de olhos e boca costurados, com um sino de bronze nas costas) | 7 | 350 |
 | **A torre inteira tocando** (se alguém tenta roubar o Sino-Mestre) | 7 | 350 |
 
 ## O problema

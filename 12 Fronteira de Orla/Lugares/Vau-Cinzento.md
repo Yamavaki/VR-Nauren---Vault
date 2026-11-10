@@ -22,6 +22,12 @@ A vila do vau, com o **sino no poste** da praça, o Berço no morro e a casa da 
 - [[Sor Aldric Maren]], vivo, fraco, sem lembrar de nada desde que o Sétimo saiu dele
 - **Novo · Dona Hester**, a dona da estalagem *O Caneco Raso*: vende cama, comida e **boatos** (a tabela abaixo). Quer que os Retornados paguem em moeda de verdade, "não em cinza".
 
+## Perigos
+| Perigo | Nível | XP por PJ |
+|---|---|---|
+| **[[A Égua da Soleira]]** (nas noites antes da Noite Sem Lua, bate nas portas cantando trovas e pede pousada) | 5 | 250 |
+| **[[Casca-Abraço]]** e Cascas (na Noite Sem Lua) | 1–2 | 50–100 |
+
 ## Boatos do Caneco Raso (d8, um por visita)
 1. "Em Lagoa-Mansa ninguém se zanga há anos. Nem quando o filho morre." → [[Lagoa-Mansa]]
 2. "Um velho cego pesca no lago parado. Muda de casa toda semana." → [[Lagoa-Mansa]] (o Orvo)

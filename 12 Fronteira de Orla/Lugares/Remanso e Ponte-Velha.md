@@ -25,8 +25,8 @@ updated: 2026-11-10
 ## Perigos
 | Perigo | Nível | XP por PJ |
 |---|---|---|
-| **O Bicho-da-Ponte** (se recusarem o pedágio e forçarem a passagem) | 5 | 250 |
-| **Lumes** na margem | 2 | 100 |
+| **O [[Bicho-da-Ponte]]** (se recusarem o pedágio e forçarem a passagem; Categoria 2) | 6 | 300 |
+| **[[Lume do Juncal|Lumes]]** na margem (bando de 3) | 2 | 100 |
 | O D-1, numa disputa por contrato | 4 | — (rival) |
 
 ## O pedágio
