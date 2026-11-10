@@ -1,491 +1,72 @@
 {
- "nodes": [
-  {
-   "id": "g1",
-   "type": "group",
-   "label": "FASE I · O Vale (2–4) · até a Noite Sem Lua",
-   "x": -520,
-   "y": -400,
-   "width": 1340,
-   "height": 860,
-   "color": "4"
-  },
-  {
-   "id": "g2",
-   "type": "group",
-   "label": "FASE II · O Rio Acima (5–7)",
-   "x": -520,
-   "y": 480,
-   "width": 1820,
-   "height": 520,
-   "color": "3"
-  },
-  {
-   "id": "g3",
-   "type": "group",
-   "label": "FASE III · Além das Pedras (8–10) · sem Berço",
-   "x": 1340,
-   "y": -420,
-   "width": 920,
-   "height": 1100,
-   "color": "1"
-  },
-  {
-   "id": "vau",
-   "type": "text",
-   "text": "## 🏘️ [[12 Fronteira de Orla/Lugares/Vau-Cinzento|Vau-Cinzento]]\n**BASE · o Berço**",
-   "x": 0,
-   "y": 0,
-   "width": 300,
-   "height": 130,
-   "color": "6"
-  },
-  {
-   "id": "jun",
-   "type": "text",
-   "text": "## 🌾 [[12 Fronteira de Orla/Lugares/O Juncal|O Juncal]]\n**Nv 2–3**",
-   "x": -420,
-   "y": -300,
-   "width": 300,
-   "height": 130,
-   "color": "4"
-  },
-  {
-   "id": "san",
-   "type": "text",
-   "text": "## 🏛️ [[12 Fronteira de Orla/Lugares/Colinas do Santuário|Colinas do Santuário]]\n**Nv 3**",
-   "x": 420,
-   "y": -300,
-   "width": 300,
-   "height": 130,
-   "color": "4"
-  },
-  {
-   "id": "lag",
-   "type": "text",
-   "text": "## 🎣 [[12 Fronteira de Orla/Lugares/Lagoa-Mansa|Lagoa-Mansa]]\n**Nv 3–4**",
-   "x": -420,
-   "y": 300,
-   "width": 300,
-   "height": 130,
-   "color": "4"
-  },
-  {
-   "id": "for",
-   "type": "text",
-   "text": "## 🏰 [[12 Fronteira de Orla/Lugares/Fortim de Orla|Fortim de Orla]]\n**Nv 3–5**",
-   "x": 420,
-   "y": 300,
-   "width": 300,
-   "height": 130,
-   "color": "4"
-  },
-  {
-   "id": "pon",
-   "type": "text",
-   "text": "## 🌉 [[12 Fronteira de Orla/Lugares/Remanso e Ponte-Velha|Remanso e Ponte-Velha]]\n**Nv 4–5**",
-   "x": 0,
-   "y": 520,
-   "width": 300,
-   "height": 130,
-   "color": "3"
-  },
-  {
-   "id": "sal",
-   "type": "text",
-   "text": "## 🧂 [[12 Fronteira de Orla/Lugares/Salinas|Salinas]]\n**Nv 4–6**",
-   "x": 420,
-   "y": 820,
-   "width": 300,
-   "height": 130,
-   "color": "3"
-  },
-  {
-   "id": "mat",
-   "type": "text",
-   "text": "## 🌲 [[12 Fronteira de Orla/Lugares/A Mata dos Ecos|A Mata dos Ecos]]\n**Nv 5–6**",
-   "x": 900,
-   "y": 560,
-   "width": 300,
-   "height": 130,
-   "color": "3"
-  },
-  {
-   "id": "cas",
-   "type": "text",
-   "text": "## ⛪ [[12 Fronteira de Orla/Lugares/A Casa do Repouso|A Casa do Repouso]]\n**Nv 5–6**",
-   "x": -420,
-   "y": 820,
-   "width": 300,
-   "height": 130,
-   "color": "3"
-  },
-  {
-   "id": "mos",
-   "type": "text",
-   "text": "## 🔔 [[12 Fronteira de Orla/Lugares/O Mosteiro dos Sinos|O Mosteiro dos Sinos]]\n**Nv 6–7**",
-   "x": 900,
-   "y": 830,
-   "width": 300,
-   "height": 130,
-   "color": "2"
-  },
-  {
-   "id": "ped",
-   "type": "text",
-   "text": "## 🪨 [[12 Fronteira de Orla/Lugares/As Pedras Marcadas|As Pedras Marcadas]]\n**Nv 7–8**",
-   "x": 1400,
-   "y": 0,
-   "width": 300,
-   "height": 130,
-   "color": "1"
-  },
-  {
-   "id": "alt",
-   "type": "text",
-   "text": "## 🏚️ [[12 Fronteira de Orla/Lugares/Pedra-Alta|Pedra-Alta]]\n**Nv 8–9**",
-   "x": 1900,
-   "y": -300,
-   "width": 300,
-   "height": 130,
-   "color": "1"
-  },
-  {
-   "id": "nas",
-   "type": "text",
-   "text": "## 🌊 [[12 Fronteira de Orla/Lugares/A Nascente Quieta|A Nascente Quieta]]\n**Nv 9–10 · FINAL**",
-   "x": 1900,
-   "y": 500,
-   "width": 300,
-   "height": 130,
-   "color": "1"
-  },
-  {
-   "id": "fer",
-   "type": "text",
-   "text": "## ⚔️ [[12 Fronteira de Orla/Lugares/A Marca de Ferro|A Marca de Ferro]]\n**Nv 12+ · gancho**",
-   "x": 1900,
-   "y": -700,
-   "width": 300,
-   "height": 130,
-   "color": "5"
-  },
-  {
-   "id": "guia",
-   "type": "text",
-   "text": "# 🗺️ Fronteira de Orla\n[[12 Fronteira de Orla/00 Guia da Região|📖 Guia da Região]] · [[12 Fronteira de Orla/Bestiário da Fronteira|🐾 Bestiário]]\n\n**Linha cheia** = caminho\n**Seta laranja** = sugerido\n**Seta roxa** = consequência\n\nXP monstro = nível × 50 por PJ\nNós: 4→5 e 8→9",
-   "x": -1100,
-   "y": -400,
-   "width": 420,
-   "height": 340
-  },
-  {
-   "id": "lua",
-   "type": "text",
-   "text": "## 🌑 Noite Sem Lua\n**dia 14 · Vau-Cinzento**\nO Sétimo vem atrás do Tiago.\nO tamanho da noite depende das escolhas na Fase I.\n**Nó 1 (4→5)**",
-   "x": -1100,
-   "y": 0,
-   "width": 420,
-   "height": 220,
-   "color": "2"
-  }
- ],
- "edges": [
-  {
-   "id": "vau-jun-0",
-   "fromNode": "vau",
-   "toNode": "jun",
-   "toEnd": "none"
-  },
-  {
-   "id": "vau-san-1",
-   "fromNode": "vau",
-   "toNode": "san",
-   "toEnd": "none"
-  },
-  {
-   "id": "vau-lag-2",
-   "fromNode": "vau",
-   "toNode": "lag",
-   "toEnd": "none"
-  },
-  {
-   "id": "vau-for-3",
-   "fromNode": "vau",
-   "toNode": "for",
-   "toEnd": "none"
-  },
-  {
-   "id": "vau-pon-4",
-   "fromNode": "vau",
-   "toNode": "pon",
-   "toEnd": "none"
-  },
-  {
-   "id": "jun-lag-5",
-   "fromNode": "jun",
-   "toNode": "lag",
-   "toEnd": "none"
-  },
-  {
-   "id": "lag-cas-6",
-   "fromNode": "lag",
-   "toNode": "cas",
-   "toEnd": "none"
-  },
-  {
-   "id": "lag-sal-7",
-   "fromNode": "lag",
-   "toNode": "sal",
-   "toEnd": "none"
-  },
-  {
-   "id": "for-sal-8",
-   "fromNode": "for",
-   "toNode": "sal",
-   "toEnd": "none"
-  },
-  {
-   "id": "for-cas-9",
-   "fromNode": "for",
-   "toNode": "cas",
-   "toEnd": "none"
-  },
-  {
-   "id": "pon-sal-10",
-   "fromNode": "pon",
-   "toNode": "sal",
-   "toEnd": "none"
-  },
-  {
-   "id": "pon-mat-11",
-   "fromNode": "pon",
-   "toNode": "mat",
-   "toEnd": "none"
-  },
-  {
-   "id": "san-mat-12",
-   "fromNode": "san",
-   "toNode": "mat",
-   "toEnd": "none"
-  },
-  {
-   "id": "sal-cas-13",
-   "fromNode": "sal",
-   "toNode": "cas",
-   "toEnd": "none"
-  },
-  {
-   "id": "mat-mos-14",
-   "fromNode": "mat",
-   "toNode": "mos",
-   "toEnd": "none"
-  },
-  {
-   "id": "cas-mos-15",
-   "fromNode": "cas",
-   "toNode": "mos",
-   "toEnd": "none"
-  },
-  {
-   "id": "mos-ped-16",
-   "fromNode": "mos",
-   "toNode": "ped",
-   "toEnd": "none"
-  },
-  {
-   "id": "for-ped-17",
-   "fromNode": "for",
-   "toNode": "ped",
-   "toEnd": "none"
-  },
-  {
-   "id": "mat-ped-18",
-   "fromNode": "mat",
-   "toNode": "ped",
-   "toEnd": "none"
-  },
-  {
-   "id": "ped-alt-19",
-   "fromNode": "ped",
-   "toNode": "alt",
-   "toEnd": "none"
-  },
-  {
-   "id": "alt-nas-20",
-   "fromNode": "alt",
-   "toNode": "nas",
-   "toEnd": "none"
-  },
-  {
-   "id": "cas-nas-21",
-   "fromNode": "cas",
-   "toNode": "nas",
-   "toEnd": "none"
-  },
-  {
-   "id": "ped-fer-22",
-   "fromNode": "ped",
-   "toNode": "fer",
-   "toEnd": "none"
-  },
-  {
-   "id": "jun-ped-23",
-   "fromNode": "jun",
-   "toNode": "ped",
-   "label": "rota secreta dos Livres",
-   "toEnd": "none"
-  },
-  {
-   "id": "jun-san-24",
-   "fromNode": "jun",
-   "toNode": "san",
-   "color": "2"
-  },
-  {
-   "id": "san-lag-25",
-   "fromNode": "san",
-   "toNode": "lag",
-   "color": "2"
-  },
-  {
-   "id": "lag-for-26",
-   "fromNode": "lag",
-   "toNode": "for",
-   "color": "2"
-  },
-  {
-   "id": "for-pon-27",
-   "fromNode": "for",
-   "toNode": "pon",
-   "color": "2"
-  },
-  {
-   "id": "pon-cas-28",
-   "fromNode": "pon",
-   "toNode": "cas",
-   "color": "2"
-  },
-  {
-   "id": "cas-mat-29",
-   "fromNode": "cas",
-   "toNode": "mat",
-   "color": "2"
-  },
-  {
-   "id": "mat-mos-30",
-   "fromNode": "mat",
-   "toNode": "mos",
-   "color": "2"
-  },
-  {
-   "id": "mos-ped-31",
-   "fromNode": "mos",
-   "toNode": "ped",
-   "color": "2"
-  },
-  {
-   "id": "ped-alt-32",
-   "fromNode": "ped",
-   "toNode": "alt",
-   "color": "2"
-  },
-  {
-   "id": "alt-nas-33",
-   "fromNode": "alt",
-   "toNode": "nas",
-   "color": "2"
-  },
-  {
-   "id": "vau-lua-34",
-   "fromNode": "vau",
-   "toNode": "lua",
-   "label": "dia 14",
-   "color": "2"
-  },
-  {
-   "id": "jun-lag-35",
-   "fromNode": "jun",
-   "toNode": "lag",
-   "label": "badalo",
-   "color": "6"
-  },
-  {
-   "id": "san-nas-36",
-   "fromNode": "san",
-   "toNode": "nas",
-   "label": "Âncora / 5ª lição",
-   "color": "6"
-  },
-  {
-   "id": "lag-cas-37",
-   "fromNode": "lag",
-   "toNode": "cas",
-   "label": "prova → Madre",
-   "color": "6"
-  },
-  {
-   "id": "lag-sal-38",
-   "fromNode": "lag",
-   "toNode": "sal",
-   "label": "se queimar: Cascas fogem",
-   "color": "6"
-  },
-  {
-   "id": "sal-cas-39",
-   "fromNode": "sal",
-   "toNode": "cas",
-   "label": "livros da Mira",
-   "color": "6"
-  },
-  {
-   "id": "mos-vau-40",
-   "fromNode": "mos",
-   "toNode": "vau",
-   "label": "selar o Berço",
-   "color": "6"
-  },
-  {
-   "id": "jun-lua-41",
-   "fromNode": "jun",
-   "toNode": "lua",
-   "label": "Garça viva",
-   "color": "6"
-  },
-  {
-   "id": "lag-lua-42",
-   "fromNode": "lag",
-   "toNode": "lua",
-   "label": "exército do Sétimo",
-   "color": "6"
-  },
-  {
-   "id": "sal-nas-43",
-   "fromNode": "sal",
-   "toNode": "nas",
-   "label": "Cristalizados",
-   "color": "6"
-  },
-  {
-   "id": "for-vau-44",
-   "fromNode": "for",
-   "toNode": "vau",
-   "label": "Holt busca o Aldric",
-   "color": "6"
-  },
-  {
-   "id": "pon-nas-45",
-   "fromNode": "pon",
-   "toNode": "nas",
-   "label": "nome dado ao Bicho",
-   "color": "6"
-  },
-  {
-   "id": "alt-nas-46",
-   "fromNode": "alt",
-   "toNode": "nas",
-   "label": "pacto com a Primeira",
-   "color": "6"
-  }
- ]
+	"nodes":[
+		{"id":"g1","type":"group","label":"FASE I · O Vale (2–4) · até a Noite Sem Lua","x":-520,"y":-400,"width":1340,"height":860,"color":"4"},
+		{"id":"g2","type":"group","label":"FASE II · O Rio Acima (5–7)","x":-520,"y":480,"width":1820,"height":520,"color":"3"},
+		{"id":"g3","type":"group","label":"FASE III · Além das Pedras (8–10) · sem Berço","x":1340,"y":-420,"width":920,"height":1100,"color":"1"},
+		{"id":"vau","type":"text","text":"## 🏘️ [[12 Fronteira de Orla/Lugares/Vau-Cinzento|Vau-Cinzento]]\n**BASE · o Berço**","x":0,"y":0,"width":300,"height":130,"color":"6"},
+		{"id":"jun","type":"text","text":"## 🌾 [[12 Fronteira de Orla/Lugares/O Juncal|O Juncal]]\n**Nv 2–3**","x":-420,"y":-300,"width":300,"height":130,"color":"4"},
+		{"id":"san","type":"text","text":"## 🏛️ [[12 Fronteira de Orla/Lugares/Colinas do Santuário|Colinas do Santuário]]\n**Nv 3**","x":420,"y":-300,"width":300,"height":130,"color":"4"},
+		{"id":"lag","type":"text","text":"## 🎣 [[12 Fronteira de Orla/Lugares/Lagoa-Mansa|Lagoa-Mansa]]\n**Nv 3–4**","x":-420,"y":300,"width":300,"height":130,"color":"4"},
+		{"id":"for","type":"text","text":"## 🏰 [[12 Fronteira de Orla/Lugares/Fortim de Orla|Fortim de Orla]]\n**Nv 3–5**","x":420,"y":300,"width":300,"height":130,"color":"4"},
+		{"id":"pon","type":"text","text":"## 🌉 [[12 Fronteira de Orla/Lugares/Remanso e Ponte-Velha|Remanso e Ponte-Velha]]\n**Nv 4–5**","x":0,"y":520,"width":300,"height":130,"color":"3"},
+		{"id":"sal","type":"text","text":"## 🧂 [[12 Fronteira de Orla/Lugares/Salinas|Salinas]]\n**Nv 4–6**","x":420,"y":820,"width":300,"height":130,"color":"3"},
+		{"id":"mat","type":"text","text":"## 🌲 [[12 Fronteira de Orla/Lugares/A Mata dos Ecos|A Mata dos Ecos]]\n**Nv 5–6**","x":900,"y":560,"width":300,"height":130,"color":"3"},
+		{"id":"cas","type":"text","text":"## ⛪ [[12 Fronteira de Orla/Lugares/A Casa do Repouso|A Casa do Repouso]]\n**Nv 5–6**","x":-420,"y":820,"width":300,"height":130,"color":"3"},
+		{"id":"mos","type":"text","text":"## 🔔 [[12 Fronteira de Orla/Lugares/O Mosteiro dos Sinos|O Mosteiro dos Sinos]]\n**Nv 6–7**","x":900,"y":830,"width":300,"height":130,"color":"2"},
+		{"id":"ped","type":"text","text":"## 🪨 [[12 Fronteira de Orla/Lugares/As Pedras Marcadas|As Pedras Marcadas]]\n**Nv 7–8**","x":1400,"y":0,"width":300,"height":130,"color":"1"},
+		{"id":"alt","type":"text","text":"## 🏚️ [[12 Fronteira de Orla/Lugares/Pedra-Alta|Pedra-Alta]]\n**Nv 8–9**","x":1900,"y":-300,"width":300,"height":130,"color":"1"},
+		{"id":"nas","type":"text","text":"## 🌊 [[12 Fronteira de Orla/Lugares/A Nascente Quieta|A Nascente Quieta]]\n**Nv 9–10 · FINAL**","x":1900,"y":500,"width":300,"height":130,"color":"1"},
+		{"id":"fer","type":"text","text":"## ⚔️ [[12 Fronteira de Orla/Lugares/A Marca de Ferro|A Marca de Ferro]]\n**Nv 12+ · gancho**","x":1900,"y":-700,"width":300,"height":130,"color":"5"},
+		{"id":"guia","type":"text","text":"# 🗺️ Fronteira de Orla\n[[12 Fronteira de Orla/00 Guia da Região|📖 Guia da Região]] · [[12 Fronteira de Orla/Bestiário da Fronteira|🐾 Bestiário]]\n\n**Linha cheia** = caminho\n**Seta laranja** = sugerido\n**Seta roxa** = consequência\n\nXP monstro = nível × 50 por PJ\nNós: 4→5 e 8→9","x":-1100,"y":-400,"width":420,"height":340},
+		{"id":"lua","type":"text","text":"## 🌑 Noite Sem Lua\n**dia 14 · Vau-Cinzento**\nO Sétimo vem atrás do Tiago.\nO tamanho da noite depende das escolhas na Fase I.\n**Nó 1 (4→5)**","x":-1100,"y":0,"width":420,"height":220,"color":"2"}
+	],
+	"edges":[
+		{"id":"vau-jun-0","fromNode":"vau","toNode":"jun","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"vau-san-1","fromNode":"vau","toNode":"san","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"vau-lag-2","fromNode":"vau","toNode":"lag","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"vau-for-3","fromNode":"vau","toNode":"for","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"vau-pon-4","fromNode":"vau","toNode":"pon","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"jun-lag-5","fromNode":"jun","toNode":"lag","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-cas-6","fromNode":"lag","toNode":"cas","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-sal-7","fromNode":"lag","toNode":"sal","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"for-sal-8","fromNode":"for","toNode":"sal","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"for-cas-9","fromNode":"for","toNode":"cas","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"pon-sal-10","fromNode":"pon","toNode":"sal","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"pon-mat-11","fromNode":"pon","toNode":"mat","toEnd":"none","fromSide":"right","toSide":"left"},
+		{"id":"san-mat-12","fromNode":"san","toNode":"mat","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"sal-cas-13","fromNode":"sal","toNode":"cas","toEnd":"none","fromSide":"left","toSide":"right"},
+		{"id":"mat-mos-14","fromNode":"mat","toNode":"mos","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"cas-mos-15","fromNode":"cas","toNode":"mos","toEnd":"none","fromSide":"right","toSide":"left"},
+		{"id":"mos-ped-16","fromNode":"mos","toNode":"ped","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"for-ped-17","fromNode":"for","toNode":"ped","toEnd":"none","fromSide":"right","toSide":"left"},
+		{"id":"mat-ped-18","fromNode":"mat","toNode":"ped","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"ped-alt-19","fromNode":"ped","toNode":"alt","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"alt-nas-20","fromNode":"alt","toNode":"nas","toEnd":"none","fromSide":"bottom","toSide":"top"},
+		{"id":"cas-nas-21","fromNode":"cas","toNode":"nas","toEnd":"none","fromSide":"right","toSide":"left"},
+		{"id":"ped-fer-22","fromNode":"ped","toNode":"fer","toEnd":"none","fromSide":"top","toSide":"bottom"},
+		{"id":"jun-ped-23","fromNode":"jun","toNode":"ped","label":"rota secreta dos Livres","toEnd":"none","fromSide":"right","toSide":"left"},
+		{"id":"jun-san-24","fromNode":"jun","toNode":"san","color":"2","fromSide":"right","toSide":"left"},
+		{"id":"san-lag-25","fromNode":"san","toNode":"lag","color":"2","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-for-26","fromNode":"lag","toNode":"for","color":"2","fromSide":"right","toSide":"left"},
+		{"id":"for-pon-27","fromNode":"for","toNode":"pon","color":"2","fromSide":"bottom","toSide":"top"},
+		{"id":"pon-cas-28","fromNode":"pon","toNode":"cas","color":"2","fromSide":"bottom","toSide":"top"},
+		{"id":"cas-mat-29","fromNode":"cas","toNode":"mat","color":"2","fromSide":"right","toSide":"left"},
+		{"id":"mat-mos-30","fromNode":"mat","toNode":"mos","color":"2","fromSide":"bottom","toSide":"top"},
+		{"id":"mos-ped-31","fromNode":"mos","toNode":"ped","color":"2","fromSide":"top","toSide":"bottom"},
+		{"id":"ped-alt-32","fromNode":"ped","toNode":"alt","color":"2","fromSide":"top","toSide":"bottom"},
+		{"id":"alt-nas-33","fromNode":"alt","toNode":"nas","color":"2","fromSide":"bottom","toSide":"top"},
+		{"id":"vau-lua-34","fromNode":"vau","toNode":"lua","label":"dia 14","color":"2","fromSide":"left","toSide":"right"},
+		{"id":"jun-lag-35","fromNode":"jun","toNode":"lag","label":"badalo","color":"6","fromSide":"bottom","toSide":"top"},
+		{"id":"san-nas-36","fromNode":"san","toNode":"nas","label":"Âncora / 5ª lição","color":"6","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-cas-37","fromNode":"lag","toNode":"cas","label":"prova → Madre","color":"6","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-sal-38","fromNode":"lag","toNode":"sal","label":"se queimar: Cascas fogem","color":"6","fromSide":"bottom","toSide":"top"},
+		{"id":"sal-cas-39","fromNode":"sal","toNode":"cas","label":"livros da Mira","color":"6","fromSide":"left","toSide":"right"},
+		{"id":"mos-vau-40","fromNode":"mos","toNode":"vau","label":"selar o Berço","color":"6","fromSide":"top","toSide":"bottom"},
+		{"id":"jun-lua-41","fromNode":"jun","toNode":"lua","label":"Garça viva","color":"6","fromSide":"bottom","toSide":"top"},
+		{"id":"lag-lua-42","fromNode":"lag","toNode":"lua","label":"exército do Sétimo","color":"6","fromSide":"left","toSide":"right"},
+		{"id":"sal-nas-43","fromNode":"sal","toNode":"nas","label":"Cristalizados","color":"6","fromSide":"right","toSide":"left"},
+		{"id":"for-vau-44","fromNode":"for","toNode":"vau","label":"Holt busca o Aldric","color":"6","fromSide":"top","toSide":"bottom"},
+		{"id":"pon-nas-45","fromNode":"pon","toNode":"nas","label":"nome dado ao Bicho","color":"6","fromSide":"right","toSide":"left"},
+		{"id":"alt-nas-46","fromNode":"alt","toNode":"nas","label":"pacto com a Primeira","color":"6","fromSide":"bottom","toSide":"top"}
+	]
 }
