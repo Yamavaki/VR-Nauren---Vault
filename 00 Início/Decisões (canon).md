@@ -49,3 +49,8 @@ updated: 2026-11-07
 - [ ] Detalhes de [[Morte e Retorno]] (XP zerada ao cair de nível; os Nós não se perdem). *(Renascimento imediato: rejeitado; quem morre sai para calibrar.)*
 - [ ] Os outros nomes (Halden, Ostrel, Vharen, a Vigília, Vau-Cinzento…). *(Vharen, Inquilinos e Cascas já aprovados.)*
 - [ ] A **Madre Ilvane** como colaboradora cinza (não mais a vilã principal).
+- [ ] **A Fronteira de Orla** (mundo semiaberto, níveis 2 → 10, 3 fases, 13 lugares + base): ver [[00 Guia da Região]]. XP de monstro = nível × 50 por PJ *(regra do mestre, já decidida)*.
+- [ ] NPCs novos: **Velho Orvo**, **Capitão Edrik Holt** (executou o "Dain"), **Mestre Ambrósio**, **Mira Sal-Amargo**, **Prioresa Odile**, **Dona Hester**, a **Andarilha** (semente opcional: a esposa do Souza).
+- [ ] **A Primeira**: a primeira dos seis Inquilinos, no corpo da Senescal de Pedra-Alta; sabe quem matou a Lady Isolde.
+- [ ] **Morrer além das Pedras Marcadas custa 2 níveis** (não 1).
+- [ ] **Sino-Mestre** pode selar o Berço de Vau-Cinzento (os PJs passam a renascer no Fortim) e expulsar um Inquilino de um corpo (custa quem toca).

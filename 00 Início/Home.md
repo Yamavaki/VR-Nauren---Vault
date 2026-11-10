@@ -21,6 +21,7 @@ updated: 2026-11-07
 | **05 Arcos** | [[O Semestre e a Expedição]] (top 3), [[Arco 1 - Hóspedes]], [[Bestiário - Arco 1]] |
 | **11 Foundry** | [[LEIA-ME]] (fichas JSON para importar) |
 | **06 Sessões** | [[Sessão 0 - Criação]], [[Episódio 1 - A Cerimônia e o Rio]] · **[[Episódio 1 - Cola do Mestre]]** (para narrar) · **[[Episódio 1 - Roteiro de Narração]]** (falas passo a passo) · **[[Arco 1 - Mundo Aberto]]** (Ep2–6, depois do Ep1) · **[[Episódio 2 - Roteiro de Narração]]** |
+| **12 Fronteira de Orla** | 🗺️ **[[Fronteira de Orla.canvas|Mapa da região (canvas)]]** · [[00 Guia da Região]] · [[Bestiário da Fronteira]] · lugares em `12 Fronteira de Orla/Lugares` (níveis 2 → 10) |
 | **07 Pistas e Segredos** | [[Pistas - Arco 1]], [[Escada de Revelações]] |
 | **08 Relógios** | [[Facções]] (as 12 facções + as metas dos jogadores), [[Relógios - Arco 1]] |
 | **09 Handouts** | o que os jogadores podem ler · **[[Guia do Calouro (jogadores)]]** (mandar antes da Sessão 0) |
