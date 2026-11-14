@@ -1,0 +1,1435 @@
+{
+ "pasta": "Episódio 2",
+ "documentos": [
+  {
+   "name": "Quadro de Missões · Zona 04",
+   "type": "armazenamento",
+   "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+   "system": {
+    "modo": "quadro",
+    "quadro": {
+     "estilo": "moderno",
+     "imagem": "",
+     "placa": "MISSÕES",
+     "letreiro": "ZONA 04 · A ORLA | EVENTO #01 ENCERRADO | CORTE MENSAL EM 28 DIAS",
+     "categorias": [
+      "Bloqueadas",
+      "Provas"
+     ]
+    },
+    "frase": "◇ TESSERA · Quadro de Missões · Escolha UMA missão antes da conexão.",
+    "semLimite": true,
+    "quemAbre": "todos",
+    "podePegar": true,
+    "podeGuardar": false
+   },
+   "items": [
+    {
+     "name": "Resgate · Veio-Fundo",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "7hg2rmsnlf",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Resgate",
+        "subtitulo": "Sincronia mínima 3 · ▲▲▢▢▢",
+        "retrato": "",
+        "nome": "Mineiros de Veio-Fundo",
+        "texto": "Quatro mineiros não voltaram da Mina do Veio-Tinto desde a noite do Festival das Lanternas. Encontro: Taverna O Candeeiro, Veio-Fundo (colinas do sul, meio dia a partir do Berço).",
+        "recompensa": "80 ƒ cada · 120 ƒ se limpar",
+        "recRotulo": "Paga",
+        "contratante": "Guilda dos Mineiros de Veio-Fundo",
+        "prazo": "o quanto antes",
+        "detalhes": [
+         {
+          "rot": "Desaparecidos",
+          "val": "Wenzel, Edda, Bartel, Nils"
+         },
+         {
+          "rot": "Pontos",
+          "val": "80 + 20 por mineiro vivo"
+         },
+         {
+          "rot": "Ambiente",
+          "val": "subterrâneo, sem luz"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#1d5bb5"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: 1ª luta: 3 Casca Errante. Desafio do Poço Partido. 2ª luta: 2 Casca Pigmentada + 2 Casca Errante. Chefe: Juntador de Fumo (bilhete da sereia).</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 4,
+        "y": 6,
+        "rot": -2,
+        "pino": "tacha",
+        "cat": "missoes"
+       }
+      }
+     }
+    },
+    {
+     "name": "Patrulha desaparecida · Posto do Espinheiro",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "sbllow0ar8",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Patrulha desaparecida",
+        "subtitulo": "Sincronia mínima 3 · ▲▲▢▢▢",
+        "retrato": "",
+        "nome": "Posto do Espinheiro",
+        "texto": "Seis soldados, em rota para a frente, não se apresentaram ao Posto do Espinheiro (Mata-Cerrada, oeste) após o Festival das Lanternas. Localizar e trazer os sobreviventes. Apresentar-se à Sargento Vass.",
+        "recompensa": "100 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Coroa de Ostrel · 3º Regimento de Fronteira",
+        "prazo": "o quanto antes",
+        "detalhes": [
+         {
+          "rot": "Patrulha",
+          "val": "Cabo Mattis e mais 5"
+         },
+         {
+          "rot": "Pontos",
+          "val": "100 + 20 por soldado vivo"
+         },
+         {
+          "rot": "Ambiente",
+          "val": "mata fechada, vale"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#2e7d32"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: 1ª luta: 3 Casca Errante. Desafio da Ravina. 2ª luta: 2 Casca Pigmentada + 2 Casca Errante. Chefe: Juntador de Cipó (bilhete da sereia).</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 30,
+        "y": 4,
+        "rot": 2,
+        "pino": "tacha",
+        "cat": "missoes"
+       }
+      }
+     }
+    },
+    {
+     "name": "🔒 Investigação · O Mosteiro não responde",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "fzt9pt4j4h",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Bloqueada",
+        "subtitulo": "🔒 Sincronia mínima 7 · a sua: 3",
+        "retrato": "",
+        "nome": "O Mosteiro não responde",
+        "texto": "O Mosteiro dos Sinos, a leste da Orla, parou de tocar há três noites. Os monges não descem.",
+        "recompensa": "150 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Ordem da Vigília",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Status",
+          "val": "Sincronia insuficiente"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#5a5f6b"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: O silêncio é o Velho Quieto.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 58,
+        "y": 4,
+        "rot": 3,
+        "pino": "tacha",
+        "cat": "Bloqueadas"
+       }
+      }
+     }
+    },
+    {
+     "name": "🔒 Caça · O pedágio da Ponte-Velha",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "pgp7vv58p8",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Bloqueada",
+        "subtitulo": "🔒 Sincronia mínima 8 · a sua: 3",
+        "retrato": "",
+        "nome": "O pedágio da Ponte-Velha",
+        "texto": "Uma criatura sob a Ponte-Velha cobra pela travessia. Três mercadores atravessaram e não lembram o próprio nome.",
+        "recompensa": "180 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Coroa de Ostrel",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Status",
+          "val": "Sincronia insuficiente"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#5a5f6b"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: O Bicho-da-Ponte cobra nomes.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 80,
+        "y": 8,
+        "rot": -3,
+        "pino": "tacha",
+        "cat": "Bloqueadas"
+       }
+      }
+     }
+    },
+    {
+     "name": "🔒 Defesa · Cerco ao Fortim de Orla",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "8vkahlmv8r",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Bloqueada",
+        "subtitulo": "🔒 Sincronia mínima 9 · a sua: 3",
+        "retrato": "",
+        "nome": "Cerco ao Fortim de Orla",
+        "texto": "Mortos andando em linha reta para o Fortim, vindos da vala atrás da muralha. Segurar até o amanhecer.",
+        "recompensa": "200 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Comandante Severa de Ostrel",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Status",
+          "val": "Sincronia insuficiente"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#5a5f6b"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: É a Cova dos Desertores indo atrás do Capitão Holt.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 58,
+        "y": 34,
+        "rot": -1,
+        "pino": "tacha",
+        "cat": "Bloqueadas"
+       }
+      }
+     }
+    },
+    {
+     "name": "🔒 Escolta · Comboio do Trigo",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "5ousw6xifq",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Bloqueada",
+        "subtitulo": "🔒 Sincronia mínima 12 · a sua: 3",
+        "retrato": "",
+        "nome": "Comboio do Trigo",
+        "texto": "Escoltar vinte carroças de trigo até a Marca de Ferro, na frente de guerra com Vharen. Contato com o inimigo esperado.",
+        "recompensa": "300 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Intendência do Exército de Ostrel",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Status",
+          "val": "Sincronia insuficiente"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#5a5f6b"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: A missão em que o Tomás perdeu uma carroça.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 80,
+        "y": 38,
+        "rot": 2,
+        "pino": "tacha",
+        "cat": "Bloqueadas"
+       }
+      }
+     }
+    },
+    {
+     "name": "🔒 Recuperação · Além das Pedras Marcadas",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "uswmk2n3va",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "missao",
+        "titulo": "Bloqueada",
+        "subtitulo": "🔒 Sincronia mínima 14 · a sua: 3",
+        "retrato": "",
+        "nome": "Além das Pedras Marcadas",
+        "texto": "Recuperar dados de sincronização de um avatar sem conexão há dois anos, além das Pedras Marcadas. Fora da cobertura dos Berços.",
+        "recompensa": "400 ƒ cada",
+        "recRotulo": "Paga",
+        "contratante": "Halden Systems (interno)",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Status",
+          "val": "Sincronia insuficiente"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#5a5f6b"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: O avatar é a Andarilha. A Halden quer os dados, não a pessoa.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 58,
+        "y": 64,
+        "rot": -2,
+        "pino": "tacha",
+        "cat": "Bloqueadas"
+       }
+      }
+     }
+    },
+    {
+     "name": "◆ Prova de Sincronia · Marco 3",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "mkrif95ymk",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "aviso",
+        "titulo": "◆ Prova de Sincronia",
+        "subtitulo": "designada ao Esquadrão Ômega (5º ano) · só observação",
+        "retrato": "",
+        "nome": "Marco 3 · A Travessia (16 → 17)",
+        "texto": "Acompanhar o Peregrino, um nativo da Orla, até a Nascente Quieta. Não interferir na escolha dele. Não desconectar até o fim. Permanecer até a água ficar parada. Tentativas: 2. Última: falha (desconexão voluntária).",
+        "recompensa": "",
+        "recRotulo": "",
+        "contratante": "Halden Systems",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "Recompensa",
+          "val": "Marco de Sincronia 3 · nível 17"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#b8922e"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: O Peregrino vai dar o próprio nome à água na Nascente Quieta (a porta dos Inquilinos). A Prova é ficar e ver. Parente da Prova da Vigília do Tomás. Os jogadores só olham.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 80,
+        "y": 66,
+        "rot": 1,
+        "pino": "fita",
+        "cat": "Provas"
+       }
+      }
+     }
+    },
+    {
+     "name": "Evento de Liga #01 · Recompensa",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "wqqbi1dllu",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "recompensa",
+        "titulo": "Evento de Liga #01",
+        "subtitulo": "",
+        "retrato": "",
+        "nome": "Festival das Lanternas · encerrado",
+        "texto": "Recompensa creditada a todos os esquadrões participantes.",
+        "recompensa": "50 ƒ por membro",
+        "recRotulo": "",
+        "contratante": "Halden Systems · Aster University",
+        "prazo": "",
+        "detalhes": [],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#1c8a2e"
+       }
+      },
+      "descricao": ""
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 4,
+        "y": 62,
+        "rot": -3,
+        "pino": "tacha",
+        "cat": "recompensas"
+       }
+      }
+     }
+    },
+    {
+     "name": "Aviso · Corte mensal",
+     "type": "consumivel",
+     "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+     "system": {
+      "categoria": "escrito",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "escrito": {
+       "era": "moderno",
+       "formato": "cartaz",
+       "papel": "a4",
+       "fonte": "sans",
+       "tinta": "",
+       "tamanho": 100,
+       "efeitos": {
+        "varredura": false,
+        "falha": false,
+        "digitacao": false
+       },
+       "capa": {
+        "cor": "#2d3a5a",
+        "detalhe": "#e6e7ee",
+        "titulo": "",
+        "subtitulo": ""
+       },
+       "lacre": {
+        "ativo": false,
+        "cor": "#8c1c1c",
+        "simbolo": "",
+        "rompido": false
+       },
+       "quemEscreve": "mestre",
+       "lerNoBau": true,
+       "gastaAoUsar": false,
+       "som": "",
+       "paginas": [
+        {
+         "id": "17z7gf2huj",
+         "nome": "",
+         "tipo": "texto",
+         "texto": "",
+         "src": "",
+         "legenda": ""
+        }
+       ],
+       "mensagens": {
+        "contato": "",
+        "status": "",
+        "foto": "",
+        "tema": "claro",
+        "aosPoucos": false,
+        "reveladas": 0,
+        "digitando": true,
+        "som": "sounds/notify.wav",
+        "lista": []
+       },
+       "terminal": {
+        "caminho": "",
+        "comando": "",
+        "cripto": {
+         "ativo": false,
+         "dica": "",
+         "tentativas": 0,
+         "avisarMestre": true,
+         "versao": 0,
+         "sal": "",
+         "verif": "",
+         "dados": ""
+        }
+       },
+       "cartaz": {
+        "tipo": "aviso",
+        "titulo": "Corte mensal",
+        "subtitulo": "",
+        "retrato": "",
+        "nome": "Os 5 últimos do Placar",
+        "texto": "Os cinco últimos esquadrões do Placar no fim do mês perdem metade das horas de Berço no mês seguinte. Bolsistas: revisão de elegibilidade. Lembrete: entidades em estado ocioso não contam como NPCs protegidos.",
+        "recompensa": "",
+        "recRotulo": "",
+        "contratante": "Coordenação TESSERA",
+        "prazo": "",
+        "detalhes": [
+         {
+          "rot": "D-4 hoje",
+          "val": "20º de 22"
+         }
+        ],
+        "ameaca": 0,
+        "codigo": "",
+        "cor": "#2b2b33"
+       }
+      },
+      "descricao": "<section class=\"secret\"><p>Mestre: A linha das 'entidades em estado ocioso' é a pista: as Cascas não contam.</p></section>"
+     },
+     "flags": {
+      "nauren": {
+       "quadro": {
+        "x": 30,
+        "y": 60,
+        "rot": 2,
+        "pino": "tacha",
+        "cat": "avisos"
+       }
+      }
+     }
+    }
+   ],
+   "pasta": "Episódio 2"
+  },
+  {
+   "name": "Intendência da Aster",
+   "type": "armazenamento",
+   "img": "icons/environment/settlement/market-stall.webp",
+   "system": {
+    "modo": "loja",
+    "moeda": "Florins",
+    "ajustePreco": 100,
+    "compraDeVolta": true,
+    "pagaPercent": 50,
+    "caixaSemLimite": true,
+    "semLimite": true,
+    "frase": "Aqui só entra dinheiro de lá. Itens entregues no baú do seu Berço na próxima conexão.",
+    "quemAbre": "todos",
+    "podePegar": true,
+    "podeGuardar": true
+   },
+   "items": [
+    {
+     "name": "Poção de Cura",
+     "type": "consumivel",
+     "img": "icons/consumables/potions/bottle-corked-red.webp",
+     "system": {
+      "categoria": "consumivel",
+      "quantidade": 1,
+      "quantidadeMax": 99,
+      "efeito": "",
+      "equipado": false,
+      "prioridadeIndicador": "PA",
+      "acoes": [
+       {
+        "nome": "Beber / dar a poção",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "curas": [
+         {
+          "formula": "2d6",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ],
+      "descricao": "<p>Recupera 2d6 de Vida.</p><p><b>Automático:</b> marque você ou um aliado a até 1m e use: cura e gasta 1.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 50,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Sais de Despertar",
+     "type": "consumivel",
+     "img": "icons/commodities/materials/powder-grey.webp",
+     "system": {
+      "categoria": "consumivel",
+      "quantidade": 1,
+      "quantidadeMax": 99,
+      "efeito": "",
+      "equipado": false,
+      "prioridadeIndicador": "PA",
+      "acoes": [
+       {
+        "nome": "Cheirar os sais",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "modoAlvo": "selecionado",
+        "modoAlvoTravado": true,
+        "efeitosNoAlvo": [
+         {
+          "tipo": "removerAcumulos",
+          "formula": "1d4"
+         }
+        ]
+       }
+      ],
+      "descricao": "<p>Remove 1d4 acúmulos de uma condição negativa.</p><p><b>Automático:</b> marque o alvo a até 1m e use.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 30,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Chá de Hortelã-Brava",
+     "type": "consumivel",
+     "img": "icons/consumables/drinks/tea-jug-gourd-brown.webp",
+     "system": {
+      "categoria": "consumivel",
+      "quantidade": 1,
+      "quantidadeMax": 99,
+      "efeito": "",
+      "equipado": false,
+      "acoes": [
+       {
+        "nome": "Beber o chá",
+        "custoEstamina": 0,
+        "alcance": "pessoal",
+        "modoAlvo": "nenhum",
+        "efeitosEmMim": [
+         {
+          "tipo": "recurso",
+          "recurso": "estresse",
+          "formula": "-1",
+          "rotulo": "Chá de Hortelã-Brava"
+         }
+        ]
+       }
+      ],
+      "descricao": "<p>Só fora de combate. Remove 1 de Estresse.</p><p><b>Automático:</b> use: tira 1 de Estresse de quem bebeu.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 40,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Tocha",
+     "type": "consumivel",
+     "img": "icons/sundries/lights/torch-brown-lit.webp",
+     "system": {
+      "categoria": "utensilio",
+      "quantidade": 3,
+      "quantidadeMax": 3,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Equipe para iluminar: 4 m de luz e 4 m de penumbra. Dura uma cena. O Juntador apaga.</p>",
+      "luzVisao": {
+       "luz": {
+        "ativa": true,
+        "quando": "equipado",
+        "acesa": true,
+        "bright": 4,
+        "dim": 8,
+        "color": "#ff9c3a",
+        "alpha": 0.4,
+        "angle": 360,
+        "animation": {
+         "type": "torch",
+         "speed": 5,
+         "intensity": 5,
+         "reverse": false
+        }
+       }
+      }
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 1,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Lanterna e óleo",
+     "type": "consumivel",
+     "img": "icons/sundries/lights/lantern-iron-lit-yellow.webp",
+     "system": {
+      "categoria": "utensilio",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Luz por uma noite. Não apaga com vento (nem com a ação de covil do Juntador).</p>",
+      "luzVisao": {
+       "luz": {
+        "ativa": true,
+        "quando": "equipado",
+        "acesa": true,
+        "bright": 6,
+        "dim": 10,
+        "color": "#ffd27a",
+        "alpha": 0.35,
+        "angle": 360,
+        "animation": {
+         "type": "torch",
+         "speed": 2,
+         "intensity": 2,
+         "reverse": false
+        }
+       }
+      }
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 3,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Corda (15 m)",
+     "type": "consumivel",
+     "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+     "system": {
+      "categoria": "utensilio",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Quinze metros de corda forte.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 2,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Gancho de escalada",
+     "type": "consumivel",
+     "img": "icons/tools/fishing/hook-barbed-steel-blue.webp",
+     "system": {
+      "categoria": "utensilio",
+      "quantidade": 1,
+      "quantidadeMax": 1,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Com a corda: Facilidade para subir ou atravessar.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 5,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Ração (7 dias)",
+     "type": "consumivel",
+     "img": "icons/consumables/food/bread-toast-tan.webp",
+     "system": {
+      "categoria": "consumivel",
+      "quantidade": 1,
+      "quantidadeMax": 99,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Comida para uma semana.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 5,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    },
+    {
+     "name": "Frasco vazio",
+     "type": "consumivel",
+     "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+     "system": {
+      "categoria": "consumivel",
+      "quantidade": 1,
+      "quantidadeMax": 99,
+      "efeito": "",
+      "equipado": false,
+      "descricao": "<p>Para guardar amostras. O Inventor faz poções nele.</p>"
+     },
+     "flags": {
+      "nauren": {
+       "armazem": {
+        "preco": 1,
+        "estoque": -1,
+        "oculto": false
+       }
+      }
+     }
+    }
+   ],
+   "pasta": "Episódio 2"
+  }
+ ]
+}

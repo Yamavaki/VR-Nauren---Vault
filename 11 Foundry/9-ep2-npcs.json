@@ -1,0 +1,1086 @@
+{
+ "pasta": "Episódio 2 · NPCs",
+ "documentos": [
+  {
+   "name": "Greta",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~45 anos, taverneira do Candeeiro. Braços fortes, avental sujo de carvão. Esposa do capataz Wenzel.</p><p><b>Como age:</b> Fala rápido para não chorar; seca o mesmo copo várias vezes. Frase: \"Quatro. O meu Wenzel, a Edda, o Bartel e o menino Nils.\"</p><p><b>Testes:</b> Acalmá-la: Destino contra 12. Ela não mente.</p><p><b>Para o Mestre:</b> Se o Wenzel voltar: bebida de graça para sempre. Se alguém não voltar: acende mais uma lanterna no teto.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Concha de Ferro",
+     "type": "arma",
+     "img": "icons/tools/cooking/bowl-steaming-brown.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma leve: 1d4 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Concha de Ferro",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d4+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "louros",
+    "paleta": "bronze",
+    "efeitos": [
+     {
+      "tipo": "respirar",
+      "vel": 1,
+      "int": 25
+     }
+    ],
+    "esmalte": "#2a1a10"
+   }
+  },
+  {
+   "name": "Velho Konrad",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 1
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 4
+     },
+     "destino": {
+      "value": 5
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 10,
+     "max": 10
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 6,
+     "max": 6
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~70 anos, ex-mineiro sem a mão esquerda. Cachimbo apagado na boca. Conhece a Mina do Veio-Tinto de olhos fechados.</p><p><b>Como age:</b> Fala pouco, do canto, sem tirar o cachimbo. Frase: \"Não é desabamento. Desabamento a gente ouve. Isso foi silêncio.\"</p><p><b>Testes:</b> Nenhum: ele conta o que sabe para quem perguntar com respeito.</p><p><b>Para o Mestre:</b> Dá o mapa da mina riscado no balcão e a lanterna de mineiro. Sabe a 1ª estrofe da Cantiga da Maré (só se perguntarem de mar, sereia ou cantigas velhas).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Conhece a Mina",
+     "type": "habilidade",
+     "img": "icons/tools/navigation/map-chart-tan.webp",
+     "system": {
+      "ativo": true,
+      "descricao": "<p>Narrativo. Sabe o caminho de cada galeria: Galeria dos Trilhos, Poço Partido, Salão do Veio e o Ossário.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "trigo",
+    "paleta": "bronze",
+    "efeitos": [],
+    "esmalte": "#1e1a14"
+   }
+  },
+  {
+   "name": "Wenzel",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 10,
+     "max": 10
+    },
+    "mana": {
+     "value": 5,
+     "max": 5
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~50 anos, capataz da mina, barba grisalha, braço enfaixado. Marido da Greta. Preso no Refúgio, atrás do Poço Partido.</p><p><b>Como age:</b> Firme, desconfiado no começo (\"fala o turno!\"), aliviado depois. Frase: \"A gente quebrou a ponte. Tivemos que quebrar.\"</p><p><b>Testes:</b> Convencê-lo de que vocês são vivos: qualquer fala de gente de verdade (as Cascas só repetem).</p><p><b>Para o Mestre:</b> Conta do Juntador: \"Osso e fumaça. Ela pega os mortos e empilha.\" Se o grupo descer, ele espera na Galeria.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Picareta",
+     "type": "arma",
+     "img": "icons/tools/hand/pick-simple-wood.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Picareta",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Edda",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 6,
+     "max": 6
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~30 anos, mineira, cabelo curto, a mais calma dos presos.</p><p><b>Como age:</b> Prática, fala o essencial. Frase: \"Ela apaga as tochas. Primeiro ela apaga as tochas.\"</p><p><b>Testes:</b> Ajuda no desafio da ponte (dá Facilidade a um teste de Inteligência).</p><p><b>Para o Mestre:</b> Fica de guarda na Galeria, com uma arma, se o grupo descer ao Ossário.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Branco (Espírito)",
+     "type": "cor",
+     "img": "icons/commodities/gems/powder-raw-white.webp",
+     "system": {
+      "corHex": "#e8e4d8",
+      "espirito": "1",
+      "descricao": "<p>Branco: pureza e ordem. +1 em Espírito.</p>"
+     }
+    },
+    {
+     "name": "Pá",
+     "type": "arma",
+     "img": "icons/tools/hand/shovel-hand.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média improvisada: 1d6.</p>",
+      "acoes": [
+       {
+        "nome": "Pá",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "cobre",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Bartel",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 5
+     },
+     "agilidade": {
+      "value": 1
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 5,
+     "max": 5
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~40 anos, mineiro grande, perna quebrada. Não anda sozinho.</p><p><b>Como age:</b> Envergonhado de dar trabalho; faz piada ruim de dor. Frase: \"Me deixa por último. Eu peso que nem vagonete.\"</p><p><b>Testes:</b> Carregá-lo na travessia: Força contra 12 (15 com pressa).</p><p><b>Para o Mestre:</b> Com 3 falhas no desafio, é ele quem cai (ver o roteiro).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "bronze",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Nils",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 2
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 4
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 2,
+     "max": 2
+    },
+    "dadosDestino": {
+     "value": 5,
+     "max": 5
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~17 anos, o mais novo dos mineiros, com febre. Agarrado a um cristal azul da mina.</p><p><b>Como age:</b> Delira, não quer soltar a pedra. Frase: \"Ela brilha quando eles chegam perto.\"</p><p><b>Testes:</b> Acalmá-lo para atravessar: Destino contra 12.</p><p><b>Para o Mestre:</b> O cristal dele brilha quando há Cascas Pigmentadas por perto (um aviso para os PJs).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Dourado",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-gold.webp",
+     "system": {
+      "corHex": "#cca162",
+      "destino": "1",
+      "descricao": "<p>Dourado: Destino e Sagrado. +1 de Destino.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Veio-Fundo",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "arcano",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Sargento Dorota Vass",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 12,
+     "max": 12
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~55 anos, comandante do Posto do Espinheiro. Cabelo grisalho trançado, uma perna mais curta, voz de quem gritou a vida toda.</p><p><b>Como age:</b> Direta, conta os rostos quando o grupo volta. Frase: \"Seis homens meus. Nenhum voltou.\"</p><p><b>Testes:</b> Convencê-la a mandar alguém junto: Destino contra 15 (ela não pode).</p><p><b>Para o Mestre:</b> Dá a lanterna de campanha e o apito do regimento (dois apitos = resposta dos soldados). Diz os nomes dos mortos em voz alta ao receber as plaquinhas.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Espada Curta",
+     "type": "arma",
+     "img": "icons/weapons/swords/shortsword-broad-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Espada Curta",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    },
+    {
+     "name": "Cota do Regimento",
+     "type": "armadura",
+     "img": "icons/equipment/chest/breastplate-banded-blue.webp",
+     "system": {
+      "defesaBonus": 6,
+      "tipo": "Malha",
+      "equipado": true,
+      "descricao": "<p>Malha: +6 de Defesa.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Posto do Espinheiro",
+   "borda": {
+    "modelo": "aro-duplo",
+    "paleta": "prata",
+    "efeitos": [],
+    "esmalte": "#1d2a44"
+   }
+  },
+  {
+   "name": "Recruta Fennick",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 2
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 2,
+     "max": 2
+    },
+    "mana": {
+     "value": 7,
+     "max": 7
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~18 anos, recruta magro e assustado, rói a unha. Foi o último a ver a patrulha, da torre de vigia.</p><p><b>Como age:</b> Fala antes de perguntarem. Frase: \"O mato andou. Eu juro. O mato do vale andou.\"</p><p><b>Testes:</b> Nenhum: ele conta tudo. Acreditar nele é outra história.</p><p><b>Para o Mestre:</b> Sabe a 1ª estrofe da Cantiga da Maré (\"minha avó cantava\"). Só se perguntarem de mar, sereia ou cantigas velhas.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Azul",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-blue.webp",
+     "system": {
+      "corHex": "#4b7fc2",
+      "espirito": "2",
+      "descricao": "<p>Azul: calma e magia. +2 de Espírito.</p>"
+     }
+    },
+    {
+     "name": "Lança",
+     "type": "arma",
+     "img": "icons/weapons/polearms/spear-barbed-silver.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6, alcance 2m.</p>",
+      "acoes": [
+       {
+        "nome": "Lança",
+        "custoEstamina": 1,
+        "alcance": "2m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Posto do Espinheiro",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "prata",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Cabo Mattis",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 3,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 4
+     },
+     "agilidade": {
+      "value": 3
+     },
+     "estamina": {
+      "value": 4
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 15,
+     "max": 15
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 4,
+     "max": 4
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~35 anos, líder da patrulha. Ombro enfaixado com a própria capa. Preso na Torre Velha, do outro lado da ravina.</p><p><b>Como age:</b> Voz firme, pede senha antes de abrir. Frase: \"A gente cortou a ponte. Tivemos que cortar.\"</p><p><b>Testes:</b> Convencê-lo de que vocês são vivos: qualquer pergunta de gente de verdade (as Cascas não perguntam).</p><p><b>Para o Mestre:</b> Conta do Juntador: \"Cipó e osso. Uma coisa vermelha no peito que acende.\"</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Espada",
+     "type": "arma",
+     "img": "icons/weapons/swords/sword-guard-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma média: 1d6 + Poder de Ataque.</p>",
+      "acoes": [
+       {
+        "nome": "Espada",
+        "custoEstamina": 1,
+        "alcance": "1m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "corpoACorpo",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Posto do Espinheiro",
+   "borda": {
+    "modelo": "aro-duplo",
+    "paleta": "prata",
+    "efeitos": [],
+    "esmalte": "#1d2a44"
+   }
+  },
+  {
+   "name": "Ylva",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 2,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 4
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 3
+     },
+     "destino": {
+      "value": 3
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 6,
+     "max": 6
+    },
+    "mana": {
+     "value": 6,
+     "max": 6
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 3,
+     "max": 3
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~25 anos, soldada ruiva, besta sem flechas. Presa na Torre Velha.</p><p><b>Como age:</b> Seca, observadora. Frase: \"Ela some. Vira mato. Você olha e é só mato.\"</p><p><b>Testes:</b> Com flechas dos PJs, ajuda na luta como atiradora.</p><p><b>Para o Mestre:</b> Fica de guarda na Torre se o grupo descer ao vale.</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Rosa",
+     "type": "cor",
+     "img": "icons/commodities/materials/bowl-powder-pink.webp",
+     "system": {
+      "corHex": "#e88fc2",
+      "movimento": "1",
+      "descricao": "<p>Rosa: sentimentalismo e inocência. +1 de Movimento.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Vermelho (Poder de Ataque)",
+     "type": "cor",
+     "img": "icons/tools/laboratory/bowl-powder-red.webp",
+     "system": {
+      "corHex": "#c24b4b",
+      "poderAtaque": "1",
+      "descricao": "<p>Vermelho: força e agressividade. +1 em Poder de Ataque.</p>"
+     }
+    },
+    {
+     "name": "Besta",
+     "type": "arma",
+     "img": "icons/weapons/crossbows/crossbow-blue.webp",
+     "system": {
+      "equipado": true,
+      "descricao": "<p>Arma à distância: 1d6, 9m. Sem virotes até alguém dar.</p>",
+      "acoes": [
+       {
+        "nome": "Virote",
+        "custoEstamina": 1,
+        "alcance": "9m",
+        "ehAtaque": true,
+        "atributoAtaque": "poderAtaque",
+        "modoAlvo": "selecionado",
+        "tipoAlcance": "distancia",
+        "danos": [
+         {
+          "formula": "1d6+@poderAtaque",
+          "aplicarNoAlvo": true
+         }
+        ]
+       }
+      ]
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Posto do Espinheiro",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "prata",
+    "efeitos": []
+   }
+  },
+  {
+   "name": "Oskar",
+   "type": "npc",
+   "img": "icons/environment/people/commoner.webp",
+   "system": {
+    "nivel": 1,
+    "xp": 0,
+    "classe": "",
+    "atributos": {
+     "forca": {
+      "value": 3
+     },
+     "agilidade": {
+      "value": 2
+     },
+     "estamina": {
+      "value": 3
+     },
+     "inteligencia": {
+      "value": 2
+     },
+     "destino": {
+      "value": 2
+     }
+    },
+    "defesa": 10,
+    "movimento": 6,
+    "vida": {
+     "value": 4,
+     "max": 4
+    },
+    "mana": {
+     "value": 4,
+     "max": 4
+    },
+    "estaminaCombate": {
+     "value": 3,
+     "max": 3
+    },
+    "dadosDestino": {
+     "value": 2,
+     "max": 2
+    },
+    "categoriaMonstro": 1,
+    "notas": "<p><b>Quem é:</b> ~20 anos, soldado com uma flecha no joelho e febre. Não anda sozinho.</p><p><b>Como age:</b> Delira, chama a mãe. Frase: \"Não deixa ele me pegar. Não deixa.\"</p><p><b>Testes:</b> Acalmá-lo para atravessar: Destino contra 12. Carregá-lo: Força contra 12.</p><p><b>Para o Mestre:</b> Com 3 falhas no desafio, é ele quem cai (ver o roteiro).</p>"
+   },
+   "items": [
+    {
+     "name": "Pigmento Verde",
+     "type": "cor",
+     "img": "icons/tools/laboratory/mortar-powder-green.webp",
+     "system": {
+      "corHex": "#4bc26f",
+      "vitalidade": "1",
+      "descricao": "<p>Verde: vitalidade e crescimento. +1 de Vitalidade.</p>"
+     }
+    },
+    {
+     "name": "Pigmento Preto",
+     "type": "cor",
+     "img": "icons/commodities/materials/powder-black.webp",
+     "system": {
+      "corHex": "#2a2a2a",
+      "estresse": "1",
+      "descricao": "<p>Preto: resiliência e mistério. +1 no limite de Estresse.</p>"
+     }
+    }
+   ],
+   "prototypeToken": {
+    "actorLink": true,
+    "disposition": 1
+   },
+   "pasta": "Episódio 2 · Posto do Espinheiro",
+   "borda": {
+    "modelo": "aro-liso",
+    "paleta": "prata",
+    "efeitos": []
+   }
+  }
+ ]
+}

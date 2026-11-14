@@ -36,7 +36,7 @@ updated: 2026-11-14
 
 **Anote durante o jogo:** o que perguntaram na cafeteria · o que compraram · qual missão · quantos NPCs trouxeram vivos · se mataram o Juntador · se acharam o bilhete e a primeira estrofe da cantiga.
 
-**Fichas no Foundry** (`11 Foundry/7-episodio-2.json`): **Casca Errante** ×5 · **Casca Pigmentada** ×2 · **Juntador de Fumo** (missão da mina) **ou** **Juntador de Cipó** (missão da floresta).
+**Fichas no Foundry:** `9-ep2-npcs.json` (os NPCs novos) · `10-ep2-quadro-e-intendencia.json` (o Quadro de Missões e a Intendência, prontos) · `7-episodio-2.json` (inimigos): **Casca Errante** ×5 · **Casca Pigmentada** ×2 · **Juntador de Fumo** (missão da mina) **ou** **Juntador de Cipó** (missão da floresta).
 
 ---
 
@@ -226,7 +226,7 @@ updated: 2026-11-14
 > Veio-Fundo é uma vila de pedra preta encostada na colina, com montes de rocha moída na entrada e trilhos de vagonete que não levam a lugar nenhum. Todas as chaminés fumam, menos a da casa do capataz.
 > A Taverna O Candeeiro tem cheiro de cerveja escura e lã molhada. Lanternas de mineiro penduradas no teto, todas apagadas, uma para cada homem que não voltou. Atrás do balcão, uma mulher seca o mesmo copo pela terceira vez.
 
-🗣️ **Greta:** *"Vocês são os Jurados da Guilda? Graças."* · *"Quatro. O meu Wenzel, a Ilse, o Bartel e o menino Pim. Desceram na noite do Festival para terminar um turno. Ninguém subiu."* · *"Na mesma noite, uns da vila ficaram… esquisitos. Sorrindo. Andaram para a mina sozinhos. Também não voltaram."*
+🗣️ **Greta:** *"Vocês são os Jurados da Guilda? Graças."* · *"Quatro. O meu Wenzel, a Edda, o Bartel e o menino Nils. Desceram na noite do Festival para terminar um turno. Ninguém subiu."* · *"Na mesma noite, uns da vila ficaram… esquisitos. Sorrindo. Andaram para a mina sozinhos. Também não voltaram."*
 
 🗣️ **Konrad** (do canto, sem tirar o cachimbo): *"Não é desabamento. Desabamento a gente ouve. Isso foi silêncio."*
 
@@ -269,7 +269,7 @@ updated: 2026-11-14
 🎲 Se responderem com **qualquer coisa que um ser humano diria** (medo, piada, pergunta), ele acredita. As Cascas só repetem.
 
 🗣️ **Wenzel:** *"A gente quebrou a ponte. Tivemos que quebrar. Eles vinham do fundo, os nossos, sorrindo, com as picaretas. A gente quebrou e trancou a porta. Agora a gente não sai."*
-🗣️ **Ilse** (mineira, ~30 anos, cabelo curto, a única calma): *"O Bartel quebrou a perna. O Pim tá com febre. Não dá para pular."*
+🗣️ **Edda** (mineira, ~30 anos, cabelo curto, a única calma): *"O Bartel quebrou a perna. O Nils tá com febre. Não dá para pular."*
 
 **🎲 O DESAFIO: tirar os quatro do outro lado**
 **Objetivo:** **4 sucessos antes de 3 falhas.** Cada PJ diz o que faz; cada ação é um teste (1d20 + atributo, **dificuldade 12**; **15** se a ideia for arriscada). Uma ideia **muito boa** é sucesso automático (e conta como solução criativa).
@@ -279,23 +279,23 @@ updated: 2026-11-14
 | Atravessar pendurado na viga | Força | um PJ chega do outro lado para ajudar |
 | Empurrar o vagonete até a beira e usar como base para tábuas | Inteligência | meia ponte de volta |
 | Pregar as tábuas soltas de novo | Inteligência / Força | a passarela aguenta uma pessoa por vez |
-| Acalmar o Pim, que está com febre e não quer soltar a pedra | Destino | o Pim atravessa sem travar |
+| Acalmar o Nils, que está com febre e não quer soltar a pedra | Destino | o Nils atravessa sem travar |
 | Carregar o Bartel nas costas | Força | o mais difícil sai |
 
 **Cada falha (escolha uma):**
 - uma tábua cai: o PJ que estava na passarela sofre **1d6** de dano e volta para o lado de cá;
 - o barulho ecoa: **lá do fundo, algo responde** (um bater de asas). Na luta 2, as Cascas Pigmentadas chegam **já em posição**;
-- o Pim entra em pânico e solta a corda (o próximo teste com ele tem Dificuldade).
+- o Nils entra em pânico e solta a corda (o próximo teste com ele tem Dificuldade).
 **3 falhas:** eles conseguem tirar todos, mas o **Bartel cai** e só um PJ que pague **2 de Estamina** e passe num teste de Agilidade **15** o segura. Se ninguém conseguir, ele morre na queda (e é um NPC a menos no Placar).
 
 🎲 **Quando todos estiverem do lado de cá**, o Wenzel conta da criatura:
 🗣️ **Wenzel:** *"Tem uma coisa lá no fundo. No Ossário. Grande. Osso e fumaça. Tem asa, mas não tem pele. Ela pega os mortos e leva para lá. Empilha. A gente ouviu ela arrumando a pilha a noite inteira. Arrumando, como quem arruma a casa."*
-🗣️ **Ilse:** *"Ela apaga as tochas. Primeiro ela apaga as tochas."*
+🗣️ **Edda:** *"Ela apaga as tochas. Primeiro ela apaga as tochas."*
 🗣️ **Wenzel:** *"A gente vai embora com vocês. Se vocês quiserem descer lá… é com vocês. A Guilda paga se a mina voltar a ser nossa."*
 
 🎲 **A ESCOLHA:**
 - **Levar os mineiros embora:** a luta 2 acontece **no caminho de volta** (as Cascas Pigmentadas subiram do Salão do Veio atrás do barulho e estão na Galeria dos Trilhos). Depois, saída. Sem chefe.
-- **Descer para o Ossário:** os mineiros esperam na Galeria (a Ilse fica com uma arma). A luta 2 é no **Salão do Veio**, no caminho. Depois, o **Juntador**.
+- **Descer para o Ossário:** os mineiros esperam na Galeria (a Edda fica com uma arma). A luta 2 é no **Salão do Veio**, no caminho. Depois, o **Juntador**.
 
 ### A4 · As Cascas Pigmentadas: a segunda luta (25 min)
 📖
@@ -317,7 +317,7 @@ updated: 2026-11-14
 
 🎲 **Chefe:** **Juntador de Fumo** (nível 5, Categoria 2, **Chefe**, **250 XP**). Ficha no fim.
 🎲 **Como ele luta:** gruda caveiras em quem está longe, derruba com as asas quem chega perto, some na fumaça, corta a caverna com uma parede de fumaça e, **uma vez, no início de uma rodada (2ª ou 3ª), apaga as quatro tochas.** No escuro só os cristais distantes brilham.
-🎲 **O que ajuda os PJs:** a lanterna do Konrad (não apaga), a dica da Ilse ("primeiro ela apaga as tochas"), o **núcleo violeta** entre as costelas (Ponto Fraco 3).
+🎲 **O que ajuda os PJs:** a lanterna do Konrad (não apaga), a dica da Edda ("primeiro ela apaga as tochas"), o **núcleo violeta** entre as costelas (Ponto Fraco 3).
 🔒 **Se o grupo estiver perdendo:** o Juntador **não persegue** pela rampa. Fugir é possível.
 
 📖 **Quando ele cai:**
