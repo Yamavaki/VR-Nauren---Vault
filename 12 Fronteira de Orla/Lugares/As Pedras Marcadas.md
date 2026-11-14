@@ -34,8 +34,8 @@ Uma fila de menires com um símbolo que os PJs **reconhecem**: o logo da Halden,
 | **[[Corvos-de-Cinza]]** (bandos grandes) | 2 | 100 por bando |
 | Frio, sem Berço, sem volta fácil | — | — |
 
-## O Nó 2 (do nível 8 para o 9)
-Um bom lugar para o Nó: **atravessar** e encarar o que a Halden esconde. Cada PJ, na Terra, tem uma conversa difícil sobre o que viu (com o Kell, com a família, consigo mesmo).
+## Uma cena forte (nível 8)
+Um bom lugar para: **atravessar** e encarar o que a Halden esconde. Cada PJ, na Terra, tem uma conversa difícil sobre o que viu (com o Kell, com a família, consigo mesmo).
 
 ## Escolhas → consequências
 - **Ajudar a Andarilha a lembrar o nome** (o Ambrósio, os Ecos, a Escola dos Nomes): ela volta a ter cor. 🔒 E na Terra, uma pessoa acorda de um coma de dois anos. **A Halden encobre.**

@@ -1,6 +1,6 @@
 ---
 type: house-rules
-status: decidido (Sincronia = nível; Nós no 4, 8, 12, 16 e 19; a Prova de Sincronia) 
+status: decidido (Sincronia = nível; Nós no 4, 11, 16 e 19; a Prova de Sincronia da Halden)
 updated: 2026-11-14
 ---
 
@@ -13,8 +13,8 @@ updated: 2026-11-14
 
 ## A Prova de Sincronia (decidido, 2026-11-14)
 **Como os jogadores veem (é regra, diga claramente):** o Merrow ensina no [[Episódio 2 - Roteiro de Narração|Ep2]].
-- Nos níveis **4, 8, 12, 16 e 19** o nível **trava**. A XP continua entrando, mas fica **guardada** (no máximo o suficiente para o próximo nível).
-- Quando alguém do esquadrão trava, a universidade publica uma **◆ Prova de Sincronia** no Quadro: uma **missão especial**, com marca dourada.
+- Nos níveis **4, 11, 16 e 19** o nível **trava** (mudado em 2026-11-14: eram 4, 8, 12, 16 e 19). A XP continua entrando, mas fica **guardada** (no máximo o suficiente para o próximo nível).
+- A Prova é **elaborada pela Halden**. Quando alguém do esquadrão trava, a universidade publica uma **◆ Prova de Sincronia** no Quadro: uma **missão especial**, com marca dourada.
 - A Prova é feita pelo **esquadrão inteiro**; só **sobe quem está travado** (os outros ganham a XP normal).
 - **Passou:** sobe **na hora**. No **5**, escolhe a **subclasse**.
 - **Falhou:** a Prova volta no episódio seguinte (outra tentativa). Ninguém é reprovado para sempre.
@@ -25,18 +25,20 @@ updated: 2026-11-14
 | Nó | Prova | Lugar | Por quê |
 |---|---|---|---|
 | 1º (4→5) | **A Prova da Chamada:** "recuperar o livro de chamada da Escola" | [[Colinas do Santuário]] (Escola dos Nomes) | o Mestre Ambrósio chama cada um pelo nome real; dá a Âncora do Nome antes da Noite Sem Lua |
-| 2º (8→9) | a decidir (sugestão: [[O Mosteiro dos Sinos]] ou [[A Mata dos Ecos]]) | | |
+| 2º (11→12) | **A Vigília:** proteger alguém de Amarant até o fim (e o fim chega); passar é ficar até o último minuto, sem desconectar | qualquer lugar | é a Prova em que o [[Tomás Arrieta|Tomás]] está travado há quatro meses |
+| 3º (16→17) e 4º (19→20) | a decidir | | |
 
-## Os cinco níveis travados (os Nós)
+## Os quatro níveis travados (os Nós)
 A Halden chama de **Marcos de Sincronia**. Os nativos chamam de **Nós**: a cada Nó, o Retornado fica mais **amarrado** a Amarant. "Ele deu o primeiro nó" quer dizer: agora ele pertence um pouco a este lugar. *(A Vigília vê isso de outro jeito: o Hóspede se amarrando no corpo.)*
 
 | Nó | Trava a passagem | Por que nesse nível |
 |---|---|---|
 | 1º | do **4 → 5** | o nível 5 é a **escolha de subclasse** no Nauren. A alma ganha forma. Fim do [[Arco 1 - Hóspedes]] / começo do Arco 2 |
-| 2º | do **8 → 9** | |
-| 3º | do **12 → 13** | |
-| 4º | do **16 → 17** | |
-| 5º | do **19 → 20** | a última. O ponto sem volta |
+| 2º | do **11 → 12** | |
+| 3º | do **16 → 17** | |
+| 4º | do **19 → 20** | a última. O ponto sem volta |
+
+**A loja da Intendência abre por Nó:** itens comuns no começo · incomuns depois do 1º · raros depois do 2º · muito raros depois do 3º · lendários depois do 4º.
 
 **XP no teto:** o personagem continua ganhando XP, mas ela fica guardada (no máximo o suficiente para o próximo nível). Quando ele dá o Nó, sobe **na hora**.
 > **Por que isso é bom na mesa:** o jogador vê a barra cheia e o nível parado. Ele **pergunta** por quê. Os veteranos dão respostas diferentes ("é bug", "tem que fazer uma raid", "não pergunta isso perto da Halden"). O teto vira mistério sem você dizer nada.

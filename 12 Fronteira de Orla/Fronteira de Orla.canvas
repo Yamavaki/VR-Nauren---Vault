@@ -17,7 +17,7 @@
 		{"id":"alt","type":"text","text":"## 🏚️ [[12 Fronteira de Orla/Lugares/Pedra-Alta|Pedra-Alta]]\n**Nv 8–9**","x":1900,"y":-300,"width":300,"height":130,"color":"1"},
 		{"id":"nas","type":"text","text":"## 🌊 [[12 Fronteira de Orla/Lugares/A Nascente Quieta|A Nascente Quieta]]\n**Nv 9–10 · FINAL**","x":1900,"y":500,"width":300,"height":130,"color":"1"},
 		{"id":"fer","type":"text","text":"## ⚔️ [[12 Fronteira de Orla/Lugares/A Marca de Ferro|A Marca de Ferro]]\n**Nv 12+ · gancho**","x":1900,"y":-700,"width":300,"height":130,"color":"5"},
-		{"id":"guia","type":"text","text":"# 🗺️ Fronteira de Orla\n[[12 Fronteira de Orla/00 Guia da Região|📖 Guia da Região]] · [[12 Fronteira de Orla/Bestiário da Fronteira|🐾 Bestiário]]\n\n**Linha cheia** = caminho\n**Seta laranja** = sugerido\n**Seta roxa** = consequência\n\nXP monstro = nível × 50 por PJ\nNós: 4→5 e 8→9","x":-1100,"y":-400,"width":420,"height":340},
+		{"id":"guia","type":"text","text":"# 🗺️ Fronteira de Orla\n[[12 Fronteira de Orla/00 Guia da Região|📖 Guia da Região]] · [[12 Fronteira de Orla/Bestiário da Fronteira|🐾 Bestiário]]\n\n**Linha cheia** = caminho\n**Seta laranja** = sugerido\n**Seta roxa** = consequência\n\nXP monstro = nível × 50 por PJ\nNós: 4→5 (e 11→12)","x":-1100,"y":-400,"width":420,"height":340},
 		{"id":"lua","type":"text","text":"## 🌑 Noite Sem Lua\n**dia 14 · Vau-Cinzento**\nO Sétimo vem atrás do Tiago.\nO tamanho da noite depende das escolhas na Fase I.\n**Nó 1 (4→5)**","x":-1100,"y":0,"width":420,"height":220,"color":"2"}
 	],
 	"edges":[

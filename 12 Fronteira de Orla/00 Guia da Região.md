@@ -30,7 +30,7 @@ updated: 2026-11-10
 |---|---|---|---|---|---|---|---|---|
 | XP para subir | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 |
 
-**Os Nós (níveis travados):** do **4 → 5** e do **8 → 9** só se sobe depois de um evento pessoal ([[Sincronia e Nós]]). A XP fica guardada até o Nó.
+**Os Nós (níveis travados):** do **4 → 5** (e depois do **11 → 12**, fora desta região) só se sobe passando na **Prova de Sincronia** da Halden ([[Sincronia e Nós]]). A XP fica guardada até o Nó.
 
 **Dificuldade (como ler o nível de um lugar):**
 - **Nível do lugar = nível do grupo:** desafiador, mas justo.
