@@ -20,7 +20,7 @@ A vila do vau, com o **sino no poste** da praça, o Berço no morro e a casa da 
 ## Quem está aqui
 - [[Tilde]] e [[Ansel]] (o irmão desertor, escondido no sótão) · [[Ottmar e Lisel]] · [[Sargento Brask]]
 - [[Sor Aldric Maren]], vivo, fraco, sem lembrar de nada desde que o Sétimo saiu dele
-- **Novo · Dona Hester**, a dona da estalagem *O Caneco Raso*: vende cama, comida e **boatos** (a tabela abaixo). Quer que os Retornados paguem em moeda de verdade, "não em cinza".
+- [[Hanne]], a dona da estalagem *O Ganso Torto*: vende cama, comida e **boatos** (a tabela abaixo). Mãe da Ada (a [[Irmã Vela]]).
 
 ## Perigos
 | Perigo | Nível | XP por PJ |
@@ -28,7 +28,7 @@ A vila do vau, com o **sino no poste** da praça, o Berço no morro e a casa da 
 | **[[A Égua da Soleira]]** (nas noites antes da Noite Sem Lua, bate nas portas cantando trovas e pede pousada) | 5 | 250 |
 | **[[Casca-Abraço]]** e Cascas (na Noite Sem Lua) | 1–2 | 50–100 |
 
-## Boatos do Caneco Raso (d8, um por visita)
+## Boatos do Ganso Torto (d8, um por visita, contados pela Hanne)
 1. "Em Lagoa-Mansa ninguém se zanga há anos. Nem quando o filho morre." → [[Lagoa-Mansa]]
 2. "Um velho cego pesca no lago parado. Muda de casa toda semana." → [[Lagoa-Mansa]] (o Orvo)
 3. "Tem um capitão novo no Fortim que enforca desertor sem julgamento." → [[Fortim de Orla]]

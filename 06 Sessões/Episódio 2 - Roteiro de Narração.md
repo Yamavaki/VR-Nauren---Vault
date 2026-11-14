@@ -4,7 +4,8 @@ sessao: 2
 titulo: A Manhã Depois
 versao: curta
 fonte: "[[Arco 1 - Mundo Aberto]]"
-updated: 2026-11-08
+regiao: "[[00 Guia da Região]]"
+updated: 2026-11-14
 ---
 
 # Episódio 2 · A Manhã Depois (roteiro de narração)
@@ -25,6 +26,8 @@ updated: 2026-11-08
 
 **Onde estamos:** dia 1 depois do Festival. **Faltam 13 dias para a Noite Sem Lua.**
 
+**O papel do episódio no mapa:** é o episódio que **abre a [[00 Guia da Região|Fronteira de Orla]]**. Os boatos da Hanne (cena 6), os contratos (cena 7) e o **mapa do Brask** (cena 9) mostram os lugares. No fim, os jogadores escolhem para onde vão no Ep3. Eles não precisam ir a nenhum lugar hoje.
+
 **Os PJs (D-4), nível 2, 200/300 XP:**
 | Jogador | Nota | Origem | O que quer |
 |---|---|---|---|
@@ -44,12 +47,16 @@ updated: 2026-11-08
 | Terra | **Pietra Lenz** | a colega brasileira que quer saber como eles expulsaram um "boss" |
 | Amarant | **Tilde** e **Ansel** | o irmão escondido; o pedido |
 | Amarant | **Sor Aldric** | acorda e fala aos pedaços (pistas) |
+| Amarant | **Hanne** | a estalagem; os boatos; pergunta da filha à Madre |
 | Amarant | **Sargento Brask** | o velório; o Quadro de contratos |
 | Amarant | **Madre Ilvane** | chega, cura e oferece o Repouso |
 
-**Regras da noite:** as mesmas do Ep1. **Morte:** sai da luta e perde 1 nível. **XP no fim:** roleplay de grupo 100 · descoberta importante 100 · contrato cumprido +50 · pedido da vila cumprido +50. Com 100 de XP eles chegam ao **nível 3**.
+**Regras da noite:** as mesmas do Ep1. **Morte:** sai da luta e perde 1 nível. **XP por monstro** (regra da mesa): nível × 50 por PJ. **XP no fim:** roleplay de grupo 100 · descoberta importante 100 · contrato cumprido +50 · pedido da vila cumprido +50. Com 100 de XP eles chegam ao **nível 3**.
 
-**Anote durante o jogo:** o que cada um fez no tempo livre · se esconderam o Ansel · quem aceitou ou recusou o Repouso · qual contrato pegaram · o que o Aldric contou.
+**Anote durante o jogo:** o que cada um fez no tempo livre · se esconderam o Ansel · quem aceitou ou recusou o Repouso · qual contrato pegaram · o que o Aldric contou · **para onde querem ir no Ep3**.
+
+**Fichas para deixar abertas no Foundry:** Desertor ×4 e Brando (`5-guardas-e-emergencia.json`) · Madre Ilvane, Hanne, Brask (`3-npcs-amarant.json`) · 2 × [[Irmã do Repouso]] e 3 × [[Lume do Juncal]] (`6-fronteira-de-orla.json`, só se forem ao Juncal à noite).
+**Handout:** [[Handout - Mapa da Fronteira]] (cena 9).
 
 ---
 
@@ -155,8 +162,10 @@ updated: 2026-11-08
 ---
 
 ## 6 · O Sor Aldric acorda (15 min)
-🎭 **Sor Aldric Maren**: o campeão de Ostrel, libertado. Magro, febril, olheiras fundas, numa cama no quarto de cima da estalagem, com as janelas fechadas. Segura o pulso da mão da espada o tempo todo.
+🎭 **Hanne**, a dona do Ganso Torto (50 anos, avental de farinha, voz alta), e o **Sor Aldric Maren**: o campeão de Ostrel, libertado. Magro, febril, olheiras fundas, numa cama no quarto de cima da estalagem, com as janelas fechadas. Segura o pulso da mão da espada o tempo todo.
 🔒 Ele lembra **pedaços** do que o Sétimo viu e quis. É a **melhor fonte de pistas** do arco. Não sabe que o Sétimo fugiu para o rio.
+
+🗣️ **Hanne** (no balcão, servindo caldo, antes de eles subirem): *"Sobe, sobe. Ele não come nada. Vê se vocês conseguem."* Se alguém ficar para conversar, ela conta **um boato** (role 1d8 na tabela do fim).
 
 📖
 > O quarto está escuro, com cheiro de vinagre e vela. O homem na cama é o mesmo rosto da armadura azul, mas menor. Quando vocês entram, ele tenta se levantar, como se fosse obrigado.
@@ -206,6 +215,8 @@ updated: 2026-11-08
 - *"Para quem perdeu alguém, para quem não consegue dormir, eu trouxe o Repouso. É só um chá. Tira a dor. Só isso."*
 - Aos PJs (ela os chama de **"meus hospedeiros"**, com carinho): *"Vocês, que voltam. Vocês também sentem dor? Não muito, não é? Que sorte. Eu queria isso para todos eles."*
 - Se um PJ estiver ferido: ela cura a mão dele e pergunta, sorrindo: *"Como você se chama, meu bem?"*
+- 🗣️ **Hanne** sai da fila, limpando as mãos no avental: *"Madre. A minha Ada. Faz três anos. Ela está bem?"* · **Madre** (segura o rosto dela): *"Ela está em paz, meu bem. Não sente falta de nada. Nem de você."* (a Madre diz isso como um presente)
+🔒 A Ada é a [[Irmã Vela]]. A Madre não está mentindo.
 
 📖
 > Metade da vila faz fila para o chá. A outra metade fica parada, olhando. Alguém, lá do fundo, toca o sino da porta de casa. Uma vez. Depois outra.
@@ -219,6 +230,12 @@ updated: 2026-11-08
 ## 9 · O fim da noite (5 min)
 📖
 > A carroça branca vai embora rio acima, devagar. Os que beberam o chá dormem na praça, sorrindo.
+> Antes de vocês subirem, o Brask chama. Abre na mesa um couro de cabra riscado com carvão.
+
+🗣️ **Brask:** *"Vocês vão ficar. Então precisam saber onde estão."*
+🎲 **Entregue o [[Handout - Mapa da Fronteira]]** e deixe os jogadores perguntarem. Ao fim: *"Amanhã vocês escolhem para onde ir."* Pergunte: **"Para onde vocês querem ir no próximo episódio?"** e anote.
+
+📖
 > Vocês sobem a colina para o Berço. A Tilde está lá com o Ansel, dividindo o pão.
 > Vocês se deitam nas pedras e fecham os olhos.
 
@@ -238,13 +255,29 @@ updated: 2026-11-08
 ## Se forem ao Juncal (contrato dos desertores, opcional)
 🎭 **Brando** (líder dos desertores, ex-cabo, barba por fazer, fala manso) e 4 desertores, num acampamento no brejo, com neblina e água no joelho. O Ansel **não** está lá (está no Berço com a Tilde), mas o Brando o conhece.
 🗣️ **Brando:** *"Vieram pela recompensa, Jurados? Somos só gente que não quer morrer numa guerra de príncipe. Abaixem isso e a gente conversa."*
+📖 *(se forem de noite)* Luzes azuis andam entre os juncos. Uma delas chama um de vocês pelo nome, com a voz de alguém da Terra. 🎲 São [[Lume do Juncal|Lumes]] (bando de 3, nível 2, 100 XP). Mais longe, um véu de noiva preso nos juncos ([[A Afogada do Juncal]]: só um sinal, não é para hoje).
+🗣️ **Brando**, se ficarem amigos: *"Não sigam as luzes. E não entrem no poço fundo atrás da ilha, mesmo se ouvirem uma moça gritando por socorro."*
+
 🎲 **Conversa resolve.** Se lutarem:
 | | Vida | Def | Est/rod | Faz |
 |---|---|---|---|---|
 | **Desertor** (×4) | 5 | 14 | 3 | espada 1d6+3; bloqueia sempre; **se rende com metade da Vida** |
 | **Brando** | 9 | 14 | 4 | espada 1d6+3; dá Prioridade aos desertores; oferece trégua se dois caírem |
 🗣️ Se pouparem: *"O Ansel disse que vocês eram diferentes. Tem uma rota pelo brejo até o litoral. Se precisarem, é de vocês."* (os Livres viram aliados)
+🎲 **XP (nível × 50):** Desertor nível 2 = 100 cada · Brando nível 3 = 150. **Atenção:** lutar até o fim contra todos dá **550 XP por PJ** (sobem para o nível 3 e ficam perto do 4). Sugestão: quem **se rende** também conta como derrotado (a XP é a mesma), para a mesa não ganhar mais por matar. Decida antes da sessão.
 🔒 Entregar os desertores dá **100 pts + 15 moedas por cabeça**. O Brando sabe onde o Ansel está e vai contar à Coroa para salvar a própria pele.
+
+---
+
+## Boatos do Ganso Torto (d8, a Hanne conta um por visita)
+1. *"Em Lagoa-Mansa ninguém se zanga há anos. Nem quando o filho morre."*
+2. *"Um velho cego pesca no lago parado de Lagoa-Mansa. Muda de casa toda semana."*
+3. *"Tem um capitão novo no Fortim que enforca desertor sem julgamento."*
+4. *"A Garça do Juncal come os Quietos. Ninguém sabe por quê."*
+5. *"Nas Colinas tem um professor que dá aula para ninguém. À noite dá para ouvir a chamada."*
+6. *"O sal de Salinas ficou mais barato. Desde que os trabalhadores pararam de pedir salário."*
+7. *"Na Ponte-Velha cobram pedágio em nome. Diga um nome falso e olhe a água."*
+8. *"Os monges do sino querem tocar o sino deles aqui. Dizem que fecha a porta de vocês."*
 
 ---
 
@@ -266,4 +299,4 @@ Some os pontos do que o D-4 fez (contratos cumpridos). Os outros esquadrões, ne
 ## Depois da sessão
 - [ ] **XP:** roleplay 100 + descoberta (o Aldric) 100 + o que mais couber. Com 100, todos vão ao **nível 3**.
 - [ ] **Sintoma do nível 3** para quem subir (diga como detalhe, na Terra, no próximo episódio): sonhos com **cores sem forma**; a comida da cantina tem gosto "sem cor".
-- [ ] Me mande: o que cada um fez no tempo livre, se esconderam o Ansel, quem bebeu o Repouso, se pegaram a amostra, que contrato pegaram, o que o Aldric contou. Eu atualizo o vault e os relógios.
+- [ ] Me mande **para onde eles querem ir no Ep3** (é o que eu preparo primeiro), o que cada um fez no tempo livre, se esconderam o Ansel, quem bebeu o Repouso, se pegaram a amostra, que contrato pegaram, o que o Aldric contou. Eu atualizo o vault e os relógios.
