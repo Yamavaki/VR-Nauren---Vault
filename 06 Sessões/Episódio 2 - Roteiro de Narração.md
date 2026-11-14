@@ -22,7 +22,7 @@ updated: 2026-11-14
 **O episódio em uma frase:** na cafeteria, os calouros comparam a primeira missão e algo não fecha; o Merrow explica que o nível trava; o Tomás mostra a loja e o Quadro; o grupo escolhe **uma** de duas missões e enfrenta o **Juntador**, que guarda um bilhete sobre uma **sereia que dá cores**.
 
 **Duração:** ~3 h. Terra ~50 min · Amarant ~2 h.
-**Os PJs:** **nível 3**. Balanceado para **4 jogadores**. *(Com 5: +1 Casca Errante em cada luta e +30 de Vida no Juntador.)*
+**Os PJs:** **nível 3**. Balanceado para **4 jogadores**. *(Com 5: +1 Casca Errante em cada luta e +40 de Vida no Juntador.)*
 
 **A região tem nome:** a Halden chama de **Zona 04**. Os nativos chamam de **a Orla** (no mapa da campanha: [[00 Guia da Região|Fronteira de Orla]]). 🔒 *Orla* quer dizer margem de mar. Há séculos, aqui era litoral: o mar recuou e virou o Juncal, os lagos e o rio. Só os mapas velhos e as cantigas lembram. (É onde a sereia mora.)
 
@@ -186,15 +186,14 @@ updated: 2026-11-14
 > ### ⛏️ RESGATE · Veio-Fundo
 > **Contratante:** Guilda dos Mineiros de Veio-Fundo
 > *"Quatro mineiros não retornaram da Mina do Veio-Tinto desde a noite do Festival das Lanternas. As famílias pedem busca e resgate. Ponto de encontro: Taverna O Candeeiro, Veio-Fundo (colinas do sul, meio dia a partir do Berço)."*
-> **Recompensa:** 80 pontos + **20 pontos por mineiro trazido vivo** · **30 florins** cada.
-> **Bônus da Guilda:** +**50 florins** cada se a mina for liberada para o trabalho.
+> **Recompensa:** 80 pontos + **20 pontos por mineiro trazido vivo** · **80 florins** cada.
+> **Bônus da Guilda:** a recompensa sobe para **120 florins** cada se a mina for liberada para o trabalho.
 > **Ameaça estimada:** ▲▲▢ · **Ambiente:** subterrâneo, sem luz.
 
 > ### 🌲 PATRULHA DESAPARECIDA · Posto do Espinheiro
 > **Contratante:** Coroa de Ostrel, 3º Regimento de Fronteira
 > *"Uma patrulha de seis soldados, em rota para a frente de batalha, não se apresentou ao Posto do Espinheiro (Mata-Cerrada, oeste) após o Festival das Lanternas. Localizar e recuperar sobreviventes. Apresentar-se à Sargento Vass."*
-> **Recompensa:** 100 pontos + **20 pontos por soldado trazido vivo** · **40 florins** cada.
-> **Recompensa de caça:** +**40 florins** cada pela eliminação da ameaça.
+> **Recompensa:** 100 pontos + **20 pontos por soldado trazido vivo** · **100 florins** cada, pagos na entrega.
 > **Ameaça estimada:** ▲▲▢ · **Ambiente:** mata fechada, vale.
 
 🗣️ **Tomás**, no casulo ao lado, sem abrir os olhos: *"A mina paga mais se vocês limparem. A floresta paga mais de saída. Nas duas, alguém já morreu. Escolham pelo que vocês aguentam ver."*
@@ -320,7 +319,7 @@ updated: 2026-11-14
 📖
 > Quando vocês saem da boca da mina, a vila inteira está no pátio, com lanternas. A Greta corre. Para no meio do caminho. Procura o rosto do Wenzel no escuro.
 
-🎲 **Recompensa:** 80 pts + 20 por mineiro vivo (até 160 pts) · 30 florins cada · **+50 florins cada** se mataram o Juntador.
+🎲 **Recompensa:** 80 pts + 20 por mineiro vivo (até 160 pts) · **80 florins cada**, ou **120 florins cada** se mataram o Juntador.
 🗣️ **Greta** (se o Wenzel voltou): não diz nada. Abraça ele e chora. Depois, para os PJs: *"Bebida de graça. Para sempre. Para vocês e para quem vocês trouxerem."*
 🗣️ **Greta** (se alguém não voltou): *"Vocês tentaram. Eu vi que tentaram."* (acende mais uma lanterna no teto)
 
@@ -435,7 +434,7 @@ updated: 2026-11-14
 📖
 > Quando vocês saem da mata, a Sargento Vass está no portão, com as mãos para trás. Ela conta os rostos. Conta de novo.
 
-🎲 **Recompensa:** 100 pts + 20 por soldado vivo (até 160 pts) · 40 florins cada · **+40 florins cada** se mataram o Juntador.
+🎲 **Recompensa:** 100 pts + 20 por soldado vivo (até 160 pts) · **100 florins cada** (fixo; matar o Juntador não paga a mais, mas dá XP e o bilhete).
 🗣️ **Vass** (se trouxeram o Mattis): bate continência para vocês. Para os PJs, não para o Mattis. *"A Coroa paga. Eu fico devendo."*
 🗣️ **Vass** (recebendo as plaquinhas dos mortos): fecha a mão em volta delas. *"Brun, Tiel, Haug."* (diz em voz alta, devagar) 🔒 Ela não sabe que dizer nomes perto das Cascas é perigoso. Hoje não acontece nada.
 
@@ -597,7 +596,7 @@ Todos os cristais do corpo estouram de uma vez: todo inimigo a até 3m sofre 1d6
 
 | Pontos de vida | Defesa | Movimento | Estresse Máx | Nível | Categoria |
 |---|---|---|---|---|---|
-| **180** | 14 | 6m | 5 | 5 | 2 · Chefe |
+| **250** (ajustado pelo mestre; o Criador dá 180) | 14 | 6m | 5 | 5 | 2 · Chefe |
 
 | For | Agi | Est | Int | Dest | PdA | PdM | Vit | Esp |
 |---|---|---|---|---|---|---|---|---|
@@ -644,7 +643,7 @@ A pilha de ossos desaba em volta dele: todo inimigo a até 4m sofre 1d8 de dano 
 
 | Pontos de vida | Defesa | Movimento | Estresse Máx | Nível | Categoria |
 |---|---|---|---|---|---|
-| **180** | 14 | 6m | 5 | 5 | 2 · Chefe |
+| **250** (ajustado pelo mestre; o Criador dá 180) | 14 | 6m | 5 | 5 | 2 · Chefe |
 
 | For | Agi | Est | Int | Dest | PdA | PdM | Vit | Esp |
 |---|---|---|---|---|---|---|---|---|

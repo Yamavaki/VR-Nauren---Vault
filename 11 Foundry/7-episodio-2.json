@@ -605,8 +605,8 @@
     "defesa": 14,
     "movimento": 6,
     "vida": {
-     "value": 180,
-     "max": 180
+     "value": 250,
+     "max": 250
     },
     "mana": {
      "value": 4,
@@ -623,7 +623,7 @@
     "categoriaMonstro": 2,
     "notas": "<p><b>Descrição:</b> Um dragão feito só de ossos azulados, com dois chifres e asas de morcego sem pele. A fumaça violeta sai das costelas como respiração. Senta em cima de uma pilha de caveiras e corpos, como um ninho.</p><p><b>Como luta:</b> Chefe que some e aparece. Gruda caveiras em quem está longe, derruba quem chega perto com as asas, corta a sala com fumaça e apaga as tochas.</p><p><b>História:</b> Os mineiros o chamam de **Juntador**: ele junta os mortos. Apareceu no Festival das Lanternas, vindo do fundo, junto com as Cascas.</p><p><b>Dicas para o Mestre:</b> Comece a luta com ele em cima da pilha, iluminado pelas tochas. Na rodada 2 ou 3, use o covil: tudo apaga. É o momento mais assustador da noite.</p><p><b>Plano de luta:</b> Rodada 1: Caveira Arremessada no PJ que mais bate. Rodada 2: Sumir na Fumaça e trocar de lugar. Rodada 3: covil (apagar as tochas) e Parede de Fumaça para separar o grupo. Bater as Asas sempre que 2 ou mais PJs estiverem colados. Perjúrio: quando chegar à metade da Vida.</p><p><b>Sem lutar:</b> Levar os mineiros embora sem entrar no Ossário. Ele não persegue fora da mina.</p><p><b>Despojo:</b> **Bônus da missão** e, preso entre as costelas, o **bilhete da sereia**. **Osso de Juntador** (vale 20 florins na Intendência).</p>",
     "calculoVida": "customizado",
-    "vidaFormula": "@categoria * (@vitalidade * (@nivel + 2) + 25) * 1.5"
+    "vidaFormula": "250"
    },
    "items": [
     {
@@ -1034,8 +1034,8 @@
     "defesa": 14,
     "movimento": 6,
     "vida": {
-     "value": 180,
-     "max": 180
+     "value": 250,
+     "max": 250
     },
     "mana": {
      "value": 4,
@@ -1052,7 +1052,7 @@
     "categoriaMonstro": 2,
     "notas": "<p><b>Descrição:</b> Um gigante de cipós, musgo e raízes, com caveiras e costelas presas no corpo como enfeites. No peito, um casulo de sementes vermelhas brilhando. Os olhos das caveiras acendem em vermelho.</p><p><b>Como luta:</b> Chefe que some no mato e aparece. Gruda caveiras em quem está longe, derruba quem chega perto, corta a clareira com espinhos e fecha a copa.</p><p><b>História:</b> Os soldados o chamam de **Juntador**: ele junta os mortos. Apareceu no Festival das Lanternas, junto com as Cascas.</p><p><b>Dicas para o Mestre:</b> Comece a luta com ele parado, parecendo só um monte de mato com ossos. Ele se levanta quando alguém mexe na pilha.</p><p><b>Plano de luta:</b> Rodada 1: Caveira Enraizada no PJ que mais bate. Rodada 2: Sumir na Folhagem. Rodada 3: covil (fechar a copa) e Muralha de Espinhos para separar o grupo. Varredura sempre que 2 ou mais PJs estiverem colados. Perjúrio: quando chegar à metade da Vida.</p><p><b>Sem lutar:</b> Levar os soldados embora sem descer ao ninho. Ele não persegue fora do vale.</p><p><b>Despojo:</b> **Bônus da missão** e, preso no casulo, o **bilhete da sereia**. **Semente de Juntador** (vale 20 florins na Intendência).</p>",
     "calculoVida": "customizado",
-    "vidaFormula": "@categoria * (@vitalidade * (@nivel + 2) + 25) * 1.5"
+    "vidaFormula": "250"
    },
    "items": [
     {
