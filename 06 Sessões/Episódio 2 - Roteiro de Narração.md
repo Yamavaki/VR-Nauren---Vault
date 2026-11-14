@@ -19,7 +19,7 @@ updated: 2026-11-14
 
 ## Antes de começar
 
-**O episódio em uma frase:** na cafeteria, os calouros comparam a primeira missão e algo não fecha; o Merrow explica que o nível trava; o Tomás mostra a loja e o Quadro; o grupo escolhe **uma** de duas missões e enfrenta o **Juntador**, que guarda um bilhete sobre uma **sereia que dá cores**.
+**O episódio em uma frase:** na cafeteria, a Turma D compara a primeira missão e algo não fecha; o Merrow explica a Sincronia; o Tomás mostra a loja e o Quadro; o grupo escolhe **uma** de duas missões e enfrenta o **Juntador**, que guarda um bilhete sobre uma **sereia que dá cores**.
 
 **Duração:** ~3 h. Terra ~50 min · Amarant ~2 h.
 **Os PJs:** **nível 3**. Balanceado para **4 jogadores**. *(Com 5: +1 Casca Errante em cada luta e +40 de Vida no Juntador.)*
@@ -32,7 +32,7 @@ updated: 2026-11-14
 - **Morte:** sai da luta e perde 1 nível.
 - **Dinheiro:** o Evento #01 pagou **50 florins** a cada PJ (uma Poção de Cura custa 50).
 
-**Quanto de XP tem nesta noite (por PJ):** luta 1 = 300 · luta 2 = 500 · Juntador = 250 · cenas até 300. **Eles vão chegar ao nível 4 e travar** (a XP fica guardada). É exatamente o que o Merrow explica na aula: a Prova vem no Ep3.
+**Quanto de XP tem nesta noite (por PJ):** luta 1 = 300 · luta 2 = 500 · Juntador = 250 · cenas até 300. **Eles vão chegar ao nível 4 e travar** (a XP fica guardada). O Merrow **não** conta isso na aula: eles descobrem no fim da noite, e a Prova vem no Ep3.
 
 **Anote durante o jogo:** o que perguntaram na cafeteria · o que compraram · qual missão · quantos NPCs trouxeram vivos · se mataram o Juntador · se acharam o bilhete e a primeira estrofe da cantiga.
 
@@ -43,37 +43,45 @@ updated: 2026-11-14
 # PARTE 1 · TERRA
 
 ## 1 · A cafeteria (15 min)
-🎭 Os 100 calouros no café da manhã, embaixo do Placar. Todos falando ao mesmo tempo da primeira missão.
+🎭 Só a **Turma D**. Os cinco esquadrões sentam juntos, num canto da cafeteria, em quatro mesas encostadas (a quinta é a dos PJs).
+
+**Quem está junto em cada mesa:**
+| Mesa | Esquadrão | Quem senta junto |
+|---|---|---|
+| 1 | **D-1 Kaiser** (2º lugar, 300 pts) | [[Lorenz Albrecht\|Lorenz]] (sorriso de comercial), [[Cassius Wren\|Cassius]] (irônico, sapato gasto), [[Valentina Ríos\|Valentina]] (agenda cheia de post-its), [[Ji-woo Park\|Ji-woo]] (filmando a bandeja), [[Tavita Fonoti\|Tavita]] (grande, quieto) |
+| 2 | **D-2 Aurora Boreal** (4º, 280) | [[Freya Lindqvist\|Freya]] (séria, não come), [[Saanvi Rao\|Saanvi]] (anotando tudo), [[Ilya Petrenko\|Ilya]], [[Hiroshi Tanabe\|Hiro]] |
+| 3 | **D-5 Mapa em Branco** (9º, 220) | [[Pietra Lenz\|Pietra]] (simpática, curiosa), [[Inês Carvalho\|Inês]] (desenhando no guardanapo), [[Omar Haddad\|Omar]] (quieto) |
+| 4 | **D-3 Os Três de Remanso** (15º, 180) | [[Benji Okoro\|Benji]] (falante), [[Rory Byrne\|Rory]] (cantarolando), [[Amara Diallo\|Amara]] (caderno de couro aberto) |
+| 5 | **D-4** (20º, 140) | os PJs |
 
 📖
 > A cafeteria do Átrio está barulhenta como uma rodoviária. Bandejas, café ruim, pão de queijo de máquina. Em cima de tudo, o Placar de doze metros: **D-4, 20º de 22**, com uma faixa amarela de "zona de corte".
-> Em cada mesa, alguém contando a própria noite, com as mãos, alto. Alguém ri. Alguém não come.
+> A Turma D ocupa o canto de sempre, perto da janela. Em cada mesa, alguém contando a própria noite, com as mãos, alto. Alguém ri. Alguém não come.
 > Nos celulares, a notificação de todos: *"◇ Evento de Liga #01 encerrado. Recompensa creditada: 50 florins."*
 
 📖 **No meio do barulho** *(use quando os PJs estiverem perto, de preferência antes de eles perguntarem qualquer coisa)*:
-> Numa mesa do fundo, uma caloura da Turma B se levanta com o celular na mão e fala alto, para ninguém em especial:
-> *"Doze. Eu tirei doze pessoas daquela vila. Eu contei cada uma. Aqui diz três."*
-> A mesa dela fica quieta. Um veterano passa com a bandeja e nem para: *"Então nove não eram ninguém, caloura. Acontece."*
+> Na mesa do D-3, a Amara se levanta com o celular numa mão e o caderno na outra, e fala alto, para ninguém em especial:
+> *"Doze. Eu tirei doze pessoas daquela vila. Eu anotei o nome de cada uma. Aqui diz quatro."*
+> A Turma D inteira fica quieta. Na mesa do D-1, o Lorenz nem levanta os olhos do café:
+> *"Então oito não eram ninguém, Amara. Acontece."*
 > Ela senta devagar. Ninguém ri.
 
-🗣️ **Se um PJ for falar com ela** (Marta, da B-4, olhos vermelhos): *"Eles estavam vivos. Andavam. Eu segurei a mão de uma velha até o Berço, e ela sorria o tempo todo. Por que ela não conta?"* · Se perguntarem o que o veterano quis dizer: *"Eu perguntei. Ele riu e disse que eu ia entender no segundo mês."*
-🔒 Não explique. É o mesmo que aconteceu com o D-4 (e com quase todo mundo): os "salvos" que não contaram eram Cascas. Os veteranos sabem que acontece; quase nenhum sabe por quê.
+🗣️ **Se um PJ for falar com a Amara:** *"Eles estavam vivos. Andavam. Eu segurei a mão de uma velha até o Berço, e ela sorria o tempo todo. Eu perguntei o nome dela. Ela disse. Por que ela não conta?"* · Se perguntarem o que o Lorenz quis dizer: *"Eu perguntei. Ele disse que eu ia entender no segundo mês."*
+🔒 Não explique. É o mesmo que aconteceu com o D-4 (e com quase todo mundo): os "salvos" que não contaram eram Cascas. O Lorenz sabe que acontece (o pai dele contou); não sabe por quê.
 
-🎲 **Deixe eles circularem.** Cada mesa é um esquadrão. Quando um PJ senta perto e pergunta, use a tabela. **Cada esquadrão tem uma coisa estranha** (a coluna da direita). Não aponte: deixe os jogadores juntarem.
+🎲 **Deixe eles circularem.** Quando um PJ senta perto de uma mesa e pergunta, use a tabela. **Cada mesa tem uma coisa estranha** (a coluna da direita). Não aponte: deixe os jogadores juntarem.
 
 | Mesa | Quem fala | Como foi a missão deles | A coisa estranha (se perguntarem mais) |
 |---|---|---|---|
-| **D-1 Kaiser** (2º lugar, 300) | **Lorenz Albrecht**, sorriso de comercial; **Cassius**, alto | *"Ponte-Velha. A gente trancou os aldeões no celeiro e segurou a porta. Dez protegidos. Simples."* | **Cassius** (baixo): *"Tinha uns trinta lá dentro. Só contou dez. Os outros nem tentaram sair. Ficaram sentados, sorrindo, com o celeiro pegando fogo do lado."* A **Ji-woo** tem o vídeo: os que não contaram **não piscam** |
-| **D-2 Aurora Boreal** (4º, 280) | **Freya**, séria; **Saanvi**, anotando tudo | *"Salinas. Os trabalhadores das salinas ficaram parados, e a gente protegeu as famílias do dono."* | **Saanvi:** *"Eu marquei: os trabalhadores levaram golpes e não sangraram. O painel chamava eles de 'entidade ociosa'. Eu mandei um ticket para o suporte. Ninguém respondeu."* |
-| **D-5 Mapa em Branco** (9º, 220) | **Pietra**, simpática e curiosa; **Omar**, quieto | *"Lagoa-Alta. Metade da vila foi levada antes da gente chegar."* | **Omar** (olhando a bandeja): *"Os que ficaram estavam felizes. Eu nunca vi gente tão em paz."* 🔒 o Omar gostou disso |
-| **D-3 Os Três de Remanso** (15º, 180) | **Benji**, falante; **Rory**, cantarolando | *"Remanso. Foi um caos. A gente correu atrás de quem gritava."* | **Benji:** *"Só contou quem gritava. Os quietos, não. Engraçado, né?"* · O **Rory** cantarola uma música que não sabe de onde vem |
-| **A-2 Ouro Velho** (1º, 320) | uma veterana de cabelo raspado, rindo | *"Onze. Calouro de sorte."* | *"Dica de graça: protege quem tem medo. Quem não tem medo não conta. Não me pergunta por quê."* |
-| **C-3** (21º, 100) | ninguém. A mesa deles está vazia | 🗣️ alguém na mesa ao lado: *"O C-3 morreu inteiro. Dizem que um deles acordou gritando."* | *"Dizem que eles mataram uns aldeões sem querer. Aldeões que não reagiam. O índice não descontou."* |
+| **D-1** | **Lorenz** (e o **Cassius** comenta) | **Lorenz:** *"Ponte-Velha. A gente trancou os aldeões no celeiro e segurou a porta. Dez protegidos. Simples."* | **Cassius** (baixo): *"Tinha uns trinta lá dentro. Só contou dez. Os outros nem tentaram sair. Ficaram sentados, sorrindo, com o fogo do lado."* · **Tavita:** *"Eu carreguei um velho no colo. Ele não pesava nada, irmão. Nada."* · A **Ji-woo** tem o vídeo: os que não contaram **não piscam** |
+| **D-2** | **Saanvi** (a **Freya** só escuta) | **Saanvi:** *"Salinas. Os trabalhadores das salinas ficaram parados, e a gente protegeu as famílias do dono."* | **Saanvi:** *"Eu marquei: os trabalhadores levaram golpes e não sangraram. O painel chamava eles de 'entidade ociosa'. Mandei um chamado para o suporte. Ninguém respondeu."* |
+| **D-5** | **Pietra** (e o **Omar**) | **Pietra:** *"Lagoa-Alta. Metade da vila foi levada antes da gente chegar."* | **Omar** (olhando a bandeja): *"Os que ficaram estavam felizes. Eu nunca vi gente tão em paz."* 🔒 o Omar gostou disso · A **Inês** está desenhando no guardanapo um rosto sorrindo, sem olhos |
+| **D-3** | **Benji** (a **Amara** anota) | **Benji:** *"Remanso. Foi um caos. A gente correu atrás de quem gritava."* | **Benji:** *"Só contou quem gritava. Os quietos, não. Engraçado, né?"* · O **Rory** cantarola uma música que não sabe de onde vem |
 
 **Se perguntarem sobre a própria missão (por que o D-4 só salvou 2):**
-🗣️ **Saanvi** (ou quem estiver perto), fazendo a conta: *"Vocês salvaram quantos de verdade? E o resto da vila? Estava sorrindo?"*
+🗣️ **Saanvi**, fazendo a conta: *"Vocês salvaram quantos de verdade? E o resto da vila? Estava sorrindo?"*
 
-🔒 **A verdade (só para você):** em Vau-Cinzento, todo mundo que estava "vivo" na vila, **menos a Tilde e a pequena [[Ottmar e Lisel|Lisel]]**, já era **Casca**: o corpo sem ninguém dentro. A Halden não conta Casca como NPC (chama de "entidade ociosa", um bug). Os aldeões **de verdade** já tinham sido mortos antes do D-4 conseguir protegê-los. O mesmo aconteceu em todas as vilas: os esquadrões que "salvaram muitos" eram os que estavam em vilas onde o Hóspede tinha esvaziado menos gente. **Ninguém na Aster vai confirmar isso.**
+🔒 **A verdade (só para você):** em Vau-Cinzento, todo mundo que estava "vivo" na vila, **menos a Tilde e a pequena [[Ottmar e Lisel|Lisel]]**, já era **Casca**: o corpo sem ninguém dentro. A Halden não conta Casca como NPC (chama de "entidade ociosa", um bug). Os aldeões **de verdade** já tinham sido mortos antes do D-4 conseguir protegê-los. O mesmo aconteceu em todas as vilas. **Ninguém na Aster vai confirmar isso.**
 
 🎲 **Descoberta importante (+100 XP)** se os jogadores juntarem as peças: *os que não contaram não sentiam, não piscavam, não sangravam, sorriam. Eram outra coisa.*
 
@@ -82,34 +90,37 @@ updated: 2026-11-14
 ---
 
 ## 2 · A aula do Merrow: a Sincronia (15 min)
-🎭 **Prof. Silas Merrow** (~45 anos, cardigã de lã, óculos redondos na ponta do nariz, sempre sorrindo, lembra o nome de todos).
-🔒 Vilão escondido. **Hoje ele só é encantador.** Ele quer saber quem do D-4 vai chegar primeiro à Prova.
+🎭 **Prof. Silas Merrow** (~45 anos, cardigã de lã, óculos redondos na ponta do nariz, sempre sorrindo, lembra o nome de todos). Professor de Línguas e Lore de TESSERA.
+🔒 Vilão escondido. **Hoje ele só é encantador.**
 
 📖
-> A sala do Merrow é quente, cheia de livros. Na mesa, um pedaço de corda grossa, velha, com quatro nós ao longo dela. Ele a levanta para a turma ver.
+> A sala do Merrow é quente, cheia de livros empilhados até no chão. Ele está sentado em cima da própria mesa, com uma xícara de chá, como quem espera amigos.
 
 🗣️ **Merrow:**
-> *"Bom dia! Alguns de vocês já sentiram, não é? Acordar com um gosto diferente na boca. Sonhar com cores. É a **Sincronia**. O nível de vocês lá dentro é o quanto vocês estão lá. Nível 1: um turista. Nível 20: um morador.*
-> *Vocês sobem juntando experiência. Mas a ligação entre vocês e o avatar é como esta corda: em alguns pontos, precisa de um nó, ou não aguenta o peso."*
+> *"Bom dia, bom dia. Sobreviveram à primeira noite. Que maravilha.*
+> *Alguns de vocês acordaram hoje com um gosto estranho na boca, não foi? Fumaça de lenha. Pão que vocês não comeram. Ou sonharam com uma cor que não sabem o nome.*
+> *Isso tem nome: **Sincronia**. É o quanto de vocês está lá.*
+> *Eu gosto de pensar nisso como aprender uma língua. No começo, vocês sabem pedir pão e perguntar onde fica o banheiro. Vocês pensam em português e traduzem. Tudo é lento, tudo é esforço.*
+> *Depois de um tempo, vocês param de traduzir. A palavra vem sozinha. Um dia vocês sonham na língua nova… e acordam sem saber em qual língua sonharam."*
 
-📖 *Ele passa o dedo em cada nó.*
+📖 *Ele toma um gole de chá e olha para a turma por cima dos óculos.*
 
 🗣️ **Merrow:**
-> *"Quatro nós. No **4**, no **11**, no **16** e no **19**. Quando vocês chegam neles, a barra de experiência enche… e o nível não sobe.*
-> *Para passar, a Halden aplica uma **Prova de Sincronia**. É feita sob medida para vocês. Aparece no Quadro com uma marca dourada quando alguém do esquadrão está pronto. Passou: sobe na hora. No 5, vocês escolhem o caminho da classe. Não passou: tenta de novo na semana seguinte. Ninguém é reprovado para sempre. Só fica… parado."*
+> *"Lá dentro é igual. Quanto mais sincronizados vocês estão, mais o corpo de lá obedece. Mais força, mais rápido, mais certeiro. O avatar para de ser uma roupa e passa a ser… vocês.*
+> *Vai de **um** a **vinte**. Um: vocês são turistas. Vinte: vocês moram lá.*
+> *Nenhum aluno da graduação chegou ao vinte. Os que chegaram perto…"* (sorri) *"…pararam de sonhar em português."*
 
-🗣️ **Merrow** (mais baixo, quase brincando):
-> *"Os nativos dizem que o Jurado **deu o nó**: ficou um pouco mais amarrado ao lugar. E os veteranos contam uma coisa engraçada: em toda Prova, em algum momento, alguém de lá chama você pelo nome."*
-
-🎲 **Diga claramente (é regra):** no **nível 4** a XP continua entrando, mas fica **guardada** (até o suficiente para o 5). Para subir, eles precisam passar a **Prova**. Eles estão no **3**: vão chegar lá **hoje à noite**.
+🎲 **O que os jogadores sabem agora (só isto):** a **Sincronia** é o nível, vai de **1 a 20**, e quanto mais sincronizados, **mais fortes** eles ficam lá dentro. **Nada sobre nós, travas ou provas.** Eles vão descobrir sozinhos.
 
 **Se perguntarem:**
-- *"O que tem na Prova?"* · *"Cada uma é diferente. A Halden escolhe. Dizem que ela conhece vocês melhor do que vocês mesmos."*
-- *"Dá para pular?"* · *"Ninguém pulou ainda. Mas eu adoraria ver alguém tentar."*
-- *"Por que existe isso?"* · *"Oficialmente? Estabilidade neural. Extraoficialmente… o que vocês acham?"* (ele espera a resposta, com interesse de verdade)
-- *"Por que os aldeões não contaram?"* (se trouxerem da cafeteria) · Ele para de sorrir um segundo. *"Boa pergunta. Guardem essa pergunta. Não façam ela em voz alta no Átrio."*
+- *"Como a gente sobe?"* · *"Vivendo lá. Como numa língua: não tem atalho. Tem convivência."*
+- *"Tem algum limite?"* · Ele pensa um segundo. *"Toda língua tem partes que não se aprendem sozinho. Uma hora vocês vão sentir. Perguntem ao monitor de vocês."* (é a pista do Tomás)
+- *"É perigoso?"* · *"Aprender uma língua é perigoso? Só para quem tem medo de mudar."* (sorri de novo)
+- *"Por que os aldeões não contaram?"* (se trouxerem da cafeteria) · Ele para de sorrir por um segundo. *"Boa pergunta. Guardem essa pergunta. Não façam ela em voz alta no Átrio."*
 
-🔒 **A verdade:** a Prova é real. O Nó amarra o Retornado a Amarant. A Halden monta cada Prova para que nela aconteça um **momento pessoal** (um nativo diz o nome do PJ, uma dor de verdade, uma escolha que custa). Ver [[Sincronia e Nós]].
+🗣️ **Merrow** (no fim da aula, só para o D-4): *"Quando vocês sentirem algo mudar lá dentro, venham me contar. Eu coleciono essas histórias."* (anota algo no caderno)
+
+🔒 **Por trás:** os **Nós** existem (nos níveis **4, 11, 16 e 19** o nível trava até o PJ passar numa **Prova de Sincronia** da Halden). O Merrow não fala disso. Os jogadores vão descobrir no fim desta noite, quando chegarem ao 4 e a barra parar (ver "O fim da noite"), e podem perguntar ao Tomás, que está travado no 11. Ver [[Sincronia e Nós]].
 
 ➡️ Batem na porta. *"Licença, professor. Vim buscar os calouros do D."*
 
@@ -451,7 +462,7 @@ updated: 2026-11-14
 
 🔒 **O que é (só para você):**
 - **A sereia** mora na **Enseada que Canta**, na ponta norte do [[O Juncal|Juncal]], onde há séculos era o litoral da Orla. A praia só existe enquanto alguém canta a cantiga inteira. Ela concede **um Pigmento novo** (um terceiro pigmento, com o bônus da cor) a quem cumprir o **desejo** dela. *(O desejo dela fica para decidir: é a semente do próximo gancho.)*
-- **Quem era "L."**: um viajante (Lenz, um pintor que comprava pedra-tinta em Veio-Fundo). O corpo dele está na pilha do Juntador. O Kaspar é o irmão dele, em Ostrel.
+- **Quem era "L."**: um viajante (Lothar, um pintor que comprava pedra-tinta em Veio-Fundo). O corpo dele está na pilha do Juntador. O Kaspar é o irmão dele, em Ostrel.
 - **"Não conte para a Companhia":** a Companhia do Sal também procura a sereia.
 - **A Cantiga da Maré** tem **três estrofes**. Cada uma está com alguém da Orla. Hoje, só a primeira (com o Konrad ou o Fennick, se perguntarem).
 
