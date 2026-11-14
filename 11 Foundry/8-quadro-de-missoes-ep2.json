@@ -1,0 +1,67 @@
+[
+ {
+  "nome": "Quadro de Missões · Zona 04 (Ep2)",
+  "era": "moderno",
+  "formato": "livro",
+  "papel": "tela",
+  "letra": "sans",
+  "efeitos": {
+   "varredura": true,
+   "falha": false,
+   "digitacao": true
+  },
+  "capa": {
+   "titulo": "TESSERA · Quadro de Missões",
+   "subtitulo": "Zona 04 · A Orla · Esquadrão D-4",
+   "cor": "#0f1a2e",
+   "detalhe": "#6fe6ff"
+  },
+  "icone": "icons/commodities/tech/blueprint.webp",
+  "descricao": "O quadro de missões do aplicativo TESSERA, como aparece no celular dos jogadores no Episódio 2.",
+  "quemEscreve": "mestre",
+  "lerNoBau": true,
+  "pasta": "Quadro de Missões",
+  "paginas": [
+   {
+    "titulo": "Início",
+    "texto": "# ◇ TESSERA · QUADRO DE MISSÕES\n\n**Zona 04 · A Orla** · Esquadrão **D-4** · Sincronia do esquadrão: **3**\n\n> Escolha **UMA** missão antes da conexão. Missões bloqueadas exigem Sincronia maior.\n\n---\n\n# DISPONÍVEIS PARA VOCÊ\n\n- ⛏️ **RESGATE · Veio-Fundo** · Sincronia 3 · ▲▲▢▢▢\n- 🌲 **PATRULHA DESAPARECIDA · Posto do Espinheiro** · Sincronia 3 · ▲▲▢▢▢\n\n# BLOQUEADAS\n\n- 🔒 **INVESTIGAÇÃO · O Mosteiro não responde** · Sincronia 7\n- 🔒 **CAÇA · O pedágio da Ponte-Velha** · Sincronia 8\n- 🔒 **DEFESA · Cerco noturno ao Fortim de Orla** · Sincronia 9\n- 🔒 **ESCOLTA · Comboio do Trigo para a Marca de Ferro** · Sincronia 12\n- 🔒 **RECUPERAÇÃO · Além das Pedras Marcadas** · Sincronia 14\n\n# ◆ PROVAS DE SINCRONIA EM ANDAMENTO\n\n- ◆ **MARCO 3 · A Travessia** · Sincronia 16 · *designada ao Esquadrão Ômega (5º ano). Visível para observação.*\n\n---\n\n-> Atualizado às 22:00 · Halden Systems · Aster University\n\n[segredo]\nMestre: as duas missões disponíveis são a mesma aventura com outra roupa (mesmos inimigos e o mesmo chefe, o Juntador). As bloqueadas são só vitrine: mostram o mundo e o que vem depois. Ver o roteiro do Episódio 2.\n[/segredo]"
+   },
+   {
+    "titulo": "⛏️ Resgate · Veio-Fundo",
+    "texto": "# ⛏️ RESGATE · Veio-Fundo\n\n**Status:** ✅ DISPONÍVEL · **Sincronia mínima:** 3\n**Contratante:** Guilda dos Mineiros de Veio-Fundo\n**Ameaça estimada:** ▲▲▢▢▢ · **Ambiente:** subterrâneo, sem luz\n\n---\n\nQuatro mineiros não retornaram da **Mina do Veio-Tinto** desde a noite do **Festival das Lanternas**. As famílias pedem busca e resgate.\n\n**Desaparecidos:** Wenzel (capataz) · Ilse · Bartel · Pim\n\n**Ponto de encontro:** Taverna **O Candeeiro**, Veio-Fundo (colinas do sul, meio dia a partir do Berço).\n\n---\n\n# RECOMPENSA\n\n- **80 pontos** + **20 pontos por mineiro trazido vivo**\n- **80 florins** para cada membro do esquadrão\n- **Bônus da Guilda:** a recompensa sobe para **120 florins** cada se a mina for liberada para o trabalho\n\n> Recomendação da Halden: levar fonte de luz que não dependa de fogo.\n\n[segredo]\nMestre: 1ª luta: 3 Casca Errante na Galeria dos Trilhos. Desafio: o Poço Partido (4 sucessos antes de 3 falhas). 2ª luta: 2 Casca Pigmentada + 2 Casca Errante. Chefe opcional: o Juntador de Fumo, no Ossário. O bilhete da sereia está nele.\n[/segredo]"
+   },
+   {
+    "titulo": "🌲 Patrulha desaparecida · Posto do Espinheiro",
+    "texto": "# 🌲 PATRULHA DESAPARECIDA · Posto do Espinheiro\n\n**Status:** ✅ DISPONÍVEL · **Sincronia mínima:** 3\n**Contratante:** Coroa de Ostrel, 3º Regimento de Fronteira\n**Ameaça estimada:** ▲▲▢▢▢ · **Ambiente:** mata fechada, vale\n\n---\n\nUma patrulha de **seis soldados**, em rota para a frente de batalha, não se apresentou ao **Posto do Espinheiro** após o **Festival das Lanternas**. Localizar e recuperar sobreviventes.\n\n**Patrulha:** Cabo Mattis · Ylva · Oskar · Brun · Tiel · Haug\n\n**Apresentar-se à:** Sargento **Dorota Vass**, Posto do Espinheiro (Mata-Cerrada, oeste do Berço).\n\n---\n\n# RECOMPENSA\n\n- **100 pontos** + **20 pontos por soldado trazido vivo**\n- **100 florins** para cada membro do esquadrão, pagos na entrega\n\n> Recomendação da Halden: área de vegetação densa. Visibilidade reduzida.\n\n[segredo]\nMestre: 1ª luta: 3 Casca Errante na Trilha Fechada. Desafio: a Ravina e a Torre Velha. 2ª luta: 2 Casca Pigmentada + 2 Casca Errante. Chefe opcional: o Juntador de Cipó, sob a Árvore Morta. O bilhete da sereia está nele.\n[/segredo]"
+   },
+   {
+    "titulo": "🔒 Investigação · O Mosteiro não responde",
+    "texto": "# 🔒 INVESTIGAÇÃO · O Mosteiro não responde\n\n**Status:** 🔒 BLOQUEADA · **Sincronia mínima:** 7 · *a sua: 3*\n**Contratante:** Ordem da Vigília (via Coroa de Ostrel)\n**Ameaça estimada:** ▲▲▲▢▢\n\n---\n\nO **Mosteiro dos Sinos**, a leste da Orla, parou de tocar há três noites. Os monges não descem e não respondem aos mensageiros. Verificar.\n\n---\n\n**Recompensa:** 180 pontos · 150 florins cada\n\n> *Sincronia insuficiente. Esta missão aparece para fins de planejamento.*\n\n[segredo]\nMestre: O silêncio é o problema. Ver O Mosteiro dos Sinos e o Velho Quieto.\n[/segredo]"
+   },
+   {
+    "titulo": "🔒 Caça · O pedágio da Ponte-Velha",
+    "texto": "# 🔒 CAÇA · O pedágio da Ponte-Velha\n\n**Status:** 🔒 BLOQUEADA · **Sincronia mínima:** 8 · *a sua: 3*\n**Contratante:** Coroa de Ostrel\n**Ameaça estimada:** ▲▲▲▲▢\n\n---\n\nViajantes relatam uma criatura sob a **Ponte-Velha** que exige pagamento para a travessia. Três mercadores atravessaram e **não lembram o próprio nome**.\n\n---\n\n**Recompensa:** 200 pontos · 180 florins cada\n\n> *Sincronia insuficiente. Esta missão aparece para fins de planejamento.*\n\n[segredo]\nMestre: O Bicho-da-Ponte cobra nomes. Ver Remanso e Ponte-Velha.\n[/segredo]"
+   },
+   {
+    "titulo": "🔒 Defesa · Cerco noturno ao Fortim de Orla",
+    "texto": "# 🔒 DEFESA · Cerco noturno ao Fortim de Orla\n\n**Status:** 🔒 BLOQUEADA · **Sincronia mínima:** 9 · *a sua: 3*\n**Contratante:** Comandante Severa de Ostrel\n**Ameaça estimada:** ▲▲▲▲▢\n\n---\n\nMovimento de **mortos andando em linha reta** na direção do **Fortim de Orla**, vindos da vala atrás da muralha. Reforçar a defesa até o amanhecer.\n\n---\n\n**Recompensa:** 250 pontos · 200 florins cada\n\n> *Sincronia insuficiente. Esta missão aparece para fins de planejamento.*\n\n[segredo]\nMestre: É a Cova dos Desertores indo atrás do Capitão Holt. Ver Fortim de Orla.\n[/segredo]"
+   },
+   {
+    "titulo": "🔒 Escolta · Comboio do Trigo",
+    "texto": "# 🔒 ESCOLTA · Comboio do Trigo para a Marca de Ferro\n\n**Status:** 🔒 BLOQUEADA · **Sincronia mínima:** 12 · *a sua: 3*\n**Contratante:** Intendência do Exército de Ostrel\n**Ameaça estimada:** ▲▲▲▲▲\n\n---\n\nEscoltar **vinte carroças** de trigo até a **Marca de Ferro**, na frente de guerra com Vharen. Contato com tropas inimigas é **esperado**.\n\n---\n\n**Recompensa:** 400 pontos · 300 florins cada\n\n> *Sincronia insuficiente. Esta missão aparece para fins de planejamento.*\n\n[segredo]\nMestre: É a missão em que o Tomás perdeu uma carroça. Ver A Marca de Ferro.\n[/segredo]"
+   },
+   {
+    "titulo": "🔒 Recuperação · Além das Pedras Marcadas",
+    "texto": "# 🔒 RECUPERAÇÃO · Além das Pedras Marcadas\n\n**Status:** 🔒 BLOQUEADA · **Sincronia mínima:** 14 · *a sua: 3*\n**Contratante:** Halden Systems (interno)\n**Ameaça estimada:** ▲▲▲▲▲\n\n---\n\nRecuperar **dados de sincronização** de um avatar sem conexão desde **dois anos atrás**, localizado **além das Pedras Marcadas**. Área fora da cobertura dos Berços.\n\n---\n\n**Recompensa:** 500 pontos · 400 florins cada\n\n> *Sincronia insuficiente. Esta missão aparece para fins de planejamento.*\n\n[segredo]\nMestre: O avatar é a Andarilha. A Halden quer os dados, não a pessoa. Ver As Pedras Marcadas.\n[/segredo]"
+   },
+   {
+    "titulo": "◆ Marco 3 · A Travessia",
+    "texto": "# ◆ PROVA DE SINCRONIA · MARCO 3\n\n**A TRAVESSIA** · Sincronia **16 → 17**\n**Status:** ◆ EM ANDAMENTO · *designada ao Esquadrão Ômega (5º ano). Visível para observação.*\n**Elaborada por:** Halden Systems\n\n---\n\n**Objetivo:** acompanhar **o Peregrino**, um nativo da Orla, até a **Nascente Quieta**.\n\n**Condições:**\n\n- Não interferir na escolha dele.\n- Não desconectar até o fim.\n- Permanecer até a água ficar parada.\n\n**Condição de falha:** abandonar o Peregrino antes do fim.\n\n---\n\n**Recompensa:** Marco de Sincronia 3 · nível 17 · acesso à Intendência (itens muito raros)\n\n> *Tentativas do Esquadrão Ômega: 2. Última tentativa: falha (desconexão voluntária).*\n\n[segredo]\nMestre: o Peregrino vai dar o próprio nome à água na Nascente Quieta (a porta por onde os Inquilinos entram). A Prova é ficar e ver. É parente da Prova da Vigília do Tomás (11→12): a Halden mede quem aguenta ficar até o fim. Os jogadores só veem; ninguém do D-4 pode aceitar.\n[/segredo]"
+   },
+   {
+    "titulo": "Comunicados",
+    "texto": "# 📣 COMUNICADOS\n\n**Evento de Liga #01 encerrado.** Recompensa creditada: **50 florins** por membro.\n\n**Corte mensal:** os **5 últimos** esquadrões do Placar perdem **metade das horas de Berço** no próximo mês. *(Posição atual do D-4: 20º de 22.)*\n\n**Intendência:** itens novos liberados a cada Marco de Sincronia.\n\n**Lembrete:** entidades em estado ocioso **não contam** como NPCs protegidos.\n\n---\n\n-> Halden Systems · Aster University"
+   }
+  ]
+ }
+]

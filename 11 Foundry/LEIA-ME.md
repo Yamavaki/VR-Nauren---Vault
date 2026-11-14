@@ -5,7 +5,7 @@ updated: 2026-11-10
 
 # Fichas do Foundry (Nauren 0.107)
 
-Importe pelo botão **Importar em massa** (rodapé da aba Atores). Pode escolher os 7 arquivos de uma vez. Cada ficha já vem com a **borda do token** e uma subpasta.
+Importe pelo botão **Importar em massa** (rodapé da aba Atores). Pode escolher os 8 arquivos de uma vez. Cada ficha já vem com a **borda do token** e uma subpasta.
 
 | Arquivo | O que tem |
 |---|---|
@@ -16,6 +16,7 @@ Importe pelo botão **Importar em massa** (rodapé da aba Atores). Pode escolher
 | `5-guardas-e-emergencia.json` | Soldado, Besteiro, Miliciano, Desertor, Brando, Bandido, Lobo, Aldeão, Garça do Juncal |
 | `6-fronteira-de-orla.json` | as 18 criaturas da [[Bestiário da Fronteira|Fronteira de Orla]] (níveis 2 a 9), com os números do Criador de Monstros. A **A Garça do Juncal** daqui substitui a do arquivo 5 |
 | `7-episodio-2.json` | Episódio 2: Casca Errante, Casca Pigmentada, Juntador de Fumo (mina) e Juntador de Cipó (floresta) |
+| `8-quadro-de-missoes-ep2.json` | o **Quadro de Missões** do TESSERA (Escrito moderno, 10 páginas): as 2 missões do Ep2, 5 bloqueadas e a Prova do Marco 3. Importar por **Importar escritos** (ou Importar em massa). Entregue aos jogadores pelo baú ou por "Mostrar aos jogadores" |
 
 ## Depois de importar
 - **Alunos:** arraste a **Classe** de cada um (do compêndio *Nauren - Classes*) para a ficha. O sistema aplica sozinho as habilidades do nível 1. A classe está escrita no campo Classe e nas Notas.
