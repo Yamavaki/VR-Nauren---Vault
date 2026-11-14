@@ -1,7 +1,7 @@
 ---
 type: house-rules
-status: decidido (Sincronia = nível; níveis travados por eventos) + proposta (quais níveis e o que cada Nó faz)
-updated: 2026-11-07
+status: decidido (Sincronia = nível; Nós no 4, 8, 12, 16 e 19; a Prova de Sincronia) 
+updated: 2026-11-14
 ---
 
 # Sincronia e Nós
@@ -11,7 +11,23 @@ updated: 2026-11-07
 - XP segue o Nauren: para subir, junte **próximo nível × 100** (200 para o 2, 300 para o 3…).
 - **Alguns níveis são travados**: só sobem depois que o personagem atravessa um **evento**.
 
-## Proposta: os cinco níveis travados (os Nós)
+## A Prova de Sincronia (decidido, 2026-11-14)
+**Como os jogadores veem (é regra, diga claramente):** o Merrow ensina no [[Episódio 2 - Roteiro de Narração|Ep2]].
+- Nos níveis **4, 8, 12, 16 e 19** o nível **trava**. A XP continua entrando, mas fica **guardada** (no máximo o suficiente para o próximo nível).
+- Quando alguém do esquadrão trava, a universidade publica uma **◆ Prova de Sincronia** no Quadro: uma **missão especial**, com marca dourada.
+- A Prova é feita pelo **esquadrão inteiro**; só **sobe quem está travado** (os outros ganham a XP normal).
+- **Passou:** sobe **na hora**. No **5**, escolhe a **subclasse**.
+- **Falhou:** a Prova volta no episódio seguinte (outra tentativa). Ninguém é reprovado para sempre.
+
+**🔒 Por trás (só o mestre):** a Prova é a forma oficial; o Nó é real. A Halden monta cada Prova para que, no meio dela, aconteça um **momento pessoal** (um nativo diz o nome do PJ, uma dor de verdade, uma escolha que custa: ver as ideias abaixo e a tabela por PJ no [[Arco 1 - Mundo Aberto]]). **É esse momento que dá o nó**, não a missão em si. Os veteranos já perceberam: *"em toda Prova, alguém de lá chama você pelo nome"*.
+
+**As Provas (proposta):**
+| Nó | Prova | Lugar | Por quê |
+|---|---|---|---|
+| 1º (4→5) | **A Prova da Chamada:** "recuperar o livro de chamada da Escola" | [[Colinas do Santuário]] (Escola dos Nomes) | o Mestre Ambrósio chama cada um pelo nome real; dá a Âncora do Nome antes da Noite Sem Lua |
+| 2º (8→9) | a decidir (sugestão: [[O Mosteiro dos Sinos]] ou [[A Mata dos Ecos]]) | | |
+
+## Os cinco níveis travados (os Nós)
 A Halden chama de **Marcos de Sincronia**. Os nativos chamam de **Nós**: a cada Nó, o Retornado fica mais **amarrado** a Amarant. "Ele deu o primeiro nó" quer dizer: agora ele pertence um pouco a este lugar. *(A Vigília vê isso de outro jeito: o Hóspede se amarrando no corpo.)*
 
 | Nó | Trava a passagem | Por que nesse nível |

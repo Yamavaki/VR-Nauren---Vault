@@ -49,6 +49,10 @@ updated: 2026-11-07
 - [ ] Detalhes de [[Morte e Retorno]] (XP zerada ao cair de nível; os Nós não se perdem). *(Renascimento imediato: rejeitado; quem morre sai para calibrar.)*
 - [ ] Os outros nomes (Halden, Ostrel, Vharen, a Vigília, Vau-Cinzento…). *(Vharen, Inquilinos e Cascas já aprovados.)*
 - [ ] A **Madre Ilvane** como colaboradora cinza (não mais a vilã principal).
+- [x] **Nós = Prova de Sincronia** (2026-11-14): nos níveis 4, 8, 12, 16 e 19 o nível trava; a universidade publica uma missão especial no Quadro; só sobe quem está travado; falhou, tenta de novo no episódio seguinte. Ver [[Sincronia e Nós]].
+- [x] **Intendência** (2026-11-14): a loja fica na universidade; só se compra com **florins ganhos em missões**; o item aparece no baú do Berço. *(Proposta: o Evento #01 pagou 20 florins a cada PJ.)*
+- [x] **O Quadro de missões** fica no Átrio, no celular (TESSERA). No Ep2: 3 missões (Escolta, Caça, Investigação).
+- [x] **Ep2 sem as cenas fixas em Amarant** (velório, Aldric, Madre): só se os PJs passarem pelo Vau.
 - [ ] **A Fronteira de Orla** (mundo semiaberto, níveis 2 → 10, 3 fases, 13 lugares + base): ver [[00 Guia da Região]]. XP de monstro = nível × 50 por PJ *(regra do mestre, já decidida)*.
 - [ ] NPCs novos: **Velho Orvo**, **Capitão Edrik Holt** (executou o "Dain"), **Mestre Ambrósio**, **Mira Sal-Amargo**, **Prioresa Odile**, a **Andarilha** (semente opcional: a esposa do Souza).
 - [ ] **A Primeira**: a primeira dos seis Inquilinos, no corpo da Senescal de Pedra-Alta; sabe quem matou a Lady Isolde.
