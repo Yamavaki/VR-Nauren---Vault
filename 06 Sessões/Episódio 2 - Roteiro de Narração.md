@@ -30,6 +30,7 @@ updated: 2026-11-14
 - **XP por monstro:** nível × 50 por PJ. **No fim:** roleplay de grupo 100 · descoberta importante 100 · solução criativa 100.
 - **Testes:** 1d20 + atributo. *Sugestão:* **12** normal · **15** difícil · **18** muito difícil. Peça pouco (o livro pede isso).
 - **Morte:** sai da luta e perde 1 nível.
+- **Dinheiro:** o Evento #01 pagou **50 florins** a cada PJ (uma Poção de Cura custa 50).
 
 **Quanto de XP tem nesta noite (por PJ):** luta 1 = 300 · luta 2 = 500 · Juntador = 250 · cenas até 300. **Eles vão chegar ao nível 4 e travar** (a XP fica guardada). É exatamente o que o Merrow explica na aula: a Prova vem no Ep3.
 
@@ -47,6 +48,16 @@ updated: 2026-11-14
 📖
 > A cafeteria do Átrio está barulhenta como uma rodoviária. Bandejas, café ruim, pão de queijo de máquina. Em cima de tudo, o Placar de doze metros: **D-4, 20º de 22**, com uma faixa amarela de "zona de corte".
 > Em cada mesa, alguém contando a própria noite, com as mãos, alto. Alguém ri. Alguém não come.
+> Nos celulares, a notificação de todos: *"◇ Evento de Liga #01 encerrado. Recompensa creditada: 50 florins."*
+
+📖 **No meio do barulho** *(use quando os PJs estiverem perto, de preferência antes de eles perguntarem qualquer coisa)*:
+> Numa mesa do fundo, uma caloura da Turma B se levanta com o celular na mão e fala alto, para ninguém em especial:
+> *"Doze. Eu tirei doze pessoas daquela vila. Eu contei cada uma. Aqui diz três."*
+> A mesa dela fica quieta. Um veterano passa com a bandeja e nem para: *"Então nove não eram ninguém, caloura. Acontece."*
+> Ela senta devagar. Ninguém ri.
+
+🗣️ **Se um PJ for falar com ela** (Marta, da B-4, olhos vermelhos): *"Eles estavam vivos. Andavam. Eu segurei a mão de uma velha até o Berço, e ela sorria o tempo todo. Por que ela não conta?"* · Se perguntarem o que o veterano quis dizer: *"Eu perguntei. Ele riu e disse que eu ia entender no segundo mês."*
+🔒 Não explique. É o mesmo que aconteceu com o D-4 (e com quase todo mundo): os "salvos" que não contaram eram Cascas. Os veteranos sabem que acontece; quase nenhum sabe por quê.
 
 🎲 **Deixe eles circularem.** Cada mesa é um esquadrão. Quando um PJ senta perto e pergunta, use a tabela. **Cada esquadrão tem uma coisa estranha** (a coluna da direita). Não aponte: deixe os jogadores juntarem.
 
@@ -62,7 +73,7 @@ updated: 2026-11-14
 **Se perguntarem sobre a própria missão (por que o D-4 só salvou 2):**
 🗣️ **Saanvi** (ou quem estiver perto), fazendo a conta: *"Vocês salvaram quantos de verdade? E o resto da vila? Estava sorrindo?"*
 
-🔒 **A verdade (só para você):** em Vau-Cinzento, todo mundo que estava "vivo" na vila, **menos a Tilde e a criança que estava com ela**, já era **Casca**: o corpo sem ninguém dentro. A Halden não conta Casca como NPC (chama de "entidade ociosa", um bug). Os aldeões **de verdade** já tinham sido mortos antes do D-4 conseguir protegê-los. O mesmo aconteceu em todas as vilas: os esquadrões que "salvaram muitos" eram os que estavam em vilas onde o Hóspede tinha esvaziado menos gente. **Ninguém na Aster vai confirmar isso.**
+🔒 **A verdade (só para você):** em Vau-Cinzento, todo mundo que estava "vivo" na vila, **menos a Tilde e a pequena [[Ottmar e Lisel|Lisel]]**, já era **Casca**: o corpo sem ninguém dentro. A Halden não conta Casca como NPC (chama de "entidade ociosa", um bug). Os aldeões **de verdade** já tinham sido mortos antes do D-4 conseguir protegê-los. O mesmo aconteceu em todas as vilas: os esquadrões que "salvaram muitos" eram os que estavam em vilas onde o Hóspede tinha esvaziado menos gente. **Ninguém na Aster vai confirmar isso.**
 
 🎲 **Descoberta importante (+100 XP)** se os jogadores juntarem as peças: *os que não contaram não sentiam, não piscavam, não sangravam, sorriam. Eram outra coisa.*
 
@@ -136,15 +147,15 @@ updated: 2026-11-14
 > No subsolo, atrás de uma porta de vidro: a **Intendência**. Prateleiras de madeira escura, frascos coloridos numa vitrine iluminada, armas penduradas, cada uma com uma etiqueta de preço em florins. Metade das prateleiras está **trancada** atrás de um vidro escuro, com um aviso: *"Disponível a partir do Marco de Sincronia 1."*
 > Um painel: *"Itens entregues no baú do seu Berço na próxima conexão."*
 
-🗣️ **Tomás** (pulando para cima do balcão): *"Regra da casa: aqui só entra dinheiro de lá. Florim que vocês ganham em missão. Cartão de papai não passa."* · *"Vocês têm **20 florins** cada, do evento do festival. Não compra quase nada. Ótimo. Comprem tônico."*
+🗣️ **Tomás** (pulando para cima do balcão): *"Regra da casa: aqui só entra dinheiro de lá. Florim que vocês ganham em missão. Cartão de papai não passa."* · *"Vocês têm **50 florins** cada, do evento do festival. Dá uma poção de cura. Comprem a poção. Sério."*
 🗣️ **Tomás** (se perguntarem do vidro escuro): *"Item melhor. Abre quando vocês passarem na Prova do 4. Depois mais coisa no 11, no 16, no 19. Quanto mais vocês estão lá, mais coisa de lá a Halden deixa vocês terem."*
 
-🎲 **A lista (só itens comuns).** Cada um compra com os seus 20 florins (podem juntar dinheiro).
+🎲 **A lista (só itens comuns).** Cada um compra com os seus 50 florins (podem juntar dinheiro).
 | Item | Preço | O que faz |
 |---|---|---|
-| **Tônico de Campo** | 10 | beber (1 de Estamina): recupera **1d6 de Vida** |
-| **Sais de Despertar** | 15 | cheirar (1 de Estamina): remove **1d4 acúmulos** de uma condição |
-| **Chá de Hortelã-Brava** | 20 | beber fora de combate: remove **1 de Estresse** |
+| **Poção de Cura** | 50 | beber (1 de Estamina): recupera **2d6 de Vida** |
+| **Sais de Despertar** | 30 | cheirar (1 de Estamina): remove **1d4 acúmulos** de uma condição |
+| **Chá de Hortelã-Brava** | 40 | beber fora de combate: remove **1 de Estresse** |
 | **Tocha** (3) | 1 | luz; dura uma cena |
 | **Lanterna e óleo** | 3 | luz por uma noite; não apaga com vento |
 | **Corda (15 m)** | 2 | |
@@ -158,7 +169,7 @@ updated: 2026-11-14
 | **Veneno de Serpente Pálida** (dose) | 25 | 1 de dano por acúmulo |
 
 🔒 **De onde vêm os itens?** A Halden compra de mercadores de Amarant. O maior fornecedor é a **Companhia do Sal**. Ninguém na Aster pergunta.
-🔒 **Os níveis da loja:** depois da **Prova do 4**: itens **incomuns** (Tônico Forte, armas pesadas, armaduras de couro, venenos fortes). Depois da do **11**: **raros**. Depois da do **16**: **muito raros**. Depois da do **19**: **lendários**.
+🔒 **Os níveis da loja:** depois da **Prova do 4**: itens **incomuns** (Poção de Cura Forte, armas pesadas, armaduras de couro, venenos fortes). Depois da do **11**: **raros**. Depois da do **16**: **muito raros**. Depois da do **19**: **lendários**.
 
 ➡️ À noite, o Salão dos Berços.
 
@@ -175,15 +186,15 @@ updated: 2026-11-14
 > ### ⛏️ RESGATE · Veio-Fundo
 > **Contratante:** Guilda dos Mineiros de Veio-Fundo
 > *"Quatro mineiros não retornaram da Mina do Veio-Tinto desde a noite do Festival das Lanternas. As famílias pedem busca e resgate. Ponto de encontro: Taverna O Candeeiro, Veio-Fundo (colinas do sul, meio dia a partir do Berço)."*
-> **Recompensa:** 80 pontos + **20 pontos por mineiro trazido vivo** · **15 florins** cada.
-> **Bônus da Guilda:** +**30 florins** cada se a mina for liberada para o trabalho.
+> **Recompensa:** 80 pontos + **20 pontos por mineiro trazido vivo** · **30 florins** cada.
+> **Bônus da Guilda:** +**50 florins** cada se a mina for liberada para o trabalho.
 > **Ameaça estimada:** ▲▲▢ · **Ambiente:** subterrâneo, sem luz.
 
 > ### 🌲 PATRULHA DESAPARECIDA · Posto do Espinheiro
 > **Contratante:** Coroa de Ostrel, 3º Regimento de Fronteira
 > *"Uma patrulha de seis soldados, em rota para a frente de batalha, não se apresentou ao Posto do Espinheiro (Mata-Cerrada, oeste) após o Festival das Lanternas. Localizar e recuperar sobreviventes. Apresentar-se à Sargento Vass."*
-> **Recompensa:** 100 pontos + **20 pontos por soldado trazido vivo** · **20 florins** cada.
-> **Recompensa de caça:** +**25 florins** cada pela eliminação da ameaça.
+> **Recompensa:** 100 pontos + **20 pontos por soldado trazido vivo** · **40 florins** cada.
+> **Recompensa de caça:** +**40 florins** cada pela eliminação da ameaça.
 > **Ameaça estimada:** ▲▲▢ · **Ambiente:** mata fechada, vale.
 
 🗣️ **Tomás**, no casulo ao lado, sem abrir os olhos: *"A mina paga mais se vocês limparem. A floresta paga mais de saída. Nas duas, alguém já morreu. Escolham pelo que vocês aguentam ver."*
@@ -309,7 +320,7 @@ updated: 2026-11-14
 📖
 > Quando vocês saem da boca da mina, a vila inteira está no pátio, com lanternas. A Greta corre. Para no meio do caminho. Procura o rosto do Wenzel no escuro.
 
-🎲 **Recompensa:** 80 pts + 20 por mineiro vivo (até 160 pts) · 15 florins cada · **+30 florins cada** se mataram o Juntador.
+🎲 **Recompensa:** 80 pts + 20 por mineiro vivo (até 160 pts) · 30 florins cada · **+50 florins cada** se mataram o Juntador.
 🗣️ **Greta** (se o Wenzel voltou): não diz nada. Abraça ele e chora. Depois, para os PJs: *"Bebida de graça. Para sempre. Para vocês e para quem vocês trouxerem."*
 🗣️ **Greta** (se alguém não voltou): *"Vocês tentaram. Eu vi que tentaram."* (acende mais uma lanterna no teto)
 
@@ -424,7 +435,7 @@ updated: 2026-11-14
 📖
 > Quando vocês saem da mata, a Sargento Vass está no portão, com as mãos para trás. Ela conta os rostos. Conta de novo.
 
-🎲 **Recompensa:** 100 pts + 20 por soldado vivo (até 160 pts) · 20 florins cada · **+25 florins cada** se mataram o Juntador.
+🎲 **Recompensa:** 100 pts + 20 por soldado vivo (até 160 pts) · 40 florins cada · **+40 florins cada** se mataram o Juntador.
 🗣️ **Vass** (se trouxeram o Mattis): bate continência para vocês. Para os PJs, não para o Mattis. *"A Coroa paga. Eu fico devendo."*
 🗣️ **Vass** (recebendo as plaquinhas dos mortos): fecha a mão em volta delas. *"Brun, Tiel, Haug."* (diz em voz alta, devagar) 🔒 Ela não sabe que dizer nomes perto das Cascas é perigoso. Hoje não acontece nada.
 

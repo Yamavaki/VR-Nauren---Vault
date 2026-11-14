@@ -49,9 +49,10 @@ updated: 2026-11-07
 - [ ] Detalhes de [[Morte e Retorno]] (XP zerada ao cair de nível; os Nós não se perdem). *(Renascimento imediato: rejeitado; quem morre sai para calibrar.)*
 - [ ] Os outros nomes (Halden, Ostrel, Vharen, a Vigília, Vau-Cinzento…). *(Vharen, Inquilinos e Cascas já aprovados.)*
 - [ ] A **Madre Ilvane** como colaboradora cinza (não mais a vilã principal).
-- [x] **Episódio 1, a verdade dos NPCs não contados** (2026-11-14): em Vau-Cinzento, todos os "vivos" da vila, menos a Tilde e a criança, já eram **Cascas**; a Halden não conta Casca (chama de "entidade ociosa"). Os aldeões de verdade foram mortos. O mesmo nas outras vilas.
+- [x] **Episódio 1, a verdade dos NPCs não contados** (2026-11-14): em Vau-Cinzento, todos os "vivos" da vila, menos a Tilde e a Lisel, já eram **Cascas**; a Halden não conta Casca (chama de "entidade ociosa"). Os aldeões de verdade foram mortos. O mesmo nas outras vilas.
 - [x] **A Zona 04 se chama a Orla** (Fronteira de Orla). *Orla* = margem de mar: há séculos ali era litoral. A **sereia** mora na Enseada que Canta, na ponta norte do Juncal; dá um Pigmento novo a quem cumprir o desejo dela; aparece com a **Cantiga da Maré** (3 estrofes: Konrad/Fennick, Hanne, Orvo).
 - [x] **O monitor travado no 11** é o [[Tomás Arrieta|Tomás]]: a Prova do 12 é a **Vigília** (ficar até o fim com alguém que vai morrer). Ele desconecta no último minuto. Falhou 3 vezes.
+- [x] **Florins:** o Evento #01 pagou **50 florins** a cada PJ; uma **Poção de Cura custa 50**.
 - [x] **Ep2:** cafeteria → aula do Merrow → Tomás → loja (só itens comuns) → Quadro com 2 missões (mina de Veio-Fundo ou Posto do Espinheiro), mesmos inimigos; chefe: o **Juntador** (de Fumo / de Cipó).
 - [x] **Nós = Prova de Sincronia** (2026-11-14, revisto): nos níveis **4, 11, 16 e 19** o nível trava; a universidade publica uma missão especial no Quadro; só sobe quem está travado; falhou, tenta de novo no episódio seguinte. Ver [[Sincronia e Nós]].
 - [x] **Intendência** (2026-11-14): a loja fica na universidade; só se compra com **florins ganhos em missões**; o item aparece no baú do Berço. *(Proposta: o Evento #01 pagou 20 florins a cada PJ.)*

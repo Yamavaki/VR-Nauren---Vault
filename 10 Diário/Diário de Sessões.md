@@ -22,7 +22,7 @@ updated: 2026-11-07
 - **XP:** 200 (combate 1 → nível 2) + 100 (o Sétimo recuou / foi vencido) + 100 (solução criativa: salvar o Aldric) = **nível 2, com 200/300 XP** para o nível 3 (se ninguém morreu no combate 2).
 - **A pergunta do nome:** o **Tiago** disse o **nome verdadeiro**. O Sétimo: "Então é isso que segura a sua coleira. Vou lembrar."
 - **Mortes:** nenhuma. Ninguém foi Desalojado. **Brask e Lisel vivos.**
-- **NPCs salvos (contados):** a Tilde e o Ansel (vivo; decisão do mestre).
+- **NPCs salvos (contados):** a Tilde e a Lisel (corrigido em 2026-11-14). O Ansel está vivo (decisão do mestre). 🔒 O resto dos "vivos" da vila eram Cascas e não contaram.
 - **O que aconteceu (5 linhas):**
 - **Escolhas importantes e consequências:**
 - **Pistas entregues** (marque também em [[Pistas - Arco 1]]):
