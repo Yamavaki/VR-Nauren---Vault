@@ -457,7 +457,7 @@ updated: 2026-11-14
 ---
 
 ## Depois do chefe: o bilhete da sereia (as duas missões)
-📖 **Entregue ou leia (o bilhete):**
+📖 **Entregue ou leia (o bilhete):** *(no Foundry: Escrito `12-bilhete-sereia.json`)*
 > *Kaspar,*
 > *eu achei. A velha não mentiu. A sereia da Orla existe. Ela não aparece para quem procura: aparece para quem canta. A praia dela só está lá enquanto alguém canta a Cantiga da Maré na beira da água, onde a Orla era mar, na ponta do brejo.*
 > *Ela dá uma cor a quem cumprir um desejo dela. Uma cor nova, que a gente não nasceu com ela.*

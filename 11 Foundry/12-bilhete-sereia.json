@@ -1,0 +1,20 @@
+[
+ {
+  "nome": "Bilhete da sereia (de L. para Kaspar)",
+  "era": "classico",
+  "formato": "nota",
+  "papel": "creme",
+  "letra": "caligrafia",
+  "tinta": "#2a1a10",
+  "icone": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "descricao": "Um papel dobrado, amarelado, com a borda queimada. Achado no corpo do Juntador.",
+  "lerNoBau": true,
+  "pasta": "Episódio 2",
+  "paginas": [
+   {
+    "titulo": "Kaspar",
+    "texto": "*Kaspar,*\n\neu achei. A velha não mentiu. **A sereia da Orla existe.**\n\nEla não aparece para quem procura: aparece para quem **canta**. A praia dela só está lá enquanto alguém canta a **Cantiga da Maré** na beira da água, onde a Orla era mar, na ponta do brejo.\n\nEla dá uma cor a quem cumprir um desejo dela. **Uma cor nova**, que a gente não nasceu com ela.\n\nEu só sei o começo da cantiga. Os velhos da Orla sabem o resto, cada um um pedaço. Pergunte nas tavernas, nos postos, nos barcos.\n\nSe eu não voltar, vá você. **Não conte para a Companhia.**\n\n-> — L.\n\n[segredo]\nMestre: o bilhete é igual nas duas missões (no peito do Juntador de Fumo ou no casulo do Juntador de Cipó). A borda está queimada; a letra é de quem escrevia com pressa.\nA sereia mora na Enseada que Canta, na ponta norte do Juncal (há séculos ali era o litoral da Orla). A praia só existe enquanto alguém canta a cantiga inteira. Ela dá um Pigmento novo a quem cumprir o desejo dela (o desejo ainda está em aberto).\n\"L.\" é o Lothar, um pintor que comprava pedra-tinta em Veio-Fundo. O corpo dele está na pilha do Juntador. O Kaspar é o irmão dele, em Ostrel.\n\"Não conte para a Companhia\": a Companhia do Sal também procura a sereia.\nA Cantiga da Maré tem três estrofes: a 1ª com o Konrad ou o Fennick, a 2ª com a Hanne, a 3ª com o Velho Orvo. A última diz \"guarda o meu nome\": quem canta inteira dá o próprio nome à sereia.\n[/segredo]"
+   }
+  ]
+ }
+]
