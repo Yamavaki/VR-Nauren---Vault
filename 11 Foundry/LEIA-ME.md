@@ -19,6 +19,7 @@ Importe pelo botão **Importar em massa** (rodapé da aba Atores). Pode escolher
 | `8-quadro-de-missoes-ep2.json` | *(versão antiga, em livro; prefira o 10)* o **Quadro de Missões** do TESSERA (Escrito moderno, 10 páginas): as 2 missões do Ep2, 5 bloqueadas e a Prova do Marco 3. Importar por **Importar escritos** (ou Importar em massa). Entregue aos jogadores pelo baú ou por "Mostrar aos jogadores" |
 | `9-ep2-npcs.json` | NPCs novos do Ep2: Greta, Velho Konrad, Wenzel, Edda, Bartel, Nils (Veio-Fundo) · Sargento Dorota Vass, Recruta Fennick, Cabo Mattis, Ylva, Oskar (Posto do Espinheiro) |
 | `10-ep2-quadro-e-intendencia.json` | dois **Armazenamentos** prontos: o **Quadro de Missões · Zona 04** (modo Quadro, estilo Moderno, 10 cartazes já pregados e com categoria) e a **Intendência da Aster** (modo Loja, em Florins, 9 itens com preço). Arraste as armas, o escudo, a munição e o veneno do compêndio para a Intendência, se quiser vendê-los |
+| `11-nota-theodor.json` | Escrito: a **nota dos Theodor**, achada na pilha do Juntador de Fumo (Importar escritos) |
 
 ## Depois de importar
 - **Alunos:** arraste a **Classe** de cada um (do compêndio *Nauren - Classes*) para a ficha. O sistema aplica sozinho as habilidades do nível 1. A classe está escrita no campo Classe e nas Notas.

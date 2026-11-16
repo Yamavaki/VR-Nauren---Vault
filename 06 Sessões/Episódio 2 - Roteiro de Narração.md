@@ -326,6 +326,8 @@ updated: 2026-11-14
 
 ➡️ **O bilhete da sereia** (ver "Depois do chefe", no fim das missões).
 
+🎲 **Se mexerem na pilha:** no meio dos ossos, enrolada num lenço com quatro manchas de cor (vermelha, azul, verde, dourada) e um espaço vazio, uma **segunda nota**: a dos **Theodor** (Escrito `11-nota-theodor.json`). *"Aqui jazem os Theodor… Que um dia as cores dos Theodor alcancem quem vier depois, e que sirvam para trazer a paz ao reino."* A última linha está escrita ao contrário: *"Procure a moça que canta. Ela guarda o resto."* 🔒 Quem foram os Theodor fica para decidir depois. Se alguém ler os nomes em voz alta ali, as Cascas que sobraram viram para ele.
+
 ### A6 · A volta a Veio-Fundo (5 min)
 📖
 > Quando vocês saem da boca da mina, a vila inteira está no pátio, com lanternas. A Greta corre. Para no meio do caminho. Procura o rosto do Wenzel no escuro.
