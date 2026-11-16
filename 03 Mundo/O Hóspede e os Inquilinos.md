@@ -24,8 +24,8 @@ updated: 2026-11-07
 **Como isso encaixa no que já existe** *(proposta, para confirmar)*:
 - O Hóspede **não sabe fazer corpos de magia** (os Berços). O refinamento é o jeito dele: uma Casca vazia **não segura** uma mente de fora; precisa **receber cor** primeiro.
 - O pigmento dos mortos vira **cristal** (a "pedra-tinta" que Veio-Fundo minera e vende sem saber o que é).
-- As **[[Casca Pigmentada|Cascas Pigmentadas]]** são **corpos em preparação**: o cristal cresce neles até estarem "maduros". Aí um Inquilino pode entrar.
-- O **[[Juntador]]** é o **jardineiro**: junta os mortos na pilha para a cor deles escorrer para a pedra.
+- As **Cascas Pigmentadas** são **corpos em preparação**: o cristal cresce neles até estarem "maduros". Aí um Inquilino pode entrar.
+- O **Juntador** é o **jardineiro**: junta os mortos na pilha para a cor deles escorrer para a pedra.
 - Na floresta é o mesmo, com **seiva** no lugar de cristal (as árvores do Vale das Gralhas crescem sobre os mortos).
 - Por isso o **[[Sétimo]]** "tem fome de cor" e quer um **avatar**: o corpo de um Retornado **já vem com cor**, pronto. É o atalho de tudo isso.
 - E a **cinza colorida** dos Retornados mortos vale ouro para ele (os Corvos-de-Cinza e o Andarilho Branco).
