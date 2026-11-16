@@ -243,6 +243,9 @@ updated: 2026-11-14
 🎲 **Konrad** dá um **mapa riscado no balcão com carvão** (é o 🗺️ abaixo, em palavras) e uma **lanterna de mineiro** (não apaga com vento).
 🔒 Se alguém perguntar a ele de **cantigas velhas, sereias ou do mar**, ele ri: *"Mar? Aqui era mar, menino. Meu avô cantava a Cantiga da Maré."* e canta a **primeira estrofe** (ver o fim do episódio). Só se perguntarem.
 
+> 🔒 **O que a mina é de verdade (só para você):** um lugar onde corpos são **sepultados para cultivar os pigmentos** dos mortos. A cor de quem morre passa para os **cristais** da caverna (a "pedra-tinta" que a vila minera e vende sem saber). O **Hóspede** usa esses pigmentos refinados para **preparar corpos** que vão receber mentes de fora: as **Cascas Pigmentadas** são corpos em preparação, e o **Juntador** é quem junta os mortos para a cor escorrer. Ver [[O Hóspede e os Inquilinos]].
+> **Pistas para entregar aos poucos:** os cristais são mais fortes perto da pilha · o cristal do Nils brilha quando há Pigmentadas perto · o Konrad: *"A pedra-tinta boa sempre veio do fundo. Do lado dos ossos de bicho."* · a nota dos Theodor.
+
 ### 🗺️ O mapa da mina (descreva assim para o seu gerador)
 1. **A Boca da Mina:** um pátio de pedra com vagonetes parados, um guincho de madeira, a entrada escura na colina. *(sem luta)*
 2. **Galeria dos Trilhos:** túnel comprido e reto, com trilhos no chão, dois vagonetes tombados (dão cobertura), nichos laterais com ferramentas, vigas de madeira no teto, lanternas penduradas apagadas. Largo o bastante para 3 lado a lado. **(luta 1)**
@@ -326,7 +329,7 @@ updated: 2026-11-14
 
 ➡️ **O bilhete da sereia** (ver "Depois do chefe", no fim das missões).
 
-🎲 **Se mexerem na pilha:** no meio dos ossos, enrolada num lenço com quatro manchas de cor (vermelha, azul, verde, dourada) e um espaço vazio, uma **segunda nota**: a dos **Theodor** (Escrito `11-nota-theodor.json`). *"Aqui jazem os Theodor… Que um dia as cores dos Theodor alcancem quem vier depois, e que sirvam para trazer a paz ao reino."* A última linha está escrita ao contrário: *"Procure a moça que canta. Ela guarda o resto."* 🔒 Quem foram os Theodor fica para decidir depois. Se alguém ler os nomes em voz alta ali, as Cascas que sobraram viram para ele.
+🎲 **Se mexerem na pilha:** no meio dos ossos, enrolada num lenço com quatro manchas de cor (vermelha, azul, verde, dourada) e um espaço vazio, uma **segunda nota**: a dos **Theodor** (Escrito `11-nota-theodor.json`). *"Aqui jazem os Theodor… Que um dia as cores dos Theodor alcancem quem vier depois, e que sirvam para trazer a paz ao reino."* A última linha está escrita ao contrário: *"Procure a moça que canta. Ela guarda o resto."* 🔒 Os Theodor pediram para ser sepultados ali, há muito tempo, para guardar as cores da família; o Hóspede colhe o que eles guardaram (ver o quadro do mapa da mina). Se alguém ler os nomes em voz alta ali, as Cascas que sobraram viram para ele.
 
 ### A6 · A volta a Veio-Fundo (5 min)
 📖

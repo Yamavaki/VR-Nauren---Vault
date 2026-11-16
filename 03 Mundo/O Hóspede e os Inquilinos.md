@@ -18,6 +18,19 @@ updated: 2026-11-07
 4. Criou **o próprio sistema** para trazer os seus **lacaios**. Como não sabe fazer corpos de magia, faz do jeito dele: **rouba corpos vivos**.
 5. **As Cascas já existiam antes** (Pedra-Alta, há 15 anos; o Repouso da Madre, há 20): o Hóspede sempre conseguiu **esvaziar** pessoas. O que ele **não** conseguia era pôr alguém dentro delas. Ao copiar o Pacto, aprendeu. **Agora as Cascas têm para quem servir.**
 
+## O refinamento: o cultivo de pigmentos (decidido, 2026-11-16)
+**O que o mestre decidiu:** a **Mina do Veio-Tinto** é um lugar onde corpos foram **sepultados para cultivar os pigmentos** de quem morreu. As cores dos mortos **passam para cristais** que nascem na caverna. O **Hóspede** usa isso para **criar conexões** e **trazer mentes** para corpos que precisam passar pelo **refinamento** desses pigmentos e ser **preparados**.
+
+**Como isso encaixa no que já existe** *(proposta, para confirmar)*:
+- O Hóspede **não sabe fazer corpos de magia** (os Berços). O refinamento é o jeito dele: uma Casca vazia **não segura** uma mente de fora; precisa **receber cor** primeiro.
+- O pigmento dos mortos vira **cristal** (a "pedra-tinta" que Veio-Fundo minera e vende sem saber o que é).
+- As **[[Casca Pigmentada|Cascas Pigmentadas]]** são **corpos em preparação**: o cristal cresce neles até estarem "maduros". Aí um Inquilino pode entrar.
+- O **[[Juntador]]** é o **jardineiro**: junta os mortos na pilha para a cor deles escorrer para a pedra.
+- Na floresta é o mesmo, com **seiva** no lugar de cristal (as árvores do Vale das Gralhas crescem sobre os mortos).
+- Por isso o **[[Sétimo]]** "tem fome de cor" e quer um **avatar**: o corpo de um Retornado **já vem com cor**, pronto. É o atalho de tudo isso.
+- E a **cinza colorida** dos Retornados mortos vale ouro para ele (os Corvos-de-Cinza e o Andarilho Branco).
+- **Os Theodor:** uma família que pediu para ser sepultada na mina **antes** do Hóspede, acreditando que "cor não se enterra, se guarda". O Hóspede colhe o que eles guardaram.
+
 ## A metáfora da casa (os termos)
 | Termo | O que é |
 |---|---|
